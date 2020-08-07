@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Thursday 06 August 2020
+# Date: 06:04 AM Friday 07 August 2020
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -5302,9 +5302,11 @@
 0.0.0.0 36c6ce350b32.com
 0.0.0.0 36robots.com
 0.0.0.0 377baidu.com
+0.0.0.0 39c023edce.com
 0.0.0.0 3arduino.com
 0.0.0.0 3brothersit.com
 0.0.0.0 3cnce854.com
+0.0.0.0 3d5a4a45d559.com
 0.0.0.0 3dmoviehd.com
 0.0.0.0 3dmstudio.com
 0.0.0.0 3dsemulatorfree.com
@@ -5363,6 +5365,7 @@
 0.0.0.0 567bbl.com
 0.0.0.0 575f4e87970f177969fe.com
 0.0.0.0 5bd5e3203751.com
+0.0.0.0 5eba117283784.com
 0.0.0.0 5k-player.com
 0.0.0.0 5x412.com
 0.0.0.0 5y412.com
@@ -5410,6 +5413,8 @@
 0.0.0.0 755431a59e7.com
 0.0.0.0 777mobileslots.com
 0.0.0.0 77ccrc.com
+0.0.0.0 7903dabd2b6.com
+0.0.0.0 7b3b96c01d798f.com
 0.0.0.0 7cnbcnews.com
 0.0.0.0 7come11casino.com
 0.0.0.0 7cxcrejm.com
@@ -25210,6 +25215,7 @@
 0.0.0.0 track.a.bsuiteads.com
 0.0.0.0 cv.bsvideos.com
 0.0.0.0 www.bt1984.com
+0.0.0.0 www.btc-billionaire.com
 0.0.0.0 www.btc-binance.com
 0.0.0.0 www.btc-era.com
 0.0.0.0 www.btcitogo.com
@@ -26646,6 +26652,7 @@
 0.0.0.0 www.dfshed.com
 0.0.0.0 www.dgelevator.com
 0.0.0.0 hotbar.dgndesign.com
+0.0.0.0 www.exchange.dgtmarket.com
 0.0.0.0 www.dhexpres.com
 0.0.0.0 asd.dhodha.com
 0.0.0.0 r669irsizr.dhodha.com
@@ -40977,6 +40984,7 @@
 0.0.0.0 ads.postimees.ee
 0.0.0.0 www.trimmest.ee
 0.0.0.0 academyicct.com.eg
+0.0.0.0 seatrade.com.eg
 0.0.0.0 www.academyicct.com.eg
 0.0.0.0 dhisw.edu.eg
 0.0.0.0 luxorhiet.edu.eg
@@ -48105,6 +48113,7 @@
 0.0.0.0 freetopgamesfor.me
 0.0.0.0 funkhack.me
 0.0.0.0 genbux.me
+0.0.0.0 generuj-kod.me
 0.0.0.0 get-ether.me
 0.0.0.0 goffi.me
 0.0.0.0 helpacct.me
@@ -48183,6 +48192,7 @@
 0.0.0.0 b2b.filecloud.me
 0.0.0.0 www.fishacg.me
 0.0.0.0 www.forexonline24.me
+0.0.0.0 www.generuj-kod.me
 0.0.0.0 static.getkudos.me
 0.0.0.0 facebook.com.inbox-suport.me
 0.0.0.0 appeal.facebook.com.inbox-suport.me
@@ -62992,6 +63002,7 @@
 0.0.0.0 lkrhbw.site
 0.0.0.0 lkwglu.site
 0.0.0.0 llgamd.site
+0.0.0.0 llmymdq.site
 0.0.0.0 llnmvi.site
 0.0.0.0 llpyku.site
 0.0.0.0 lmemwe.site
@@ -65378,6 +65389,7 @@
 0.0.0.0 safety.microsoft.com.trkra.8gpqxsms5mwm3tci.trade
 0.0.0.0 safety.apple.com.vytirmc.9a6wvfinrn9pdeaw5pe7wkag.trade
 0.0.0.0 safety.microsoft.com.xdfzbg.9a6wvfinrn9pdeaw5pe7wkag.trade
+0.0.0.0 www.antares.trade
 0.0.0.0 www.app-fbstrade.trade
 0.0.0.0 safety.microsoft.com.hwsjslrikbd.az2wreapwd6vojspuubc1yd.trade
 0.0.0.0 app4com.bestgrade4update.trade
@@ -69129,6 +69141,7 @@
 0.0.0.0 www.beecalmnow.xyz
 0.0.0.0 www.belelejes.xyz
 0.0.0.0 www.biglinkext.xyz
+0.0.0.0 www.bitcointime.xyz
 0.0.0.0 www.box-loginapps.xyz
 0.0.0.0 cadinter.caalerts.xyz
 0.0.0.0 fundsec.caalerts.xyz
