@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:04 AM Friday 07 August 2020
+# Date: 06:03 AM Saturday 08 August 2020
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -7674,6 +7674,7 @@
 0.0.0.0 bbautoatendimento-regularize.com
 0.0.0.0 bbc-africa.com
 0.0.0.0 bbcsportmania.com
+0.0.0.0 bbebb648dd.com
 0.0.0.0 bbfisica.com
 0.0.0.0 bbmobileappportal.com
 0.0.0.0 bbmonandroid.com
