@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Sunday 09 August 2020
+# Date: 06:02 AM Monday 10 August 2020
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -5305,6 +5305,7 @@
 0.0.0.0 39c023edce.com
 0.0.0.0 3arduino.com
 0.0.0.0 3brothersit.com
+0.0.0.0 3ce166a7dda.com
 0.0.0.0 3cnce854.com
 0.0.0.0 3d5a4a45d559.com
 0.0.0.0 3dmoviehd.com
@@ -5329,6 +5330,7 @@
 0.0.0.0 4006692292.com
 0.0.0.0 400cao.com
 0.0.0.0 405pergolas.com
+0.0.0.0 40a9e06f54.com
 0.0.0.0 40xbfzk8.com
 0.0.0.0 411commerce.com
 0.0.0.0 4121wellsfargo4388181144.com
@@ -5458,6 +5460,7 @@
 0.0.0.0 87363x.com
 0.0.0.0 87363y.com
 0.0.0.0 87363z.com
+0.0.0.0 877174529a4b77.com
 0.0.0.0 88ccrc.com
 0.0.0.0 88kkvv.com
 0.0.0.0 898protrudesolve.com
@@ -7491,6 +7494,7 @@
 0.0.0.0 azumadre.com
 0.0.0.0 azureteens.com
 0.0.0.0 azzamsouvenir.com
+0.0.0.0 b0c3ed25eeaa1.com
 0.0.0.0 b0k4l6rst-amazon.com
 0.0.0.0 b4215c8f2c1.com
 0.0.0.0 b460e308b59.com
@@ -8260,6 +8264,7 @@
 0.0.0.0 c1097a71d9f4a200b172968e40fbbbee.com
 0.0.0.0 c1fsparts03-clients.com
 0.0.0.0 c3e8c79280e1f4de01c0dd1e99c2a35m.com
+0.0.0.0 c47eb0d9cf98.com
 0.0.0.0 c667628.com
 0.0.0.0 c74df06d52c9da686f17.com
 0.0.0.0 ca-fr-credit-agricole-particuliers.com
