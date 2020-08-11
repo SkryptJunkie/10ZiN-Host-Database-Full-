@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Monday 10 August 2020
+# Date: 06:02 AM Tuesday 11 August 2020
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -5119,6 +5119,7 @@
 0.0.0.0 1255277.com
 0.0.0.0 1255288.com
 0.0.0.0 125jumeinv.com
+0.0.0.0 1280eda098.com
 0.0.0.0 12bm0-stay-admin-35c.com
 0.0.0.0 12gmedia.com
 0.0.0.0 1314dh.com
