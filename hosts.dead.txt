@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Wednesday 12 August 2020
+# Date: 06:02 AM Thursday 13 August 2020
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -10600,10 +10600,12 @@
 0.0.0.0 f1legroup.com
 0.0.0.0 f2phacks.com
 0.0.0.0 f89u28ch3-billing.com
+0.0.0.0 fa165246ee.com
 0.0.0.0 fabgemsandjewels.com
 0.0.0.0 faboshine.com
 0.0.0.0 faca-se-ouvir.com
 0.0.0.0 facaizleri.com
+0.0.0.0 facde99c445.com
 0.0.0.0 face-nemzedek.com
 0.0.0.0 face-secu.com
 0.0.0.0 faceadicto.com
