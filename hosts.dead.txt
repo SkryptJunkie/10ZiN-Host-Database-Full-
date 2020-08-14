@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Thursday 13 August 2020
+# Date: 06:05 AM Friday 14 August 2020
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -151,6 +151,7 @@
 0.0.0.0 www.ethersearch.app
 0.0.0.0 www.itunesconnect.app
 0.0.0.0 www.kod-odbioru.app
+0.0.0.0 www.kodyodbioru.app
 0.0.0.0 www.lcloud-apple.app
 0.0.0.0 www.locked-account-apple.app
 0.0.0.0 www.paypal-prepaid.app
@@ -1137,6 +1138,7 @@
 0.0.0.0 www.tuinendeconinck.be
 0.0.0.0 banners.unibet.be
 0.0.0.0 www.vdminvestments.be
+0.0.0.0 cinderellasolve.best
 0.0.0.0 jomamba.best
 0.0.0.0 update4now.yourfine2updatesgo.best
 0.0.0.0 bwinbonus.bg
@@ -12703,6 +12705,7 @@
 0.0.0.0 ikjmain.com
 0.0.0.0 ikjpowersrvdswsrv.com
 0.0.0.0 ikjyhdservpbn.com
+0.0.0.0 iknod8.com
 0.0.0.0 iknojack.com
 0.0.0.0 ikxekiv.com
 0.0.0.0 ilamba.com
@@ -29821,6 +29824,7 @@
 0.0.0.0 www.inmobiliariamilujo.com
 0.0.0.0 www.innenraume.com
 0.0.0.0 cdn.innity.com
+0.0.0.0 www.inpost-kod.com
 0.0.0.0 admin.inq.com
 0.0.0.0 www.ins-offer.com
 0.0.0.0 car-insurance.inshurance-from.com
@@ -35707,6 +35711,7 @@
 0.0.0.0 www.snapplechat.com
 0.0.0.0 cdn.snapsitemap.com
 0.0.0.0 lmimi.snfie.com
+0.0.0.0 freesellers.snolias.com
 0.0.0.0 www.snyowx29.com
 0.0.0.0 www.sobhane-reyhoon.com
 0.0.0.0 logger.sociablelabs.com
@@ -35719,6 +35724,7 @@
 0.0.0.0 www.socioconsult.com
 0.0.0.0 ap-sonar.sociomantic.com
 0.0.0.0 mail.sociotechnocrats.com
+0.0.0.0 www.cs.socksonclick.com
 0.0.0.0 www.soelinge.com
 0.0.0.0 ns2.softbrass.com
 0.0.0.0 ns2.softcurtain.com
@@ -35829,6 +35835,7 @@
 0.0.0.0 banners.spiceworks.com
 0.0.0.0 ads1.spiderware.com
 0.0.0.0 www.spillerfanside.com
+0.0.0.0 www.spindlemovies.com
 0.0.0.0 oascentral.spineuniverse.com
 0.0.0.0 www.spinn-shop.com
 0.0.0.0 www.spinwrights.com
@@ -53170,6 +53177,7 @@
 0.0.0.0 www.santander-uk.net
 0.0.0.0 www.santanderconsumo.net
 0.0.0.0 www.santanderesferabanking.net
+0.0.0.0 click-ads.saoteen.net
 0.0.0.0 clicktrack.savings-foryou.net
 0.0.0.0 www.sazuna.net
 0.0.0.0 www.scaricarevideodayoutube.net
@@ -54299,6 +54307,7 @@
 0.0.0.0 comadverts.bcmpweb.co.nz
 0.0.0.0 www.christchurchroofservices.co.nz
 0.0.0.0 www.cowsgomoo.co.nz
+0.0.0.0 new.digilab.co.nz
 0.0.0.0 www.loosafe.co.nz
 0.0.0.0 particuliers.lcl-banque.mrindia.co.nz
 0.0.0.0 www.myetherwallet.co.nz
@@ -54541,6 +54550,7 @@
 0.0.0.0 reverse-char.online
 0.0.0.0 safety-summary.online
 0.0.0.0 salomonsklep.online
+0.0.0.0 sanderleisilveira.online
 0.0.0.0 santander-atendimento.online
 0.0.0.0 santander-mobile.online
 0.0.0.0 santander-wayapp.online
@@ -57717,6 +57727,7 @@
 0.0.0.0 www.download.file.co.pl
 0.0.0.0 www.free.file.co.pl
 0.0.0.0 www.kaufland.gift-cards.co.pl
+0.0.0.0 www.hd.videos.co.pl
 0.0.0.0 www.vod.co.pl
 0.0.0.0 www.hd.vod.co.pl
 0.0.0.0 www.serial.vod.co.pl
@@ -58662,6 +58673,7 @@
 0.0.0.0 www.bittorrent.pro
 0.0.0.0 www.bonus-profit.pro
 0.0.0.0 www.borysenkoigor.pro
+0.0.0.0 www.bitprofit.brokerselection.pro
 0.0.0.0 www.btc24ex.pro
 0.0.0.0 ics.cards-login-productenl.pro
 0.0.0.0 apple.com-supportcenter.pro
@@ -64526,6 +64538,7 @@
 0.0.0.0 details-confirm-ation.tk
 0.0.0.0 devkit.tk
 0.0.0.0 digicele.tk
+0.0.0.0 dinhphuoclong.tk
 0.0.0.0 docsafe.tk
 0.0.0.0 draft12.tk
 0.0.0.0 dragoz.tk
