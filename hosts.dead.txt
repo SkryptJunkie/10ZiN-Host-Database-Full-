@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:05 AM Friday 14 August 2020
+# Date: 06:04 AM Saturday 15 August 2020
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -5342,6 +5342,7 @@
 0.0.0.0 456c11816f.com
 0.0.0.0 459517eb349739b.com
 0.0.0.0 45i73jv6.com
+0.0.0.0 4798c7b036.com
 0.0.0.0 488hl.com
 0.0.0.0 48hrcodes.com
 0.0.0.0 4anfm.com
@@ -33266,6 +33267,7 @@
 0.0.0.0 www.giigme.pacorahome.com
 0.0.0.0 www.ttomen.pacorahome.com
 0.0.0.0 www.paczka-inpost.com
+0.0.0.0 www.ww.paczkpups.com
 0.0.0.0 www-ma-caf-allocataires-mes-services-en-ligne-reboursement.pafdfkf.com
 0.0.0.0 ma-caf-allocataires-mes-services-en-ligne-reboursement.paffmi.com
 0.0.0.0 www.paffphoto.com
