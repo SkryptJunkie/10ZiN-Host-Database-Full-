@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Monday 17 August 2020
+# Date: 06:02 AM Tuesday 18 August 2020
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -17934,6 +17934,7 @@
 0.0.0.0 scv340.com
 0.0.0.0 scv640.com
 0.0.0.0 scv971.com
+0.0.0.0 scwwne.com
 0.0.0.0 sdaisk.com
 0.0.0.0 sdoovo.com
 0.0.0.0 sdounbrese.com
@@ -27572,6 +27573,7 @@
 0.0.0.0 www.evvmsboosters.com
 0.0.0.0 www.ewciakurier.com
 0.0.0.0 www.ewebsavvy.com
+0.0.0.0 pgl.example.com
 0.0.0.0 www.exasharetab.com
 0.0.0.0 bankofamerica-verification.exaxol.com
 0.0.0.0 www.exbays.com
@@ -36288,6 +36290,7 @@
 0.0.0.0 ad.uk.tangozebra.com
 0.0.0.0 www.taniebutymaster.com
 0.0.0.0 www.taniebutysportowe.com
+0.0.0.0 www.tankescape.com
 0.0.0.0 www.tanksubmarine.com
 0.0.0.0 a.tantella.com
 0.0.0.0 xhr.tantella.com
