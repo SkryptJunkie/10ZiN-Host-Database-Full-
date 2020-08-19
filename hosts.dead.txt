@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Tuesday 18 August 2020
+# Date: 06:02 AM Wednesday 19 August 2020
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -5078,6 +5078,7 @@
 0.0.0.0 015gf.com
 0.0.0.0 016ih.com
 0.0.0.0 021-amazon-cloud.com
+0.0.0.0 03c2e1b465.com
 0.0.0.0 040134816381437token.com
 0.0.0.0 041ffb0c97e1baf5ae407c63f4feffa5.com
 0.0.0.0 061a1632d773-amazon.com
@@ -5346,6 +5347,7 @@
 0.0.0.0 488hl.com
 0.0.0.0 48hrcodes.com
 0.0.0.0 4anfm.com
+0.0.0.0 4b9d824b273.com
 0.0.0.0 4bfhd.com
 0.0.0.0 4gpaypal.com
 0.0.0.0 4jfkc.com
@@ -9602,6 +9604,7 @@
 0.0.0.0 daytourstajmahal.com
 0.0.0.0 dayzalpha.com
 0.0.0.0 dayzstandalonebeta.com
+0.0.0.0 dbd9611ad3d9.com
 0.0.0.0 dbdsecure.com
 0.0.0.0 dbsbanklimited.com
 0.0.0.0 dcxbmm.com
