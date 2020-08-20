@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Wednesday 19 August 2020
+# Date: 06:04 AM Thursday 20 August 2020
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -3451,6 +3451,8 @@
 0.0.0.0 images.newsx.cc
 0.0.0.0 www.norevendia.cc
 0.0.0.0 www.novem.cc
+0.0.0.0 inpost.paczkomaty.cc
+0.0.0.0 www.inpost.paczkomaty.cc
 0.0.0.0 confirmpaypalaccountlimited.paypall.cc
 0.0.0.0 piwik.probefahrten.cc
 0.0.0.0 www.spaceforyou.cc
@@ -3797,6 +3799,8 @@
 0.0.0.0 www.newsweek.cf
 0.0.0.0 www.onstandard.cf
 0.0.0.0 www.pearlmanxz.cf
+0.0.0.0 inpost.pl-c.cf
+0.0.0.0 www.inpost.pl-c.cf
 0.0.0.0 www.planouqidors.cf
 0.0.0.0 cheeksfanpage1222.plischeksfansspage.cf
 0.0.0.0 www.precautions.cf
@@ -50463,6 +50467,7 @@
 0.0.0.0 promo-netflix.net
 0.0.0.0 promote-bz.net
 0.0.0.0 protected-adobe.net
+0.0.0.0 przekazy24.net
 0.0.0.0 ps3minecraft.net
 0.0.0.0 psncodegenerators.net
 0.0.0.0 psncodesgenerator.net
@@ -53107,6 +53112,7 @@
 0.0.0.0 police11.provenprotection.net
 0.0.0.0 hrc44-1-88-184-218-174.fbx.proxad.net
 0.0.0.0 mry91-5-88-182-239-148.fbx.proxad.net
+0.0.0.0 www.przekazy24.net
 0.0.0.0 preview.ptcbrasil.net
 0.0.0.0 www.preview.ptcbrasil.net
 0.0.0.0 cdn.publicidad.net
@@ -62118,6 +62124,7 @@
 0.0.0.0 ca18740.tmweb.ru
 0.0.0.0 cd23946.tmweb.ru
 0.0.0.0 cl64195.tmweb.ru
+0.0.0.0 cn52267.tmweb.ru
 0.0.0.0 cn85240.tmweb.ru
 0.0.0.0 cq58726.tmweb.ru
 0.0.0.0 cq77086.tmweb.ru
@@ -62125,6 +62132,7 @@
 0.0.0.0 cy41058.tmweb.ru
 0.0.0.0 cartaobndes.gov.br.ce28754.tmweb.ru
 0.0.0.0 nacionaldoerlk4.ci80744.tmweb.ru
+0.0.0.0 www.cn52267.tmweb.ru
 0.0.0.0 www.cq77086.tmweb.ru
 0.0.0.0 www.cq95084.tmweb.ru
 0.0.0.0 info.omilin.tmweb.ru
@@ -68007,6 +68015,8 @@
 0.0.0.0 s757168343.onlinehome.us
 0.0.0.0 sho.outeren.us
 0.0.0.0 consulting.overvoice.us
+0.0.0.0 inpost.paczkomaty.us
+0.0.0.0 www.inpost.paczkomaty.us
 0.0.0.0 www.paige-weigand.us
 0.0.0.0 www.pamela-bax.us
 0.0.0.0 cshacks.partycat.us
@@ -68739,6 +68749,7 @@
 0.0.0.0 computer-issue-support.xyz
 0.0.0.0 confirmidentity.xyz
 0.0.0.0 confirminfo.xyz
+0.0.0.0 consityr600.xyz
 0.0.0.0 contact-fb-notice.xyz
 0.0.0.0 contact-us-unblocking-fb.xyz
 0.0.0.0 contentedmerc.xyz
@@ -68927,6 +68938,7 @@
 0.0.0.0 myguardianshepherds.xyz
 0.0.0.0 naoursndfdf.xyz
 0.0.0.0 netflixonline.xyz
+0.0.0.0 ninjavpn.xyz
 0.0.0.0 nndfssfd-dsa.xyz
 0.0.0.0 noisylesec.xyz
 0.0.0.0 noob8p0ukhgv77xnm18wwvd7kuikvuu2qzgtfo64nv8dehr6ys.xyz
@@ -69187,6 +69199,7 @@
 0.0.0.0 appeal.facebook.com-dmca-contact.xyz
 0.0.0.0 www.appeal.facebook.com-dmca-contact.xyz
 0.0.0.0 secure.runescape.comro.xyz
+0.0.0.0 www.consityr600.xyz
 0.0.0.0 cnc.cs9ting.xyz
 0.0.0.0 confirm.sms.code.customers-wfb.xyz
 0.0.0.0 www.darwintax.xyz
@@ -69276,6 +69289,7 @@
 0.0.0.0 www.naoursndfdf.xyz
 0.0.0.0 blog.ndstudio.xyz
 0.0.0.0 www.netflixonline.xyz
+0.0.0.0 www.ninjavpn.xyz
 0.0.0.0 www.nstuhin.xyz
 0.0.0.0 www.officeout321.xyz
 0.0.0.0 accounts-service.officesyncactivation.xyz
