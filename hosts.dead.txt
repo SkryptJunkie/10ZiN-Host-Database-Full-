@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:04 AM Thursday 20 August 2020
+# Date: 06:02 AM Friday 21 August 2020
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -5353,6 +5353,7 @@
 0.0.0.0 4anfm.com
 0.0.0.0 4b9d824b273.com
 0.0.0.0 4bfhd.com
+0.0.0.0 4e9fa3c5de.com
 0.0.0.0 4gpaypal.com
 0.0.0.0 4jfkc.com
 0.0.0.0 4squareisb.com
@@ -10098,6 +10099,7 @@
 0.0.0.0 e860045edaecd.com
 0.0.0.0 e9mlrvy1.com
 0.0.0.0 ea-traffic-redirection.com
+0.0.0.0 ea6d133f7ae.com
 0.0.0.0 eaa2a4d4c9372092f5856ad9085bd5e0.com
 0.0.0.0 eaccnetflix.com
 0.0.0.0 eads-adserving.com
