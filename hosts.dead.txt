@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Friday 21 August 2020
+# Date: 06:02 AM Saturday 22 August 2020
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -32749,6 +32749,7 @@
 0.0.0.0 cdn5.nextinpact.com
 0.0.0.0 poum.nextinpact.com
 0.0.0.0 www.nextlnk7.com
+0.0.0.0 ttauri.nexttv.com
 0.0.0.0 paypai.com-access.resolvee.lmitied-access.234552345234asw.1987.nexusoilandgas.com
 0.0.0.0 www.nexusvisiongroup.com
 0.0.0.0 www.nexzenhub.com
