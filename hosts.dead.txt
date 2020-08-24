@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Sunday 23 August 2020
+# Date: 06:02 AM Monday 24 August 2020
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -5207,6 +5207,7 @@
 0.0.0.0 2shocking4you.com
 0.0.0.0 2whatsappin1phone.com
 0.0.0.0 2xfashion.com
+0.0.0.0 303ed23487.com
 0.0.0.0 30horas-hostname.com
 0.0.0.0 30horas-personnalite.com
 0.0.0.0 30yearfixedinterestrates.com
