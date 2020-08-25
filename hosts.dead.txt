@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Monday 24 August 2020
+# Date: 06:02 AM Tuesday 25 August 2020
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -5198,6 +5198,7 @@
 0.0.0.0 272351.com
 0.0.0.0 286b656e86a.com
 0.0.0.0 28hf7513231-trader.com
+0.0.0.0 2b2b84231908.com
 0.0.0.0 2bluemountain.com
 0.0.0.0 2cent37.com
 0.0.0.0 2f48a41ea4.com
@@ -5309,6 +5310,7 @@
 0.0.0.0 365onmicrosoft.com
 0.0.0.0 365plastium.com
 0.0.0.0 36c6ce350b32.com
+0.0.0.0 36cfbd917fd.com
 0.0.0.0 36robots.com
 0.0.0.0 377baidu.com
 0.0.0.0 39c023edce.com
@@ -5393,6 +5395,7 @@
 0.0.0.0 620297.com
 0.0.0.0 635905.com
 0.0.0.0 650895.com
+0.0.0.0 65125672a6fa0.com
 0.0.0.0 651305.com
 0.0.0.0 651501.com
 0.0.0.0 651601.com
@@ -5405,6 +5408,7 @@
 0.0.0.0 69lingerie.com
 0.0.0.0 69proof.com
 0.0.0.0 69tubex.com
+0.0.0.0 6b29d83ec954e7.com
 0.0.0.0 6d20d0bdc6313c2cf690.com
 0.0.0.0 6d2d5f558f3.com
 0.0.0.0 6e1167fc12a.com
@@ -5505,6 +5509,7 @@
 0.0.0.0 9y412.com
 0.0.0.0 a-bankieren.com
 0.0.0.0 a-nagy-alku.com
+0.0.0.0 a0e5b16728.com
 0.0.0.0 a0liasoleadersrfectearchcustohihingnepelectione.com
 0.0.0.0 a10fortenmatchmakers.com
 0.0.0.0 a1englishtest.com
