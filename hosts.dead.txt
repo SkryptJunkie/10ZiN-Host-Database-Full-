@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Tuesday 25 August 2020
+# Date: 06:04 AM Wednesday 26 August 2020
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -5198,6 +5198,7 @@
 0.0.0.0 272351.com
 0.0.0.0 286b656e86a.com
 0.0.0.0 28hf7513231-trader.com
+0.0.0.0 2abca352f4.com
 0.0.0.0 2b2b84231908.com
 0.0.0.0 2bluemountain.com
 0.0.0.0 2cent37.com
@@ -26528,6 +26529,7 @@
 0.0.0.0 ads.date.com
 0.0.0.0 banner.date.com
 0.0.0.0 www.dates-here-now22.com
+0.0.0.0 www.dating-heart1.com
 0.0.0.0 www.datingfriendly.com
 0.0.0.0 ads.datinggold.com
 0.0.0.0 www.datingonplanet.com
@@ -35079,6 +35081,7 @@
 0.0.0.0 www.secureadobeupdate.com
 0.0.0.0 www.secureapplepay.com
 0.0.0.0 www.securebankingbarclaysus.com
+0.0.0.0 www.secureclick20.com
 0.0.0.0 i.securecontactinfo.com
 0.0.0.0 www.securecontactinfo.com
 0.0.0.0 files4.securedownload01.com
@@ -47723,11 +47726,13 @@
 0.0.0.0 app2.letslowbefast.life
 0.0.0.0 app4.letslowbefast.life
 0.0.0.0 www.mobile-app-market-here5.life
+0.0.0.0 www.mobile-global-apps-store.life
 0.0.0.0 www.protected-adobe.life
 0.0.0.0 www.random-apple.life
 0.0.0.0 www.spiritpress.life
 0.0.0.0 www.tasosgerolimos.life
 0.0.0.0 www.worldlink.life
+0.0.0.0 www.your-online-profits.life
 0.0.0.0 paypal-summary.limited
 0.0.0.0 ripplenet.limited
 0.0.0.0 www.paypal-summary.limited
@@ -54579,6 +54584,7 @@
 0.0.0.0 santander-mobile.online
 0.0.0.0 santander-wayapp.online
 0.0.0.0 santander-web.online
+0.0.0.0 santander24bank.online
 0.0.0.0 santanderatendimento.online
 0.0.0.0 santanderfree.online
 0.0.0.0 santandermodulo.online
@@ -54786,6 +54792,7 @@
 0.0.0.0 www.santander-mobile.online
 0.0.0.0 www.santander-wayapp.online
 0.0.0.0 www.santander-web.online
+0.0.0.0 www.santander24bank.online
 0.0.0.0 www.santanderatendimento.online
 0.0.0.0 www.santandercom.online
 0.0.0.0 www.santanderfree.online
@@ -57713,7 +57720,9 @@
 0.0.0.0 www.butyultraboost.pl
 0.0.0.0 www.c-forum.pl
 0.0.0.0 www.caferoskosz.pl
+0.0.0.0 miejskieinfo.cal24.pl
 0.0.0.0 sprawanasza.cal24.pl
+0.0.0.0 www.miejskieinfo.cal24.pl
 0.0.0.0 www.sprawanasza.cal24.pl
 0.0.0.0 www.californiaclub.pl
 0.0.0.0 www.calvil.pl
