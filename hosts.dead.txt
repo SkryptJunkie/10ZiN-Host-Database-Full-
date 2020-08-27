@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:04 AM Wednesday 26 August 2020
+# Date: 06:02 AM Thursday 27 August 2020
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -5188,6 +5188,7 @@
 0.0.0.0 247discountshop.com
 0.0.0.0 247locksmith-tucson.com
 0.0.0.0 24caratacademy.com
+0.0.0.0 24d1c699868.com
 0.0.0.0 24game7.com
 0.0.0.0 24hoursgifts.com
 0.0.0.0 24hwebsex.com
@@ -10619,6 +10620,7 @@
 0.0.0.0 f1legroup.com
 0.0.0.0 f2phacks.com
 0.0.0.0 f89u28ch3-billing.com
+0.0.0.0 fa06e75c16.com
 0.0.0.0 fa165246ee.com
 0.0.0.0 fabgemsandjewels.com
 0.0.0.0 faboshine.com
