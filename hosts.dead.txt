@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Sunday 30 August 2020
+# Date: 06:02 AM Monday 31 August 2020
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -5442,6 +5442,7 @@
 0.0.0.0 7come11casino.com
 0.0.0.0 7cxcrejm.com
 0.0.0.0 7d044bcf.com
+0.0.0.0 7d6b2264fe.com
 0.0.0.0 7mailsupport.com
 0.0.0.0 7shark.com
 0.0.0.0 7vws1j1j.com
@@ -7724,6 +7725,7 @@
 0.0.0.0 bcpzonaseguraz.com
 0.0.0.0 bcpzonasequira.com
 0.0.0.0 bd-dlstributors.com
+0.0.0.0 bda18716516.com
 0.0.0.0 bdbrandsale.com
 0.0.0.0 bdguardian24.com
 0.0.0.0 bdjaan24.com
