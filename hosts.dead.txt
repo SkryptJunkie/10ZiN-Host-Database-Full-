@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Monday 31 August 2020
+# Date: 06:02 AM Tuesday 01 September 2020
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -5516,6 +5516,7 @@
 0.0.0.0 a-bankieren.com
 0.0.0.0 a-nagy-alku.com
 0.0.0.0 a0e5b16728.com
+0.0.0.0 a0f3ad8585.com
 0.0.0.0 a0liasoleadersrfectearchcustohihingnepelectione.com
 0.0.0.0 a10fortenmatchmakers.com
 0.0.0.0 a1englishtest.com
