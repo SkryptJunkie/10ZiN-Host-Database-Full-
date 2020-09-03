@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Wednesday 02 September 2020
+# Date: 06:04 AM Thursday 03 September 2020
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -149,6 +149,7 @@
 0.0.0.0 www.betafortnite.app
 0.0.0.0 www.bitcoinpaypal.app
 0.0.0.0 www.ethersearch.app
+0.0.0.0 www.lnpost.generujkody.app
 0.0.0.0 www.itunesconnect.app
 0.0.0.0 www.kod-odbioru.app
 0.0.0.0 www.kodyodbioru.app
@@ -21639,6 +21640,7 @@
 0.0.0.0 zztxdown.com
 0.0.0.0 zzzrtrcm2.com
 0.0.0.0 www.000apple000.com
+0.0.0.0 www.hrhererhtng.001www.com
 0.0.0.0 download.007guard.com
 0.0.0.0 www.00apple00.com
 0.0.0.0 www.013b690e3-amazon.com
@@ -31126,6 +31128,7 @@
 0.0.0.0 www.lnternetbanking-santander.com
 0.0.0.0 v7.stats.load.com
 0.0.0.0 www.localautoalert.com
+0.0.0.0 www.localdates19.com
 0.0.0.0 www.localhealthagents.com
 0.0.0.0 ads.localnow.com
 0.0.0.0 www.locate-access-apple.com
@@ -35400,6 +35403,7 @@
 0.0.0.0 netorgft4179072-my.sharepoint.com
 0.0.0.0 orionservices-my.sharepoint.com
 0.0.0.0 slimpatico-my.sharepoint.com
+0.0.0.0 www.netorgft7090450-my.sharepoint.com
 0.0.0.0 ad.sharethis.com
 0.0.0.0 al1.sharethis.com
 0.0.0.0 btr.sharethis.com
@@ -48251,6 +48255,7 @@
 0.0.0.0 www.fishacg.me
 0.0.0.0 www.forexonline24.me
 0.0.0.0 www.generuj-kod.me
+0.0.0.0 www.lnpost.generujkody.me
 0.0.0.0 static.getkudos.me
 0.0.0.0 facebook.com.inbox-suport.me
 0.0.0.0 appeal.facebook.com.inbox-suport.me
@@ -55361,6 +55366,7 @@
 0.0.0.0 javainstall.org
 0.0.0.0 jbshahschool.org
 0.0.0.0 jcloudzcx-mngrpairzcntr.org
+0.0.0.0 jesusteam12.org
 0.0.0.0 jeuxdebebes2018.org
 0.0.0.0 jfnmainncj.org
 0.0.0.0 jfnnrjsrv.org
@@ -57611,6 +57617,8 @@
 0.0.0.0 zspjablkowo.pl
 0.0.0.0 zszdzary.pl
 0.0.0.0 zwellinder.pl
+0.0.0.0 dziennikmiasta.098.pl
+0.0.0.0 www.dziennikmiasta.098.pl
 0.0.0.0 www.1elt.pl
 0.0.0.0 www.24-sklep.pl
 0.0.0.0 relaks.3h.pl
@@ -62768,6 +62776,7 @@
 0.0.0.0 dbpxuy.site
 0.0.0.0 ddaiho.site
 0.0.0.0 desntq.site
+0.0.0.0 destekpaketi.site
 0.0.0.0 devvrp.site
 0.0.0.0 dfhgql.site
 0.0.0.0 dfvkkt.site
