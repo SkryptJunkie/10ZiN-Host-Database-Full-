@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:04 AM Thursday 03 September 2020
+# Date: 06:03 AM Friday 04 September 2020
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -10632,6 +10632,7 @@
 0.0.0.0 f1legroup.com
 0.0.0.0 f2phacks.com
 0.0.0.0 f89u28ch3-billing.com
+0.0.0.0 f8a22e34a2.com
 0.0.0.0 fa06e75c16.com
 0.0.0.0 fa165246ee.com
 0.0.0.0 fabgemsandjewels.com
@@ -10808,6 +10809,7 @@
 0.0.0.0 fddic.com
 0.0.0.0 fdhwgm.com
 0.0.0.0 fdkcwl.com
+0.0.0.0 fdogfuqpgeub.com
 0.0.0.0 fdownload52.com
 0.0.0.0 feaecebook.com
 0.0.0.0 fed21ff011.com
@@ -19499,6 +19501,7 @@
 0.0.0.0 tezoriholding.com
 0.0.0.0 tezrc114.com
 0.0.0.0 tf2itemsgenerator.com
+0.0.0.0 tfbzzigqzbax.com
 0.0.0.0 tflixnetflix.com
 0.0.0.0 tfpmmoz.com
 0.0.0.0 tgifdispatchll011.com
