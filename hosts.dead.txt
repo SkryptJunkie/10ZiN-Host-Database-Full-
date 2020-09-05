@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:03 AM Friday 04 September 2020
+# Date: 06:02 AM Saturday 05 September 2020
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -8292,6 +8292,7 @@
 0.0.0.0 c1097a71d9f4a200b172968e40fbbbee.com
 0.0.0.0 c1fsparts03-clients.com
 0.0.0.0 c3e8c79280e1f4de01c0dd1e99c2a35m.com
+0.0.0.0 c40ada56da96c20ae0ad.com
 0.0.0.0 c47eb0d9cf98.com
 0.0.0.0 c4ee4adf928.com
 0.0.0.0 c667628.com
@@ -13206,6 +13207,7 @@
 0.0.0.0 iyofob.com
 0.0.0.0 iyzico-netflix.com
 0.0.0.0 izaapinnovations.com
+0.0.0.0 izelshnkrh.com
 0.0.0.0 izifmnw.com
 0.0.0.0 izlenkazan.com
 0.0.0.0 izmirhandcraftedleather.com
@@ -48169,6 +48171,7 @@
 0.0.0.0 exclusivecar.me
 0.0.0.0 fbhackonline.me
 0.0.0.0 fishacg.me
+0.0.0.0 flaudnrs.me
 0.0.0.0 forexonline24.me
 0.0.0.0 found-iphone.me
 0.0.0.0 freeminecraftaccount.me
