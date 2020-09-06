@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Saturday 05 September 2020
+# Date: 06:02 AM Sunday 06 September 2020
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -5096,6 +5096,7 @@
 0.0.0.0 0apple0.com
 0.0.0.0 0c9d45a04fff.com
 0.0.0.0 0daygameparadise.com
+0.0.0.0 0e8ce71cc7.com
 0.0.0.0 0iecfobt.com
 0.0.0.0 0llii0g6.com
 0.0.0.0 0pencase.com
@@ -5319,6 +5320,7 @@
 0.0.0.0 36robots.com
 0.0.0.0 377baidu.com
 0.0.0.0 39c023edce.com
+0.0.0.0 3abcc69ab8c.com
 0.0.0.0 3arduino.com
 0.0.0.0 3brothersit.com
 0.0.0.0 3ce166a7dda.com
@@ -32745,6 +32747,7 @@
 0.0.0.0 link.news-courriel.com
 0.0.0.0 adserver.news-journalonline.com
 0.0.0.0 adserver2.news-journalonline.com
+0.0.0.0 sp.news-journalonline.com
 0.0.0.0 oascentral.news-record.com
 0.0.0.0 paypal.de.news2klick.com
 0.0.0.0 www.newsappleicloud-verifybilling.com
