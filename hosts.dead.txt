@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Monday 07 September 2020
+# Date: 06:03 AM Tuesday 08 September 2020
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -124,6 +124,7 @@
 0.0.0.0 bitcoinpaypal.app
 0.0.0.0 desbloqueio.app
 0.0.0.0 ethersearch.app
+0.0.0.0 generujkody.app
 0.0.0.0 iged.app
 0.0.0.0 itunesconnect.app
 0.0.0.0 lcloud-apple.app
@@ -149,6 +150,7 @@
 0.0.0.0 www.betafortnite.app
 0.0.0.0 www.bitcoinpaypal.app
 0.0.0.0 www.ethersearch.app
+0.0.0.0 www.generujkody.app
 0.0.0.0 www.lnpost.generujkody.app
 0.0.0.0 www.itunesconnect.app
 0.0.0.0 www.kod-odbioru.app
@@ -24465,6 +24467,7 @@
 0.0.0.0 www.atualizesantander.com
 0.0.0.0 pro1.atwaar.com
 0.0.0.0 www.pro1.atwaar.com
+0.0.0.0 www.wersow-24.atwebpages.com
 0.0.0.0 ar1.atwola.com
 0.0.0.0 ar2.atwola.com
 0.0.0.0 ar3.atwola.com
@@ -32379,6 +32382,7 @@
 0.0.0.0 www.mypaypaltestingdomain.com
 0.0.0.0 ads.mypcwash.com
 0.0.0.0 www.mypomptonlakesnj.com
+0.0.0.0 www.wersow-gola24.mypressonline.com
 0.0.0.0 www.myprofessionalmatchmaker.com
 0.0.0.0 www.mypsctopaypal.com
 0.0.0.0 www.myquicksearch.com
@@ -38863,6 +38867,7 @@
 0.0.0.0 www.zafarimpex.com
 0.0.0.0 www.zagasouidres.com
 0.0.0.0 calendar.zakcomputer.com
+0.0.0.0 log.o2o.service.zaloapp.com
 0.0.0.0 www.zamanlar2.com
 0.0.0.0 www.zamfoohost.com
 0.0.0.0 www.zamopanjilok.com
@@ -43290,6 +43295,7 @@
 0.0.0.0 www.mobile47logs01access36uspicious302.icu
 0.0.0.0 www.multiplan.icu
 0.0.0.0 www.multitrabajos.icu
+0.0.0.0 www.top.naturgood.icu
 0.0.0.0 firefox.net-secure-update.icu
 0.0.0.0 www.nexiuslearning.icu
 0.0.0.0 www.ogust.icu
@@ -47920,6 +47926,8 @@
 0.0.0.0 www.ethgiveaway.live
 0.0.0.0 www.facebookwebcam.live
 0.0.0.0 www.fastgermans.live
+0.0.0.0 www.goedekans15.live
+0.0.0.0 www.goedekans2.live
 0.0.0.0 t-online.de.hightrack.live
 0.0.0.0 www.t-online.de.hightrack.live
 0.0.0.0 www.huobiglob.live
@@ -57182,6 +57190,8 @@
 0.0.0.0 facebook-photos.pl
 0.0.0.0 fakt-polska.pl
 0.0.0.0 familyclean.pl
+0.0.0.0 fb-smieszne.pl
+0.0.0.0 fbweryfikacja.pl
 0.0.0.0 fenoria.pl
 0.0.0.0 fightfly.pl
 0.0.0.0 fikus-lodz.pl
@@ -57948,6 +57958,8 @@
 0.0.0.0 www.fajne-filmy.pl
 0.0.0.0 www.fakt-polska.pl
 0.0.0.0 www.familyclean.pl
+0.0.0.0 www.fb-smieszne.pl
+0.0.0.0 www.fbweryfikacja.pl
 0.0.0.0 www.fenoria.pl
 0.0.0.0 www.fightfly.pl
 0.0.0.0 www.fikus-lodz.pl
@@ -65380,6 +65392,8 @@
 0.0.0.0 www.mebed.com.tr
 0.0.0.0 apple.itunes.confirm.your.account.go.first.page.now.apple.mehmetaslan.com.tr
 0.0.0.0 www.modapoint.com.tr
+0.0.0.0 netflix.pl.murataydeniz.com.tr
+0.0.0.0 www.netflix.pl.murataydeniz.com.tr
 0.0.0.0 ads-hl.noktamedya.com.tr
 0.0.0.0 www.ozturktextile.com.tr
 0.0.0.0 ads5.sabah.com.tr
@@ -68998,6 +69012,7 @@
 0.0.0.0 not-found34.xyz
 0.0.0.0 notxcusestody.xyz
 0.0.0.0 nstuhin.xyz
+0.0.0.0 oferta189515.xyz
 0.0.0.0 office-supports.xyz
 0.0.0.0 officeout321.xyz
 0.0.0.0 oghituk.xyz
@@ -69030,6 +69045,7 @@
 0.0.0.0 pingbackanytime.xyz
 0.0.0.0 pinoeg.xyz
 0.0.0.0 pipeto.xyz
+0.0.0.0 platnoscionline.xyz
 0.0.0.0 pncsecureenroll.xyz
 0.0.0.0 polixincare.xyz
 0.0.0.0 popadssex.xyz
@@ -69342,6 +69358,7 @@
 0.0.0.0 www.netflixonline.xyz
 0.0.0.0 www.ninjavpn.xyz
 0.0.0.0 www.nstuhin.xyz
+0.0.0.0 www.oferta189515.xyz
 0.0.0.0 www.officeout321.xyz
 0.0.0.0 accounts-service.officesyncactivation.xyz
 0.0.0.0 paques-2016.offre-exceptionnelle.xyz
@@ -69359,6 +69376,7 @@
 0.0.0.0 www.paraphingxmfevapk.xyz
 0.0.0.0 www.pashido.xyz
 0.0.0.0 mm-mmm0.paykasabozdurma.xyz
+0.0.0.0 www.platnoscionline.xyz
 0.0.0.0 www.polixincare.xyz
 0.0.0.0 www.pornhubvids.xyz
 0.0.0.0 www.portafolioadsfon.xyz
