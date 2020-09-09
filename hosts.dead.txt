@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:03 AM Tuesday 08 September 2020
+# Date: 06:02 AM Wednesday 09 September 2020
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -5334,6 +5334,7 @@
 0.0.0.0 3dsprepaidcardcodegenerator.com
 0.0.0.0 3dyorking.com
 0.0.0.0 3e53df6c390.com
+0.0.0.0 3e80004b51.com
 0.0.0.0 3f49237cf0.com
 0.0.0.0 3fns.com
 0.0.0.0 3ikaret.com
