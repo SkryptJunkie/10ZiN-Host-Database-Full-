@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Thursday 10 September 2020
+# Date: 06:02 AM Friday 11 September 2020
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -5115,6 +5115,7 @@
 0.0.0.0 10188118.com
 0.0.0.0 10bestsearch.com
 0.0.0.0 10daysdetoxplan.com
+0.0.0.0 1102478ce1.com
 0.0.0.0 1111outlet.com
 0.0.0.0 111appleton-1.com
 0.0.0.0 1123netflix.com
@@ -5321,6 +5322,7 @@
 0.0.0.0 36cfbd917fd.com
 0.0.0.0 36robots.com
 0.0.0.0 377baidu.com
+0.0.0.0 382b09405a19.com
 0.0.0.0 39c023edce.com
 0.0.0.0 3abcc69ab8c.com
 0.0.0.0 3arduino.com
@@ -5431,6 +5433,7 @@
 0.0.0.0 6w412.com
 0.0.0.0 6x412.com
 0.0.0.0 7-cracker.com
+0.0.0.0 703c4af391997.com
 0.0.0.0 70pictures.com
 0.0.0.0 71aa8ed2ff1c8f.com
 0.0.0.0 71bff04e6577375dc867.com
@@ -5489,6 +5492,7 @@
 0.0.0.0 87363y.com
 0.0.0.0 87363z.com
 0.0.0.0 877174529a4b77.com
+0.0.0.0 88c1b7097f.com
 0.0.0.0 88ccrc.com
 0.0.0.0 88kkvv.com
 0.0.0.0 898protrudesolve.com
@@ -5508,6 +5512,7 @@
 0.0.0.0 933aaa9228923a.com
 0.0.0.0 93453074ab3e3.com
 0.0.0.0 94uyvwwh.com
+0.0.0.0 9767a959187.com
 0.0.0.0 9999eth.com
 0.0.0.0 99count.com
 0.0.0.0 99rfs.com
@@ -5528,6 +5533,7 @@
 0.0.0.0 a1englishtest.com
 0.0.0.0 a2eeaee88e.com
 0.0.0.0 a2zeeholidays.com
+0.0.0.0 a47877e31aa893.com
 0.0.0.0 a4dtracker.com
 0.0.0.0 a4mob.com
 0.0.0.0 a6fee1ae1cf4f5f542c1b1b149509aui.com
