@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Sunday 13 September 2020
+# Date: 06:02 AM Monday 14 September 2020
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -5473,6 +5473,7 @@
 0.0.0.0 84i305b14204deae14507c6690701fab.com
 0.0.0.0 8525288.com
 0.0.0.0 86d6.com
+0.0.0.0 87203cdf133.com
 0.0.0.0 87363d.com
 0.0.0.0 87363e.com
 0.0.0.0 87363h.com
@@ -5493,6 +5494,7 @@
 0.0.0.0 87363y.com
 0.0.0.0 87363z.com
 0.0.0.0 877174529a4b77.com
+0.0.0.0 87e3d580ef.com
 0.0.0.0 88c1b7097f.com
 0.0.0.0 88ccrc.com
 0.0.0.0 88kkvv.com
