@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Monday 14 September 2020
+# Date: 06:05 AM Tuesday 15 September 2020
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -10646,6 +10646,7 @@
 0.0.0.0 f1288404ece4.com
 0.0.0.0 f1legroup.com
 0.0.0.0 f2phacks.com
+0.0.0.0 f826fdf639.com
 0.0.0.0 f89u28ch3-billing.com
 0.0.0.0 f8a22e34a2.com
 0.0.0.0 fa06e75c16.com
@@ -21659,6 +21660,7 @@
 0.0.0.0 zztxdown.com
 0.0.0.0 zzzrtrcm2.com
 0.0.0.0 www.000apple000.com
+0.0.0.0 www.hehreerh.001www.com
 0.0.0.0 www.hrhererhtng.001www.com
 0.0.0.0 download.007guard.com
 0.0.0.0 www.00apple00.com
@@ -22701,6 +22703,7 @@
 0.0.0.0 infosec.secures.apple-store.rnhvd.adscut.com
 0.0.0.0 www.infosec.secures.apple-store.rnhvd.adscut.com
 0.0.0.0 www.adsentnetwork.com
+0.0.0.0 www.adservd.com
 0.0.0.0 ad.adserve.com
 0.0.0.0 d.adserve.com
 0.0.0.0 tn.adserve.com
@@ -25843,6 +25846,7 @@
 0.0.0.0 mail.cjmaxxexport.com
 0.0.0.0 ads.cjonline.com
 0.0.0.0 topbinaryaffiliates.ck-cdn.com
+0.0.0.0 wordpress.ckc-net.com
 0.0.0.0 www.cktagalongs.com
 0.0.0.0 www.cl-miappleid.com
 0.0.0.0 www.claimfreeapplewatch.com
@@ -26566,6 +26570,8 @@
 0.0.0.0 ads.date.com
 0.0.0.0 banner.date.com
 0.0.0.0 www.dates-here-now22.com
+0.0.0.0 www.dating-4-adults.com
+0.0.0.0 www.dating-4-adults2.com
 0.0.0.0 www.dating-heart1.com
 0.0.0.0 www.datingfriendly.com
 0.0.0.0 ads.datinggold.com
@@ -27206,6 +27212,8 @@
 0.0.0.0 push-sdk-backend-production.ap-south-1.elasticbeanstalk.com
 0.0.0.0 affiliates-prod.us-east-1.elasticbeanstalk.com
 0.0.0.0 adserver-prod.i3emqmcebj.us-east-1.elasticbeanstalk.com
+0.0.0.0 officeqmwyaqsavlkqsqmriwyiqbojbnnxpq-env.eba-p2mfzmvt.us-east-2.elasticbeanstalk.com
+0.0.0.0 www.officeqmwyaqsavlkqsqmriwyiqbojbnnxpq-env.eba-p2mfzmvt.us-east-2.elasticbeanstalk.com
 0.0.0.0 adserver-prod.gra5phdxha.us-west-2.elasticbeanstalk.com
 0.0.0.0 cgi6.ebay.de.ws.ebayisapi.dll.sellerdashboard.1cfq8.elbavietnam.com
 0.0.0.0 cgi6.ebay.de.ws.ebayisapi.dll.sellerdashboard.1zmps.elbavietnam.com
@@ -31025,6 +31033,8 @@
 0.0.0.0 www.ligaovacion.com
 0.0.0.0 ms.ligatus.com
 0.0.0.0 r.ligatus.com
+0.0.0.0 netflix.pl.lightersidepodcast.com
+0.0.0.0 www.netflix.pl.lightersidepodcast.com
 0.0.0.0 ad.lijit.com
 0.0.0.0 vap4sjcl.lijit.com
 0.0.0.0 forum.like108.com
@@ -36313,6 +36323,7 @@
 0.0.0.0 www.t2t2.com
 0.0.0.0 ionamin.t35.com
 0.0.0.0 x-box.t35.com
+0.0.0.0 pl.bitcoinsystem-appl.t500track36.com
 0.0.0.0 www.tabeiz.com
 0.0.0.0 check-your-account.taber-abraser.com
 0.0.0.0 www.tabernaflamencasevilla.com
@@ -36894,6 +36905,7 @@
 0.0.0.0 adserver.trb.com
 0.0.0.0 test.trcanada.com
 0.0.0.0 www.test.trcanada.com
+0.0.0.0 www.go.trckaffis.com
 0.0.0.0 pixel.tree.com
 0.0.0.0 pixel.staging.tree.com
 0.0.0.0 www.treedawghuntingsupply.com
@@ -41649,6 +41661,7 @@
 0.0.0.0 www.iceage-project.eu
 0.0.0.0 www.infosardinia.eu
 0.0.0.0 www.kiboinvest.eu
+0.0.0.0 www.kobiece-sprawy.eu
 0.0.0.0 www.koniec500plus.eu
 0.0.0.0 www.lechners.eu
 0.0.0.0 www.linsy.eu
@@ -47238,6 +47251,7 @@
 0.0.0.0 www.gliamicidellunicef.it
 0.0.0.0 www.gourmet-bg.it
 0.0.0.0 www.gurrierigiovanni.it
+0.0.0.0 www.kceo.icquerini.it
 0.0.0.0 oas.ilsecoloxix.it
 0.0.0.0 www.ingleseincasa.it
 0.0.0.0 media.intelia.it
@@ -50426,6 +50440,7 @@
 0.0.0.0 outlookcustomerservice.net
 0.0.0.0 outlookoffice365online.net
 0.0.0.0 overtalk.net
+0.0.0.0 paczkonat.net
 0.0.0.0 page-not-found.net
 0.0.0.0 painopolis.net
 0.0.0.0 pakjevoordeel.net
@@ -53086,6 +53101,7 @@
 0.0.0.0 www.outlookcustomerservice.net
 0.0.0.0 www.outlookoffice365online.net
 0.0.0.0 vboxsvr.ovh.net
+0.0.0.0 www.paczkonat.net
 0.0.0.0 adfeed.pagefair.net
 0.0.0.0 www.painopolis.net
 0.0.0.0 staticrr.paleokits.net
@@ -54577,6 +54593,7 @@
 0.0.0.0 myethetwallet.online
 0.0.0.0 myethterwallet.online
 0.0.0.0 mygov-warning.online
+0.0.0.0 naszaplaneta.online
 0.0.0.0 netflix-atualizamento.online
 0.0.0.0 netflix-cupomtemporario.online
 0.0.0.0 netflix-gift.online
@@ -54792,6 +54809,7 @@
 0.0.0.0 www.myetherswallet.online
 0.0.0.0 www.myetherwalet.online
 0.0.0.0 www.myethterwallet.online
+0.0.0.0 www.naszaplaneta.online
 0.0.0.0 www.netflix-atualizamento.online
 0.0.0.0 www.netflix-cupomtemporario.online
 0.0.0.0 www.netflix-gift.online
@@ -57283,6 +57301,7 @@
 0.0.0.0 keensklep.pl
 0.0.0.0 kickz4u.pl
 0.0.0.0 kidparadise.pl
+0.0.0.0 kinganawieszaku.pl
 0.0.0.0 kirchbaum.pl
 0.0.0.0 kiteowisko.pl
 0.0.0.0 kixshop.pl
@@ -57570,6 +57589,7 @@
 0.0.0.0 tradszansa.pl
 0.0.0.0 trampkivans.pl
 0.0.0.0 trinitybeautypoland.pl
+0.0.0.0 tropical-club.pl
 0.0.0.0 trzcinski-usg.pl
 0.0.0.0 tsldada.pl
 0.0.0.0 tvmedion.pl
@@ -58148,6 +58168,7 @@
 0.0.0.0 www.kgf-pryzmat.pl
 0.0.0.0 www.kickz4u.pl
 0.0.0.0 www.kidparadise.pl
+0.0.0.0 www.kinganawieszaku.pl
 0.0.0.0 www.kinofilm-tv.pl
 0.0.0.0 www.kinomaniac.pl
 0.0.0.0 www.kirchbaum.pl
@@ -58507,6 +58528,7 @@
 0.0.0.0 www.trampkivans.pl
 0.0.0.0 www.trinitybeautypoland.pl
 0.0.0.0 www.trionz.pl
+0.0.0.0 www.tropical-club.pl
 0.0.0.0 www.trzcinski-usg.pl
 0.0.0.0 www.tsldada.pl
 0.0.0.0 subskrypcja.tvhr.pl
@@ -62308,6 +62330,7 @@
 0.0.0.0 www.smartchart.com.sa
 0.0.0.0 kacstserv.kacst.edu.sa
 0.0.0.0 sparc.nour.net.sa
+0.0.0.0 store.saned.sa
 0.0.0.0 apple-ru.sale
 0.0.0.0 bank-accounts.sale
 0.0.0.0 eloncity.sale
@@ -63230,6 +63253,7 @@
 0.0.0.0 odzxvn.site
 0.0.0.0 oeqwen.site
 0.0.0.0 oexojm.site
+0.0.0.0 oferta100981.site
 0.0.0.0 oggpbc.site
 0.0.0.0 oglzcq.site
 0.0.0.0 ohtepe.site
@@ -63662,6 +63686,7 @@
 0.0.0.0 www.netflix123.site
 0.0.0.0 br.nettfllix.site
 0.0.0.0 sex-tonight.newideas.site
+0.0.0.0 www.oferta100981.site
 0.0.0.0 www.onlinedativerifica.site
 0.0.0.0 www.outlookmail.site
 0.0.0.0 www.outlooksettings.site
@@ -64339,6 +64364,7 @@
 0.0.0.0 bectronix.tech
 0.0.0.0 capturescreen.tech
 0.0.0.0 charge-paypal.tech
+0.0.0.0 dentalcad.tech
 0.0.0.0 downloadapps.tech
 0.0.0.0 errorfixing.tech
 0.0.0.0 etherwallet.tech
@@ -68486,6 +68512,8 @@
 0.0.0.0 hdlive-espntv.live-sportshd.website
 0.0.0.0 www.moneywp.website
 0.0.0.0 www.netflixbr.website
+0.0.0.0 allegrolokalnie.oferta489519.website
+0.0.0.0 www.allegrolokalnie.oferta489519.website
 0.0.0.0 www.polskasupermarkecie.website
 0.0.0.0 www.quarkchain.website
 0.0.0.0 connect.secure.service.redirects.website
@@ -68966,6 +68994,7 @@
 0.0.0.0 kopavogur.xyz
 0.0.0.0 kristaca.xyz
 0.0.0.0 krzyk.xyz
+0.0.0.0 kuponline859172.xyz
 0.0.0.0 laidebc.xyz
 0.0.0.0 laptop-support-services.xyz
 0.0.0.0 lecteur-de-code-barre.xyz
@@ -69026,6 +69055,7 @@
 0.0.0.0 office-supports.xyz
 0.0.0.0 officeout321.xyz
 0.0.0.0 oghituk.xyz
+0.0.0.0 ogloszenie156712.xyz
 0.0.0.0 oldvidz.xyz
 0.0.0.0 online-32.xyz
 0.0.0.0 online-36.xyz
@@ -69349,6 +69379,7 @@
 0.0.0.0 confirmer-votre-compte-information.kjd6.xyz
 0.0.0.0 www.kristaca.xyz
 0.0.0.0 amazon-sicherheit.kunden-ueberpruefung.xyz
+0.0.0.0 www.kuponline859172.xyz
 0.0.0.0 www.lenstaste.xyz
 0.0.0.0 gov.uk.claim-tax-refund.loguk.xyz
 0.0.0.0 www.lokjhq.xyz
@@ -69368,12 +69399,37 @@
 0.0.0.0 www.netflixonline.xyz
 0.0.0.0 www.ninjavpn.xyz
 0.0.0.0 www.nstuhin.xyz
+0.0.0.0 allegrolokalnie.oferta000123.xyz
+0.0.0.0 www.allegrolokalnie.oferta000123.xyz
+0.0.0.0 allegrolokalnie.oferta000657.xyz
+0.0.0.0 www.allegrolokalnie.oferta000657.xyz
+0.0.0.0 allegrolokalnie.oferta020202.xyz
+0.0.0.0 www.allegrolokalnie.oferta020202.xyz
+0.0.0.0 allegrolokalnie.oferta070707.xyz
+0.0.0.0 www.allegrolokalnie.oferta070707.xyz
 0.0.0.0 www.oferta189515.xyz
+0.0.0.0 allegrolokalnie.oferta189519.xyz
+0.0.0.0 www.allegrolokalnie.oferta189519.xyz
+0.0.0.0 allegrolokalnie.oferta222333.xyz
+0.0.0.0 www.allegrolokalnie.oferta222333.xyz
+0.0.0.0 allegrolokalnie.oferta333332.xyz
+0.0.0.0 www.allegrolokalnie.oferta333332.xyz
+0.0.0.0 allegrolokalnie.oferta555554.xyz
+0.0.0.0 www.allegrolokalnie.oferta555554.xyz
+0.0.0.0 allegrolokalkie.oferta789537.xyz
+0.0.0.0 www.allegrolokalkie.oferta789537.xyz
+0.0.0.0 allegrolokalnie.oferta877887.xyz
+0.0.0.0 www.allegrolokalnie.oferta877887.xyz
+0.0.0.0 allegrolokalnie.oferta898767.xyz
+0.0.0.0 www.allegrolokalnie.oferta898767.xyz
+0.0.0.0 allegrolokalnie.oferta987567.xyz
+0.0.0.0 www.allegrolokalnie.oferta987567.xyz
 0.0.0.0 www.officeout321.xyz
 0.0.0.0 accounts-service.officesyncactivation.xyz
 0.0.0.0 paques-2016.offre-exceptionnelle.xyz
 0.0.0.0 iphone-avril.offreflash.xyz
 0.0.0.0 www.oghituk.xyz
+0.0.0.0 www.ogloszenie156712.xyz
 0.0.0.0 www.oldvidz.xyz
 0.0.0.0 www.onlinesign-chase.xyz
 0.0.0.0 youtube.dwis.onomovie.xyz
