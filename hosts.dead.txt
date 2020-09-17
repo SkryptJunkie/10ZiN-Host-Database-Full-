@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Wednesday 16 September 2020
+# Date: 06:02 AM Thursday 17 September 2020
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -5436,12 +5436,14 @@
 0.0.0.0 7-cracker.com
 0.0.0.0 703c4af391997.com
 0.0.0.0 70pictures.com
+0.0.0.0 7157c637bac.com
 0.0.0.0 71aa8ed2ff1c8f.com
 0.0.0.0 71bff04e6577375dc867.com
 0.0.0.0 71sise.com
 0.0.0.0 71zijilu.com
 0.0.0.0 72hdownload.com
 0.0.0.0 7333account-appe.com
+0.0.0.0 736bdcef84.com
 0.0.0.0 7533788.com
 0.0.0.0 755431a59e7.com
 0.0.0.0 777mobileslots.com
@@ -8318,6 +8320,7 @@
 0.0.0.0 cablyshaw.com
 0.0.0.0 cabomarlinisportfishing.com
 0.0.0.0 cabscochin.com
+0.0.0.0 cac611a8e7.com
 0.0.0.0 cacharelshoes.com
 0.0.0.0 cachuchabeisbol.com
 0.0.0.0 cactusfashionsonline.com
