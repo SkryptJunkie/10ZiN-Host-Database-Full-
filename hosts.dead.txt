@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Saturday 19 September 2020
+# Date: 06:02 AM Sunday 20 September 2020
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -5140,6 +5140,7 @@
 0.0.0.0 1393cb1cf0.com
 0.0.0.0 13bm0-contact-admin-64hp.com
 0.0.0.0 13itunes.com
+0.0.0.0 1452e13d3fa.com
 0.0.0.0 154yildanhediyeler.com
 0.0.0.0 173okwei.com
 0.0.0.0 177momo.com
@@ -5358,6 +5359,7 @@
 0.0.0.0 40xbfzk8.com
 0.0.0.0 411commerce.com
 0.0.0.0 4121wellsfargo4388181144.com
+0.0.0.0 437301aa95.com
 0.0.0.0 4481bff8825.com
 0.0.0.0 44ccvv.com
 0.0.0.0 456c11816f.com
