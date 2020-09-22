@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:15 AM Monday 21 September 2020
+# Date: 06:02 AM Tuesday 22 September 2020
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -5437,6 +5437,7 @@
 0.0.0.0 66eexx.com
 0.0.0.0 670915.com
 0.0.0.0 6722073.com
+0.0.0.0 68bad96d44.com
 0.0.0.0 69b7c505b2.com
 0.0.0.0 69lingerie.com
 0.0.0.0 69proof.com
@@ -5448,6 +5449,7 @@
 0.0.0.0 6d25c5a1bb9e821f3b7.com
 0.0.0.0 6d2d5f558f3.com
 0.0.0.0 6e1167fc12a.com
+0.0.0.0 6f8b7b9fbb6.com
 0.0.0.0 6forte.com
 0.0.0.0 6ftlady.com
 0.0.0.0 6itunes.com
@@ -5950,6 +5952,7 @@
 0.0.0.0 aeysop.com
 0.0.0.0 afabumtunpo.com
 0.0.0.0 afantispy.com
+0.0.0.0 afda963065c4.com
 0.0.0.0 afdyfxfrwbfy.com
 0.0.0.0 afkarehroshan.com
 0.0.0.0 afloatzeal.com
@@ -19046,6 +19049,7 @@
 0.0.0.0 rwkxvess.com
 0.0.0.0 rwmttawspapqcy.com
 0.0.0.0 rwphwhdoktfq.com
+0.0.0.0 rwxzeoqfj.com
 0.0.0.0 rx-healthmart.com
 0.0.0.0 rxbulkorder.com
 0.0.0.0 rxfk-mailarge.com
@@ -22668,6 +22672,7 @@
 0.0.0.0 wlhbgwzgep.com
 0.0.0.0 wlotuspro.com
 0.0.0.0 wlszodcfwqk.com
+0.0.0.0 wlzohrpjbuq.com
 0.0.0.0 wmanpokytances.com
 0.0.0.0 wmhlch.com
 0.0.0.0 wmtyrdrpjbhnj.com
