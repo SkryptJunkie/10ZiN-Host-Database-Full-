@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Friday 25 September 2020
+# Date: 06:02 AM Saturday 26 September 2020
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -5127,6 +5127,7 @@
 0.0.0.0 1166690.com
 0.0.0.0 11668898.com
 0.0.0.0 11781178.com
+0.0.0.0 1183f06f6212.com
 0.0.0.0 121zzzzz.com
 0.0.0.0 123appz.com
 0.0.0.0 123netflixpro.com
@@ -5215,6 +5216,7 @@
 0.0.0.0 290e346061.com
 0.0.0.0 2abca352f4.com
 0.0.0.0 2b2b84231908.com
+0.0.0.0 2bb9dcf84c.com
 0.0.0.0 2bluemountain.com
 0.0.0.0 2cent37.com
 0.0.0.0 2f48a41ea4.com
@@ -8416,6 +8418,7 @@
 0.0.0.0 bzupload.com
 0.0.0.0 bzvimexwdle.com
 0.0.0.0 c-1us-webapps.com
+0.0.0.0 c029aa09b9f.com
 0.0.0.0 c1097a71d9f4a200b172968e40fbbbee.com
 0.0.0.0 c1fsparts03-clients.com
 0.0.0.0 c3e8c79280e1f4de01c0dd1e99c2a35m.com
@@ -10893,6 +10896,7 @@
 0.0.0.0 f2phacks.com
 0.0.0.0 f47cecd3f0a29874f.com
 0.0.0.0 f826fdf639.com
+0.0.0.0 f82af04fb2888.com
 0.0.0.0 f89u28ch3-billing.com
 0.0.0.0 f8a22e34a2.com
 0.0.0.0 fa06e75c16.com
