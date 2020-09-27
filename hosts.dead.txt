@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Saturday 26 September 2020
+# Date: 06:03 AM Sunday 27 September 2020
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -1245,6 +1245,7 @@
 0.0.0.0 neverusedcards.bid
 0.0.0.0 newcodes4you.bid
 0.0.0.0 oeihaehdojnawvf.bid
+0.0.0.0 okvfijgdmqton.bid
 0.0.0.0 onedigital.bid
 0.0.0.0 pettracer.bid
 0.0.0.0 phc-online.bid
@@ -5094,6 +5095,7 @@
 0.0.0.0 04f89f867c5d.com
 0.0.0.0 061a1632d773-amazon.com
 0.0.0.0 068943613eb.com
+0.0.0.0 06dd0894cce50c.com
 0.0.0.0 08a14e37bb.com
 0.0.0.0 08b72e4833486d.com
 0.0.0.0 093qpeuqpmz6ebfa.com
@@ -7616,6 +7618,7 @@
 0.0.0.0 b4215c8f2c1.com
 0.0.0.0 b460e308b59.com
 0.0.0.0 b4yourpregnancy.com
+0.0.0.0 b897e5e9a20.com
 0.0.0.0 b9e4513451c571574a57b082173ee47c.com
 0.0.0.0 ba138901a1dd4534b2d0.com
 0.0.0.0 babuinworld.com
@@ -8147,6 +8150,7 @@
 0.0.0.0 bmskenya.com
 0.0.0.0 bmt66.com
 0.0.0.0 bmw-330d.com
+0.0.0.0 bn-allorbank.com
 0.0.0.0 bn-amazon2016.com
 0.0.0.0 bnajaaph.com
 0.0.0.0 bnbdex-ethcampaign.com
@@ -9813,6 +9817,7 @@
 0.0.0.0 dc3c87c212.com
 0.0.0.0 dcjhpaexcwtc.com
 0.0.0.0 dcxbmm.com
+0.0.0.0 dd699aa951e9.com
 0.0.0.0 dddgndcqajr.com
 0.0.0.0 ddljcvtxfjtc.com
 0.0.0.0 ddtankhacks.com
@@ -10895,6 +10900,7 @@
 0.0.0.0 f1legroup.com
 0.0.0.0 f2phacks.com
 0.0.0.0 f47cecd3f0a29874f.com
+0.0.0.0 f774d56fd4d98.com
 0.0.0.0 f826fdf639.com
 0.0.0.0 f82af04fb2888.com
 0.0.0.0 f89u28ch3-billing.com
@@ -19912,6 +19918,7 @@
 0.0.0.0 signin-appleid-online.com
 0.0.0.0 signin-appleid-us.com
 0.0.0.0 signin-authflow-inc.com
+0.0.0.0 signin-ea.com
 0.0.0.0 signin-icloud-apple.com
 0.0.0.0 signin-servicepolicyagreemenst.com
 0.0.0.0 signin-showreminder.com
@@ -27209,6 +27216,7 @@
 0.0.0.0 ssl.bmo-onlineverification.com
 0.0.0.0 banking.bmo-securevalidation.com
 0.0.0.0 www.bmskenya.com
+0.0.0.0 www.bn-allorbank.com
 0.0.0.0 www.bnbdex-ethcampaign.com
 0.0.0.0 www.bnbethereumairdropp.com
 0.0.0.0 bright.bncnt.com
@@ -27361,6 +27369,7 @@
 0.0.0.0 www.btc-billionaire.com
 0.0.0.0 www.btc-binance.com
 0.0.0.0 www.btc-era.com
+0.0.0.0 www.btcbillionaire-app.com
 0.0.0.0 www.btcitogo.com
 0.0.0.0 www.btcpromofree.com
 0.0.0.0 consulteplat-001-site1.btempurl.com
@@ -27913,6 +27922,8 @@
 0.0.0.0 www.citymoversug.com
 0.0.0.0 oascentral.citypages.com
 0.0.0.0 oascentral.citypaper.com
+0.0.0.0 www.cityxman.com
+0.0.0.0 www.poll.cityxman.com
 0.0.0.0 a.civitik.com
 0.0.0.0 xhr.civitik.com
 0.0.0.0 helesouurusa.cjb.com
@@ -33764,6 +33775,8 @@
 0.0.0.0 blog.mediainternet.com
 0.0.0.0 www.blog.mediainternet.com
 0.0.0.0 t.medialytics.com
+0.0.0.0 www.interianewsy24.medianewsonline.com
+0.0.0.0 www.newsyintera24.medianewsonline.com
 0.0.0.0 iframe.mediaplazza.com
 0.0.0.0 www.mediasafety-lb.com
 0.0.0.0 www.mediaseoweb.com
@@ -34059,6 +34072,7 @@
 0.0.0.0 www.mixbarato.com
 0.0.0.0 adserve.mizzenmedia.com
 0.0.0.0 track.mjmfreightsolutions.com
+0.0.0.0 www.mke2morrow.com
 0.0.0.0 www.mkghde.com
 0.0.0.0 w.sandbox.mkhoj.com
 0.0.0.0 track.msadcenter.mkqa.com
@@ -37635,6 +37649,7 @@
 0.0.0.0 www.signiin-apple.com
 0.0.0.0 www.signin-appleid-online.com
 0.0.0.0 www.signin-appleid-us.com
+0.0.0.0 www.signin-ea.com
 0.0.0.0 www.signin-icloud-apple.com
 0.0.0.0 paypal.com.signin-return-apps.com
 0.0.0.0 www.signinaccountipodidapple.com
@@ -38398,6 +38413,7 @@
 0.0.0.0 ionamin.t35.com
 0.0.0.0 x-box.t35.com
 0.0.0.0 pl.bitcoinsystem-appl.t500track36.com
+0.0.0.0 uk.bitcoinfreedom-appl.t500track42.com
 0.0.0.0 www.tabeiz.com
 0.0.0.0 check-your-account.taber-abraser.com
 0.0.0.0 www.tabernaflamencasevilla.com
@@ -38929,6 +38945,7 @@
 0.0.0.0 www.trackshackapp.com
 0.0.0.0 www.tractiontiresusa.com
 0.0.0.0 www.tracy-simmons.com
+0.0.0.0 www.lp.trade360.com
 0.0.0.0 www.tradeezee.com
 0.0.0.0 www.tradefxprofit.com
 0.0.0.0 tracking.tradeking.com
@@ -49286,6 +49303,7 @@
 0.0.0.0 www.agriturismopavi.it
 0.0.0.0 geni.anas.it
 0.0.0.0 ads.anyoption.it
+0.0.0.0 www.aperytime.it
 0.0.0.0 regcalabria.apps-spazicomuni.it
 0.0.0.0 www.arteelegnoitalia.it
 0.0.0.0 www.assculturaleincontri.it
@@ -54861,6 +54879,7 @@
 0.0.0.0 jolu.kohlsic.net
 0.0.0.0 aff*.kolektiva.net
 0.0.0.0 vizisense.komli.net
+0.0.0.0 dev.konocell.net
 0.0.0.0 a48.korrelate.net
 0.0.0.0 beacon-maxis.krxd.net
 0.0.0.0 foreman-a003-ash.krxd.net
@@ -56582,6 +56601,7 @@
 0.0.0.0 cr-mufg--card-jp.online
 0.0.0.0 cr-mufg-card--jp.online
 0.0.0.0 cr-mufg-jp-card.online
+0.0.0.0 crimson-r.online
 0.0.0.0 csglobalcoin.online
 0.0.0.0 csgo-capital.online
 0.0.0.0 csgo-quick.online
@@ -70425,6 +70445,7 @@
 0.0.0.0 www.lieugiaivinhomes.com.vn
 0.0.0.0 www.nclogistics.com.vn
 0.0.0.0 www.nitaphar.com.vn
+0.0.0.0 ad.qtcs.com.vn
 0.0.0.0 www.quickbooks.com.vn
 0.0.0.0 www.smart-it.com.vn
 0.0.0.0 www.toanthinhseafoods.com.vn
@@ -70967,6 +70988,7 @@
 0.0.0.0 dzisiejszefakty.xyz
 0.0.0.0 ekrzyk.xyz
 0.0.0.0 elamai.xyz
+0.0.0.0 elektronika198373.xyz
 0.0.0.0 elmenor.xyz
 0.0.0.0 error-service.xyz
 0.0.0.0 eryuop.xyz
@@ -71075,6 +71097,10 @@
 0.0.0.0 kopavogur.xyz
 0.0.0.0 kristaca.xyz
 0.0.0.0 krzyk.xyz
+0.0.0.0 kup-teraz-859110.xyz
+0.0.0.0 kuponline129006.xyz
+0.0.0.0 kuponline158460.xyz
+0.0.0.0 kuponline785912.xyz
 0.0.0.0 kuponline859172.xyz
 0.0.0.0 laidebc.xyz
 0.0.0.0 laptop-support-services.xyz
@@ -71133,9 +71159,12 @@
 0.0.0.0 notxcusestody.xyz
 0.0.0.0 nstuhin.xyz
 0.0.0.0 oferta189515.xyz
+0.0.0.0 oferta741812.xyz
+0.0.0.0 oferta813981.xyz
 0.0.0.0 office-supports.xyz
 0.0.0.0 officeout321.xyz
 0.0.0.0 oghituk.xyz
+0.0.0.0 ogloszenie-kupteraz-149175.xyz
 0.0.0.0 ogloszenie156712.xyz
 0.0.0.0 oldvidz.xyz
 0.0.0.0 online-32.xyz
@@ -71403,6 +71432,7 @@
 0.0.0.0 login.comcast.net------------secure-confirm--account.disos.xyz
 0.0.0.0 www.dzisiejszefakty.xyz
 0.0.0.0 cesar.elabuelosinverguenza.xyz
+0.0.0.0 www.elektronika198373.xyz
 0.0.0.0 us.battle.net.login.login.xml.account.support.html.entertainment-legion.xyz
 0.0.0.0 free.exmovie.xyz
 0.0.0.0 full.exmovie.xyz
@@ -71460,6 +71490,10 @@
 0.0.0.0 confirmer-votre-compte-information.kjd6.xyz
 0.0.0.0 www.kristaca.xyz
 0.0.0.0 amazon-sicherheit.kunden-ueberpruefung.xyz
+0.0.0.0 www.kup-teraz-859110.xyz
+0.0.0.0 www.kuponline129006.xyz
+0.0.0.0 www.kuponline158460.xyz
+0.0.0.0 www.kuponline785912.xyz
 0.0.0.0 www.kuponline859172.xyz
 0.0.0.0 www.lenstaste.xyz
 0.0.0.0 gov.uk.claim-tax-refund.loguk.xyz
@@ -71497,8 +71531,10 @@
 0.0.0.0 www.allegrolokalnie.oferta333332.xyz
 0.0.0.0 allegrolokalnie.oferta555554.xyz
 0.0.0.0 www.allegrolokalnie.oferta555554.xyz
+0.0.0.0 www.oferta741812.xyz
 0.0.0.0 allegrolokalkie.oferta789537.xyz
 0.0.0.0 www.allegrolokalkie.oferta789537.xyz
+0.0.0.0 www.oferta813981.xyz
 0.0.0.0 allegrolokalnie.oferta877887.xyz
 0.0.0.0 www.allegrolokalnie.oferta877887.xyz
 0.0.0.0 allegrolokalnie.oferta898767.xyz
@@ -71510,6 +71546,7 @@
 0.0.0.0 paques-2016.offre-exceptionnelle.xyz
 0.0.0.0 iphone-avril.offreflash.xyz
 0.0.0.0 www.oghituk.xyz
+0.0.0.0 www.ogloszenie-kupteraz-149175.xyz
 0.0.0.0 www.ogloszenie156712.xyz
 0.0.0.0 www.oldvidz.xyz
 0.0.0.0 www.onlinesign-chase.xyz
@@ -71976,6 +72013,7 @@
 0.0.0.0 www.ourtime.com.masmodular.co.za
 0.0.0.0 www.mcvapes.co.za
 0.0.0.0 www.metrovision.co.za
+0.0.0.0 ubac.mobicentric.co.za
 0.0.0.0 www.mondaystores.co.za
 0.0.0.0 www.mypowerfulhome.co.za
 0.0.0.0 www.nccdm.co.za
