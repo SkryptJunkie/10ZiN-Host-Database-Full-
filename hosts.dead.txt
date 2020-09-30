@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Tuesday 29 September 2020
+# Date: 06:02 AM Wednesday 30 September 2020
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -5241,6 +5241,7 @@
 0.0.0.0 332gm.com
 0.0.0.0 33kkvv.com
 0.0.0.0 33lzmm.com
+0.0.0.0 3436580b830.com
 0.0.0.0 35hacks.com
 0.0.0.0 360redirect.com
 0.0.0.0 36258560.com
@@ -7619,6 +7620,7 @@
 0.0.0.0 b460e308b59.com
 0.0.0.0 b4yourpregnancy.com
 0.0.0.0 b897e5e9a20.com
+0.0.0.0 b9c778ffac7.com
 0.0.0.0 b9e4513451c571574a57b082173ee47c.com
 0.0.0.0 ba138901a1dd4534b2d0.com
 0.0.0.0 babuinworld.com
@@ -7944,6 +7946,7 @@
 0.0.0.0 beyazitpastacafe.com
 0.0.0.0 bf-tractor.com
 0.0.0.0 bf3h.com
+0.0.0.0 bf47f4654ad3.com
 0.0.0.0 bfhredeemcodes.com
 0.0.0.0 bglnzzsgigbto.com
 0.0.0.0 bgmkidyxgwnrtvbvxco.com
@@ -10332,6 +10335,7 @@
 0.0.0.0 e2bworld.com
 0.0.0.0 e331ff4e674c083.com
 0.0.0.0 e406019.com
+0.0.0.0 e69e1360c7.com
 0.0.0.0 e765487792.com
 0.0.0.0 e860045edaecd.com
 0.0.0.0 e9mlrvy1.com
@@ -22585,6 +22589,7 @@
 0.0.0.0 wgaycnmfz.com
 0.0.0.0 wghmgbjpxmlxa.com
 0.0.0.0 wglbucuhxxxj.com
+0.0.0.0 wgqsgcdcxsmxw.com
 0.0.0.0 wgrbdqucfoieha.com
 0.0.0.0 whatdslrtobuy.com
 0.0.0.0 whatisinablog.com
