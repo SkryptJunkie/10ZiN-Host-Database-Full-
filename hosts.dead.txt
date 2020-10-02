@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Thursday 01 October 2020
+# Date: 06:02 AM Friday 02 October 2020
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -5472,6 +5472,7 @@
 0.0.0.0 71sise.com
 0.0.0.0 71zijilu.com
 0.0.0.0 72hdownload.com
+0.0.0.0 730f6ff856.com
 0.0.0.0 7333account-appe.com
 0.0.0.0 736bdcef84.com
 0.0.0.0 7533788.com
@@ -71044,6 +71045,7 @@
 0.0.0.0 getwerts.xyz
 0.0.0.0 gimak.xyz
 0.0.0.0 gonx.xyz
+0.0.0.0 googlesierai.xyz
 0.0.0.0 grabpokecoins.xyz
 0.0.0.0 grysw2.xyz
 0.0.0.0 gsitcenter.xyz
