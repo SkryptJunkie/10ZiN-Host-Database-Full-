@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Friday 02 October 2020
+# Date: 06:03 AM Saturday 03 October 2020
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -332,6 +332,8 @@
 0.0.0.0 heisebanner.geizhals.at
 0.0.0.0 123.ichkoche.at
 0.0.0.0 tracking.kurier.at
+0.0.0.0 paynazwa-pl-d9677786.motor-active.at
+0.0.0.0 www.paynazwa-pl-d9677786.motor-active.at
 0.0.0.0 pix.news.at
 0.0.0.0 www.nonnaemma.at
 0.0.0.0 1000ps.oewabox.at
@@ -2722,6 +2724,7 @@
 0.0.0.0 www.imoveisbragabh.com.br
 0.0.0.0 banking.capitalone.com.imoveisdecarli.com.br
 0.0.0.0 www.infotecnow.com.br
+0.0.0.0 blesstv.inovany.com.br
 0.0.0.0 www.institutofazendoadiferenca.com.br
 0.0.0.0 www.internetbandalargaitanet.com.br
 0.0.0.0 www.investebensimoveis.com.br
@@ -28665,6 +28668,7 @@
 0.0.0.0 www.dating-4-adults.com
 0.0.0.0 www.dating-4-adults2.com
 0.0.0.0 www.dating-heart1.com
+0.0.0.0 www.dating-heart3.com
 0.0.0.0 www.datingfriendly.com
 0.0.0.0 ads.datinggold.com
 0.0.0.0 www.datingonplanet.com
@@ -45393,6 +45397,7 @@
 0.0.0.0 www.dollygetsfit.icu
 0.0.0.0 www.edmondsreview.icu
 0.0.0.0 www.ehealthwave.icu
+0.0.0.0 www.auth.esports-cast.icu
 0.0.0.0 www.everydayisawindingroad.icu
 0.0.0.0 www.fabulascortas3.icu
 0.0.0.0 www2.fasterupconcreteflash.icu
@@ -45829,6 +45834,7 @@
 0.0.0.0 tracking.adserving.im
 0.0.0.0 www.feed.engage.im
 0.0.0.0 onlike.ro.im
+0.0.0.0 www.imisebepublishingcom
 0.0.0.0 al01.immobilien
 0.0.0.0 www.al01.immobilien
 0.0.0.0 66ml.in
@@ -49314,6 +49320,7 @@
 0.0.0.0 www.aperytime.it
 0.0.0.0 regcalabria.apps-spazicomuni.it
 0.0.0.0 www.arteelegnoitalia.it
+0.0.0.0 www.artistidelpane.it
 0.0.0.0 www.assculturaleincontri.it
 0.0.0.0 www.avismolaonline.it
 0.0.0.0 www.bb-iscoronas.it
@@ -50047,6 +50054,7 @@
 0.0.0.0 www.craigslist-account.live
 0.0.0.0 www.cryptomediamoney.live
 0.0.0.0 www.d-offers.live
+0.0.0.0 www.decimalprovehour8.live
 0.0.0.0 www.entrepreneurstarterkit.live
 0.0.0.0 www.erlah.live
 0.0.0.0 www.ethairdrop.live
@@ -54752,6 +54760,7 @@
 0.0.0.0 homeagd.in.net
 0.0.0.0 knewline.in.net
 0.0.0.0 kushedclothing.in.net
+0.0.0.0 lokalna-941866.in.net
 0.0.0.0 lookup.in.net
 0.0.0.0 loreannal.in.net
 0.0.0.0 masalegitim.in.net
@@ -54792,6 +54801,7 @@
 0.0.0.0 www.carbeard.in.net
 0.0.0.0 www.crepe.in.net
 0.0.0.0 www.homeagd.in.net
+0.0.0.0 www.lokalna-941866.in.net
 0.0.0.0 www.mediaexpres.in.net
 0.0.0.0 www.neotech.in.net
 0.0.0.0 www.retrortv.in.net
@@ -56992,6 +57002,7 @@
 0.0.0.0 paid-service.vevaonline.online
 0.0.0.0 www.virfiy.online
 0.0.0.0 www.voucher-for-you.online
+0.0.0.0 www.weekend24.online
 0.0.0.0 www.wosp.online
 0.0.0.0 ajm.ooo
 0.0.0.0 hatonasta3rf.ooo
@@ -58682,6 +58693,8 @@
 0.0.0.0 pavypal.com.resolutioncenter.privacypolicy.supporthelpaccount.update-loginpage.pi7v7.org
 0.0.0.0 www.pirater-facebook.org
 0.0.0.0 serv.ads.pixiv.org
+0.0.0.0 myaccount.ovh.pl-n.org
+0.0.0.0 www.myaccount.ovh.pl-n.org
 0.0.0.0 www.plasticdiaries.org
 0.0.0.0 www.plataformahorta.org
 0.0.0.0 verify.pncbanks.org
@@ -60939,6 +60952,7 @@
 0.0.0.0 www.pikabu.pro
 0.0.0.0 www.pomocnapozyczka.pro
 0.0.0.0 www.prezenty.pro
+0.0.0.0 www.crypto-genius.privatecatalog.pro
 0.0.0.0 www.quickweightloss.pro
 0.0.0.0 server.roulette-faker.pro
 0.0.0.0 www.sitedream.pro
@@ -66451,6 +66465,7 @@
 0.0.0.0 idmsapple.systems
 0.0.0.0 unlockaccountverify.systems
 0.0.0.0 xn--paypa-o7a.systems
+0.0.0.0 demo.agiliza.systems
 0.0.0.0 apple.com--validation.systems
 0.0.0.0 www.idmsapple.systems
 0.0.0.0 revenue.ie.hh1sd.tax
@@ -66699,6 +66714,7 @@
 0.0.0.0 www.mungmee.co.th
 0.0.0.0 km.doae.go.th
 0.0.0.0 www.sysplk3.phitsanulok3.go.th
+0.0.0.0 drmensajeria.thorinecrcom
 0.0.0.0 aide-authentification-compte-aide.tips
 0.0.0.0 www.toriyo.tj
 0.0.0.0 0x4fc271.tk
@@ -71182,6 +71198,7 @@
 0.0.0.0 online33.xyz
 0.0.0.0 onlineofficeoffice365now.xyz
 0.0.0.0 onlinesign-chase.xyz
+0.0.0.0 onlinesprzedaz.xyz
 0.0.0.0 onlinetoday33.xyz
 0.0.0.0 onlinetoday34.xyz
 0.0.0.0 onurerdemir.xyz
@@ -71559,6 +71576,7 @@
 0.0.0.0 www.ogloszenie156712.xyz
 0.0.0.0 www.oldvidz.xyz
 0.0.0.0 www.onlinesign-chase.xyz
+0.0.0.0 www.onlinesprzedaz.xyz
 0.0.0.0 youtube.dwis.onomovie.xyz
 0.0.0.0 youtube.wandi.onomovie.xyz
 0.0.0.0 confirm-rest-accnt.or-unlock.xyz
