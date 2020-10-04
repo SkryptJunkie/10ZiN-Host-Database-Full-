@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:03 AM Saturday 03 October 2020
+# Date: 06:02 AM Sunday 04 October 2020
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -5099,6 +5099,7 @@
 0.0.0.0 061a1632d773-amazon.com
 0.0.0.0 068943613eb.com
 0.0.0.0 06dd0894cce50c.com
+0.0.0.0 07567b5175d.com
 0.0.0.0 08a14e37bb.com
 0.0.0.0 08b72e4833486d.com
 0.0.0.0 093qpeuqpmz6ebfa.com
@@ -5162,6 +5163,7 @@
 0.0.0.0 1b969cef84d93b43.com
 0.0.0.0 1bancanetbanamex-ingreso.com
 0.0.0.0 1bluemountain.com
+0.0.0.0 1c0910ee64.com
 0.0.0.0 1dropboxx.com
 0.0.0.0 1forced.com
 0.0.0.0 1hentaiporntube.com
@@ -5393,6 +5395,7 @@
 0.0.0.0 4bfhd.com
 0.0.0.0 4e34b4865905c4.com
 0.0.0.0 4e9fa3c5de.com
+0.0.0.0 4f9d88054fa2b.com
 0.0.0.0 4gpaypal.com
 0.0.0.0 4jfkc.com
 0.0.0.0 4squareisb.com
@@ -5452,6 +5455,7 @@
 0.0.0.0 69proof.com
 0.0.0.0 69tubex.com
 0.0.0.0 6b29d83ec954e7.com
+0.0.0.0 6b4bcc240ad94.com
 0.0.0.0 6bd9a2ea1a1801e55.com
 0.0.0.0 6c37f8a12dede103bf7.com
 0.0.0.0 6d20d0bdc6313c2cf690.com
@@ -5482,6 +5486,7 @@
 0.0.0.0 755431a59e7.com
 0.0.0.0 777mobileslots.com
 0.0.0.0 77ccrc.com
+0.0.0.0 788522cceae.com
 0.0.0.0 7903dabd2b6.com
 0.0.0.0 7b3b96c01d798f.com
 0.0.0.0 7cnbcnews.com
@@ -9712,6 +9717,7 @@
 0.0.0.0 d409255ce88.com
 0.0.0.0 d50285bff60edbb406.com
 0.0.0.0 d60227ef59e.com
+0.0.0.0 d7a14c3e5ce6.com
 0.0.0.0 d7f2615c71a1567cc13cf3a7f7de6aea.com
 0.0.0.0 daalmorse.com
 0.0.0.0 dacorgas.com
@@ -10904,6 +10910,7 @@
 0.0.0.0 eztweezee.com
 0.0.0.0 ezuploaded.com
 0.0.0.0 f0172f2fd8.com
+0.0.0.0 f0568e9dc4e9.com
 0.0.0.0 f1288404ece4.com
 0.0.0.0 f1legroup.com
 0.0.0.0 f2phacks.com
