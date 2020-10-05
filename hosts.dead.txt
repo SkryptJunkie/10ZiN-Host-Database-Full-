@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Sunday 04 October 2020
+# Date: 06:02 AM Monday 05 October 2020
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -5160,6 +5160,7 @@
 0.0.0.0 19930216.com
 0.0.0.0 1ambu11.com
 0.0.0.0 1appleod.com
+0.0.0.0 1b01adcc41.com
 0.0.0.0 1b969cef84d93b43.com
 0.0.0.0 1bancanetbanamex-ingreso.com
 0.0.0.0 1bluemountain.com
