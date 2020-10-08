@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Wednesday 07 October 2020
+# Date: 06:02 AM Thursday 08 October 2020
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -5378,8 +5378,10 @@
 0.0.0.0 405pergolas.com
 0.0.0.0 40a9e06f54.com
 0.0.0.0 40xbfzk8.com
+0.0.0.0 4108f01cc82.com
 0.0.0.0 411commerce.com
 0.0.0.0 4121wellsfargo4388181144.com
+0.0.0.0 417c76f52b0.com
 0.0.0.0 437301aa95.com
 0.0.0.0 4481bff8825.com
 0.0.0.0 44ccvv.com
@@ -7647,6 +7649,7 @@
 0.0.0.0 backxcoin.com
 0.0.0.0 bacsigioitainha.com
 0.0.0.0 bacucredicoop.com
+0.0.0.0 bad359d353.com
 0.0.0.0 badekhanpur.com
 0.0.0.0 badlyreadbooks.com
 0.0.0.0 badoeudn.com
