@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Thursday 08 October 2020
+# Date: 06:02 AM Friday 09 October 2020
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -1249,6 +1249,7 @@
 0.0.0.0 oeihaehdojnawvf.bid
 0.0.0.0 okvfijgdmqton.bid
 0.0.0.0 onedigital.bid
+0.0.0.0 pafovocg.bid
 0.0.0.0 pettracer.bid
 0.0.0.0 phc-online.bid
 0.0.0.0 pianoall.bid
@@ -1300,6 +1301,7 @@
 0.0.0.0 wdc2sf1sgonsel5lyjmc.bid
 0.0.0.0 wpzljhndz4xp4vogict6.bid
 0.0.0.0 wtnbpblzj9xyzjabtwgl.bid
+0.0.0.0 wvgrpwdaol.bid
 0.0.0.0 wvps0vbply99hm1tdz8.bid
 0.0.0.0 x1cuw5utg5a2oq5inkgxsncx08o.bid
 0.0.0.0 x9vapmn7sjbkvdd7lt92nq.bid
@@ -4341,6 +4343,7 @@
 0.0.0.0 applexspromo.club
 0.0.0.0 applexspromos.club
 0.0.0.0 applicationpremium70.club
+0.0.0.0 aptaleant.club
 0.0.0.0 arc1szewski.club
 0.0.0.0 asxzs.club
 0.0.0.0 awsxzsa23.club
@@ -10890,6 +10893,7 @@
 0.0.0.0 extensions-games.com
 0.0.0.0 extensionser.com
 0.0.0.0 extoratech.com
+0.0.0.0 extra-gains.com
 0.0.0.0 extrasdownload.com
 0.0.0.0 extreembilisim.com
 0.0.0.0 extremblog.com
@@ -14166,6 +14170,7 @@
 0.0.0.0 jutcom.com
 0.0.0.0 juuwyyvjecnvps.com
 0.0.0.0 juvqtttkhz.com
+0.0.0.0 jv9b74.com
 0.0.0.0 jvtraders.com
 0.0.0.0 jvykohlq.com
 0.0.0.0 jwhvideography.com
@@ -29070,6 +29075,7 @@
 0.0.0.0 15.drdavidshanley.com
 0.0.0.0 adpush.dreamscape.com
 0.0.0.0 www.dreamtoachievecdc.com
+0.0.0.0 www.dreamwoman-finder1.com
 0.0.0.0 www.drgnairdrop.com
 0.0.0.0 www.driftersoutfittersllc.com
 0.0.0.0 idmsa.gsx.recoverappkey12k0449r02f3402p339j00k903.driv-tv.com
@@ -29802,6 +29808,7 @@
 0.0.0.0 aff-jp.exshot.com
 0.0.0.0 webmaster.extabit.com
 0.0.0.0 www.extoratech.com
+0.0.0.0 www.extra-gains.com
 0.0.0.0 caixa.extratoinativosliberadosparasaque.com
 0.0.0.0 www.caixa.extratoinativosliberadosparasaque.com
 0.0.0.0 match.com-mynewphotos.extravaganceironworks.com
@@ -30994,6 +31001,7 @@
 0.0.0.0 exitstitial.gopher.com
 0.0.0.0 go.goroost.com
 0.0.0.0 www.gospycash.com
+0.0.0.0 eae0908.gossnet.com
 0.0.0.0 www.gostehnadzor.com
 0.0.0.0 www.gostream365.com
 0.0.0.0 catxidportallogin.gotdns.com
@@ -40214,6 +40222,7 @@
 0.0.0.0 s.stats.wordpress.com
 0.0.0.0 ad.words-google.com
 0.0.0.0 www.wordstoelate.com
+0.0.0.0 newmg532.wordswideweb.com
 0.0.0.0 track.workablemetro.com
 0.0.0.0 www.worklifeblended.com
 0.0.0.0 www.worldclassautoroc.com
@@ -41935,6 +41944,7 @@
 0.0.0.0 www.annuncio.com.do
 0.0.0.0 www.mediaplan.com.do
 0.0.0.0 www.asdo.gob.do
+0.0.0.0 www.domain
 0.0.0.0 emirates.domains
 0.0.0.0 all.google.domains
 0.0.0.0 abacidcqfrjju.download
@@ -59614,6 +59624,7 @@
 0.0.0.0 pumaskleppolska.pl
 0.0.0.0 puszczykbukowy.pl
 0.0.0.0 qbloom.pl
+0.0.0.0 ralphlaurenpoland.pl
 0.0.0.0 ralphlaurenskleponline.pl
 0.0.0.0 ranczosmyczyna.pl
 0.0.0.0 ratykredyt.pl
@@ -60072,6 +60083,7 @@
 0.0.0.0 www.delikatesy34.pl
 0.0.0.0 www.denisgry.pl
 0.0.0.0 www.dermapol.pl
+0.0.0.0 www.dietasekret.pl
 0.0.0.0 www.dietovo.pl
 0.0.0.0 www.dinamoon.pl
 0.0.0.0 www.dobieraniefryzury.pl
@@ -60255,12 +60267,14 @@
 0.0.0.0 www.ilonaiwanska.pl
 0.0.0.0 www.imaginarium-pizza.pl
 0.0.0.0 www.indabox.pl
+0.0.0.0 www.ene.inebuse.pl
 0.0.0.0 art-tour.info.pl
 0.0.0.0 art-wood.info.pl
 0.0.0.0 www.art-wood.info.pl
 0.0.0.0 www.feng-shui.info.pl
 0.0.0.0 www.www.feng-shui.info.pl
 0.0.0.0 www.info24-warszawa.pl
+0.0.0.0 www.infolokalne24.pl
 0.0.0.0 cgi7.ebay.de.8624972354237482569273632685.innoflex.pl
 0.0.0.0 www.innoprojekty.pl
 0.0.0.0 www.inspectio.pl
@@ -60488,6 +60502,7 @@
 0.0.0.0 www.platinumprestige.pl
 0.0.0.0 www.playfilm.pl
 0.0.0.0 www.pobierznet.pl
+0.0.0.0 www.poczta-o2.pl
 0.0.0.0 www.emonitoring.poczta-polska2.pl
 0.0.0.0 www.poczta-polska3.pl
 0.0.0.0 www.poczta-polska4.pl
@@ -60536,6 +60551,7 @@
 0.0.0.0 www.puszczykbukowy.pl
 0.0.0.0 www.qbloom.pl
 0.0.0.0 siecikomputerowe.radom.pl
+0.0.0.0 www.ralphlaurenpoland.pl
 0.0.0.0 www.ralphlaurenskleponline.pl
 0.0.0.0 www.ranczosmyczyna.pl
 0.0.0.0 www.ratykredyt.pl
@@ -64129,6 +64145,7 @@
 0.0.0.0 www.ipoteka.org.ru
 0.0.0.0 www.kassa.org.ru
 0.0.0.0 www.links.org.ru
+0.0.0.0 www.navi-free.org.ru
 0.0.0.0 www.pravo.org.ru
 0.0.0.0 www.otdih-nebug.ru
 0.0.0.0 amazon.de.p2-amazon-cpovm.ru
@@ -70914,6 +70931,7 @@
 0.0.0.0 alertloginauthwellsbankaccrestricted.xyz
 0.0.0.0 alertsca.xyz
 0.0.0.0 alexandr01299.xyz
+0.0.0.0 allegro-lokalnie-095716.xyz
 0.0.0.0 allertwellsbankaccountlocked.xyz
 0.0.0.0 americabank.xyz
 0.0.0.0 americabestinvestments.xyz
@@ -71151,9 +71169,11 @@
 0.0.0.0 login1238.xyz
 0.0.0.0 login345.xyz
 0.0.0.0 lojacriarthost.xyz
+0.0.0.0 lokalnieaiiegro.xyz
 0.0.0.0 longxvisitorcenter.xyz
 0.0.0.0 lookatmyshop.xyz
 0.0.0.0 ltcpro.xyz
+0.0.0.0 luven.xyz
 0.0.0.0 m-facebook-com.xyz
 0.0.0.0 mac-error-alerts.xyz
 0.0.0.0 machinesystem.xyz
@@ -71414,6 +71434,7 @@
 0.0.0.0 www.advserver.xyz
 0.0.0.0 shoukder.akatsuki-group.xyz
 0.0.0.0 revqc.alertsca.xyz
+0.0.0.0 www.allegro-lokalnie-095716.xyz
 0.0.0.0 www.ambroseuert.xyz
 0.0.0.0 usps.com.02a49owc.anadol.xyz
 0.0.0.0 www.usps.com.02a49owc.anadol.xyz
@@ -71535,6 +71556,7 @@
 0.0.0.0 www.kuponline859172.xyz
 0.0.0.0 www.lenstaste.xyz
 0.0.0.0 gov.uk.claim-tax-refund.loguk.xyz
+0.0.0.0 www.lokalnieaiiegro.xyz
 0.0.0.0 www.lokjhq.xyz
 0.0.0.0 eu.longxvisitorcenter.xyz
 0.0.0.0 www.longxvisitorcenter.xyz
