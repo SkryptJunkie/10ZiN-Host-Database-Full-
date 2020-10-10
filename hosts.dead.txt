@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Friday 09 October 2020
+# Date: 06:02 AM Saturday 10 October 2020
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -5490,6 +5490,7 @@
 0.0.0.0 736bdcef84.com
 0.0.0.0 7533788.com
 0.0.0.0 755431a59e7.com
+0.0.0.0 75a91a1683.com
 0.0.0.0 777mobileslots.com
 0.0.0.0 77ccrc.com
 0.0.0.0 788522cceae.com
