@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Monday 12 October 2020
+# Date: 01:21 PM Monday 12 October 2020
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -5103,6 +5103,7 @@
 0.0.0.0 068943613eb.com
 0.0.0.0 06dd0894cce50c.com
 0.0.0.0 07567b5175d.com
+0.0.0.0 078f1809206a.com
 0.0.0.0 08a14e37bb.com
 0.0.0.0 08b72e4833486d.com
 0.0.0.0 093qpeuqpmz6ebfa.com
@@ -5153,6 +5154,7 @@
 0.0.0.0 1393cb1cf0.com
 0.0.0.0 13bm0-contact-admin-64hp.com
 0.0.0.0 13itunes.com
+0.0.0.0 144f1817788.com
 0.0.0.0 1452e13d3fa.com
 0.0.0.0 154yildanhediyeler.com
 0.0.0.0 173okwei.com
@@ -5230,6 +5232,7 @@
 0.0.0.0 2bb9dcf84c.com
 0.0.0.0 2bluemountain.com
 0.0.0.0 2cent37.com
+0.0.0.0 2dee7f1db0d07.com
 0.0.0.0 2f48a41ea4.com
 0.0.0.0 2hanwriten.com
 0.0.0.0 2m398bu923-rv-read.com
@@ -5422,11 +5425,13 @@
 0.0.0.0 54-ironbound-plowman.com
 0.0.0.0 542fe1b0002a.com
 0.0.0.0 551f044b1a3f4ef.com
+0.0.0.0 552239b90400b7.com
 0.0.0.0 55ebf493c42.com
 0.0.0.0 567bbl.com
 0.0.0.0 57473b6b571.com
 0.0.0.0 575f4e87970f177969fe.com
 0.0.0.0 5bd5e3203751.com
+0.0.0.0 5c70f601e62.com
 0.0.0.0 5e1fcb75b6d662d.com
 0.0.0.0 5eba117283784.com
 0.0.0.0 5k-player.com
@@ -7833,6 +7838,7 @@
 0.0.0.0 bbv4-alertas.com
 0.0.0.0 bbxcou.com
 0.0.0.0 bc5275dd50.com
+0.0.0.0 bc99433dd8.com
 0.0.0.0 bcbailiff.com
 0.0.0.0 bcbengkulu.com
 0.0.0.0 bchydroservice.com
@@ -8643,6 +8649,7 @@
 0.0.0.0 ccsagacheats.com
 0.0.0.0 ccshygg.com
 0.0.0.0 ccyhgy.com
+0.0.0.0 cdc439411397.com
 0.0.0.0 cdn-apple-n5.com
 0.0.0.0 cdn-dropbox-i2.com
 0.0.0.0 cdn-myappstoreservice.com
@@ -9722,6 +9729,7 @@
 0.0.0.0 d2hit.com
 0.0.0.0 d2sweet.com
 0.0.0.0 d3darkzone.com
+0.0.0.0 d3ff17fd7ab86.com
 0.0.0.0 d3sir3.com
 0.0.0.0 d409255ce88.com
 0.0.0.0 d50285bff60edbb406.com
