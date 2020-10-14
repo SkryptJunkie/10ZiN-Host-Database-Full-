@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Tuesday 13 October 2020
+# Date: 06:02 AM Wednesday 14 October 2020
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -23776,6 +23776,7 @@
 0.0.0.0 zzzrtrcm2.com
 0.0.0.0 www.000apple000.com
 0.0.0.0 www.hehreerh.001www.com
+0.0.0.0 www.hrerheerhher.001www.com
 0.0.0.0 www.hrhererhtng.001www.com
 0.0.0.0 www.kjopjpoerhrhe.001www.com
 0.0.0.0 www.yrehrher.001www.com
@@ -49350,8 +49351,11 @@
 0.0.0.0 ads.anyoption.it
 0.0.0.0 www.aperytime.it
 0.0.0.0 regcalabria.apps-spazicomuni.it
+0.0.0.0 www.af.aristocraticaband.it
+0.0.0.0 www.coo.aristocraticaband.it
 0.0.0.0 www.arteelegnoitalia.it
 0.0.0.0 www.artistidelpane.it
+0.0.0.0 www.aj.artstuff.it
 0.0.0.0 www.assculturaleincontri.it
 0.0.0.0 www.avismolaonline.it
 0.0.0.0 www.bb-iscoronas.it
@@ -49365,6 +49369,7 @@
 0.0.0.0 mp3-tv-electronica.stores.ebay.es.claudiorosselli.it
 0.0.0.0 www.mp3-tv-electronica.stores.ebay.es.claudiorosselli.it
 0.0.0.0 login-verify.23423423docu.sign.com345353453.colledeipini.it
+0.0.0.0 www.ah.complexcity.it
 0.0.0.0 counter2.condenast.it
 0.0.0.0 www.confermazione-info-update.it
 0.0.0.0 tracking.conversion-lab.it
@@ -49395,6 +49400,7 @@
 0.0.0.0 oas.ilsecoloxix.it
 0.0.0.0 www.ingleseincasa.it
 0.0.0.0 media.intelia.it
+0.0.0.0 www.ca.it2learn.it
 0.0.0.0 www.shop.jealousynails.it
 0.0.0.0 lnx.kifachadhif.it
 0.0.0.0 www.likelist.it
@@ -49430,6 +49436,7 @@
 0.0.0.0 www.reburlone.it
 0.0.0.0 www.recuperocondominio.it
 0.0.0.0 www.residenzaolimpo.it
+0.0.0.0 www.eii.salben.it
 0.0.0.0 glovein.says.it
 0.0.0.0 www.scuolando.it
 0.0.0.0 www.sexplorer.it
@@ -49864,6 +49871,7 @@
 0.0.0.0 applesid-apple.life
 0.0.0.0 applesidapple.life
 0.0.0.0 ashegret.life
+0.0.0.0 bestprizesday5.life
 0.0.0.0 c49iwytj.life
 0.0.0.0 check-prizes-now2.life
 0.0.0.0 cloud-adobe.life
@@ -49905,6 +49913,8 @@
 0.0.0.0 www.applesid-apple.life
 0.0.0.0 www.applesidapple.life
 0.0.0.0 www.bestprize-places-here1.life
+0.0.0.0 www.bestprizeday.life
+0.0.0.0 www.bestprizesday5.life
 0.0.0.0 boa.b.secu.canna4.life
 0.0.0.0 www.boa.b.secu.canna4.life
 0.0.0.0 www.check-prizes-now2.life
@@ -49924,6 +49934,7 @@
 0.0.0.0 app4.letslowbefast.life
 0.0.0.0 www.mobile-app-market-here5.life
 0.0.0.0 www.mobile-global-apps-storage.life
+0.0.0.0 www.mobile-global-apps-storages.life
 0.0.0.0 www.mobile-global-apps-store.life
 0.0.0.0 www.protected-adobe.life
 0.0.0.0 www.random-apple.life
@@ -50082,10 +50093,18 @@
 0.0.0.0 www.apple.com-speedup-macos.live
 0.0.0.0 www.comcast5g.live
 0.0.0.0 www.contatohddmaxx.live
+0.0.0.0 www.copysubstancepattern2.live
+0.0.0.0 www.copysubstancepattern6.live
 0.0.0.0 www.craigslist-account.live
 0.0.0.0 www.cryptomediamoney.live
 0.0.0.0 www.d-offers.live
 0.0.0.0 www.decimalprovehour8.live
+0.0.0.0 www.effectstorestream1.live
+0.0.0.0 www.effectstorestream13.live
+0.0.0.0 www.effectstorestream2.live
+0.0.0.0 www.effectstorestream3.live
+0.0.0.0 www.effectstorestream5.live
+0.0.0.0 www.effectstorestream6.live
 0.0.0.0 www.entrepreneurstarterkit.live
 0.0.0.0 www.erlah.live
 0.0.0.0 www.ethairdrop.live
@@ -50127,6 +50146,7 @@
 0.0.0.0 www.quarkchain.live
 0.0.0.0 support.paypal.manage.secure-updates.live
 0.0.0.0 www.shortenurl.live
+0.0.0.0 www.shoutmostface1.live
 0.0.0.0 www.sibtion.live
 0.0.0.0 www.support-itunes.live
 0.0.0.0 www.usana-mn.live
@@ -50367,6 +50387,7 @@
 0.0.0.0 icprisma.me
 0.0.0.0 indexserver.me
 0.0.0.0 inpost24.me
+0.0.0.0 kod-odbioru.me
 0.0.0.0 limiites.me
 0.0.0.0 live3s.me
 0.0.0.0 lmlghtycps.me
@@ -50446,6 +50467,7 @@
 0.0.0.0 www.appeal.facebook.com.inbox-suport.me
 0.0.0.0 www.inpost24.me
 0.0.0.0 ox.jisearch.me
+0.0.0.0 www.kod-odbioru.me
 0.0.0.0 www.inpost.kod-odbioru.me
 0.0.0.0 paypal.kunden-00x016-uberprufen.me
 0.0.0.0 i.linkurysearch.me
@@ -64155,6 +64177,7 @@
 0.0.0.0 www.kassa.org.ru
 0.0.0.0 www.links.org.ru
 0.0.0.0 www.navi-free.org.ru
+0.0.0.0 www.navi-free2020.org.ru
 0.0.0.0 www.pravo.org.ru
 0.0.0.0 www.otdih-nebug.ru
 0.0.0.0 amazon.de.p2-amazon-cpovm.ru
@@ -69603,6 +69626,7 @@
 0.0.0.0 olivia-stanfield.us
 0.0.0.0 onlinehacks.us
 0.0.0.0 ourtimes.us
+0.0.0.0 paczkomaty.us
 0.0.0.0 paige-weigand.us
 0.0.0.0 pamela-bax.us
 0.0.0.0 pamela-wanamaker.us
@@ -70280,6 +70304,7 @@
 0.0.0.0 sho.outeren.us
 0.0.0.0 consulting.overvoice.us
 0.0.0.0 inpost.paczkomaty.us
+0.0.0.0 www.paczkomaty.us
 0.0.0.0 www.inpost.paczkomaty.us
 0.0.0.0 www.paige-weigand.us
 0.0.0.0 www.pamela-bax.us
@@ -70440,6 +70465,8 @@
 0.0.0.0 www.netflixs.video
 0.0.0.0 xfacebook.vip
 0.0.0.0 www.vodafone.com-gift-winner-lucky-day.vip
+0.0.0.0 www.kfc-vip.vip
+0.0.0.0 www.owo-owo.vip
 0.0.0.0 www.www3659009.vip
 0.0.0.0 beautycaregold.vn
 0.0.0.0 biolusgoldmax.vn
@@ -70647,6 +70674,7 @@
 0.0.0.0 milhas-onlineative.website
 0.0.0.0 moneywp.website
 0.0.0.0 netflixbr.website
+0.0.0.0 oferta489519.website
 0.0.0.0 pinoydramas428.website
 0.0.0.0 polskasupermarkecie.website
 0.0.0.0 progenerators24.website
@@ -70677,6 +70705,7 @@
 0.0.0.0 www.moneywp.website
 0.0.0.0 www.netflixbr.website
 0.0.0.0 allegrolokalnie.oferta489519.website
+0.0.0.0 www.oferta489519.website
 0.0.0.0 www.allegrolokalnie.oferta489519.website
 0.0.0.0 www.polskasupermarkecie.website
 0.0.0.0 www.quarkchain.website
@@ -71224,9 +71253,37 @@
 0.0.0.0 not-found34.xyz
 0.0.0.0 notxcusestody.xyz
 0.0.0.0 nstuhin.xyz
+0.0.0.0 oferta000123.xyz
+0.0.0.0 oferta000657.xyz
+0.0.0.0 oferta020202.xyz
+0.0.0.0 oferta040404.xyz
+0.0.0.0 oferta061120.xyz
+0.0.0.0 oferta070707.xyz
+0.0.0.0 oferta099990.xyz
+0.0.0.0 oferta123098.xyz
+0.0.0.0 oferta159815.xyz
+0.0.0.0 oferta189510.xyz
 0.0.0.0 oferta189515.xyz
+0.0.0.0 oferta189519.xyz
+0.0.0.0 oferta222333.xyz
+0.0.0.0 oferta228322.xyz
+0.0.0.0 oferta333332.xyz
+0.0.0.0 oferta345698.xyz
+0.0.0.0 oferta412598.xyz
+0.0.0.0 oferta444678.xyz
+0.0.0.0 oferta485691.xyz
+0.0.0.0 oferta555554.xyz
+0.0.0.0 oferta666665.xyz
 0.0.0.0 oferta741812.xyz
+0.0.0.0 oferta789537.xyz
+0.0.0.0 oferta789654.xyz
 0.0.0.0 oferta813981.xyz
+0.0.0.0 oferta876567.xyz
+0.0.0.0 oferta877887.xyz
+0.0.0.0 oferta888999.xyz
+0.0.0.0 oferta898767.xyz
+0.0.0.0 oferta987567.xyz
+0.0.0.0 oferta999555.xyz
 0.0.0.0 office-supports.xyz
 0.0.0.0 officeout321.xyz
 0.0.0.0 oghituk.xyz
@@ -71325,6 +71382,7 @@
 0.0.0.0 software-support.xyz
 0.0.0.0 sorteospremiosbnpe.xyz
 0.0.0.0 spacequake.xyz
+0.0.0.0 sprzedaz-aiiegro-094814.xyz
 0.0.0.0 staffsmith.xyz
 0.0.0.0 subsgifts.xyz
 0.0.0.0 sun-graphic.xyz
@@ -71584,32 +71642,60 @@
 0.0.0.0 www.ninjavpn.xyz
 0.0.0.0 www.nstuhin.xyz
 0.0.0.0 allegrolokalnie.oferta000123.xyz
+0.0.0.0 www.oferta000123.xyz
 0.0.0.0 www.allegrolokalnie.oferta000123.xyz
 0.0.0.0 allegrolokalnie.oferta000657.xyz
+0.0.0.0 www.oferta000657.xyz
 0.0.0.0 www.allegrolokalnie.oferta000657.xyz
 0.0.0.0 allegrolokalnie.oferta020202.xyz
+0.0.0.0 www.oferta020202.xyz
 0.0.0.0 www.allegrolokalnie.oferta020202.xyz
+0.0.0.0 www.oferta040404.xyz
+0.0.0.0 www.oferta061120.xyz
 0.0.0.0 allegrolokalnie.oferta070707.xyz
+0.0.0.0 www.oferta070707.xyz
 0.0.0.0 www.allegrolokalnie.oferta070707.xyz
+0.0.0.0 www.oferta099990.xyz
+0.0.0.0 www.oferta123098.xyz
+0.0.0.0 www.oferta159815.xyz
+0.0.0.0 www.oferta189510.xyz
 0.0.0.0 www.oferta189515.xyz
 0.0.0.0 allegrolokalnie.oferta189519.xyz
+0.0.0.0 www.oferta189519.xyz
 0.0.0.0 www.allegrolokalnie.oferta189519.xyz
 0.0.0.0 allegrolokalnie.oferta222333.xyz
+0.0.0.0 www.oferta222333.xyz
 0.0.0.0 www.allegrolokalnie.oferta222333.xyz
+0.0.0.0 www.oferta228322.xyz
 0.0.0.0 allegrolokalnie.oferta333332.xyz
+0.0.0.0 www.oferta333332.xyz
 0.0.0.0 www.allegrolokalnie.oferta333332.xyz
+0.0.0.0 www.oferta345698.xyz
+0.0.0.0 www.oferta412598.xyz
+0.0.0.0 www.oferta444678.xyz
+0.0.0.0 www.oferta485691.xyz
 0.0.0.0 allegrolokalnie.oferta555554.xyz
+0.0.0.0 www.oferta555554.xyz
 0.0.0.0 www.allegrolokalnie.oferta555554.xyz
+0.0.0.0 www.oferta666665.xyz
 0.0.0.0 www.oferta741812.xyz
 0.0.0.0 allegrolokalkie.oferta789537.xyz
+0.0.0.0 www.oferta789537.xyz
 0.0.0.0 www.allegrolokalkie.oferta789537.xyz
+0.0.0.0 www.oferta789654.xyz
 0.0.0.0 www.oferta813981.xyz
+0.0.0.0 www.oferta876567.xyz
 0.0.0.0 allegrolokalnie.oferta877887.xyz
+0.0.0.0 www.oferta877887.xyz
 0.0.0.0 www.allegrolokalnie.oferta877887.xyz
+0.0.0.0 www.oferta888999.xyz
 0.0.0.0 allegrolokalnie.oferta898767.xyz
+0.0.0.0 www.oferta898767.xyz
 0.0.0.0 www.allegrolokalnie.oferta898767.xyz
 0.0.0.0 allegrolokalnie.oferta987567.xyz
+0.0.0.0 www.oferta987567.xyz
 0.0.0.0 www.allegrolokalnie.oferta987567.xyz
+0.0.0.0 www.oferta999555.xyz
 0.0.0.0 www.officeout321.xyz
 0.0.0.0 accounts-service.officesyncactivation.xyz
 0.0.0.0 paques-2016.offre-exceptionnelle.xyz
@@ -71659,6 +71745,7 @@
 0.0.0.0 confirm.authtenicate.device.sms-confirmation-wfb.xyz
 0.0.0.0 www.sorteospremiosbnpe.xyz
 0.0.0.0 onlimet80.sponsorgenie.xyz
+0.0.0.0 www.sprzedaz-aiiegro-094814.xyz
 0.0.0.0 www.marine.stayhost.xyz
 0.0.0.0 www.surancekindyot.xyz
 0.0.0.0 www.surancliketap.xyz
