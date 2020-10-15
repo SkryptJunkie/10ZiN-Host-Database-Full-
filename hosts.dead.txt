@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Wednesday 14 October 2020
+# Date: 06:03 AM Thursday 15 October 2020
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -9845,6 +9845,7 @@
 0.0.0.0 dbhrfdfuqh.com
 0.0.0.0 dbsbanklimited.com
 0.0.0.0 dc3c87c212.com
+0.0.0.0 dc9e1b75d8.com
 0.0.0.0 dcjhpaexcwtc.com
 0.0.0.0 dcxbmm.com
 0.0.0.0 dd699aa951e9.com
@@ -56701,6 +56702,7 @@
 0.0.0.0 emailapple.online
 0.0.0.0 eth-airdrop.online
 0.0.0.0 ether-giveaway.online
+0.0.0.0 ethhink.online
 0.0.0.0 exemploloja.online
 0.0.0.0 facebook-confirmation.online
 0.0.0.0 facebook-login-secured.online
@@ -56851,6 +56853,7 @@
 0.0.0.0 target-support.online
 0.0.0.0 teasernounternse.online
 0.0.0.0 tejk.online
+0.0.0.0 thientam.online
 0.0.0.0 tokensidex.online
 0.0.0.0 tomypolacy.online
 0.0.0.0 tradecsgo.online
