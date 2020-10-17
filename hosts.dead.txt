@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:04 AM Friday 16 October 2020
+# Date: 06:02 AM Saturday 17 October 2020
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -5222,6 +5222,7 @@
 0.0.0.0 24kassa.com
 0.0.0.0 24pillshop.com
 0.0.0.0 24tradeplus.com
+0.0.0.0 2569d02c22c.com
 0.0.0.0 267932.com
 0.0.0.0 272351.com
 0.0.0.0 286b656e86a.com
@@ -5414,6 +5415,7 @@
 0.0.0.0 4x412.com
 0.0.0.0 5000eth-giveaway.com
 0.0.0.0 5000eth-promo.com
+0.0.0.0 50439579cb5.com
 0.0.0.0 50nuancesdegrey-lefilm-vf.com
 0.0.0.0 5116776.com
 0.0.0.0 5116778.com
@@ -5458,6 +5460,7 @@
 0.0.0.0 6631f33cf2a1032b.com
 0.0.0.0 669hl.com
 0.0.0.0 66eexx.com
+0.0.0.0 67002adde4.com
 0.0.0.0 670915.com
 0.0.0.0 6722073.com
 0.0.0.0 68bad96d44.com
@@ -5979,6 +5982,7 @@
 0.0.0.0 aethpromogive.com
 0.0.0.0 aethyrquest.com
 0.0.0.0 aeysop.com
+0.0.0.0 af2b4b0e7280.com
 0.0.0.0 afabumtunpo.com
 0.0.0.0 afantispy.com
 0.0.0.0 afda963065c4.com
