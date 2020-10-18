@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Saturday 17 October 2020
+# Date: 06:02 AM Sunday 18 October 2020
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -5368,6 +5368,7 @@
 0.0.0.0 3e53df6c390.com
 0.0.0.0 3e80004b51.com
 0.0.0.0 3f49237cf0.com
+0.0.0.0 3fa2ce62e75.com
 0.0.0.0 3fns.com
 0.0.0.0 3ikaret.com
 0.0.0.0 3n-lifemed.com
@@ -5508,6 +5509,7 @@
 0.0.0.0 7come11casino.com
 0.0.0.0 7cxcrejm.com
 0.0.0.0 7d044bcf.com
+0.0.0.0 7d1579f52d.com
 0.0.0.0 7d6260236b547b31f.com
 0.0.0.0 7d6b2264fe.com
 0.0.0.0 7f8e91975bdc9c5f1c.com
@@ -8464,6 +8466,7 @@
 0.0.0.0 c667628.com
 0.0.0.0 c74df06d52c9da686f17.com
 0.0.0.0 ca-fr-credit-agricole-particuliers.com
+0.0.0.0 ca43588366c.com
 0.0.0.0 caalnt.com
 0.0.0.0 caancel.com
 0.0.0.0 cabaniasmunaymanta.com
