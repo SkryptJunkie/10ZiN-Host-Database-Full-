@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Sunday 08 November 2020
+# Date: 06:04 AM Monday 09 November 2020
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -4560,6 +4560,7 @@
 0.0.0.0 www.meu.original.com.br.original.internetbanking.webapp.jkjeuiuudkjkjdhjhhquedfghjkl.netfliixx.club
 0.0.0.0 www.netflixlovers.club
 0.0.0.0 www.netflixoffer.club
+0.0.0.0 www.toy.onlinekid.club
 0.0.0.0 www.owa-outlook.club
 0.0.0.0 www.paquetesturisticos.club
 0.0.0.0 www.participation-logistilla.club
@@ -26821,6 +26822,7 @@
 0.0.0.0 depositauthorizations.canadacentral.cloudapp.azure.com
 0.0.0.0 funds-cradeposits.canadacentral.cloudapp.azure.com
 0.0.0.0 deudaurgente.eastus.cloudapp.azure.com
+0.0.0.0 muerte.eastus.cloudapp.azure.com
 0.0.0.0 obligacion.eastus.cloudapp.azure.com
 0.0.0.0 suothceenttussa18.southcentralus.cloudapp.azure.com
 0.0.0.0 www.azurebogota.com
@@ -27973,6 +27975,7 @@
 0.0.0.0 www.checkapple.com
 0.0.0.0 www.checkicloud.com
 0.0.0.0 www.checkout-payment.com
+0.0.0.0 www.checkoutbase.com
 0.0.0.0 www.checkoutwins.com
 0.0.0.0 www.checkrepair-apple.com
 0.0.0.0 www.cheechbeats.com
@@ -33967,6 +33970,7 @@
 0.0.0.0 serve.mediayan.com
 0.0.0.0 www.medicadentalportatil.com
 0.0.0.0 www.medical-rewardpath.com
+0.0.0.0 www.medicalclinic-eu.com
 0.0.0.0 www.medicalcourses4u.com
 0.0.0.0 www.medicine-natural.com
 0.0.0.0 c3metrics.medifast1.com
@@ -39111,6 +39115,7 @@
 0.0.0.0 www.br001.topmoneyplus.com
 0.0.0.0 www.topmoviesnetflix.com
 0.0.0.0 www.toppagefinder.com
+0.0.0.0 www.topparcelservices.com
 0.0.0.0 www.toppropertydealsusa.com
 0.0.0.0 www.toprankpl.com
 0.0.0.0 www.toprst.com
@@ -44050,6 +44055,9 @@
 0.0.0.0 bvcxzlkjhgfdsapoiuytrewqwertyuiopasdfghj.ydns.eu
 0.0.0.0 hdgbcnuy73wjnho9jusrnhfhejfuy78wyi7jfknv.ydns.eu
 0.0.0.0 stdyunitedfrkesokoriorimistreetsmsttyr.ydns.eu
+0.0.0.0 systemscantheipwithadvancefirewalltechnologyandinternaitonaldns.ydns.eu
+0.0.0.0 systemsecuritycheckingwithallprotectionofinternetwithfirewallpr.ydns.eu
+0.0.0.0 thdyprivatecloudshareandfileprotecthfqm.ydns.eu
 0.0.0.0 pgl.example
 0.0.0.0 pgl.example0101
 0.0.0.0 csgolounge.exchange
@@ -50651,6 +50659,7 @@
 0.0.0.0 serviceinfr.me
 0.0.0.0 servomaster.me
 0.0.0.0 shafiul.me
+0.0.0.0 singpost-c.me
 0.0.0.0 skins-offer.me
 0.0.0.0 someapp.me
 0.0.0.0 speedex.me
@@ -55066,6 +55075,7 @@
 0.0.0.0 greeting.in.net
 0.0.0.0 hiigh.in.net
 0.0.0.0 homeagd.in.net
+0.0.0.0 inpost-platnosc.in.net
 0.0.0.0 iokalnie-sklep-eiektroniczny.in.net
 0.0.0.0 knewline.in.net
 0.0.0.0 kushedclothing.in.net
@@ -55118,6 +55128,7 @@
 0.0.0.0 www.carbeard.in.net
 0.0.0.0 www.crepe.in.net
 0.0.0.0 www.homeagd.in.net
+0.0.0.0 www.inpost-platnosc.in.net
 0.0.0.0 www.iokalnie-sklep-eiektroniczny.in.net
 0.0.0.0 www.lokalna-941866.in.net
 0.0.0.0 www.mediaexpres.in.net
@@ -60419,6 +60430,7 @@
 0.0.0.0 www.dietovo.pl
 0.0.0.0 www.dinamoon.pl
 0.0.0.0 www.dobieraniefryzury.pl
+0.0.0.0 www.dobredeale.pl
 0.0.0.0 www.docufile.pl
 0.0.0.0 www.domowy-sprzet.pl
 0.0.0.0 www.domtrakenski.pl
@@ -66330,6 +66342,7 @@
 0.0.0.0 www.celer.space
 0.0.0.0 kclsikornbclnk.com-registers.space
 0.0.0.0 download.hpjy.space
+0.0.0.0 www.poczta.interia-pl.space
 0.0.0.0 www.itstime.space
 0.0.0.0 www.itsweeps3.space
 0.0.0.0 login.ketemutante.space
