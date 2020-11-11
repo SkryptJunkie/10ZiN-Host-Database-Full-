@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Tuesday 10 November 2020
+# Date: 06:02 AM Wednesday 11 November 2020
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -673,6 +673,7 @@
 0.0.0.0 www.eatingglutenfree.com.au
 0.0.0.0 banners.empoweredcomms.com.au
 0.0.0.0 ibanners.empoweredcomms.com.au
+0.0.0.0 staging.encompasswebdesign.com.au
 0.0.0.0 eneview.eneview.com.au
 0.0.0.0 www.eneview.eneview.com.au
 0.0.0.0 www.esikitchens.com.au
@@ -10423,6 +10424,7 @@
 0.0.0.0 e331ff4e674c083.com
 0.0.0.0 e3edf10711.com
 0.0.0.0 e406019.com
+0.0.0.0 e5c4d8d221.com
 0.0.0.0 e69e1360c7.com
 0.0.0.0 e765487792.com
 0.0.0.0 e860045edaecd.com
@@ -10996,6 +10998,7 @@
 0.0.0.0 f1288404ece4.com
 0.0.0.0 f1legroup.com
 0.0.0.0 f2phacks.com
+0.0.0.0 f4674af89e.com
 0.0.0.0 f47cecd3f0a29874f.com
 0.0.0.0 f774d56fd4d98.com
 0.0.0.0 f826fdf639.com
@@ -19321,6 +19324,7 @@
 0.0.0.0 santander-one.com
 0.0.0.0 santander-personas.com
 0.0.0.0 santander-personascl.com
+0.0.0.0 santander-private-banking.com
 0.0.0.0 santander-regularize.com
 0.0.0.0 santander-remittance-dept.com
 0.0.0.0 santander-seguro.com
@@ -36298,6 +36302,8 @@
 0.0.0.0 www.prize-bigpond.com
 0.0.0.0 w.prize44.com
 0.0.0.0 join.pro-gaming-world.com
+0.0.0.0 weryfikacja2025.pro-linuxpl.com
+0.0.0.0 www.weryfikacja2025.pro-linuxpl.com
 0.0.0.0 coinbase.pro-xca.com
 0.0.0.0 kangaroo.proadscdn.com
 0.0.0.0 www.proangjel.com
@@ -37109,6 +37115,7 @@
 0.0.0.0 lct.salesforce.com
 0.0.0.0 www.arbolbonito.salesianas.com
 0.0.0.0 www.salesjoblondon.com
+0.0.0.0 www.poland.salesonline2020.com
 0.0.0.0 www.salezcensnstralle-amazon.com
 0.0.0.0 www.scotiaonline.scotiabank.salferreras.com
 0.0.0.0 dc-a7b5f905.salintoshourt.com
@@ -37163,6 +37170,7 @@
 0.0.0.0 www.santander-netmobi.com
 0.0.0.0 www.santander-personas.com
 0.0.0.0 www.santander-personascl.com
+0.0.0.0 www.santander-private-banking.com
 0.0.0.0 www.santander-regularize.com
 0.0.0.0 www.santander-remittance-dept.com
 0.0.0.0 www.santander-seguro.com
@@ -40201,6 +40209,7 @@
 0.0.0.0 ns1.webwise.com
 0.0.0.0 ns2.webwise.com
 0.0.0.0 www.webwise.com
+0.0.0.0 www.wecollabimpart.com
 0.0.0.0 www.weddingflowerclips.com
 0.0.0.0 www.weddingingreekislands.com
 0.0.0.0 ad.wedoo.com
@@ -50115,6 +50124,7 @@
 0.0.0.0 j8s4pyvf.life
 0.0.0.0 jdffhjfk.life
 0.0.0.0 k3x29qbn.life
+0.0.0.0 kurier-naleznosc.life
 0.0.0.0 lokainie.life
 0.0.0.0 lucuma.life
 0.0.0.0 m8hwpiqt.life
@@ -50156,6 +50166,7 @@
 0.0.0.0 www.grand-prise-ishere2.life
 0.0.0.0 www.hdmaxxxmovefxx.life
 0.0.0.0 www.itunesdownload.life
+0.0.0.0 www.kurier-naleznosc.life
 0.0.0.0 app1.letitbefaster.life
 0.0.0.0 app2.letitbefaster.life
 0.0.0.0 app3.letitbefaster.life
@@ -55079,6 +55090,7 @@
 0.0.0.0 inpost-platnosc.in.net
 0.0.0.0 iokalnie-sklep-eiektroniczny.in.net
 0.0.0.0 knewline.in.net
+0.0.0.0 kurier-naleznosc.in.net
 0.0.0.0 kushedclothing.in.net
 0.0.0.0 lokalna-941866.in.net
 0.0.0.0 lookup.in.net
@@ -55131,6 +55143,7 @@
 0.0.0.0 www.homeagd.in.net
 0.0.0.0 www.inpost-platnosc.in.net
 0.0.0.0 www.iokalnie-sklep-eiektroniczny.in.net
+0.0.0.0 www.kurier-naleznosc.in.net
 0.0.0.0 www.lokalna-941866.in.net
 0.0.0.0 www.mediaexpres.in.net
 0.0.0.0 www.neotech.in.net
@@ -61632,6 +61645,7 @@
 0.0.0.0 www.nkebgmpog.pw
 0.0.0.0 www.o39h.pw
 0.0.0.0 www.oakleysunglasses.pw
+0.0.0.0 www.olx-pl.pw
 0.0.0.0 www.personaldata.pw
 0.0.0.0 us.plagiarizing766fj.pw
 0.0.0.0 cdn11.plmokn.pw
@@ -65522,6 +65536,7 @@
 0.0.0.0 htdxhg.site
 0.0.0.0 htjgbh.site
 0.0.0.0 htnbmt.site
+0.0.0.0 http-olx-pl.site
 0.0.0.0 hucbok.site
 0.0.0.0 huzqdo.site
 0.0.0.0 hvuldi.site
@@ -66128,6 +66143,7 @@
 0.0.0.0 wvlith.site
 0.0.0.0 wwjuaw.site
 0.0.0.0 xn--amazon-9d4ehaab.site
+0.0.0.0 yourcareguide.site
 0.0.0.0 www.365outlookupdater.site
 0.0.0.0 medium.com.7a4c7b234069.site
 0.0.0.0 www.medium.com.7a4c7b234069.site
@@ -66170,6 +66186,7 @@
 0.0.0.0 www.gazeta-pl.site
 0.0.0.0 www.gestionedellasicurezza-unicreditgruppo.site
 0.0.0.0 www.hatelive.site
+0.0.0.0 www.http-olx-pl.site
 0.0.0.0 www.i-onetfakty24.site
 0.0.0.0 www.id-verify.site
 0.0.0.0 www.innn.site
