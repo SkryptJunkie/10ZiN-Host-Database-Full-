@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Friday 13 November 2020
+# Date: 06:02 AM Saturday 14 November 2020
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -5187,6 +5187,7 @@
 0.0.0.0 177momo.com
 0.0.0.0 1800netflix.com
 0.0.0.0 1800verizon.com
+0.0.0.0 19086a38727f.com
 0.0.0.0 196504.com
 0.0.0.0 19930216.com
 0.0.0.0 1ambu11.com
@@ -5197,6 +5198,7 @@
 0.0.0.0 1bluemountain.com
 0.0.0.0 1c0910ee64.com
 0.0.0.0 1dropboxx.com
+0.0.0.0 1f2fbfdb08772f.com
 0.0.0.0 1forced.com
 0.0.0.0 1hentaiporntube.com
 0.0.0.0 1iif89rvl.com
@@ -5261,6 +5263,7 @@
 0.0.0.0 2cent37.com
 0.0.0.0 2dee7f1db0d07.com
 0.0.0.0 2f48a41ea4.com
+0.0.0.0 2fca2fdee31.com
 0.0.0.0 2hanwriten.com
 0.0.0.0 2m398bu923-rv-read.com
 0.0.0.0 2muchsex.com
@@ -5414,11 +5417,13 @@
 0.0.0.0 405pergolas.com
 0.0.0.0 40a9e06f54.com
 0.0.0.0 40xbfzk8.com
+0.0.0.0 410886a0d98cf.com
 0.0.0.0 4108f01cc82.com
 0.0.0.0 411commerce.com
 0.0.0.0 4121wellsfargo4388181144.com
 0.0.0.0 417c76f52b0.com
 0.0.0.0 437301aa95.com
+0.0.0.0 43e6c30abcff9.com
 0.0.0.0 4481bff8825.com
 0.0.0.0 44ccvv.com
 0.0.0.0 456c11816f.com
@@ -5623,10 +5628,12 @@
 0.0.0.0 99f8719c6d.com
 0.0.0.0 99rfs.com
 0.0.0.0 99shopperstop.com
+0.0.0.0 9a7ed1aa344.com
 0.0.0.0 9aa883b192cd.com
 0.0.0.0 9ad850802a.com
 0.0.0.0 9asoft.com
 0.0.0.0 9c51vda.com
+0.0.0.0 9dc9ece33bd4.com
 0.0.0.0 9dffa299bbc098481e6a.com
 0.0.0.0 9gname.com
 0.0.0.0 9jadey.com
@@ -8688,6 +8695,7 @@
 0.0.0.0 cavenaghi-it.com
 0.0.0.0 cavotel.com
 0.0.0.0 caxbnk.com
+0.0.0.0 cbce0c01b63399.com
 0.0.0.0 cbgujxjlp.com
 0.0.0.0 cbmshooters.com
 0.0.0.0 cbp-dhs-gov-official.com
@@ -11177,6 +11185,7 @@
 0.0.0.0 fbprofileviewer.com
 0.0.0.0 fbunblockit.com
 0.0.0.0 fbxploitz.com
+0.0.0.0 fc455c6ee5.com
 0.0.0.0 fcbs-ca.com
 0.0.0.0 fckriegercpa.com
 0.0.0.0 fcnmbnig.com
