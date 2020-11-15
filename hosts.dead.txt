@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Saturday 14 November 2020
+# Date: 06:03 AM Sunday 15 November 2020
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -3204,6 +3204,7 @@
 0.0.0.0 atfarmsource.ca
 0.0.0.0 attacheremorquemontreal.ca
 0.0.0.0 baby-soft.ca
+0.0.0.0 bramaleaorthopedics.ca
 0.0.0.0 buyral.ca
 0.0.0.0 cd3.ca
 0.0.0.0 chatterboxbeauty.ca
@@ -5010,6 +5011,8 @@
 0.0.0.0 www.cvnbmbn.co
 0.0.0.0 www.darkbay.co
 0.0.0.0 www.delhibulksms.co
+0.0.0.0 antilles.guyane.bnpparibas.depilya.co
+0.0.0.0 www.antilles.guyane.bnpparibas.depilya.co
 0.0.0.0 www.digmetrics.co
 0.0.0.0 www.e-orange.co
 0.0.0.0 www.eatrade.co
@@ -10540,6 +10543,7 @@
 0.0.0.0 eeshansplace.com
 0.0.0.0 ef5b6b02d2.com
 0.0.0.0 efax-delivery-id18.com
+0.0.0.0 efe9838bf0.com
 0.0.0.0 efecebeci.com
 0.0.0.0 efecto7.com
 0.0.0.0 efekvyyynwd.com
@@ -27133,6 +27137,7 @@
 0.0.0.0 www.bestcheapguitar.com
 0.0.0.0 www.bestcoffeeopportunity.com
 0.0.0.0 www.bestdammwatersport.com
+0.0.0.0 www.nazwa.bestforbikers.com
 0.0.0.0 asd.besthairtransplantpunjab.com
 0.0.0.0 iqq4rcma6v.besthairtransplantpunjab.com
 0.0.0.0 www.bestlivetrade.com
@@ -40082,7 +40087,11 @@
 0.0.0.0 www.warisindustria.com
 0.0.0.0 www.warning-paypal.com
 0.0.0.0 www.warning-security-alert-amazon-error.com
+0.0.0.0 qeeeeewwswsweerwwerwerwrwerwerwerwere.warzonedns.com
+0.0.0.0 systemgooglegooglegooglegooglegooglegoole.warzonedns.com
+0.0.0.0 workbigfinetonychuckgoodallarefinezynovaexploitgood.warzonedns.com
 0.0.0.0 www.warzonedns.com
+0.0.0.0 zyncxxcciidiiudfisuifsiufusdfisdisifidfisuifisfisifisu.warzonedns.com
 0.0.0.0 oascentral.washtimes.com
 0.0.0.0 www.watalappan.com
 0.0.0.0 www.watchrag.com
@@ -41671,6 +41680,8 @@
 0.0.0.0 www.falkag.de
 0.0.0.0 www.fchabkirchen-frauenberg.de
 0.0.0.0 omni.finanzen100.de
+0.0.0.0 lavinch.firewall-gateway.de
+0.0.0.0 windows.firewall-gateway.de
 0.0.0.0 pap-partner.flirtfair.de
 0.0.0.0 www.floslasershow.de
 0.0.0.0 omni.focus.de
@@ -44073,6 +44084,7 @@
 0.0.0.0 www.woolrichitalia.eu
 0.0.0.0 bvcxzlkjhgfdsapoiuytrewqwertyuiopasdfghj.ydns.eu
 0.0.0.0 hdgbcnuy73wjnho9jusrnhfhejfuy78wyi7jfknv.ydns.eu
+0.0.0.0 privatestdycloudshareandfileprotecstlka.ydns.eu
 0.0.0.0 stdyunitedfrkesokoriorimistreetsmsttyr.ydns.eu
 0.0.0.0 systemscantheipwithadvancefirewalltechnologyandinternaitonaldns.ydns.eu
 0.0.0.0 systemsecuritycheckingwithallprotectionofinternetwithfirewallpr.ydns.eu
@@ -45680,6 +45692,7 @@
 0.0.0.0 www.top.naturgood.icu
 0.0.0.0 firefox.net-secure-update.icu
 0.0.0.0 www.nexiuslearning.icu
+0.0.0.0 www.olx.pl.oferta-pay.icu
 0.0.0.0 www.ogust.icu
 0.0.0.0 www.onet-regulamin.icu
 0.0.0.0 www.performquickintenselyfile.icu
@@ -46117,6 +46130,7 @@
 0.0.0.0 aptin.in
 0.0.0.0 archpod.in
 0.0.0.0 ashokacorporation.in
+0.0.0.0 asimmistry.in
 0.0.0.0 asmakgroup.in
 0.0.0.0 aspirelaw.in
 0.0.0.0 assistantbilling.in
@@ -55114,6 +55128,7 @@
 0.0.0.0 neotech.in.net
 0.0.0.0 newvalume.in.net
 0.0.0.0 oarcararcs.in.net
+0.0.0.0 ogiosz24.in.net
 0.0.0.0 onlinecandles.in.net
 0.0.0.0 paczkomat-platnosc.in.net
 0.0.0.0 paczkomat-pobranie.in.net
@@ -55156,6 +55171,7 @@
 0.0.0.0 www.lokalna-941866.in.net
 0.0.0.0 www.mediaexpres.in.net
 0.0.0.0 www.neotech.in.net
+0.0.0.0 www.ogiosz24.in.net
 0.0.0.0 www.paczkomat-platnosc.in.net
 0.0.0.0 www.paczkomat-pobranie.in.net
 0.0.0.0 www.paczkomat24.in.net
@@ -58688,6 +58704,8 @@
 0.0.0.0 akucintadiagggsdwunoviati.duckdns.org
 0.0.0.0 chinoex2antionlinebullywsdy3andgeneralbl.duckdns.org
 0.0.0.0 frndgreenstdy1creamcostmeticsladiesstore.duckdns.org
+0.0.0.0 globalfbdnsaddressgoogle.duckdns.org
+0.0.0.0 globalsharesecurefilesgood.duckdns.org
 0.0.0.0 hotvideomexxico.duckdns.org
 0.0.0.0 inter-medin.duckdns.org
 0.0.0.0 internet-bankline-itau.duckdns.org
@@ -58706,7 +58724,10 @@
 0.0.0.0 santanndercartooesfrreerecadastreagora.duckdns.org
 0.0.0.0 sessionoftherainfloodingeverywherehighno.duckdns.org
 0.0.0.0 systemidentifytheprotocolwindowsserverse.duckdns.org
+0.0.0.0 systemintergrafileexchangeserverprotocol.duckdns.org
 0.0.0.0 unitercsg.duckdns.org
+0.0.0.0 windowsdefendergateway.duckdns.org
+0.0.0.0 windowsdefenderserversecuresofficew.duckdns.org
 0.0.0.0 paypal.com.7updatetonew.duckdns.org
 0.0.0.0 office.microsoftonline.mail.default.error.h9kd34shc0hsvh3u4h2wo8h1k3hh.zdkhsti94hhhy9ku1hsk3kdxh77.qhd6sih3q88uoiciah8sf.8mxsdsh268gk3r284hl.h4y6k1gz4ulhhhdsrh30k1ghf4.u8ghcjw1fdklhigh3d8o.jw9s4h7xhdkkkddg4fqkqcfg8d36n.fancyall1.duckdns.org
 0.0.0.0 www.hotvideomexxico.duckdns.org
@@ -68244,6 +68265,7 @@
 0.0.0.0 www.jesusglory.or.tz
 0.0.0.0 www.mems.or.tz
 0.0.0.0 appledetails.u
+0.0.0.0 hr.digimax.co.u
 0.0.0.0 electros.co.ua
 0.0.0.0 www.electros.co.ua
 0.0.0.0 www.georgia.co.ua
@@ -68881,6 +68903,7 @@
 0.0.0.0 stats.dailyrecord.co.uk
 0.0.0.0 co.dcclan.co.uk
 0.0.0.0 dirt.dennis.co.uk
+0.0.0.0 hr.digimax.co.uk
 0.0.0.0 adverts.digitalspy.co.uk
 0.0.0.0 pixel.digitalspy.co.uk
 0.0.0.0 visitors.dooyoo.co.uk
