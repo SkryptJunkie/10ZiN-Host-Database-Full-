@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:03 AM Sunday 15 November 2020
+# Date: 06:02 AM Monday 16 November 2020
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -36058,6 +36058,7 @@
 0.0.0.0 www.pkpaypal.com
 0.0.0.0 protection.pkpolice.com
 0.0.0.0 ads.pkr.com
+0.0.0.0 www.olx.pl-oferta.com
 0.0.0.0 ads.place1.com
 0.0.0.0 ads.planet-f1.com
 0.0.0.0 digital-cable-descrambler.planet-high-heels.com
@@ -61193,6 +61194,8 @@
 0.0.0.0 puress.press
 0.0.0.0 yhit.press
 0.0.0.0 feed.2makeyourday.press
+0.0.0.0 olx.pl.oferta.press
+0.0.0.0 www.olx.pl.oferta.press
 0.0.0.0 prod.pobth.press
 0.0.0.0 www.puress.press
 0.0.0.0 1-obmen.pro
@@ -65869,6 +65872,7 @@
 0.0.0.0 pmiaeu.site
 0.0.0.0 pmnzeh.site
 0.0.0.0 pokemongosafari.site
+0.0.0.0 postbox-24.site
 0.0.0.0 pqduom.site
 0.0.0.0 preregistrazionesicurezza-unicreditgruppo.site
 0.0.0.0 promo-binance.site
@@ -66255,6 +66259,7 @@
 0.0.0.0 www.paypalgroup.site
 0.0.0.0 www.paypalservizio.site
 0.0.0.0 www.pokemongosafari.site
+0.0.0.0 www.postbox-24.site
 0.0.0.0 updateauto.preparevideosafesystem4unow.site
 0.0.0.0 www.preregistrazionesicurezza-unicreditgruppo.site
 0.0.0.0 www.promo-binance.site
