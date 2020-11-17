@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Monday 16 November 2020
+# Date: 06:02 AM Tuesday 17 November 2020
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -27146,6 +27146,7 @@
 0.0.0.0 www.bestrealestateagentsdubai.com
 0.0.0.0 www.bestresumeguide.com
 0.0.0.0 www.bestshopperrewards.com
+0.0.0.0 www.bestshopping-voucher.com
 0.0.0.0 cdn.bestssaker.com
 0.0.0.0 www.besttotreat.com
 0.0.0.0 www.bestvacuumpoint.com
@@ -34767,6 +34768,7 @@
 0.0.0.0 ib.nab-bnking.com
 0.0.0.0 ib.nab.com.au.nab-professionnel.com
 0.0.0.0 www.nachgeblogt.com
+0.0.0.0 www.butypolskasklep.nadi8.com
 0.0.0.0 www.nadikepri.com
 0.0.0.0 thz.nadvpnu.com
 0.0.0.0 www.naeemtariq.com
@@ -38654,6 +38656,7 @@
 0.0.0.0 x-box.t35.com
 0.0.0.0 pl.bitcoinsystem-appl.t500track36.com
 0.0.0.0 uk.bitcoinfreedom-appl.t500track42.com
+0.0.0.0 pl.bitcoinbillionarie.t500track62.com
 0.0.0.0 pl.bitcoinsystem-appl.t500track62.com
 0.0.0.0 www.tabeiz.com
 0.0.0.0 check-your-account.taber-abraser.com
@@ -71570,6 +71573,7 @@
 0.0.0.0 indianseoonline.xyz
 0.0.0.0 inegry.xyz
 0.0.0.0 info-limited.xyz
+0.0.0.0 inpost-piatnosc-24.xyz
 0.0.0.0 instagram-server.xyz
 0.0.0.0 instakipcim.xyz
 0.0.0.0 intoan.xyz
@@ -72010,6 +72014,7 @@
 0.0.0.0 updateilnfo.ftnle.hhpjr3jrwfp2xhxyl.xyz
 0.0.0.0 static.htmlhubing.xyz
 0.0.0.0 www.icleanammunitio.xyz
+0.0.0.0 www.inpost-piatnosc-24.xyz
 0.0.0.0 www.ios-id-icloud.xyz
 0.0.0.0 www.iphone-ipad-mac.xyz
 0.0.0.0 www.isabelsnder.xyz
