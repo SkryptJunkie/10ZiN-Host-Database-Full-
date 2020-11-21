@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Friday 20 November 2020
+# Date: 06:02 AM Saturday 21 November 2020
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -5491,6 +5491,7 @@
 0.0.0.0 620267.com
 0.0.0.0 620297.com
 0.0.0.0 635905.com
+0.0.0.0 636a105de10d.com
 0.0.0.0 642fa8b172.com
 0.0.0.0 650895.com
 0.0.0.0 65125672a6fa0.com
@@ -5550,7 +5551,9 @@
 0.0.0.0 77ccrc.com
 0.0.0.0 788522cceae.com
 0.0.0.0 7903dabd2b6.com
+0.0.0.0 7a418ea5bc199.com
 0.0.0.0 7b3b96c01d798f.com
+0.0.0.0 7c4cdf61056.com
 0.0.0.0 7cnbcnews.com
 0.0.0.0 7come11casino.com
 0.0.0.0 7cxcrejm.com
@@ -5577,6 +5580,7 @@
 0.0.0.0 82b9d6273154e7cbf.com
 0.0.0.0 831167d1d11e16b877055beb00ffec4b.com
 0.0.0.0 8348969408.com
+0.0.0.0 83665bbb10.com
 0.0.0.0 83a26bd3df29eb57.com
 0.0.0.0 840a667948d8-amazon.com
 0.0.0.0 84i305b14204deae14507c6690701fab.com
@@ -5628,6 +5632,7 @@
 0.0.0.0 933aaa9228923a.com
 0.0.0.0 93453074ab3e3.com
 0.0.0.0 94uyvwwh.com
+0.0.0.0 9675a4161ce.com
 0.0.0.0 9767a959187.com
 0.0.0.0 995db2642d3d852b.com
 0.0.0.0 9999eth.com
@@ -8731,6 +8736,7 @@
 0.0.0.0 ce0dc8aa55.com
 0.0.0.0 cea9d3d4f74fb831.com
 0.0.0.0 ceautobritanica.com
+0.0.0.0 ceb787297e85.com
 0.0.0.0 cebbe184db148.com
 0.0.0.0 cebelarskodrustvo-ljmp.com
 0.0.0.0 cebteteb-tr-mobil-puan.com
@@ -11203,6 +11209,7 @@
 0.0.0.0 fcreality.com
 0.0.0.0 fcubeindia.com
 0.0.0.0 fcwpxsmiyy.com
+0.0.0.0 fd7449b9fa829.com
 0.0.0.0 fddic.com
 0.0.0.0 fdhwgm.com
 0.0.0.0 fdkcwl.com
