@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Saturday 21 November 2020
+# Date: 06:02 AM Sunday 22 November 2020
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -12699,6 +12699,7 @@
 0.0.0.0 hdcfyrzx.com
 0.0.0.0 hdezam.com
 0.0.0.0 hdfsruiqwgjdo.com
+0.0.0.0 hditers.com
 0.0.0.0 hdplugindownload.com
 0.0.0.0 hdshow-online.com
 0.0.0.0 hdtv-premium-update.com
@@ -12892,6 +12893,7 @@
 0.0.0.0 hmbgumjgey.com
 0.0.0.0 hmdocuments.com
 0.0.0.0 hmepgymo.com
+0.0.0.0 hmikw.com
 0.0.0.0 hmjtutipevtmg.com
 0.0.0.0 hmmmcjgho.com
 0.0.0.0 hmrc-council-tax.com
@@ -22284,6 +22286,7 @@
 0.0.0.0 viewstffdater.com
 0.0.0.0 vigdxlpecmv.com
 0.0.0.0 vigilantevapers.com
+0.0.0.0 vihwq.com
 0.0.0.0 viitjpr.com
 0.0.0.0 vijaysurgicalpvtltd.com
 0.0.0.0 vikaclasses.com
