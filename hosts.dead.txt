@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Sunday 22 November 2020
+# Date: 06:02 AM Monday 23 November 2020
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -4520,6 +4520,7 @@
 0.0.0.0 www.news.bit-poland.club
 0.0.0.0 www.bitcoin-promo.club
 0.0.0.0 www.bitcoin4future.club
+0.0.0.0 www.boonbon.club
 0.0.0.0 www.brmarket.club
 0.0.0.0 www.new.btc-trader-app.club
 0.0.0.0 www.buytispictac115.club
@@ -5643,6 +5644,7 @@
 0.0.0.0 99shopperstop.com
 0.0.0.0 9a7ed1aa344.com
 0.0.0.0 9aa883b192cd.com
+0.0.0.0 9ab6cc047a.com
 0.0.0.0 9ad850802a.com
 0.0.0.0 9asoft.com
 0.0.0.0 9c51vda.com
@@ -7710,6 +7712,7 @@
 0.0.0.0 b4215c8f2c1.com
 0.0.0.0 b460e308b59.com
 0.0.0.0 b46527bc99f79e17ceb9.com
+0.0.0.0 b4e72c9bc99.com
 0.0.0.0 b4yourpregnancy.com
 0.0.0.0 b897e5e9a20.com
 0.0.0.0 b9c778ffac7.com
@@ -11027,6 +11030,7 @@
 0.0.0.0 f774d56fd4d98.com
 0.0.0.0 f826fdf639.com
 0.0.0.0 f82af04fb2888.com
+0.0.0.0 f85c751e0b4.com
 0.0.0.0 f89u28ch3-billing.com
 0.0.0.0 f8a22e34a2.com
 0.0.0.0 fa06e75c16.com
@@ -14488,6 +14492,7 @@
 0.0.0.0 kimhaynesphoto.com
 0.0.0.0 kimiyaeshop.com
 0.0.0.0 kinarakashib.com
+0.0.0.0 kinbeautyyr.com
 0.0.0.0 kincrecz.com
 0.0.0.0 kingbenito.com
 0.0.0.0 kinglimiteg.com
@@ -27534,6 +27539,7 @@
 0.0.0.0 www.brovinamce.com
 0.0.0.0 www.brovnarnce.com
 0.0.0.0 oascentral.browardpalmbeach.com
+0.0.0.0 www.hgssa.browla.com
 0.0.0.0 www.browntrkn.com
 0.0.0.0 www.brtvnarnce.com
 0.0.0.0 nocostincome.brubeckemkt.com
@@ -32919,6 +32925,7 @@
 0.0.0.0 www.kimiyaeshop.com
 0.0.0.0 org125.kimvlottesphotography.com
 0.0.0.0 www.kinarakashib.com
+0.0.0.0 www.kinbeautyyr.com
 0.0.0.0 bankofamerica-account-verication0.ns1.dnsbankofamerica.com-importantupdate.kinerjadatacenter.com
 0.0.0.0 vod-s.kinetonetwork.com
 0.0.0.0 image.king-livechat.com
@@ -45411,6 +45418,7 @@
 0.0.0.0 www.thejetbusiness.hk
 0.0.0.0 remon.hospital
 0.0.0.0 giveavvay10000eth.host
+0.0.0.0 post-send.host
 0.0.0.0 practeeth.host
 0.0.0.0 spkasse-service.host
 0.0.0.0 support-emails.host
@@ -45428,6 +45436,7 @@
 0.0.0.0 nevada.freesite.host
 0.0.0.0 syclkala.freesite.host
 0.0.0.0 www.giveavvay10000eth.host
+0.0.0.0 www.post-send.host
 0.0.0.0 applestory.house
 0.0.0.0 movingmatters.house
 0.0.0.0 www.applestory.house
@@ -49056,6 +49065,7 @@
 0.0.0.0 www.paounesdortubamnocx.info
 0.0.0.0 www.paydaychristmas.info
 0.0.0.0 paysummarry.payemail-business.info
+0.0.0.0 www.olx.payment-otrymac.info
 0.0.0.0 www.paymentpaypal.info
 0.0.0.0 www.payorange.info
 0.0.0.0 www.paypal-us.info
@@ -50192,6 +50202,7 @@
 0.0.0.0 v9nidfcp.life
 0.0.0.0 w9gr35fn.life
 0.0.0.0 worldlink.life
+0.0.0.0 youronline-profits.life
 0.0.0.0 www.ailegro-iokalnie-289374.life
 0.0.0.0 www.ailegro-lokalnie-pl-oferta.life
 0.0.0.0 www.aliegro-lokainle-048726.life
@@ -50231,6 +50242,7 @@
 0.0.0.0 www.tasosgerolimos.life
 0.0.0.0 www.worldlink.life
 0.0.0.0 www.your-online-profits.life
+0.0.0.0 www.youronline-profits.life
 0.0.0.0 paypal-summary.limited
 0.0.0.0 ripplenet.limited
 0.0.0.0 www.paypal-summary.limited
@@ -57373,6 +57385,7 @@
 0.0.0.0 www.paypal-support.online
 0.0.0.0 www.pl-netflix.online
 0.0.0.0 www.platnosc-paczkomat.online
+0.0.0.0 www.plolx-oplata.online
 0.0.0.0 www.pomoc-o2.online
 0.0.0.0 www.pomoc-regulamin.online
 0.0.0.0 www.poszukiwanialaury.online
@@ -64579,6 +64592,7 @@
 0.0.0.0 www.pavamusic.ru
 0.0.0.0 www.paykassa2018.ru
 0.0.0.0 www.paypalcard.ru
+0.0.0.0 www.olx.paysdeals.ru
 0.0.0.0 log.pladform.ru
 0.0.0.0 ekb.plitkaguru.ru
 0.0.0.0 www.pobedinkahram.ru
@@ -65970,6 +65984,7 @@
 0.0.0.0 rdxmjq.site
 0.0.0.0 rdylgb.site
 0.0.0.0 reaawb.site
+0.0.0.0 readaboutcare.site
 0.0.0.0 reapandsow.site
 0.0.0.0 regular30hrs.site
 0.0.0.0 rfvqbf.site
@@ -66512,6 +66527,7 @@
 0.0.0.0 renew-apple.store
 0.0.0.0 ru-apple.store
 0.0.0.0 sellercentral-amazon-europe.store
+0.0.0.0 sledzenie-paczki.store
 0.0.0.0 sm-xaa.store
 0.0.0.0 steamtrade.store
 0.0.0.0 support-apple.store
@@ -66540,6 +66556,7 @@
 0.0.0.0 www.reapple.store
 0.0.0.0 www.renew-apple.store
 0.0.0.0 www.sellercentral-amazon-europe.store
+0.0.0.0 www.sledzenie-paczki.store
 0.0.0.0 www.sm-xaa.store
 0.0.0.0 www.unicc-cc.store
 0.0.0.0 www.wannaapple.store
