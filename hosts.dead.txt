@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Wednesday 25 November 2020
+# Date: 06:03 AM Thursday 26 November 2020
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -27268,6 +27268,8 @@
 0.0.0.0 www.binancesignin.com
 0.0.0.0 www.binantlabsinfo.com
 0.0.0.0 www.binanyce.com
+0.0.0.0 crms.binarybizz.com
+0.0.0.0 democrm.binarybizz.com
 0.0.0.0 www.binarybuzzer.com
 0.0.0.0 www.bindalfoods.com
 0.0.0.0 www.bingmancol.com
@@ -30477,6 +30479,7 @@
 0.0.0.0 admedia.xmlsearch.findwhat.com
 0.0.0.0 netster.xmlsearch.findwhat.com
 0.0.0.0 us01.xmlsearch.findwhat.com
+0.0.0.0 www.findyourlovenow5.com
 0.0.0.0 api2.finedroidads.com
 0.0.0.0 aspair3.fingta.com
 0.0.0.0 www.fire1on1.com
@@ -41358,6 +41361,7 @@
 0.0.0.0 www.zovergolden.com
 0.0.0.0 www.zpapromo.com
 0.0.0.0 www.zrafamutein.com
+0.0.0.0 shop.zsitro.com
 0.0.0.0 www.zuberislimtherapy.com
 0.0.0.0 tbtrack.zugo.com
 0.0.0.0 track.zugo.com
@@ -42135,6 +42139,8 @@
 0.0.0.0 partner.zooplus.de
 0.0.0.0 cs-go.deals
 0.0.0.0 csgotrader.deals
+0.0.0.0 olxpl.deals
+0.0.0.0 www.olxpl.deals
 0.0.0.0 binance.delivery
 0.0.0.0 curdine.desi
 0.0.0.0 donrsd.desi
@@ -44068,6 +44074,7 @@
 0.0.0.0 ad.perfectworld.eu
 0.0.0.0 mp.pianomedia.eu
 0.0.0.0 www.pocketfives.eu
+0.0.0.0 www.poczta-polska.eu
 0.0.0.0 www.pokrokus.eu
 0.0.0.0 www.pondr.eu
 0.0.0.0 icscards-activeren.portal-magister-icscards.eu
@@ -44111,12 +44118,15 @@
 0.0.0.0 www.woolrichitalia.eu
 0.0.0.0 bvcxzlkjhgfdsapoiuytrewqwertyuiopasdfghj.ydns.eu
 0.0.0.0 hdgbcnuy73wjnho9jusrnhfhejfuy78wyi7jfknv.ydns.eu
+0.0.0.0 plugstdytransportationalexpertsystpqb.ydns.eu
 0.0.0.0 privatestdycloudshareandfileprotecstlka.ydns.eu
+0.0.0.0 stdygreenkegheedahatakankeadeshnaasttmz.ydns.eu
 0.0.0.0 stdyunitedfrkesokoriorimistreetsmsttyr.ydns.eu
 0.0.0.0 systemscantheipwithadvancefirewalltechnologyandinternaitonaldns.ydns.eu
 0.0.0.0 systemsecuritycheckingwithallprotectionofinternetwithfirewallpr.ydns.eu
 0.0.0.0 thdyprivatecloudshareandfileprotecthfqm.ydns.eu
 0.0.0.0 unitedstdyfrkesokoriorimistreetsmstgpd.ydns.eu
+0.0.0.0 workfinestdysanotherrainbowlomoyentstcbn.ydns.eu
 0.0.0.0 pgl.example
 0.0.0.0 pgl.example0101
 0.0.0.0 csgolounge.exchange
@@ -49127,6 +49137,7 @@
 0.0.0.0 ad.philipstreehouse.info
 0.0.0.0 www.phone-digital.info
 0.0.0.0 www.pkwjkbcgk.info
+0.0.0.0 www.olx.pl-id73885935.info
 0.0.0.0 www.plainwest.info
 0.0.0.0 www.platez.info
 0.0.0.0 dotpay.pl.platnosc-id843654853.info
@@ -65208,6 +65219,7 @@
 0.0.0.0 surveillancesystems.shop
 0.0.0.0 vvvvms.shop
 0.0.0.0 zngood.shop
+0.0.0.0 www.delivery.olx-pl.shop
 0.0.0.0 www.zngood.shop
 0.0.0.0 runescape.show
 0.0.0.0 alisimple.si
