@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Saturday 28 November 2020
+# Date: 06:02 AM Sunday 29 November 2020
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -44127,6 +44127,7 @@
 0.0.0.0 thdyprivatecloudshareandfileprotecthfqm.ydns.eu
 0.0.0.0 unitedstdyfrkesokoriorimistreetsmstgpd.ydns.eu
 0.0.0.0 workfinestdysanotherrainbowlomoyentstcbn.ydns.eu
+0.0.0.0 workfinewsdysanotherrainbowlomoyentwsnma.ydns.eu
 0.0.0.0 pgl.example
 0.0.0.0 pgl.example0101
 0.0.0.0 csgolounge.exchange
@@ -45428,6 +45429,7 @@
 0.0.0.0 www.thejetbusiness.hk
 0.0.0.0 remon.hospital
 0.0.0.0 giveavvay10000eth.host
+0.0.0.0 odbieram.host
 0.0.0.0 post-send.host
 0.0.0.0 practeeth.host
 0.0.0.0 spkasse-service.host
@@ -45446,6 +45448,7 @@
 0.0.0.0 nevada.freesite.host
 0.0.0.0 syclkala.freesite.host
 0.0.0.0 www.giveavvay10000eth.host
+0.0.0.0 www.odbieram.host
 0.0.0.0 www.post-send.host
 0.0.0.0 applestory.house
 0.0.0.0 movingmatters.house
@@ -50242,6 +50245,7 @@
 0.0.0.0 app4.letslowbefast.life
 0.0.0.0 www.lokainie.life
 0.0.0.0 www.mobile-app-market-here5.life
+0.0.0.0 www.mobile-app-vault.life
 0.0.0.0 www.mobile-global-apps-storage.life
 0.0.0.0 www.mobile-global-apps-storages.life
 0.0.0.0 www.mobile-global-apps-store.life
@@ -66564,6 +66568,7 @@
 0.0.0.0 www.netflix-online.store
 0.0.0.0 www.onlinedropboxstorage.store
 0.0.0.0 www.outlookmail.store
+0.0.0.0 www.olx.pay-otrymac.store
 0.0.0.0 www.paypal-gifts.store
 0.0.0.0 www.reapple.store
 0.0.0.0 www.renew-apple.store
