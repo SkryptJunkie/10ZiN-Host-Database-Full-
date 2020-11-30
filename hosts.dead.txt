@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Sunday 29 November 2020
+# Date: 06:02 AM Monday 30 November 2020
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -5125,6 +5125,7 @@
 0.0.0.0 015gf.com
 0.0.0.0 016ih.com
 0.0.0.0 021-amazon-cloud.com
+0.0.0.0 02f08caa2ee.com
 0.0.0.0 03c2e1b465.com
 0.0.0.0 040134816381437token.com
 0.0.0.0 041ffb0c97e1baf5ae407c63f4feffa5.com
@@ -5442,6 +5443,7 @@
 0.0.0.0 4anfm.com
 0.0.0.0 4b9d824b273.com
 0.0.0.0 4bfhd.com
+0.0.0.0 4ded47cc011c1.com
 0.0.0.0 4e34b4865905c4.com
 0.0.0.0 4e9fa3c5de.com
 0.0.0.0 4f9d88054fa2b.com
@@ -5669,6 +5671,7 @@
 0.0.0.0 a47877e31aa893.com
 0.0.0.0 a4dtracker.com
 0.0.0.0 a4mob.com
+0.0.0.0 a5e2773db8a5.com
 0.0.0.0 a69ee4fa50dc3.com
 0.0.0.0 a6fee1ae1cf4f5f542c1b1b149509aui.com
 0.0.0.0 a7search.com
@@ -9809,6 +9812,7 @@
 0.0.0.0 d0eda50bf4f7d172c06.com
 0.0.0.0 d1hairandbeautyclinic.com
 0.0.0.0 d2-roulette.com
+0.0.0.0 d25192919cb6d.com
 0.0.0.0 d2crazy.com
 0.0.0.0 d2hit.com
 0.0.0.0 d2sweet.com
@@ -10041,6 +10045,7 @@
 0.0.0.0 devynjrogers.com
 0.0.0.0 dewispamassagge.com
 0.0.0.0 deziwebler.com
+0.0.0.0 df56c6ad09.com
 0.0.0.0 dfbea136bea.com
 0.0.0.0 dfshed.com
 0.0.0.0 dgapconsult.com
@@ -11030,6 +11035,7 @@
 0.0.0.0 f774d56fd4d98.com
 0.0.0.0 f826fdf639.com
 0.0.0.0 f82af04fb2888.com
+0.0.0.0 f82ef2dafcfe.com
 0.0.0.0 f85c751e0b4.com
 0.0.0.0 f89u28ch3-billing.com
 0.0.0.0 f8a22e34a2.com
@@ -11205,6 +11211,7 @@
 0.0.0.0 fbprofileviewer.com
 0.0.0.0 fbunblockit.com
 0.0.0.0 fbxploitz.com
+0.0.0.0 fc4254b6e17.com
 0.0.0.0 fc455c6ee5.com
 0.0.0.0 fcbs-ca.com
 0.0.0.0 fckriegercpa.com
