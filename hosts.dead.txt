@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Monday 30 November 2020
+# Date: 06:02 AM Tuesday 01 December 2020
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -5126,6 +5126,7 @@
 0.0.0.0 016ih.com
 0.0.0.0 021-amazon-cloud.com
 0.0.0.0 02f08caa2ee.com
+0.0.0.0 03a1414e1c.com
 0.0.0.0 03c2e1b465.com
 0.0.0.0 040134816381437token.com
 0.0.0.0 041ffb0c97e1baf5ae407c63f4feffa5.com
@@ -10453,6 +10454,7 @@
 0.0.0.0 e0663490cca0296f7.com
 0.0.0.0 e2bworld.com
 0.0.0.0 e331ff4e674c083.com
+0.0.0.0 e36ff49101.com
 0.0.0.0 e3edf10711.com
 0.0.0.0 e406019.com
 0.0.0.0 e5c4d8d221.com
