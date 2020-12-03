@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Wednesday 02 December 2020
+# Date: 06:02 AM Thursday 03 December 2020
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -53876,6 +53876,10 @@
 0.0.0.0 media.adshadow.net
 0.0.0.0 adserver.adsimsar.net
 0.0.0.0 ads.adsoptimizer.net
+0.0.0.0 hi-cdn.adsparc.net
+0.0.0.0 payouts.adsparc.net
+0.0.0.0 pixel.adsparc.net
+0.0.0.0 pubs.adsparc.net
 0.0.0.0 spns.adsrotator.net
 0.0.0.0 www.adsserving.net
 0.0.0.0 ohm.adstronic.net
@@ -55176,6 +55180,7 @@
 0.0.0.0 lokalna-941866.in.net
 0.0.0.0 lookup.in.net
 0.0.0.0 loreannal.in.net
+0.0.0.0 manager-paczek.in.net
 0.0.0.0 masalegitim.in.net
 0.0.0.0 mediaexpres.in.net
 0.0.0.0 mediatomb.in.net
@@ -55227,6 +55232,7 @@
 0.0.0.0 www.iokalnie-sklep-eiektroniczny.in.net
 0.0.0.0 www.kurier-naleznosc.in.net
 0.0.0.0 www.lokalna-941866.in.net
+0.0.0.0 www.manager-paczek.in.net
 0.0.0.0 www.mediaexpres.in.net
 0.0.0.0 www.neotech.in.net
 0.0.0.0 www.ogiosz24.in.net
@@ -60254,9 +60260,15 @@
 0.0.0.0 zszdzary.pl
 0.0.0.0 zwellinder.pl
 0.0.0.0 dziennikmiasta.098.pl
+0.0.0.0 faktgminny.098.pl
 0.0.0.0 kronikawojewodzka.098.pl
+0.0.0.0 newspolska.098.pl
+0.0.0.0 portalpowiatowy.098.pl
 0.0.0.0 www.dziennikmiasta.098.pl
+0.0.0.0 www.faktgminny.098.pl
 0.0.0.0 www.kronikawojewodzka.098.pl
+0.0.0.0 www.newspolska.098.pl
+0.0.0.0 www.portalpowiatowy.098.pl
 0.0.0.0 www.1elt.pl
 0.0.0.0 www.24-sklep.pl
 0.0.0.0 relaks.3h.pl
@@ -60627,6 +60639,7 @@
 0.0.0.0 www.gryonline24h.pl
 0.0.0.0 www.gt2000.pl
 0.0.0.0 www.gymrace.pl
+0.0.0.0 dziennikgminny.h2g.pl
 0.0.0.0 gazetapolska.h2g.pl
 0.0.0.0 informacyjny.h2g.pl
 0.0.0.0 natemat24.h2g.pl
@@ -60635,6 +60648,7 @@
 0.0.0.0 samsung2020.h2g.pl
 0.0.0.0 tematdnia.h2g.pl
 0.0.0.0 zamawiam.h2g.pl
+0.0.0.0 www.dziennikgminny.h2g.pl
 0.0.0.0 www.gazetapolska.h2g.pl
 0.0.0.0 www.informacyjny.h2g.pl
 0.0.0.0 www.natemat24.h2g.pl
@@ -60966,6 +60980,7 @@
 0.0.0.0 www.polskaporwania.pl
 0.0.0.0 www.polskaporwanie.pl
 0.0.0.0 www.pomalujmnie.pl
+0.0.0.0 www.pomocdlafranka.pl
 0.0.0.0 www.porello.pl
 0.0.0.0 www.porwaniapolska24.pl
 0.0.0.0 www.porwaniapolska24online.pl
@@ -65889,6 +65904,7 @@
 0.0.0.0 okcuno.site
 0.0.0.0 olechowski.site
 0.0.0.0 olrqzr.site
+0.0.0.0 olxoferta.site
 0.0.0.0 omwuwy.site
 0.0.0.0 online-exchange.site
 0.0.0.0 onlinedativerifica.site
@@ -66318,6 +66334,7 @@
 0.0.0.0 br.nettfllix.site
 0.0.0.0 sex-tonight.newideas.site
 0.0.0.0 www.oferta100981.site
+0.0.0.0 www.olxoferta.site
 0.0.0.0 www.onlinedativerifica.site
 0.0.0.0 www.outlookmail.site
 0.0.0.0 www.outlooksettings.site
@@ -66888,6 +66905,7 @@
 0.0.0.0 ref.ru-air.su
 0.0.0.0 www.ref.ru-air.su
 0.0.0.0 pvrgeypwi.storeplusa.su
+0.0.0.0 www.olxpl.trackings.su
 0.0.0.0 gov.uk.claim-tax-refund.updater09.su
 0.0.0.0 www.gov.uk.claim-tax-refund.updater09.su
 0.0.0.0 quarkchain.supply
