@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Thursday 03 December 2020
+# Date: 06:02 AM Friday 04 December 2020
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -5462,6 +5462,7 @@
 0.0.0.0 5116776.com
 0.0.0.0 5116778.com
 0.0.0.0 5116779.com
+0.0.0.0 51d12014cd0.com
 0.0.0.0 51hzmn.com
 0.0.0.0 51jczxw.com
 0.0.0.0 51mogui.com
@@ -5550,6 +5551,7 @@
 0.0.0.0 736bdcef84.com
 0.0.0.0 7533788.com
 0.0.0.0 755431a59e7.com
+0.0.0.0 75764c9bb79.com
 0.0.0.0 75a91a1683.com
 0.0.0.0 777mobileslots.com
 0.0.0.0 77ccrc.com
@@ -10460,6 +10462,7 @@
 0.0.0.0 e5c4d8d221.com
 0.0.0.0 e69e1360c7.com
 0.0.0.0 e765487792.com
+0.0.0.0 e78b09c3cf.com
 0.0.0.0 e860045edaecd.com
 0.0.0.0 e9mlrvy1.com
 0.0.0.0 ea-traffic-redirection.com
@@ -10527,6 +10530,7 @@
 0.0.0.0 ec252f7027411.com
 0.0.0.0 ecaatasehir.com
 0.0.0.0 ecashxchange.com
+0.0.0.0 ecb55246ab.com
 0.0.0.0 eclodtech.com
 0.0.0.0 ecode-santander.com
 0.0.0.0 ecodieselattorney.com
@@ -23292,6 +23296,7 @@
 0.0.0.0 xn--oole-9wao.com
 0.0.0.0 xn--opsin-2i1bzn.com
 0.0.0.0 xn--paypalsbejelentkezsiadatokellenrzse-sddp360b.com
+0.0.0.0 xn--peeticdd-eza.com
 0.0.0.0 xn--ppl-0oa7j.com
 0.0.0.0 xn--rnyethewallet-hqc.com
 0.0.0.0 xn--saylpetrol-zubb.com
@@ -23312,6 +23317,7 @@
 0.0.0.0 xn--twitt-np1bn2a.com
 0.0.0.0 xn--twittr-04a.com
 0.0.0.0 xn--twtter-xk8b.com
+0.0.0.0 xn--upgulpinn-71a.com
 0.0.0.0 xn--v-pms.com
 0.0.0.0 xn--v-rom.com
 0.0.0.0 xn--v-vom.com
