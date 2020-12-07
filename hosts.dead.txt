@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Sunday 06 December 2020
+# Date: 06:02 AM Monday 07 December 2020
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -5244,6 +5244,7 @@
 0.0.0.0 2023star.com
 0.0.0.0 202trackingsoft.com
 0.0.0.0 2091995300d7.com
+0.0.0.0 225396e831e8.com
 0.0.0.0 237482345sd.com
 0.0.0.0 247binaryreviews.com
 0.0.0.0 247discountshop.com
@@ -5507,6 +5508,7 @@
 0.0.0.0 65e750617ae8f0421.com
 0.0.0.0 65xps.com
 0.0.0.0 6631f33cf2a1032b.com
+0.0.0.0 669d1ac40c4d.com
 0.0.0.0 669hl.com
 0.0.0.0 66eexx.com
 0.0.0.0 67002adde4.com
@@ -5546,6 +5548,7 @@
 0.0.0.0 71bff04e6577375dc867.com
 0.0.0.0 71sise.com
 0.0.0.0 71zijilu.com
+0.0.0.0 7221417b380.com
 0.0.0.0 72hdownload.com
 0.0.0.0 730f6ff856.com
 0.0.0.0 7333account-appe.com
@@ -8540,6 +8543,7 @@
 0.0.0.0 c4ee4adf928.com
 0.0.0.0 c667628.com
 0.0.0.0 c74df06d52c9da686f17.com
+0.0.0.0 c8c528fd2b.com
 0.0.0.0 ca-fr-credit-agricole-particuliers.com
 0.0.0.0 ca201ee86b.com
 0.0.0.0 ca43588366c.com
@@ -10466,6 +10470,7 @@
 0.0.0.0 e765487792.com
 0.0.0.0 e78b09c3cf.com
 0.0.0.0 e860045edaecd.com
+0.0.0.0 e9cb2923380.com
 0.0.0.0 e9mlrvy1.com
 0.0.0.0 ea-traffic-redirection.com
 0.0.0.0 ea6d133f7ae.com
