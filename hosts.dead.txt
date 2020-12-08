@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Monday 07 December 2020
+# Date: 06:02 AM Tuesday 08 December 2020
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -44605,6 +44605,7 @@
 0.0.0.0 amazonrewads.ga
 0.0.0.0 amerifirst.ga
 0.0.0.0 analyst.ga
+0.0.0.0 anerqdd.ga
 0.0.0.0 aonebakkiespares-co-za.ga
 0.0.0.0 aplussongs.ga
 0.0.0.0 asefe.ga
