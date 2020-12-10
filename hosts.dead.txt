@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Wednesday 09 December 2020
+# Date: 06:03 AM Thursday 10 December 2020
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -4558,6 +4558,7 @@
 0.0.0.0 www.localmeets.club
 0.0.0.0 www.makeappletypeflash.club
 0.0.0.0 www.bancoestado.cl.imagene.comun2008_nuevo.paglg.perss.html.marketiings.club
+0.0.0.0 www.mixstory.club
 0.0.0.0 thelmae.mossmall.club
 0.0.0.0 www.myethswallet.club
 0.0.0.0 www.meu.original.com.br.original.internetbanking.webapp.jkjeuiuudkjkjdhjhhquedfghjkl.netfliixx.club
@@ -10466,6 +10467,7 @@
 0.0.0.0 e3edf10711.com
 0.0.0.0 e406019.com
 0.0.0.0 e5c4d8d221.com
+0.0.0.0 e6047cde66.com
 0.0.0.0 e69e1360c7.com
 0.0.0.0 e765487792.com
 0.0.0.0 e78b09c3cf.com
@@ -37094,6 +37096,7 @@
 0.0.0.0 www.steamcammunnity.ru.com
 0.0.0.0 www.ru-amazon.com
 0.0.0.0 www.ru-apple.com
+0.0.0.0 www.olx-pl.ru-protect.com
 0.0.0.0 blog.rubberclub.com
 0.0.0.0 www.rubic-initiate.com
 0.0.0.0 mrp.rubiconproject.com
@@ -41291,6 +41294,7 @@
 0.0.0.0 www.zachjpayne.com
 0.0.0.0 www.zachtdesigns.com
 0.0.0.0 www.zafarimpex.com
+0.0.0.0 rentalelfdepok.zaffrantrans.com
 0.0.0.0 www.zagasouidres.com
 0.0.0.0 calendar.zakcomputer.com
 0.0.0.0 log.o2o.service.zaloapp.com
@@ -46003,6 +46007,7 @@
 0.0.0.0 www.ponpesbaitulhilmi.or.id
 0.0.0.0 www.warnaislam.or.id
 0.0.0.0 www.panjoel.id
+0.0.0.0 kwitansi.pisolusindo.id
 0.0.0.0 alirsyadbws.ponpes.id
 0.0.0.0 radjaj.radjajersey.id
 0.0.0.0 www.radjaj.radjajersey.id
@@ -46294,6 +46299,7 @@
 0.0.0.0 greenbudsservices.in
 0.0.0.0 groupstudyindia.in
 0.0.0.0 gunaassociates.in
+0.0.0.0 halten.in
 0.0.0.0 hanikasihkutaksampai.in
 0.0.0.0 heeraanthonysalon.in
 0.0.0.0 hemantgodse.in
@@ -50245,6 +50251,7 @@
 0.0.0.0 www.aliegro-lokainle-048726.life
 0.0.0.0 www.applesid-apple.life
 0.0.0.0 www.applesidapple.life
+0.0.0.0 www.best-prizes-4you1.life
 0.0.0.0 www.bestprize-places-here1.life
 0.0.0.0 www.bestprizeday.life
 0.0.0.0 www.bestprizesday5.life
@@ -55169,6 +55176,7 @@
 0.0.0.0 boiserunwalk.in.net
 0.0.0.0 cancel-email-request.in.net
 0.0.0.0 carbeard.in.net
+0.0.0.0 cennik.in.net
 0.0.0.0 command.in.net
 0.0.0.0 concealedcarrypurse.in.net
 0.0.0.0 creamoc.in.net
@@ -55240,6 +55248,7 @@
 0.0.0.0 www.aliegro-lokalnie-oferta-626841.in.net
 0.0.0.0 www.aliegrolokainiepl-974021.in.net
 0.0.0.0 www.carbeard.in.net
+0.0.0.0 www.cennik.in.net
 0.0.0.0 www.crepe.in.net
 0.0.0.0 www.homeagd.in.net
 0.0.0.0 www.inpost-platnosc.in.net
@@ -57374,6 +57383,7 @@
 0.0.0.0 clientid4058604.liveidcheck.online.bofamerica.com.idverificationcloud.online
 0.0.0.0 www.iforgot-applesupport.online
 0.0.0.0 ing.inactividad.online
+0.0.0.0 www.poczta.interia-pl.online
 0.0.0.0 www.investmentdoubler.online
 0.0.0.0 www.ios-applemap.online
 0.0.0.0 www.jobcentral.online
@@ -60447,6 +60457,8 @@
 0.0.0.0 www.download.file.co.pl
 0.0.0.0 www.free.file.co.pl
 0.0.0.0 www.kaufland.gift-cards.co.pl
+0.0.0.0 login.platnosci-ntf.jumonix.co.pl
+0.0.0.0 www.login.platnosci-ntf.jumonix.co.pl
 0.0.0.0 www.hd.videos.co.pl
 0.0.0.0 www.vod.co.pl
 0.0.0.0 www.hd.vod.co.pl
@@ -64686,6 +64698,7 @@
 0.0.0.0 ad234.prbn.ru
 0.0.0.0 www.pro411.ru
 0.0.0.0 www.proappleservice.ru
+0.0.0.0 www.olx.product-secure.ru
 0.0.0.0 www.proffoil.ru
 0.0.0.0 www.prom-17.ru
 0.0.0.0 parceria.md.pserver.ru
@@ -66483,6 +66496,7 @@
 0.0.0.0 platnosc-paczkomat.space
 0.0.0.0 privacymails.space
 0.0.0.0 rakkuten.space
+0.0.0.0 sledzenie.space
 0.0.0.0 sobresaude.space
 0.0.0.0 www.apple-service.space
 0.0.0.0 www.appleking.space
@@ -66544,6 +66558,7 @@
 0.0.0.0 static.onlinevenditatio.space
 0.0.0.0 www.platnosc-paczkomat.space
 0.0.0.0 ahror.safin.space
+0.0.0.0 www.sledzenie.space
 0.0.0.0 keyupgrade.stableupdate.space
 0.0.0.0 checkupgrade24.thebigforeverupgrades.space
 0.0.0.0 setupdate24.updateworkfreshandnew.space
