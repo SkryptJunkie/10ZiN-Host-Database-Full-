@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Saturday 12 December 2020
+# Date: 06:02 AM Sunday 13 December 2020
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -5268,6 +5268,7 @@
 0.0.0.0 2b2b84231908.com
 0.0.0.0 2bb9dcf84c.com
 0.0.0.0 2bluemountain.com
+0.0.0.0 2c95e050909.com
 0.0.0.0 2cent37.com
 0.0.0.0 2dee7f1db0d07.com
 0.0.0.0 2f48a41ea4.com
@@ -9833,6 +9834,7 @@
 0.0.0.0 d60227ef59e.com
 0.0.0.0 d7a14c3e5ce6.com
 0.0.0.0 d7f2615c71a1567cc13cf3a7f7de6aea.com
+0.0.0.0 d84b95a7c3e.com
 0.0.0.0 daalmorse.com
 0.0.0.0 dacorgas.com
 0.0.0.0 dacque.com
@@ -10469,6 +10471,7 @@
 0.0.0.0 e5c4d8d221.com
 0.0.0.0 e6047cde66.com
 0.0.0.0 e69e1360c7.com
+0.0.0.0 e739acf90a.com
 0.0.0.0 e765487792.com
 0.0.0.0 e78b09c3cf.com
 0.0.0.0 e860045edaecd.com
