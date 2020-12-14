@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Sunday 13 December 2020
+# Date: 06:02 AM Monday 14 December 2020
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -10463,6 +10463,7 @@
 0.0.0.0 e-worldhacks.com
 0.0.0.0 e-ziraatbankonlineislemler.com
 0.0.0.0 e0663490cca0296f7.com
+0.0.0.0 e079cbbe23.com
 0.0.0.0 e2bworld.com
 0.0.0.0 e331ff4e674c083.com
 0.0.0.0 e36ff49101.com
