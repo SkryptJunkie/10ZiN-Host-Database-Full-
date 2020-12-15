@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Monday 14 December 2020
+# Date: 06:02 AM Tuesday 15 December 2020
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -5114,6 +5114,7 @@
 0.0.0.0 www.undecided.college
 0.0.0.0 00056789.com
 0.0.0.0 000apple000.com
+0.0.0.0 0012f5f03ef.com
 0.0.0.0 007126491f5.com
 0.0.0.0 009wows.com
 0.0.0.0 00apple00.com
@@ -5450,6 +5451,8 @@
 0.0.0.0 4ded47cc011c1.com
 0.0.0.0 4e34b4865905c4.com
 0.0.0.0 4e9fa3c5de.com
+0.0.0.0 4ed2ca9aac09d.com
+0.0.0.0 4f2f6589dd7618.com
 0.0.0.0 4f9d88054fa2b.com
 0.0.0.0 4gpaypal.com
 0.0.0.0 4jfkc.com
@@ -5480,6 +5483,7 @@
 0.0.0.0 57473b6b571.com
 0.0.0.0 575f4e87970f177969fe.com
 0.0.0.0 59ef0480b3fd.com
+0.0.0.0 5b241d28316f1.com
 0.0.0.0 5bd5e3203751.com
 0.0.0.0 5c70f601e62.com
 0.0.0.0 5d1e656859.com
@@ -5574,6 +5578,7 @@
 0.0.0.0 7d6260236b547b31f.com
 0.0.0.0 7d6b2264fe.com
 0.0.0.0 7e9743d843c.com
+0.0.0.0 7f6c8c0c16f4.com
 0.0.0.0 7f8e91975bdc9c5f1c.com
 0.0.0.0 7mailsupport.com
 0.0.0.0 7shark.com
@@ -5599,6 +5604,7 @@
 0.0.0.0 8525288.com
 0.0.0.0 85451fe651e0.com
 0.0.0.0 867db0d6bf2.com
+0.0.0.0 869ecbf6669.com
 0.0.0.0 86d6.com
 0.0.0.0 87203cdf133.com
 0.0.0.0 87363d.com
@@ -5824,6 +5830,7 @@
 0.0.0.0 accueil-client-assurance.com
 0.0.0.0 accuratecloudsistem.com
 0.0.0.0 accurately-locate.com
+0.0.0.0 ace393b21ee552.com
 0.0.0.0 acepiretech.com
 0.0.0.0 acessando-atualizado.com
 0.0.0.0 acessando-completo.com
@@ -8545,6 +8552,7 @@
 0.0.0.0 c4ee4adf928.com
 0.0.0.0 c667628.com
 0.0.0.0 c74df06d52c9da686f17.com
+0.0.0.0 c75eb3a915.com
 0.0.0.0 c8c528fd2b.com
 0.0.0.0 ca-fr-credit-agricole-particuliers.com
 0.0.0.0 ca201ee86b.com
@@ -9832,6 +9840,7 @@
 0.0.0.0 d409255ce88.com
 0.0.0.0 d50285bff60edbb406.com
 0.0.0.0 d60227ef59e.com
+0.0.0.0 d6d323f64062.com
 0.0.0.0 d7a14c3e5ce6.com
 0.0.0.0 d7f2615c71a1567cc13cf3a7f7de6aea.com
 0.0.0.0 d84b95a7c3e.com
@@ -10744,6 +10753,7 @@
 0.0.0.0 energy-fizz.com
 0.0.0.0 energy-loot.com
 0.0.0.0 energydieseldevenezuela.com
+0.0.0.0 energyreader.com
 0.0.0.0 energyutilityservices.com
 0.0.0.0 engdirectdirec.com
 0.0.0.0 enginebazar.com
@@ -41428,6 +41438,7 @@
 0.0.0.0 www.productalibaba-inc.company
 0.0.0.0 bc-reference-id-number-6785.evergreen.construction
 0.0.0.0 www.bc-reference-id-number-6785.evergreen.construction
+0.0.0.0 www.delivery.olx.oferta.contact
 0.0.0.0 appleiphone.cool
 0.0.0.0 netflixandchill.cool
 0.0.0.0 tuauto.cool
@@ -44146,10 +44157,14 @@
 0.0.0.0 chat.whatzapp.eu
 0.0.0.0 www.wizjalokalna24.eu
 0.0.0.0 www.woolrichitalia.eu
+0.0.0.0 antipiracywsdydetectorganisationfwsfeem.ydns.eu
 0.0.0.0 bvcxzlkjhgfdsapoiuytrewqwertyuiopasdfghj.ydns.eu
 0.0.0.0 hdgbcnuy73wjnho9jusrnhfhejfuy78wyi7jfknv.ydns.eu
+0.0.0.0 kalamiksndyonlinedeliverystoreservsnfqm.ydns.eu
 0.0.0.0 plugstdytransportationalexpertsystpqb.ydns.eu
 0.0.0.0 privatestdycloudshareandfileprotecstlka.ydns.eu
+0.0.0.0 shgshgsndynationalobjindustrialatsngpx.ydns.eu
+0.0.0.0 sndygreenkegheedahatakankeadeshnaasnwmd.ydns.eu
 0.0.0.0 stdygreenkegheedahatakankeadeshnaasttmz.ydns.eu
 0.0.0.0 stdyunitedfrkesokoriorimistreetsmsttyr.ydns.eu
 0.0.0.0 systemscantheipwithadvancefirewalltechnologyandinternaitonaldns.ydns.eu
@@ -44158,6 +44173,8 @@
 0.0.0.0 unitedstdyfrkesokoriorimistreetsmstgpd.ydns.eu
 0.0.0.0 workfinestdysanotherrainbowlomoyentstcbn.ydns.eu
 0.0.0.0 workfinewsdysanotherrainbowlomoyentwsnma.ydns.eu
+0.0.0.0 wsdychnesqudusisabadassniggainthewsbkq.ydns.eu
+0.0.0.0 wsdyshgshgnationalobjindustrialatwsgtq.ydns.eu
 0.0.0.0 pgl.example
 0.0.0.0 pgl.example0101
 0.0.0.0 csgolounge.exchange
@@ -45616,6 +45633,7 @@
 0.0.0.0 globalrecruitment.icu
 0.0.0.0 hktvmall.icu
 0.0.0.0 i-engineerprior.icu
+0.0.0.0 ilink.icu
 0.0.0.0 industriadetransformacionferro.icu
 0.0.0.0 inventa.icu
 0.0.0.0 izuche.icu
@@ -45751,6 +45769,7 @@
 0.0.0.0 steve.hosting8.icu
 0.0.0.0 www.i-engineerprior.icu
 0.0.0.0 paypal.co.uk.i2t6.icu
+0.0.0.0 www.ilink.icu
 0.0.0.0 www.industriadetransformacionferro.icu
 0.0.0.0 www.izuche.icu
 0.0.0.0 www.jayski.icu
@@ -50266,6 +50285,7 @@
 0.0.0.0 www.cloud-adobe.life
 0.0.0.0 account.docusign.life
 0.0.0.0 www.gift-apple.life
+0.0.0.0 www.global-mobile-apps-repository.life
 0.0.0.0 www.grand-prise-ishere2.life
 0.0.0.0 www.hdmaxxxmovefxx.life
 0.0.0.0 www.itunesdownload.life
@@ -50763,6 +50783,7 @@
 0.0.0.0 obamasecuredoc.me
 0.0.0.0 onurgoksel.me
 0.0.0.0 paczkomaty.me
+0.0.0.0 payments-allegro.me
 0.0.0.0 plsprayfor.me
 0.0.0.0 poster-op2joygames.me
 0.0.0.0 provider-system.me
@@ -50849,6 +50870,7 @@
 0.0.0.0 www.newsinsider.me
 0.0.0.0 www.newview.me
 0.0.0.0 www.paczkomaty.me
+0.0.0.0 www.payments-allegro.me
 0.0.0.0 www.plsprayfor.me
 0.0.0.0 ads.poptarts.me
 0.0.0.0 www.qvak.me
@@ -57392,6 +57414,7 @@
 0.0.0.0 www.ios-applemap.online
 0.0.0.0 www.jobcentral.online
 0.0.0.0 platnosc.kurierzyplatnosci.online
+0.0.0.0 www.laxmirugnaseva.online
 0.0.0.0 www.legalpapers.online
 0.0.0.0 www.login-portal.online
 0.0.0.0 www.loginfacebook.online
@@ -59792,6 +59815,7 @@
 0.0.0.0 dietovo.pl
 0.0.0.0 dobieraniefryzury.pl
 0.0.0.0 docufile.pl
+0.0.0.0 domowaplaza.pl
 0.0.0.0 domowy-sprzet.pl
 0.0.0.0 doslubu24.pl
 0.0.0.0 dotpay3.pl
@@ -59801,6 +59825,7 @@
 0.0.0.0 drukujza45pln.pl
 0.0.0.0 ducatisti.pl
 0.0.0.0 dumancy.pl
+0.0.0.0 dunaplaza.pl
 0.0.0.0 duramo.pl
 0.0.0.0 dworekmirachowo.pl
 0.0.0.0 dwqkjwqkjwq.pl
@@ -59820,6 +59845,7 @@
 0.0.0.0 eccooutletpl.pl
 0.0.0.0 ectrade.pl
 0.0.0.0 eddie-hovawart.pl
+0.0.0.0 ekspres-sklep.pl
 0.0.0.0 elepta.pl
 0.0.0.0 emisje24.pl
 0.0.0.0 eobsesja.pl
@@ -60031,6 +60057,8 @@
 0.0.0.0 obuwiepuma.pl
 0.0.0.0 ochkamera.pl
 0.0.0.0 ochotnica-noclegi.pl
+0.0.0.0 oczyszczacze-sklep.pl
+0.0.0.0 odkurzacze-sklep.pl
 0.0.0.0 odlootowy.pl
 0.0.0.0 odnawiamyelewacje.pl
 0.0.0.0 odszukajgo24.pl
@@ -60041,6 +60069,7 @@
 0.0.0.0 okleinyvescom.pl
 0.0.0.0 okno-house.pl
 0.0.0.0 olszowskidesign.pl
+0.0.0.0 olx-f.pl
 0.0.0.0 omagro.pl
 0.0.0.0 oneinvest.pl
 0.0.0.0 onlinefachowiec.pl
@@ -60069,6 +60098,7 @@
 0.0.0.0 playfilm.pl
 0.0.0.0 plywam-leszno.pl
 0.0.0.0 pobierznet.pl
+0.0.0.0 pocztowysa.pl
 0.0.0.0 podkogucikiem.pl
 0.0.0.0 poloralphlaurensklep.pl
 0.0.0.0 polskaporwania.pl
@@ -60115,9 +60145,12 @@
 0.0.0.0 restauracjapz.pl
 0.0.0.0 restauracjaumikolajca.pl
 0.0.0.0 risapress.pl
+0.0.0.0 robot-mikser.pl
 0.0.0.0 rocawear.pl
 0.0.0.0 rockandroad24.pl
 0.0.0.0 rowermax.pl
+0.0.0.0 rowery-stacjonarne.pl
+0.0.0.0 rowery-treningowe.pl
 0.0.0.0 rozmowysasiedzkie.pl
 0.0.0.0 rs-druk.pl
 0.0.0.0 runshoes.pl
@@ -60142,6 +60175,7 @@
 0.0.0.0 skechersbuty.pl
 0.0.0.0 skibee.pl
 0.0.0.0 sklep-gercio.pl
+0.0.0.0 sklep-z-oponami.pl
 0.0.0.0 sklepterenowy.pl
 0.0.0.0 sklepunderarmour.pl
 0.0.0.0 sklepwolfskin.pl
@@ -60421,8 +60455,10 @@
 0.0.0.0 www.butyultraboost.pl
 0.0.0.0 www.c-forum.pl
 0.0.0.0 www.caferoskosz.pl
+0.0.0.0 infopowiatowe.cal24.pl
 0.0.0.0 miejskieinfo.cal24.pl
 0.0.0.0 sprawanasza.cal24.pl
+0.0.0.0 www.infopowiatowe.cal24.pl
 0.0.0.0 www.miejskieinfo.cal24.pl
 0.0.0.0 www.sprawanasza.cal24.pl
 0.0.0.0 www.californiaclub.pl
@@ -60577,6 +60613,7 @@
 0.0.0.0 www.dobieraniefryzury.pl
 0.0.0.0 www.dobredeale.pl
 0.0.0.0 www.docufile.pl
+0.0.0.0 www.domowaplaza.pl
 0.0.0.0 www.domowy-sprzet.pl
 0.0.0.0 www.domtrakenski.pl
 0.0.0.0 www.doslubu24.pl
@@ -60586,6 +60623,7 @@
 0.0.0.0 www.drukujemydlawas.pl
 0.0.0.0 www.drukujza45pln.pl
 0.0.0.0 www.ducatisti.pl
+0.0.0.0 www.dunaplaza.pl
 0.0.0.0 www.duramo.pl
 0.0.0.0 www.dworekmirachowo.pl
 0.0.0.0 www.dzieckoalert.pl
@@ -60605,6 +60643,7 @@
 0.0.0.0 www.eddie-hovawart.pl
 0.0.0.0 psychiatryczne.edu.pl
 0.0.0.0 www.psychiatryczne.edu.pl
+0.0.0.0 www.ekspres-sklep.pl
 0.0.0.0 www.electronicbox.pl
 0.0.0.0 www.elepta.pl
 0.0.0.0 www.emisje24.pl
@@ -60959,6 +60998,8 @@
 0.0.0.0 www.obuwiepuma.pl
 0.0.0.0 www.ochkamera.pl
 0.0.0.0 www.ochotnica-noclegi.pl
+0.0.0.0 www.oczyszczacze-sklep.pl
+0.0.0.0 www.odkurzacze-sklep.pl
 0.0.0.0 www.odlootowy.pl
 0.0.0.0 www.odnawiamyelewacje.pl
 0.0.0.0 www.odysseyreact.pl
@@ -60968,6 +61009,7 @@
 0.0.0.0 www.okiemmarynarza.pl
 0.0.0.0 www.okno-house.pl
 0.0.0.0 www.olszowskidesign.pl
+0.0.0.0 www.olx-f.pl
 0.0.0.0 www.omagro.pl
 0.0.0.0 www.onearchitects.pl
 0.0.0.0 www.oneinvest.pl
@@ -61004,6 +61046,7 @@
 0.0.0.0 www.poczta-polska3.pl
 0.0.0.0 www.poczta-polska4.pl
 0.0.0.0 www.poczta-polska8.pl
+0.0.0.0 www.pocztowysa.pl
 0.0.0.0 www.podkogucikiem.pl
 0.0.0.0 www.pogodaparyz.pl
 0.0.0.0 www.poloralphlaurensklep.pl
@@ -61063,8 +61106,11 @@
 0.0.0.0 www.restauracja-toscania.pl
 0.0.0.0 www.restauracjapz.pl
 0.0.0.0 www.risapress.pl
+0.0.0.0 www.robot-mikser.pl
 0.0.0.0 www.rocawear.pl
 0.0.0.0 www.rowermax.pl
+0.0.0.0 www.rowery-stacjonarne.pl
+0.0.0.0 www.rowery-treningowe.pl
 0.0.0.0 www.rozmowysasiedzkie.pl
 0.0.0.0 ads2.rp.pl
 0.0.0.0 www.rs-druk.pl
@@ -61099,6 +61145,7 @@
 0.0.0.0 www.skechersbuty.pl
 0.0.0.0 www.skibee.pl
 0.0.0.0 www.sklep-gercio.pl
+0.0.0.0 www.sklep-z-oponami.pl
 0.0.0.0 www.sklepterenowy.pl
 0.0.0.0 www.sklepunderarmour.pl
 0.0.0.0 www.sklepwolfskin.pl
@@ -66365,6 +66412,7 @@
 0.0.0.0 br.nettfllix.site
 0.0.0.0 sex-tonight.newideas.site
 0.0.0.0 www.oferta100981.site
+0.0.0.0 www.olx-pl-mobile.site
 0.0.0.0 www.olxoferta.site
 0.0.0.0 www.onlinedativerifica.site
 0.0.0.0 www.outlookmail.site
