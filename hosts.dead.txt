@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Tuesday 15 December 2020
+# Date: 06:02 AM Wednesday 16 December 2020
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -52699,6 +52699,7 @@
 0.0.0.0 klantenonline.net
 0.0.0.0 klikmoney.net
 0.0.0.0 klipzilla.net
+0.0.0.0 koacojus.net
 0.0.0.0 kosiwere.net
 0.0.0.0 kundensupport-online-ppl.net
 0.0.0.0 kundensupport-payp-billingsupport.net
@@ -65748,6 +65749,7 @@
 0.0.0.0 ikedgq.site
 0.0.0.0 ikekln.site
 0.0.0.0 ikfats.site
+0.0.0.0 ilkmawgod.site
 0.0.0.0 imdrae.site
 0.0.0.0 imeibf.site
 0.0.0.0 imnlfa.site
