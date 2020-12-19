@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Friday 18 December 2020
+# Date: 06:02 AM Saturday 19 December 2020
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -5144,6 +5144,7 @@
 0.0.0.0 0a225c134735c.com
 0.0.0.0 0apple0.com
 0.0.0.0 0c9d45a04fff.com
+0.0.0.0 0d2c9f1f83e0.com
 0.0.0.0 0daygameparadise.com
 0.0.0.0 0e8ce71cc7.com
 0.0.0.0 0iecfobt.com
@@ -5191,6 +5192,7 @@
 0.0.0.0 144f1817788.com
 0.0.0.0 1452e13d3fa.com
 0.0.0.0 154yildanhediyeler.com
+0.0.0.0 15976a3e57.com
 0.0.0.0 173okwei.com
 0.0.0.0 177momo.com
 0.0.0.0 1800netflix.com
@@ -5449,6 +5451,7 @@
 0.0.0.0 4anfm.com
 0.0.0.0 4b9d824b273.com
 0.0.0.0 4bfhd.com
+0.0.0.0 4dc9170788e.com
 0.0.0.0 4ded47cc011c1.com
 0.0.0.0 4e34b4865905c4.com
 0.0.0.0 4e9fa3c5de.com
@@ -5483,6 +5486,7 @@
 0.0.0.0 567bbl.com
 0.0.0.0 57473b6b571.com
 0.0.0.0 575f4e87970f177969fe.com
+0.0.0.0 59ce3f2bf1b3.com
 0.0.0.0 59ef0480b3fd.com
 0.0.0.0 5b241d28316f1.com
 0.0.0.0 5bd5e3203751.com
@@ -11060,6 +11064,7 @@
 0.0.0.0 f1288404ece4.com
 0.0.0.0 f1legroup.com
 0.0.0.0 f2phacks.com
+0.0.0.0 f378d3c6a1d.com
 0.0.0.0 f4674af89e.com
 0.0.0.0 f47cecd3f0a29874f.com
 0.0.0.0 f774d56fd4d98.com
