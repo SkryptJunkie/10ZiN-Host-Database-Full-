@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Saturday 19 December 2020
+# Date: 06:03 AM Sunday 20 December 2020
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -2516,6 +2516,7 @@
 0.0.0.0 sm.banner-link.com.br
 0.0.0.0 www.banner-link.com.br
 0.0.0.0 images.banners.com.br
+0.0.0.0 apk1.bans.com.br
 0.0.0.0 www.barmonte.com.br
 0.0.0.0 www.batatariacristal.com.br
 0.0.0.0 www.bazardakau.com.br
@@ -4370,6 +4371,7 @@
 0.0.0.0 bikashmoktan.club
 0.0.0.0 bitcoin-promo.club
 0.0.0.0 bitcoin4future.club
+0.0.0.0 biznes2020.club
 0.0.0.0 blogsuasaude.club
 0.0.0.0 blogsuasaudehoje.club
 0.0.0.0 buytispictac115.club
@@ -44165,12 +44167,19 @@
 0.0.0.0 www.woolrichitalia.eu
 0.0.0.0 antipiracywsdydetectorganisationfwsfeem.ydns.eu
 0.0.0.0 bvcxzlkjhgfdsapoiuytrewqwertyuiopasdfghj.ydns.eu
+0.0.0.0 chnesstdyqudusisabadassniggainthestgls.ydns.eu
+0.0.0.0 greenwsdykegheedahatakankeadeshnaawsgmz.ydns.eu
 0.0.0.0 hdgbcnuy73wjnho9jusrnhfhejfuy78wyi7jfknv.ydns.eu
 0.0.0.0 kalamiksndyonlinedeliverystoreservsnfqm.ydns.eu
+0.0.0.0 kalamikstdyonlinedeliverystoreservstvmq.ydns.eu
+0.0.0.0 mndyneverwalkachinese2loneinlifekmnkkp.ydns.eu
 0.0.0.0 plugstdytransportationalexpertsystpqb.ydns.eu
 0.0.0.0 privatestdycloudshareandfileprotecstlka.ydns.eu
 0.0.0.0 shgshgsndynationalobjindustrialatsngpx.ydns.eu
 0.0.0.0 sndygreenkegheedahatakankeadeshnaasnwmd.ydns.eu
+0.0.0.0 sndyworkfinesanotherrainbowlomoyentsnfrw.ydns.eu
+0.0.0.0 stdyantipiracydetectorganisationfstfbbc.ydns.eu
+0.0.0.0 stdygreenkegheedahatakankeadeshnaastfyw.ydns.eu
 0.0.0.0 stdygreenkegheedahatakankeadeshnaasttmz.ydns.eu
 0.0.0.0 stdyunitedfrkesokoriorimistreetsmsttyr.ydns.eu
 0.0.0.0 systemscantheipwithadvancefirewalltechnologyandinternaitonaldns.ydns.eu
@@ -45987,6 +45996,7 @@
 0.0.0.0 www.momento.co.id
 0.0.0.0 css.pasangkacafilm.co.id
 0.0.0.0 www.css.pasangkacafilm.co.id
+0.0.0.0 login.radikari.co.id
 0.0.0.0 www.seasonsgroup.co.id
 0.0.0.0 www.smaltochimica.co.id
 0.0.0.0 www.sofatailor.co.id
@@ -50420,6 +50430,7 @@
 0.0.0.0 onlineapple.live
 0.0.0.0 oplata.live
 0.0.0.0 paypal-account.live
+0.0.0.0 platnosci.live
 0.0.0.0 pp-support.live
 0.0.0.0 protected-adobe.live
 0.0.0.0 puscle.live
@@ -50428,6 +50439,7 @@
 0.0.0.0 refaccell.live
 0.0.0.0 shortenurl.live
 0.0.0.0 sibtion.live
+0.0.0.0 sledzenie.live
 0.0.0.0 support-itunes.live
 0.0.0.0 tourme.live
 0.0.0.0 usana-mn.live
@@ -50528,6 +50540,7 @@
 0.0.0.0 www.ethereum.org-giveaway.live
 0.0.0.0 www.particulares-gruposantander-es.live
 0.0.0.0 www.paypal-account.live
+0.0.0.0 www.platnosci.live
 0.0.0.0 www.protected-adobe.live
 0.0.0.0 www.puscle.live
 0.0.0.0 www.quarkchain.live
@@ -50535,6 +50548,7 @@
 0.0.0.0 www.shortenurl.live
 0.0.0.0 www.shoutmostface1.live
 0.0.0.0 www.sibtion.live
+0.0.0.0 www.sledzenie.live
 0.0.0.0 www.support-itunes.live
 0.0.0.0 www.usana-mn.live
 0.0.0.0 www.verify-ads.live
@@ -57396,6 +57410,8 @@
 0.0.0.0 www.dzxashub.online
 0.0.0.0 www.e-bazaosobzaginionych.online
 0.0.0.0 www.e-childalert.online
+0.0.0.0 www.e-mail-regulamin.online
+0.0.0.0 www.e-mailprywatnosc.online
 0.0.0.0 www.emailapple.online
 0.0.0.0 www.eth-airdrop.online
 0.0.0.0 www.ether-giveaway.online
@@ -57474,6 +57490,7 @@
 0.0.0.0 www.pl-netflix.online
 0.0.0.0 www.platnosc-paczkomat.online
 0.0.0.0 www.plolx-oplata.online
+0.0.0.0 www.poczta-email.online
 0.0.0.0 www.pomoc-o2.online
 0.0.0.0 www.pomoc-regulamin.online
 0.0.0.0 www.poszukiwanialaury.online
@@ -57488,6 +57505,8 @@
 0.0.0.0 wwww.8cr.purredheanb.online
 0.0.0.0 www.queverennetflix.online
 0.0.0.0 www.redersantanders.online
+0.0.0.0 www.regulamin-email.online
+0.0.0.0 www.regulamin-mail.online
 0.0.0.0 www.salomonsklep.online
 0.0.0.0 www.santander-atendimento.online
 0.0.0.0 www.santander-mobile.online
@@ -60077,6 +60096,7 @@
 0.0.0.0 okno-house.pl
 0.0.0.0 olszowskidesign.pl
 0.0.0.0 olx-f.pl
+0.0.0.0 olx-garrant.pl
 0.0.0.0 omagro.pl
 0.0.0.0 oneinvest.pl
 0.0.0.0 onlinefachowiec.pl
@@ -60495,11 +60515,13 @@
 0.0.0.0 transkom.clip-art.pl
 0.0.0.0 www.transkom.clip-art.pl
 0.0.0.0 www.clubitaliano.pl
+0.0.0.0 dandasana1.co.pl
 0.0.0.0 www.dev.apps.co.pl
 0.0.0.0 www.download.apps.co.pl
 0.0.0.0 www.free.apps.co.pl
 0.0.0.0 www.game.apps.co.pl
 0.0.0.0 www.netflix.apps.co.pl
+0.0.0.0 www.dandasana1.co.pl
 0.0.0.0 www.cloud.file.co.pl
 0.0.0.0 www.download.file.co.pl
 0.0.0.0 www.free.file.co.pl
@@ -60743,6 +60765,7 @@
 0.0.0.0 koronamiasto.hekko24.pl
 0.0.0.0 miastowirus.hekko24.pl
 0.0.0.0 socialbump.hekko24.pl
+0.0.0.0 weryfikacja-online.hekko24.pl
 0.0.0.0 wirusmiasto.hekko24.pl
 0.0.0.0 wydarzeniainfo.hekko24.pl
 0.0.0.0 www.dziennikpolski.hekko24.pl
@@ -60751,6 +60774,7 @@
 0.0.0.0 www.koronamiasto.hekko24.pl
 0.0.0.0 www.miastowirus.hekko24.pl
 0.0.0.0 www.socialbump.hekko24.pl
+0.0.0.0 www.weryfikacja-online.hekko24.pl
 0.0.0.0 www.wirusmiasto.hekko24.pl
 0.0.0.0 www.wydarzeniainfo.hekko24.pl
 0.0.0.0 www.hellocentrum.pl
@@ -61017,6 +61041,7 @@
 0.0.0.0 www.okno-house.pl
 0.0.0.0 www.olszowskidesign.pl
 0.0.0.0 www.olx-f.pl
+0.0.0.0 www.olx-garrant.pl
 0.0.0.0 www.omagro.pl
 0.0.0.0 www.onearchitects.pl
 0.0.0.0 www.oneinvest.pl
@@ -66382,6 +66407,8 @@
 0.0.0.0 vn23-b464-n678.delivered-super-star.site
 0.0.0.0 www.vn23-b464-n678.delivered-super-star.site
 0.0.0.0 www.e-childalert.site
+0.0.0.0 www.e-mail-regulamin.site
+0.0.0.0 www.e-mailprywatnosc.site
 0.0.0.0 www.e-poszukiwanie.site
 0.0.0.0 www.ethgiveavvay.site
 0.0.0.0 www.facebookgroup.site
@@ -66429,6 +66456,7 @@
 0.0.0.0 www.paypal-signin.site
 0.0.0.0 www.paypalgroup.site
 0.0.0.0 www.paypalservizio.site
+0.0.0.0 www.poczta-email.site
 0.0.0.0 www.pokemongosafari.site
 0.0.0.0 www.postbox-24.site
 0.0.0.0 updateauto.preparevideosafesystem4unow.site
@@ -66436,6 +66464,8 @@
 0.0.0.0 www.promo-binance.site
 0.0.0.0 dash001.prxio.site
 0.0.0.0 www.reapandsow.site
+0.0.0.0 www.regulamin-email.site
+0.0.0.0 www.regulamin-mail.site
 0.0.0.0 www.rhydel.site
 0.0.0.0 www.rocher-kouso-amazon.site
 0.0.0.0 www.santander.site
@@ -66527,6 +66557,7 @@
 0.0.0.0 banca-ltau-empresas.space
 0.0.0.0 banca-ltau-enlineacl.space
 0.0.0.0 celer.space
+0.0.0.0 cennik.space
 0.0.0.0 chessinfb.space
 0.0.0.0 ecoaccount.space
 0.0.0.0 elongift.space
@@ -66565,6 +66596,7 @@
 0.0.0.0 www.b1b.bnk.bkiwi.space
 0.0.0.0 www.ibb.bnk.bkiwi.space
 0.0.0.0 www.celer.space
+0.0.0.0 www.cennik.space
 0.0.0.0 kclsikornbclnk.com-registers.space
 0.0.0.0 download.hpjy.space
 0.0.0.0 www.poczta.interia-pl.space
@@ -71601,6 +71633,7 @@
 0.0.0.0 buthak.xyz
 0.0.0.0 canload.xyz
 0.0.0.0 canonlist.xyz
+0.0.0.0 cennik.xyz
 0.0.0.0 centertrust.xyz
 0.0.0.0 chargersqaud.xyz
 0.0.0.0 chase-account-login4.xyz
@@ -72122,6 +72155,7 @@
 0.0.0.0 fundsec.caalerts.xyz
 0.0.0.0 intercad.caalerts.xyz
 0.0.0.0 paysafe.caalerts.xyz
+0.0.0.0 www.cennik.xyz
 0.0.0.0 www.chase-login7.xyz
 0.0.0.0 www.cleology.xyz
 0.0.0.0 www.clickcash.xyz
