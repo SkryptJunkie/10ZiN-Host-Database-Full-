@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Friday 25 December 2020
+# Date: 06:02 AM Saturday 26 December 2020
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -71256,6 +71256,7 @@
 0.0.0.0 ads.zdn.vn
 0.0.0.0 zaloapp.ads.zdn.vn
 0.0.0.0 ads.cdn.rovio.vom
+0.0.0.0 80055404.vtt
 0.0.0.0 ether.vu
 0.0.0.0 ethereum.vu
 0.0.0.0 musk.vu
