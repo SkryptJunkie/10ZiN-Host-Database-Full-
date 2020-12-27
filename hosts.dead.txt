@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Saturday 26 December 2020
+# Date: 06:04 AM Sunday 27 December 2020
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -4214,6 +4214,7 @@
 0.0.0.0 www.bofa-loginmenu.click
 0.0.0.0 connect.secure.service.insurances.click
 0.0.0.0 www.offerzone.click
+0.0.0.0 www.payulink.click
 0.0.0.0 www.pozyczka.click
 0.0.0.0 www.youtube-dl.click
 0.0.0.0 6f54654j654654hh.cloud
@@ -15063,6 +15064,7 @@
 0.0.0.0 lmsongnv.com
 0.0.0.0 lmsycyfh.com
 0.0.0.0 lmyetherwalletr.com
+0.0.0.0 lnfo-can7651.com
 0.0.0.0 lnfujzqkydjav.com
 0.0.0.0 lnhkqohy.com
 0.0.0.0 lnicyniqxdxg.com
@@ -29255,6 +29257,8 @@
 0.0.0.0 www.dorndxb.com
 0.0.0.0 www240.dortxn.com
 0.0.0.0 www.dossemantione.com
+0.0.0.0 olx.dostawa-secure.com
+0.0.0.0 www.olx.dostawa-secure.com
 0.0.0.0 www.dotacionesantander.com
 0.0.0.0 tiscali.js.ad.dotandad.com
 0.0.0.0 accountsmages.dotcloudapp.com
@@ -34469,6 +34473,7 @@
 0.0.0.0 cdn1.ads.mofos.com
 0.0.0.0 mrss.ads.moguldom.com
 0.0.0.0 www.mojdesigns.com
+0.0.0.0 www.mojeapartamenty.com
 0.0.0.0 www.molinaricr.com
 0.0.0.0 www.momiekai.com
 0.0.0.0 lnx.momingd.com
@@ -44165,8 +44170,10 @@
 0.0.0.0 chat.whatzapp.eu
 0.0.0.0 www.wizjalokalna24.eu
 0.0.0.0 www.woolrichitalia.eu
+0.0.0.0 www.poczta.wp-pl.eu
 0.0.0.0 antipiracywsdydetectorganisationfwsfeem.ydns.eu
 0.0.0.0 bvcxzlkjhgfdsapoiuytrewqwertyuiopasdfghj.ydns.eu
+0.0.0.0 chnesstdyqudusisabadassniggainthestfmv.ydns.eu
 0.0.0.0 chnesstdyqudusisabadassniggainthestgls.ydns.eu
 0.0.0.0 greenwsdykegheedahatakankeadeshnaawsgmz.ydns.eu
 0.0.0.0 hdgbcnuy73wjnho9jusrnhfhejfuy78wyi7jfknv.ydns.eu
@@ -44175,12 +44182,14 @@
 0.0.0.0 mndyneverwalkachinese2loneinlifekmnkkp.ydns.eu
 0.0.0.0 plugstdytransportationalexpertsystpqb.ydns.eu
 0.0.0.0 privatestdycloudshareandfileprotecstlka.ydns.eu
+0.0.0.0 russchine2stdymapanxmenischangednestvdq.ydns.eu
 0.0.0.0 shgshgsndynationalobjindustrialatsngpx.ydns.eu
 0.0.0.0 sndygreenkegheedahatakankeadeshnaasnwmd.ydns.eu
 0.0.0.0 sndyworkfinesanotherrainbowlomoyentsnfrw.ydns.eu
 0.0.0.0 stdyantipiracydetectorganisationfstfbbc.ydns.eu
 0.0.0.0 stdygreenkegheedahatakankeadeshnaastfyw.ydns.eu
 0.0.0.0 stdygreenkegheedahatakankeadeshnaasttmz.ydns.eu
+0.0.0.0 stdyneverwalkachinese2loneinlifekstgqm.ydns.eu
 0.0.0.0 stdyunitedfrkesokoriorimistreetsmsttyr.ydns.eu
 0.0.0.0 systemscantheipwithadvancefirewalltechnologyandinternaitonaldns.ydns.eu
 0.0.0.0 systemsecuritycheckingwithallprotectionofinternetwithfirewallpr.ydns.eu
@@ -48543,6 +48552,7 @@
 0.0.0.0 www.berjois.info
 0.0.0.0 scanner.best-click-av1.info
 0.0.0.0 scanner.best-protect.info
+0.0.0.0 www.get.bestdeal2060.info
 0.0.0.0 otpe.bestnewsworld.info
 0.0.0.0 dl.bestofupload.info
 0.0.0.0 www.betvietnam.info
@@ -49208,6 +49218,7 @@
 0.0.0.0 ad.philipstreehouse.info
 0.0.0.0 www.phone-digital.info
 0.0.0.0 www.pkwjkbcgk.info
+0.0.0.0 www.pl-id737962.info
 0.0.0.0 www.olx.pl-id73885935.info
 0.0.0.0 www.plainwest.info
 0.0.0.0 www.platez.info
@@ -49954,6 +49965,7 @@
 0.0.0.0 an.mainichi.jp
 0.0.0.0 ad.maist.jp
 0.0.0.0 cdn.pop.maist.jp
+0.0.0.0 analytics.mbga.jp
 0.0.0.0 redirect.mcgate.jp
 0.0.0.0 mng2.mcnt.jp
 0.0.0.0 ads.meropar.jp
@@ -50269,6 +50281,7 @@
 0.0.0.0 p9kyjzf8.life
 0.0.0.0 paczkomat.life
 0.0.0.0 paypaconnectingtosuppdepart.life
+0.0.0.0 post-send.life
 0.0.0.0 protected-adobe.life
 0.0.0.0 q8gau49h.life
 0.0.0.0 random-apple.life
@@ -50321,6 +50334,7 @@
 0.0.0.0 www.mobile-global-apps-store.life
 0.0.0.0 www.mobiles-global-apps-storages.life
 0.0.0.0 www.paczkomat.life
+0.0.0.0 www.post-send.life
 0.0.0.0 www.protected-adobe.life
 0.0.0.0 www.random-apple.life
 0.0.0.0 www.spiritpress.life
@@ -50387,6 +50401,7 @@
 0.0.0.0 applesidapple.live
 0.0.0.0 bank-accounts.live
 0.0.0.0 busfick.live
+0.0.0.0 cennik-paczki.live
 0.0.0.0 cl-verify.live
 0.0.0.0 cloud-adobe.live
 0.0.0.0 coinone.live
@@ -50472,6 +50487,7 @@
 0.0.0.0 ergjt.bxugac.live
 0.0.0.0 www.bxugac.live
 0.0.0.0 www.ergjt.bxugac.live
+0.0.0.0 www.cennik-paczki.live
 0.0.0.0 www.cjpyqf.live
 0.0.0.0 www.cl-verify.live
 0.0.0.0 www.cloud-adobe.live
@@ -55256,10 +55272,12 @@
 0.0.0.0 medium.in.net
 0.0.0.0 metrcedu.in.net
 0.0.0.0 myclu.in.net
+0.0.0.0 nadania-online.in.net
 0.0.0.0 nanaimo-info.in.net
 0.0.0.0 neotech.in.net
 0.0.0.0 newvalume.in.net
 0.0.0.0 oarcararcs.in.net
+0.0.0.0 odbieram.in.net
 0.0.0.0 ogiosz24.in.net
 0.0.0.0 onlinecandles.in.net
 0.0.0.0 paczkomat-platnosc.in.net
@@ -55304,7 +55322,9 @@
 0.0.0.0 www.lokalna-941866.in.net
 0.0.0.0 www.manager-paczek.in.net
 0.0.0.0 www.mediaexpres.in.net
+0.0.0.0 www.nadania-online.in.net
 0.0.0.0 www.neotech.in.net
+0.0.0.0 www.odbieram.in.net
 0.0.0.0 www.ogiosz24.in.net
 0.0.0.0 www.paczkomat-platnosc.in.net
 0.0.0.0 www.paczkomat-pobranie.in.net
@@ -56670,6 +56690,7 @@
 0.0.0.0 tazkiyah.org.ng
 0.0.0.0 www.elecedu.org.ng
 0.0.0.0 www.fvdi.org.ng
+0.0.0.0 monshaallahu.olaitanoluwasegunglobalent.org.ng
 0.0.0.0 www.pdi.org.ng
 0.0.0.0 www.tazkiyah.org.ng
 0.0.0.0 www.weavi.ng
@@ -57414,6 +57435,7 @@
 0.0.0.0 www.banco-santander-mobile.online
 0.0.0.0 www.barclaysprivateoffshore.online
 0.0.0.0 w.bigames.online
+0.0.0.0 asawaja.bijukonix.online
 0.0.0.0 www.boe-accountant.online
 0.0.0.0 www.central-netflix.online
 0.0.0.0 www.centralnetflix.online
@@ -57522,6 +57544,7 @@
 0.0.0.0 8cr.purredheanb.online
 0.0.0.0 www.purredheanb.online
 0.0.0.0 wwww.8cr.purredheanb.online
+0.0.0.0 www.olx-pl.pxd-pay.online
 0.0.0.0 www.queverennetflix.online
 0.0.0.0 www.redersantanders.online
 0.0.0.0 www.regulamin-email.online
@@ -58765,7 +58788,9 @@
 0.0.0.0 www.buyetizolam.org
 0.0.0.0 www.cafc-artscenter.org
 0.0.0.0 www.calvarychristianchurchintl.org
+0.0.0.0 akttualizacjaneftlix.camdvr.org
 0.0.0.0 senhoresx.camdvr.org
+0.0.0.0 www.akttualizacjaneftlix.camdvr.org
 0.0.0.0 www.train55.camdvr.org
 0.0.0.0 www.capital4u.org
 0.0.0.0 www.carsinsurancerates.org
@@ -61020,6 +61045,7 @@
 0.0.0.0 www.dzieckoalert.net.pl
 0.0.0.0 www.maszynyrolnicze.net.pl
 0.0.0.0 www.porwaniepolska.net.pl
+0.0.0.0 www.wydarzenia.net.pl
 0.0.0.0 www.news-onet24.pl
 0.0.0.0 www.newsy-onet24.pl
 0.0.0.0 www.nfwyprzedaz.pl
@@ -71256,6 +71282,7 @@
 0.0.0.0 ads.zdn.vn
 0.0.0.0 zaloapp.ads.zdn.vn
 0.0.0.0 ads.cdn.rovio.vom
+0.0.0.0 46186911.vtt
 0.0.0.0 80055404.vtt
 0.0.0.0 ether.vu
 0.0.0.0 ethereum.vu
@@ -71651,6 +71678,7 @@
 0.0.0.0 box-loginapps.xyz
 0.0.0.0 briikingnushahape.xyz
 0.0.0.0 buthak.xyz
+0.0.0.0 caeiriolskiaopazertyiop.xyz
 0.0.0.0 canload.xyz
 0.0.0.0 canonlist.xyz
 0.0.0.0 cennik.xyz
@@ -71893,6 +71921,7 @@
 0.0.0.0 not-found34.xyz
 0.0.0.0 notxcusestody.xyz
 0.0.0.0 nstuhin.xyz
+0.0.0.0 odbieraj.xyz
 0.0.0.0 oferta000123.xyz
 0.0.0.0 oferta000657.xyz
 0.0.0.0 oferta020202.xyz
@@ -71959,6 +71988,7 @@
 0.0.0.0 pingbackanytime.xyz
 0.0.0.0 pinoeg.xyz
 0.0.0.0 pipeto.xyz
+0.0.0.0 platnosci.xyz
 0.0.0.0 platnoscionline.xyz
 0.0.0.0 pncsecureenroll.xyz
 0.0.0.0 pocztabox24.xyz
@@ -72053,6 +72083,7 @@
 0.0.0.0 talented91-writer.xyz
 0.0.0.0 tarnowskiegory.xyz
 0.0.0.0 team-support-account.xyz
+0.0.0.0 termin-odbioru.xyz
 0.0.0.0 testdhome1.xyz
 0.0.0.0 testdhome4.xyz
 0.0.0.0 testplayground.xyz
@@ -72175,6 +72206,7 @@
 0.0.0.0 fundsec.caalerts.xyz
 0.0.0.0 intercad.caalerts.xyz
 0.0.0.0 paysafe.caalerts.xyz
+0.0.0.0 www.caeiriolskiaopazertyiop.xyz
 0.0.0.0 www.cennik.xyz
 0.0.0.0 www.chase-login7.xyz
 0.0.0.0 www.cleology.xyz
@@ -72285,6 +72317,7 @@
 0.0.0.0 www.netflixonline.xyz
 0.0.0.0 www.ninjavpn.xyz
 0.0.0.0 www.nstuhin.xyz
+0.0.0.0 www.odbieraj.xyz
 0.0.0.0 allegrolokalnie.oferta000123.xyz
 0.0.0.0 www.oferta000123.xyz
 0.0.0.0 www.allegrolokalnie.oferta000123.xyz
@@ -72360,6 +72393,7 @@
 0.0.0.0 www.paraphingxmfevapk.xyz
 0.0.0.0 www.pashido.xyz
 0.0.0.0 mm-mmm0.paykasabozdurma.xyz
+0.0.0.0 www.platnosci.xyz
 0.0.0.0 www.platnoscionline.xyz
 0.0.0.0 www.pocztabox24.xyz
 0.0.0.0 www.polixincare.xyz
@@ -72395,6 +72429,7 @@
 0.0.0.0 www.marine.stayhost.xyz
 0.0.0.0 www.surancekindyot.xyz
 0.0.0.0 www.surancliketap.xyz
+0.0.0.0 www.termin-odbioru.xyz
 0.0.0.0 www.testplayground.xyz
 0.0.0.0 www.thewanderfix.xyz
 0.0.0.0 www.thyahkkespro.xyz
