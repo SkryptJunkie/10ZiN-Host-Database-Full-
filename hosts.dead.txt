@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Monday 28 December 2020
+# Date: 06:02 AM Tuesday 29 December 2020
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -5135,6 +5135,7 @@
 0.0.0.0 03c2e1b465.com
 0.0.0.0 040134816381437token.com
 0.0.0.0 041ffb0c97e1baf5ae407c63f4feffa5.com
+0.0.0.0 04273b4d0ffe.com
 0.0.0.0 04f89f867c5d.com
 0.0.0.0 061a1632d773-amazon.com
 0.0.0.0 068943613eb.com
@@ -5251,6 +5252,7 @@
 0.0.0.0 2023star.com
 0.0.0.0 202trackingsoft.com
 0.0.0.0 2091995300d7.com
+0.0.0.0 2219ca6fc1.com
 0.0.0.0 225396e831e8.com
 0.0.0.0 237482345sd.com
 0.0.0.0 247binaryreviews.com
@@ -5271,6 +5273,7 @@
 0.0.0.0 286b656e86a.com
 0.0.0.0 28hf7513231-trader.com
 0.0.0.0 290e346061.com
+0.0.0.0 292f18b4e7b4.com
 0.0.0.0 2abca352f4.com
 0.0.0.0 2b2b84231908.com
 0.0.0.0 2bb9dcf84c.com
@@ -5494,6 +5497,7 @@
 0.0.0.0 5b241d28316f1.com
 0.0.0.0 5bd5e3203751.com
 0.0.0.0 5c70f601e62.com
+0.0.0.0 5cebdc16d51ea.com
 0.0.0.0 5d1e656859.com
 0.0.0.0 5e1fcb75b6d662d.com
 0.0.0.0 5eba117283784.com
@@ -5900,6 +5904,7 @@
 0.0.0.0 ad-trip.com
 0.0.0.0 ad2387.com
 0.0.0.0 ad28b2a5fe.com
+0.0.0.0 ad42877d321.com
 0.0.0.0 ad4max.com
 0.0.0.0 ada-ware.com
 0.0.0.0 adaccountlimita2.com
@@ -8741,6 +8746,7 @@
 0.0.0.0 cavenaghi-it.com
 0.0.0.0 cavotel.com
 0.0.0.0 caxbnk.com
+0.0.0.0 cb74a5af6bedd.com
 0.0.0.0 cbce0c01b63399.com
 0.0.0.0 cbgujxjlp.com
 0.0.0.0 cbmshooters.com
@@ -10494,6 +10500,7 @@
 0.0.0.0 e78b09c3cf.com
 0.0.0.0 e860045edaecd.com
 0.0.0.0 e9cb2923380.com
+0.0.0.0 e9e1542c796.com
 0.0.0.0 e9mlrvy1.com
 0.0.0.0 ea-traffic-redirection.com
 0.0.0.0 ea6d133f7ae.com
