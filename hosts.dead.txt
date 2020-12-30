@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Tuesday 29 December 2020
+# Date: 06:02 AM Wednesday 30 December 2020
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -61443,11 +61443,13 @@
 0.0.0.0 568vovhs6ekbupjo.pro
 0.0.0.0 advancedsecurity.pro
 0.0.0.0 adware.pro
+0.0.0.0 alahnavideos.pro
 0.0.0.0 apple-iphone.pro
 0.0.0.0 apple-login.pro
 0.0.0.0 apple-report.pro
 0.0.0.0 appleunlock.pro
 0.0.0.0 aranlucas.pro
+0.0.0.0 arlitasite.pro
 0.0.0.0 atendsac1.pro
 0.0.0.0 bestcase.pro
 0.0.0.0 bezbiku.pro
