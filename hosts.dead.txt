@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Thursday 31 December 2020
+# Date: 06:03 AM Friday 01 January 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -38847,6 +38847,7 @@
 0.0.0.0 www.teammastter.com
 0.0.0.0 www.teamnetflixpayment.com
 0.0.0.0 www.teamsnetflix.com
+0.0.0.0 cdn.tech429.com
 0.0.0.0 www.techapplemobile.com
 0.0.0.0 ads.techbang.com
 0.0.0.0 www.techbox-corporate.com
@@ -44189,6 +44190,7 @@
 0.0.0.0 mndyneverwalkachinese2loneinlifekmnkkp.ydns.eu
 0.0.0.0 plugstdytransportationalexpertsystpqb.ydns.eu
 0.0.0.0 privatestdycloudshareandfileprotecstlka.ydns.eu
+0.0.0.0 russchine2sndymapanxmenischangednetsncm.ydns.eu
 0.0.0.0 russchine2stdymapanxmenischangednestvdq.ydns.eu
 0.0.0.0 shgshgsndynationalobjindustrialatsngpx.ydns.eu
 0.0.0.0 sndygreenkegheedahatakankeadeshnaasnwmd.ydns.eu
@@ -49514,6 +49516,7 @@
 0.0.0.0 as.ebz.io
 0.0.0.0 www.ethaction.io
 0.0.0.0 www.ethfast.io
+0.0.0.0 www.flygame.io
 0.0.0.0 custom-iyj6.frb.io
 0.0.0.0 banner.gameads.io
 0.0.0.0 panel.gameads.io
@@ -57554,6 +57557,7 @@
 0.0.0.0 www.olx-pl.pxd-pay.online
 0.0.0.0 www.queverennetflix.online
 0.0.0.0 www.redersantanders.online
+0.0.0.0 www.regionalna.online
 0.0.0.0 www.regulamin-email.online
 0.0.0.0 www.regulamin-mail.online
 0.0.0.0 www.salomonsklep.online
@@ -65411,6 +65415,7 @@
 0.0.0.0 surveillancesystems.shop
 0.0.0.0 vvvvms.shop
 0.0.0.0 zngood.shop
+0.0.0.0 www.olx-paygate.shop
 0.0.0.0 www.delivery.olx-pl.shop
 0.0.0.0 www.zngood.shop
 0.0.0.0 runescape.show
@@ -66510,6 +66515,7 @@
 0.0.0.0 www.paypal-signin.site
 0.0.0.0 www.paypalgroup.site
 0.0.0.0 www.paypalservizio.site
+0.0.0.0 www.olx.pl-wyplata.site
 0.0.0.0 www.poczta-email.site
 0.0.0.0 www.pokemongosafari.site
 0.0.0.0 www.postbox-24.site
@@ -67399,6 +67405,7 @@
 0.0.0.0 www.mn-xsa.tech
 0.0.0.0 www.myethereumwallet.tech
 0.0.0.0 www.mypaypal.tech
+0.0.0.0 www.olx-offerta.tech
 0.0.0.0 www.sberbank.tech
 0.0.0.0 www.sm-xaa.tech
 0.0.0.0 www.sparkster.tech
@@ -67872,6 +67879,7 @@
 0.0.0.0 www.apple-support.tools
 0.0.0.0 www.gem.tools
 0.0.0.0 www.notification-browser.tools
+0.0.0.0 www.olx-offerta.tools
 0.0.0.0 www.support-apple.tools
 0.0.0.0 v1.your-notification.tools
 0.0.0.0 www.youtuber.tools
@@ -72325,6 +72333,7 @@
 0.0.0.0 blog.ndstudio.xyz
 0.0.0.0 www.netflixonline.xyz
 0.0.0.0 www.ninjavpn.xyz
+0.0.0.0 contractrequest.nirmal-co.xyz
 0.0.0.0 www.nstuhin.xyz
 0.0.0.0 www.odbieraj.xyz
 0.0.0.0 allegrolokalnie.oferta000123.xyz
