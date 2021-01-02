@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:03 AM Friday 01 January 2021
+# Date: 06:02 AM Saturday 02 January 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -42133,6 +42133,7 @@
 0.0.0.0 www.pickel-hausmittel.de
 0.0.0.0 ea.pixmania.de
 0.0.0.0 ext.platinnetz.de
+0.0.0.0 log.plinga.de
 0.0.0.0 adserver2.popdata.de
 0.0.0.0 adview.ppro.de
 0.0.0.0 tracking.promiflash.de
