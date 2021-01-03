@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Saturday 02 January 2021
+# Date: 06:02 AM Sunday 03 January 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -28461,6 +28461,7 @@
 0.0.0.0 snapshot.compete.com
 0.0.0.0 www.complejoturisticosantaisabel.com
 0.0.0.0 www.complete-o-acesso.com
+0.0.0.0 keywords.complex.com
 0.0.0.0 stats.complex.com
 0.0.0.0 account-alert.complexityestimator.com
 0.0.0.0 www.account-alert.complexityestimator.com
@@ -35474,6 +35475,7 @@
 0.0.0.0 www.olha-desc-cup-3.com
 0.0.0.0 metrics.olivegarden.com
 0.0.0.0 cpsess6461140722dfl4555lopdo.olutss.com
+0.0.0.0 www.olx-offerta.com
 0.0.0.0 www.omanave.com
 0.0.0.0 www.omdqwxzy.com
 0.0.0.0 static.track.omguk.com
