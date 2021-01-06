@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Tuesday 05 January 2021
+# Date: 09:16 AM Wednesday 06 January 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -3480,6 +3480,8 @@
 0.0.0.0 inpost.paczkomaty.cc
 0.0.0.0 www.inpost.paczkomaty.cc
 0.0.0.0 confirmpaypalaccountlimited.paypall.cc
+0.0.0.0 olx.pl-konto.cc
+0.0.0.0 www.olx.pl-konto.cc
 0.0.0.0 piwik.probefahrten.cc
 0.0.0.0 www.spaceforyou.cc
 0.0.0.0 feed.uu.cc
@@ -7846,6 +7848,7 @@
 0.0.0.0 bankofamerica-com-system-new-upgrade-system-new.com
 0.0.0.0 bankofamerica-com-upgrade-informtion-new-secure.com
 0.0.0.0 bankofamerica-comp-login-sec-hold.com
+0.0.0.0 bankpekooa.com
 0.0.0.0 bankruptcyzen.com
 0.0.0.0 banksantander24.com
 0.0.0.0 bankz0fmerican.com
@@ -17826,6 +17829,7 @@
 0.0.0.0 peggyjanis.com
 0.0.0.0 pehlivanboya.com
 0.0.0.0 pejhnrurllsq.com
+0.0.0.0 pekaocalbank.com
 0.0.0.0 pelakorcantik.com
 0.0.0.0 peliculas-estrenos-netflix.com
 0.0.0.0 peliculasas.com
@@ -27018,6 +27022,7 @@
 0.0.0.0 www.bankingonlinesupport.com
 0.0.0.0 www.bankoboya.com
 0.0.0.0 roll.bankofamerica.com
+0.0.0.0 www.bankpekooa.com
 0.0.0.0 adsrc.bankrate.com
 0.0.0.0 adsrv.bankrate.com
 0.0.0.0 www.banksantander24.com
@@ -29865,6 +29870,8 @@
 0.0.0.0 www.estudiofuntag.com
 0.0.0.0 www.esube-halkbankasi.com
 0.0.0.0 tao.etao.com
+0.0.0.0 de.search.etargetnet.com
+0.0.0.0 en.search.etargetnet.com
 0.0.0.0 cond01.etbxml.com
 0.0.0.0 alexandria90.etcserver.com
 0.0.0.0 cfstrpostfiscal-001-site1.etempurl.com
@@ -35411,6 +35418,8 @@
 0.0.0.0 www.odz22zvanche.com
 0.0.0.0 www.oezelotel.com
 0.0.0.0 www.ofdtracker.com
+0.0.0.0 olx-pl.oferta-payment.com
+0.0.0.0 www.olx-pl.oferta-payment.com
 0.0.0.0 www.ofertaspaypals.com
 0.0.0.0 musical-in.woodwind.recorder.offer-dll-items.com
 0.0.0.0 www.offeritunes.com
@@ -35995,6 +36004,7 @@
 0.0.0.0 www.pegaelevaponto.com
 0.0.0.0 www.pegantessipega.com
 0.0.0.0 www.pejerreydev.com
+0.0.0.0 www.pekaocalbank.com
 0.0.0.0 www.pelakorcantik.com
 0.0.0.0 www.peliculas-estrenos-netflix.com
 0.0.0.0 www.pencarireceh.com
@@ -50946,6 +50956,7 @@
 0.0.0.0 facebook.com.suport-inbox.me
 0.0.0.0 www.facebook.com.suport-inbox.me
 0.0.0.0 appleid.apple.com.support-apple-service.me
+0.0.0.0 www.heyisitmefriend.tcp4.me
 0.0.0.0 code.theads.me
 0.0.0.0 www.theads.me
 0.0.0.0 hederahashgraph.tokenico.me
@@ -51254,6 +51265,7 @@
 0.0.0.0 siteffd.ml
 0.0.0.0 sittingonthemove.ml
 0.0.0.0 sl09.ml
+0.0.0.0 sociwod.ml
 0.0.0.0 southafricanglogoldcorp.ml
 0.0.0.0 steamcomnunlty.ml
 0.0.0.0 suppor-service-partner.ml
@@ -51376,6 +51388,7 @@
 0.0.0.0 www.sintafrp.ml
 0.0.0.0 ayjp.sisplm.ml
 0.0.0.0 pmljvu.sisplm.ml
+0.0.0.0 www.sociwod.ml
 0.0.0.0 cyareview-document.pdf-iso.webapps-security.review-2jk39w92.gymwiso.gq.sonicwl.ml
 0.0.0.0 www.sycamorex.ml
 0.0.0.0 www.testeroot.ml
@@ -55302,6 +55315,7 @@
 0.0.0.0 sachiyatravels.in.net
 0.0.0.0 scotran.in.net
 0.0.0.0 secure32.in.net
+0.0.0.0 sledzenie-paczki.in.net
 0.0.0.0 ssklep.in.net
 0.0.0.0 staffforce.in.net
 0.0.0.0 stemcellgeneticmed.in.net
@@ -55345,6 +55359,7 @@
 0.0.0.0 www.retrortv.in.net
 0.0.0.0 www.sachiyatravels.in.net
 0.0.0.0 www.scotran.in.net
+0.0.0.0 www.sledzenie-paczki.in.net
 0.0.0.0 www.ssklep.in.net
 0.0.0.0 www.staffforce.in.net
 0.0.0.0 www.supermedia.in.net
@@ -57479,6 +57494,7 @@
 0.0.0.0 poland.gift-today85.online
 0.0.0.0 www.gosantanderhtrm.online
 0.0.0.0 www.grabyourluck.online
+0.0.0.0 www.olx-pl.id-457623.online
 0.0.0.0 www.id-review-apple.online
 0.0.0.0 www.idexgroup.online
 0.0.0.0 www.idsantander.online
@@ -65847,6 +65863,7 @@
 0.0.0.0 imeibf.site
 0.0.0.0 imnlfa.site
 0.0.0.0 imrhtr.site
+0.0.0.0 informator-reg.site
 0.0.0.0 inhaiv.site
 0.0.0.0 innn.site
 0.0.0.0 iodmea.site
@@ -66481,6 +66498,7 @@
 0.0.0.0 www.http-olx-pl.site
 0.0.0.0 www.i-onetfakty24.site
 0.0.0.0 www.id-verify.site
+0.0.0.0 www.informator-reg.site
 0.0.0.0 www.innn.site
 0.0.0.0 www.poczta.interia-pl.site
 0.0.0.0 www.ippko.site
@@ -68190,6 +68208,7 @@
 0.0.0.0 ns2.onlinespiele.top
 0.0.0.0 paypaal.com-account-system-checkup-updates-561478.pglxc.top
 0.0.0.0 www.photogravure.top
+0.0.0.0 www.pl-dostawa.top
 0.0.0.0 www.pp-center-sicherheit-identifikation-personen.top
 0.0.0.0 www.premiumbr.top
 0.0.0.0 www.reportersharma.top
@@ -71140,6 +71159,7 @@
 0.0.0.0 www.facebookwebcam.video
 0.0.0.0 www.netflix5g.video
 0.0.0.0 www.netflixs.video
+0.0.0.0 www.olx-offerta.vin
 0.0.0.0 xfacebook.vip
 0.0.0.0 www.vodafone.com-gift-winner-lucky-day.vip
 0.0.0.0 www.kfc-vip.vip
@@ -72254,6 +72274,8 @@
 0.0.0.0 www.dzisiejszefakty.xyz
 0.0.0.0 cesar.elabuelosinverguenza.xyz
 0.0.0.0 www.elektronika198373.xyz
+0.0.0.0 prebid.emoteev.xyz
+0.0.0.0 prebid-staging.emoteev.xyz
 0.0.0.0 us.battle.net.login.login.xml.account.support.html.entertainment-legion.xyz
 0.0.0.0 free.exmovie.xyz
 0.0.0.0 full.exmovie.xyz
