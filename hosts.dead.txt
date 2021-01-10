@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 10:22 AM Saturday 09 January 2021
+# Date: 06:02 AM Sunday 10 January 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -49935,6 +49935,7 @@
 0.0.0.0 ad.impressbm.co.jp
 0.0.0.0 adi.mainichi.co.jp
 0.0.0.0 ad.mediad.co.jp
+0.0.0.0 ranking.apis.sankei-digital.co.jp
 0.0.0.0 ad2.sbisec.co.jp
 0.0.0.0 www.smartheart.co.jp
 0.0.0.0 www.top-smile.co.jp
