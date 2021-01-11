@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Sunday 10 January 2021
+# Date: 06:02 AM Monday 11 January 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -49914,6 +49914,7 @@
 0.0.0.0 emp.aiasahi.jp
 0.0.0.0 act.ameba.jp
 0.0.0.0 adstatic.ameba.jp
+0.0.0.0 pr.ameba.jp
 0.0.0.0 stat.gamy.ameba.jp
 0.0.0.0 www.ab.auone-net.jp
 0.0.0.0 www.ac.auone-net.jp
