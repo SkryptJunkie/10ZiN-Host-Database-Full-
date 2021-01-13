@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Tuesday 12 January 2021
+# Date: 06:03 AM Wednesday 13 January 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -284,6 +284,7 @@
 0.0.0.0 freeservice.dns.army
 0.0.0.0 microsfotonline.dns.army
 0.0.0.0 pannel-control.dns.army
+0.0.0.0 shgshgwsdynationalbp.dns.army
 0.0.0.0 alabama-usa.art
 0.0.0.0 anhle.art
 0.0.0.0 app.astec.as
@@ -28317,6 +28318,9 @@
 0.0.0.0 www.co-outlook.com
 0.0.0.0 boa.coachoutletonlinestoresusa.com
 0.0.0.0 www.coachoutletonlinestoresusa.com
+0.0.0.0 takataka.coccoc.com
+0.0.0.0 cdn.takataka.coccoc.com
+0.0.0.0 searcher.takataka.coccoc.com
 0.0.0.0 www.cocktailvzla.com
 0.0.0.0 www.cocossalon.com
 0.0.0.0 metrics.codahale.com
@@ -38902,6 +38906,7 @@
 0.0.0.0 signdocusigns.telecomauditguide.com
 0.0.0.0 banner.telefragged.com
 0.0.0.0 wvwv.telescreditoscbp.com
+0.0.0.0 zieflix.teleskopstore.com
 0.0.0.0 www.download.televisionfanatic.com
 0.0.0.0 a.tellapart.com
 0.0.0.0 static.tellaparts.com
@@ -40582,6 +40587,7 @@
 0.0.0.0 te.wsls.com
 0.0.0.0 scrooge.wsoctv.com
 0.0.0.0 www.wsspeed.com
+0.0.0.0 gurztac.wtchevalier.com
 0.0.0.0 scrooge.wtov9.com
 0.0.0.0 www.wtp101.com
 0.0.0.0 www.wtsconsultancy.com
@@ -49527,6 +49533,8 @@
 0.0.0.0 redirect.dable.io
 0.0.0.0 clktrk.display.io
 0.0.0.0 as.ebz.io
+0.0.0.0 prebid.emoteev.io
+0.0.0.0 prebid-staging.emoteev.io
 0.0.0.0 www.ethaction.io
 0.0.0.0 www.ethfast.io
 0.0.0.0 www.flygame.io
@@ -55311,6 +55319,7 @@
 0.0.0.0 paczkomat-platnosc.in.net
 0.0.0.0 paczkomat-pobranie.in.net
 0.0.0.0 paczkomat24.in.net
+0.0.0.0 platnosci24.in.net
 0.0.0.0 protection32.in.net
 0.0.0.0 quickapps.in.net
 0.0.0.0 retrortv.in.net
@@ -55330,6 +55339,7 @@
 0.0.0.0 valume64.in.net
 0.0.0.0 vaporparts.in.net
 0.0.0.0 vialanviltec.in.net
+0.0.0.0 w-paczkomacie24.in.net
 0.0.0.0 wincon32.in.net
 0.0.0.0 window32.in.net
 0.0.0.0 window64.in.net
@@ -55358,6 +55368,7 @@
 0.0.0.0 www.paczkomat-platnosc.in.net
 0.0.0.0 www.paczkomat-pobranie.in.net
 0.0.0.0 www.paczkomat24.in.net
+0.0.0.0 www.platnosci24.in.net
 0.0.0.0 www.retrortv.in.net
 0.0.0.0 www.sachiyatravels.in.net
 0.0.0.0 www.scotran.in.net
@@ -55366,6 +55377,7 @@
 0.0.0.0 www.staffforce.in.net
 0.0.0.0 www.supermedia.in.net
 0.0.0.0 www.vaporparts.in.net
+0.0.0.0 www.w-paczkomacie24.in.net
 0.0.0.0 www.withspirit.in.net
 0.0.0.0 www.in-general.net
 0.0.0.0 www.incomingvoipmessages.net
@@ -68476,6 +68488,7 @@
 0.0.0.0 free-rewards.com-s.tv
 0.0.0.0 hit.dogannet.tv
 0.0.0.0 ad.dropbooks.tv
+0.0.0.0 www.ww1.e-kino.tv
 0.0.0.0 marketingtools.facialabuse.tv
 0.0.0.0 oas.five.tv
 0.0.0.0 ads.fora.tv
@@ -71197,6 +71210,9 @@
 0.0.0.0 c.logging.admicro.vn
 0.0.0.0 dsprtb.logging.admicro.vn
 0.0.0.0 ea.logging.admicro.vn
+0.0.0.0 s0.adnet.vn
+0.0.0.0 services.adnet.vn
+0.0.0.0 widget.adnet.vn
 0.0.0.0 pm.adpia.vn
 0.0.0.0 xmas.adtima.vn
 0.0.0.0 www.beautycaregold.vn
@@ -71257,6 +71273,7 @@
 0.0.0.0 wadi.gov.vn
 0.0.0.0 www.wadi.gov.vn
 0.0.0.0 www.hows.vn
+0.0.0.0 qc.itsgroup.vn
 0.0.0.0 www.kenhnongsan.vn
 0.0.0.0 www.lieunguyenduong.vn
 0.0.0.0 www.luxurymall.vn
