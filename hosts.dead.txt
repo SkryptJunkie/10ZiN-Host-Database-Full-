@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Saturday 16 January 2021
+# Date: 06:02 AM Sunday 17 January 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -283,8 +283,13 @@
 0.0.0.0 documentation.dns.army
 0.0.0.0 freeservice.dns.army
 0.0.0.0 microsfotonline.dns.army
+0.0.0.0 mndyperezluzcafeyzmn.dns.army
+0.0.0.0 mndyunitedfrkesokori.dns.army
+0.0.0.0 nevermndywalkachine2.dns.army
 0.0.0.0 pannel-control.dns.army
 0.0.0.0 shgshgwsdynationalbp.dns.army
+0.0.0.0 stdyrusschine2mapafr.dns.army
+0.0.0.0 tsdymjventsluzcafeyz.dns.army
 0.0.0.0 alabama-usa.art
 0.0.0.0 anhle.art
 0.0.0.0 app.astec.as
@@ -44652,6 +44657,7 @@
 0.0.0.0 ticketbonus.fun
 0.0.0.0 time4swap.fun
 0.0.0.0 trade4real.fun
+0.0.0.0 x-f.fun
 0.0.0.0 xueha.fun
 0.0.0.0 www.ailegro-lokainle-935271.fun
 0.0.0.0 www.bankmillennium.fun
@@ -66763,6 +66769,7 @@
 0.0.0.0 applesidapple.store
 0.0.0.0 axs-mobile.store
 0.0.0.0 caseopening.store
+0.0.0.0 cryptobubble.store
 0.0.0.0 csgobot.store
 0.0.0.0 erosbvw.store
 0.0.0.0 fmi-login.store
