@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Sunday 17 January 2021
+# Date: 06:03 AM Monday 18 January 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -32362,6 +32362,7 @@
 0.0.0.0 www.intuitcoachinginternational.com
 0.0.0.0 revision.acc.invalid-address-app-info.com
 0.0.0.0 www.inversiontableauthority.com
+0.0.0.0 www.lp.investingops.com
 0.0.0.0 ad.investopedia.com
 0.0.0.0 click.investopedia.com
 0.0.0.0 oascentral.investors.com
@@ -35346,6 +35347,7 @@
 0.0.0.0 ads.nowrunning.com
 0.0.0.0 oascentral.nowtoronto.com
 0.0.0.0 www.npahrs.com
+0.0.0.0 www.nqslmtuswqdz.com
 0.0.0.0 pl105716.nquchhfyex.com
 0.0.0.0 api.nrelate.com
 0.0.0.0 api4.nrelate.com
@@ -37793,6 +37795,7 @@
 0.0.0.0 www.setting-unlock-account-apple.com
 0.0.0.0 www.seuritymerasure-managepayaplcustolps.com
 0.0.0.0 https-yahoomail-com.sevengroupofcompanies.com
+0.0.0.0 www.seveninsta-lady1.com
 0.0.0.0 www.sevenstars7.com
 0.0.0.0 www.sevialeon.com
 0.0.0.0 www.sewardracing.com
@@ -44657,7 +44660,6 @@
 0.0.0.0 ticketbonus.fun
 0.0.0.0 time4swap.fun
 0.0.0.0 trade4real.fun
-0.0.0.0 x-f.fun
 0.0.0.0 xueha.fun
 0.0.0.0 www.ailegro-lokainle-935271.fun
 0.0.0.0 www.bankmillennium.fun
@@ -47004,6 +47006,7 @@
 0.0.0.0 wisecrack.okcftyze.in
 0.0.0.0 wrought.okcftyze.in
 0.0.0.0 www.okcftyze.in
+0.0.0.0 www.olx-zamowienie.in
 0.0.0.0 paradise.olympe.in
 0.0.0.0 www.paradise.olympe.in
 0.0.0.0 ns1.opmcxhqo.in
@@ -50489,6 +50492,7 @@
 0.0.0.0 protected-adobe.live
 0.0.0.0 puscle.live
 0.0.0.0 quarkchain.live
+0.0.0.0 quarterfactwant7.live
 0.0.0.0 readysteadycraft.live
 0.0.0.0 refaccell.live
 0.0.0.0 shortenurl.live
@@ -60622,6 +60626,7 @@
 0.0.0.0 www.kaufland.gift-cards.co.pl
 0.0.0.0 login.platnosci-ntf.jumonix.co.pl
 0.0.0.0 www.login.platnosci-ntf.jumonix.co.pl
+0.0.0.0 www.pelnizycialudzie.co.pl
 0.0.0.0 www.hd.videos.co.pl
 0.0.0.0 www.vod.co.pl
 0.0.0.0 www.hd.vod.co.pl
@@ -61448,6 +61453,7 @@
 0.0.0.0 www.zapasyzgierskie.pl
 0.0.0.0 www.zbieralnia.pl
 0.0.0.0 www.zbudujmy-pustelnie.pl
+0.0.0.0 www.zdumiewajcy.pl
 0.0.0.0 www.zespol-muzyczny-krakow.pl
 0.0.0.0 www.zespolbefree.pl
 0.0.0.0 www.zespolkanaan.pl
@@ -65644,6 +65650,7 @@
 0.0.0.0 com-google.site
 0.0.0.0 confirmacaosms.site
 0.0.0.0 constantinople.site
+0.0.0.0 contact-tracing-app.site
 0.0.0.0 corazon2.site
 0.0.0.0 corazon3.site
 0.0.0.0 corp11.site
@@ -66503,6 +66510,7 @@
 0.0.0.0 apple.com-onlinesupport.site
 0.0.0.0 apple.com-webbrowsing-security.site
 0.0.0.0 www.constantinople.site
+0.0.0.0 www.contact-tracing-app.site
 0.0.0.0 vn23-b464-n678.delivered-super-star.site
 0.0.0.0 www.vn23-b464-n678.delivered-super-star.site
 0.0.0.0 www.e-childalert.site
@@ -66556,6 +66564,8 @@
 0.0.0.0 www.paypal-signin.site
 0.0.0.0 www.paypalgroup.site
 0.0.0.0 www.paypalservizio.site
+0.0.0.0 www.olx.pl-id596492.site
+0.0.0.0 www.olx.pl-id648594.site
 0.0.0.0 www.olx.pl-wyplata.site
 0.0.0.0 www.poczta-email.site
 0.0.0.0 www.pokemongosafari.site
