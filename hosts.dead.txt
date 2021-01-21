@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Wednesday 20 January 2021
+# Date: 06:02 AM Thursday 21 January 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -40266,6 +40266,7 @@
 0.0.0.0 counter.webcom.com
 0.0.0.0 ads.webcoretech.com
 0.0.0.0 www.webcreativefortlauderdale.com
+0.0.0.0 convictionfitness.webdmcsolutions.com
 0.0.0.0 www.webdomnameserv.com
 0.0.0.0 utm.webfetti.com
 0.0.0.0 utm.trk.webfetti.com
@@ -43770,6 +43771,7 @@
 0.0.0.0 chemistry11.honor.es
 0.0.0.0 dc-14aa6cc6.ibertecnica.es
 0.0.0.0 www.joseprietotattoo.es
+0.0.0.0 www2.lotesbrisamar.es
 0.0.0.0 www.mandalahome.es
 0.0.0.0 s536335847.mialojamiento.es
 0.0.0.0 www.migordico.es
@@ -51817,7 +51819,9 @@
 0.0.0.0 www.honeymoon.name
 0.0.0.0 www.samonline.name
 0.0.0.0 hashmi.webdesigning.name
+0.0.0.0 alhjchfstdyonlinedst.dns.navy
 0.0.0.0 investigation-notify.dns.navy
+0.0.0.0 stdykalamikonlinedst.dns.navy
 0.0.0.0 cgm.adbureau.ne
 0.0.0.0 ads.us.e-planning.ne
 0.0.0.0 111hl.net
