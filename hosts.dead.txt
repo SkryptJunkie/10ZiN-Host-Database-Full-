@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Thursday 21 January 2021
+# Date: 06:03 AM Friday 22 January 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -282,6 +282,7 @@
 0.0.0.0 desktoperverify.dns.army
 0.0.0.0 documentation.dns.army
 0.0.0.0 freeservice.dns.army
+0.0.0.0 kungsb2tsdygotchtsaw.dns.army
 0.0.0.0 microsfotonline.dns.army
 0.0.0.0 mndyperezluzcafeyzmn.dns.army
 0.0.0.0 mndyunitedfrkesokori.dns.army
@@ -33493,6 +33494,7 @@
 0.0.0.0 www.liveapplemusic.com
 0.0.0.0 online.livebmo.com
 0.0.0.0 www.liveedu24.com
+0.0.0.0 analytics.livehindustan.com
 0.0.0.0 click.livejasmin.com
 0.0.0.0 images.livejasmin.com
 0.0.0.0 img.livejasmin.com
@@ -49938,6 +49940,7 @@
 0.0.0.0 www.ab.auone-net.jp
 0.0.0.0 www.ac.auone-net.jp
 0.0.0.0 ad.axyzconductor.jp
+0.0.0.0 fast-kusu-7207.boy.jp
 0.0.0.0 cdn.c-team.jp
 0.0.0.0 ot.ca-mpr.jp
 0.0.0.0 adnetworks.co.jp
