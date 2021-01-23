@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:03 AM Friday 22 January 2021
+# Date: 06:03 AM Saturday 23 January 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -950,6 +950,8 @@
 0.0.0.0 www.ado.sporta.ba
 0.0.0.0 soundhouse.band
 0.0.0.0 www.soundhouse.band
+0.0.0.0 dostawa-olx.bar
+0.0.0.0 www.dostawa-olx.bar
 0.0.0.0 eminescu.com.bd
 0.0.0.0 exin.com.bd
 0.0.0.0 filmproducersassociation.com.bd
@@ -3442,6 +3444,8 @@
 0.0.0.0 skinsjar.cash
 0.0.0.0 www.card2card.cash
 0.0.0.0 www.paypalcasino.cash
+0.0.0.0 www.inpost.pl-get.cash
+0.0.0.0 www.olx.pl-receive.cash
 0.0.0.0 www.skinsjar.cash
 0.0.0.0 apple-bcn.cat
 0.0.0.0 appleshopbcn.cat
@@ -4207,6 +4211,7 @@
 0.0.0.0 blhhwxdkfvdwqgui.click
 0.0.0.0 bofa-loginmenu.click
 0.0.0.0 dealitright.click
+0.0.0.0 dostawa-olx-pl.click
 0.0.0.0 gmjpxrwopcgyr.click
 0.0.0.0 homecareeshop.click
 0.0.0.0 mediaoffers.click
@@ -4221,6 +4226,7 @@
 0.0.0.0 www.go.0o.click
 0.0.0.0 www.applemacbookpromd101cha.click
 0.0.0.0 www.bofa-loginmenu.click
+0.0.0.0 www.dostawa-olx-pl.click
 0.0.0.0 connect.secure.service.insurances.click
 0.0.0.0 www.offerzone.click
 0.0.0.0 www.payulink.click
@@ -42260,6 +42266,7 @@
 0.0.0.0 www.bb.digital
 0.0.0.0 freshers.luminescent.digital
 0.0.0.0 ntwolb.co.uk.m0bil.digital
+0.0.0.0 www.pl-olx.digital
 0.0.0.0 nab.direct
 0.0.0.0 zak.direct
 0.0.0.0 www.zak.direct
@@ -49479,7 +49486,9 @@
 0.0.0.0 www.zoejohnson.info
 0.0.0.0 ad.zoglafi.info
 0.0.0.0 acc-contactinfo.ink
+0.0.0.0 olx-pl.ink
 0.0.0.0 www.acc-contactinfo.ink
+0.0.0.0 www.olx-pl.ink
 0.0.0.0 etlsx.ecowas.int
 0.0.0.0 www.etlsx.ecowas.int
 0.0.0.0 donate.international
@@ -57372,6 +57381,7 @@
 0.0.0.0 pomoc-regulamin.online
 0.0.0.0 posteevolution.online
 0.0.0.0 poszukiwanialaury.online
+0.0.0.0 ppinetwork.online
 0.0.0.0 promocao-netflix.online
 0.0.0.0 promocoes-netflix.online
 0.0.0.0 protected-adobe.online
@@ -57588,6 +57598,7 @@
 0.0.0.0 www.outlooksoft.online
 0.0.0.0 www.paymentnetflix.online
 0.0.0.0 www.paypal-support.online
+0.0.0.0 www.olx.pl-log.online
 0.0.0.0 www.pl-netflix.online
 0.0.0.0 www.platnosc-paczkomat.online
 0.0.0.0 www.plolx-oplata.online
@@ -60626,18 +60637,26 @@
 0.0.0.0 www.free.apps.co.pl
 0.0.0.0 www.game.apps.co.pl
 0.0.0.0 www.netflix.apps.co.pl
+0.0.0.0 www.covidowaszczepionkainfo.co.pl
+0.0.0.0 www.covidoweszczepienia.co.pl
 0.0.0.0 www.dandasana1.co.pl
 0.0.0.0 www.cloud.file.co.pl
 0.0.0.0 www.download.file.co.pl
 0.0.0.0 www.free.file.co.pl
 0.0.0.0 www.kaufland.gift-cards.co.pl
+0.0.0.0 www.historiaszczepienie.co.pl
+0.0.0.0 www.historiazaszczepionej.co.pl
 0.0.0.0 login.platnosci-ntf.jumonix.co.pl
 0.0.0.0 www.login.platnosci-ntf.jumonix.co.pl
+0.0.0.0 www.kobietazaszczepiona.co.pl
 0.0.0.0 www.pelnizycialudzie.co.pl
+0.0.0.0 www.szczepienieprzeciwcovid.co.pl
 0.0.0.0 www.hd.videos.co.pl
 0.0.0.0 www.vod.co.pl
 0.0.0.0 www.hd.vod.co.pl
 0.0.0.0 www.serial.vod.co.pl
+0.0.0.0 www.zaszczepilamsie.co.pl
+0.0.0.0 www.zaszczepionakobieta.co.pl
 0.0.0.0 www.cobeinboats.pl
 0.0.0.0 www.columbiapltanio.pl
 0.0.0.0 www.columbiatanio.pl
@@ -62089,7 +62108,9 @@
 0.0.0.0 www.bengaluru.rent
 0.0.0.0 www.paypal.rent
 0.0.0.0 applecars.rentals
+0.0.0.0 dostawa-olx-pl.rentals
 0.0.0.0 www.applecars.rentals
+0.0.0.0 www.dostawa-olx-pl.rentals
 0.0.0.0 screentec.repair
 0.0.0.0 chase-banking.report
 0.0.0.0 index.cgi.resolve.accountt-security.report
@@ -65370,6 +65391,7 @@
 0.0.0.0 appstore-apple-com.services
 0.0.0.0 chimneychamps.services
 0.0.0.0 dbedlm.services
+0.0.0.0 dostawa-olx.services
 0.0.0.0 e-apple-com.services
 0.0.0.0 eventive.services
 0.0.0.0 gift-apple.services
@@ -65396,6 +65418,7 @@
 0.0.0.0 www.appstore-apple-com.services
 0.0.0.0 www.ch-login.services
 0.0.0.0 www.chimneychamps.services
+0.0.0.0 www.dostawa-olx.services
 0.0.0.0 www.e-apple-com.services
 0.0.0.0 ebay.motors.630.eusers.services
 0.0.0.0 www.eventive.services
@@ -65469,6 +65492,10 @@
 0.0.0.0 zngood.shop
 0.0.0.0 www.olx-paygate.shop
 0.0.0.0 www.delivery.olx-pl.shop
+0.0.0.0 inpost.pl-safeway.shop
+0.0.0.0 olx.pl-safeway.shop
+0.0.0.0 www.inpost.pl-safeway.shop
+0.0.0.0 www.olx.pl-safeway.shop
 0.0.0.0 www.zngood.shop
 0.0.0.0 runescape.show
 0.0.0.0 alisimple.si
@@ -66571,8 +66598,12 @@
 0.0.0.0 www.paypal-signin.site
 0.0.0.0 www.paypalgroup.site
 0.0.0.0 www.paypalservizio.site
+0.0.0.0 www.olx.pl-id195879.site
+0.0.0.0 www.olx.pl-id284395.site
 0.0.0.0 www.olx.pl-id596492.site
 0.0.0.0 www.olx.pl-id648594.site
+0.0.0.0 www.olx.pl-id794819.site
+0.0.0.0 www.olx.pl-id994584.site
 0.0.0.0 www.olx.pl-wyplata.site
 0.0.0.0 www.poczta-email.site
 0.0.0.0 www.pokemongosafari.site
@@ -66677,6 +66708,7 @@
 0.0.0.0 celer.space
 0.0.0.0 cennik.space
 0.0.0.0 chessinfb.space
+0.0.0.0 dostawa-olx.space
 0.0.0.0 ecoaccount.space
 0.0.0.0 elongift.space
 0.0.0.0 errorfixing.space
@@ -66717,6 +66749,7 @@
 0.0.0.0 www.celer.space
 0.0.0.0 www.cennik.space
 0.0.0.0 kclsikornbclnk.com-registers.space
+0.0.0.0 www.dostawa-olx.space
 0.0.0.0 download.hpjy.space
 0.0.0.0 www.poczta.interia-pl.space
 0.0.0.0 www.itstime.space
@@ -66837,6 +66870,9 @@
 0.0.0.0 www.outlookmail.store
 0.0.0.0 www.olx.pay-otrymac.store
 0.0.0.0 www.paypal-gifts.store
+0.0.0.0 www.olx.pl-getmoney.store
+0.0.0.0 olx.pl-logowanie.store
+0.0.0.0 www.olx.pl-logowanie.store
 0.0.0.0 www.reapple.store
 0.0.0.0 www.renew-apple.store
 0.0.0.0 www.sellercentral-amazon-europe.store
@@ -67891,6 +67927,7 @@
 0.0.0.0 celer.today
 0.0.0.0 certifiedwinners.today
 0.0.0.0 checking-unlock.today
+0.0.0.0 dostawa-olx.today
 0.0.0.0 give-eth.today
 0.0.0.0 lovenepal.today
 0.0.0.0 netflixapk.today
@@ -67907,6 +67944,7 @@
 0.0.0.0 www.celer.today
 0.0.0.0 wels-fargo.com.unlock.secure.checking-unlock.today
 0.0.0.0 whatsapp.com.confirm-online.today
+0.0.0.0 www.dostawa-olx.today
 0.0.0.0 www.give-eth.today
 0.0.0.0 app1.letitbefaster.today
 0.0.0.0 www.netflixapk.today
@@ -71446,6 +71484,7 @@
 0.0.0.0 pl.btcprofitnow.website
 0.0.0.0 apple.com-supportcenter.website
 0.0.0.0 www.ethergiveaway.website
+0.0.0.0 www.olx-pl.eupay.website
 0.0.0.0 www.exclusive-games.website
 0.0.0.0 ebay-item-request-506792617.kauferschutzprogrammweb.website
 0.0.0.0 gukne.koreastar.website
@@ -72994,8 +73033,10 @@
 0.0.0.0 ltc-ucz.org.zm
 0.0.0.0 mvc.org.zm
 0.0.0.0 2018.zone
+0.0.0.0 dostawa-olx.zone
 0.0.0.0 gift4free.zone
 0.0.0.0 greatness12.zone
+0.0.0.0 www.dostawa-olx.zone
 0.0.0.0 ethers33.etherget22.zone
 0.0.0.0 brauntechnologies.co.zw
 0.0.0.0 elegantedge.co.zw
