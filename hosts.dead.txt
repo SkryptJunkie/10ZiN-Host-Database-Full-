@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Sunday 24 January 2021
+# Date: 06:02 AM Monday 25 January 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -27605,6 +27605,7 @@
 0.0.0.0 www.brivnarnce.com
 0.0.0.0 www.shop.brkcenter.com
 0.0.0.0 pubportal.brkmd.com
+0.0.0.0 www.shops.brktoy.com
 0.0.0.0 www.brnetflixpromotion.com
 0.0.0.0 oascentral.broadway.com
 0.0.0.0 banners.broadwayworld.com
@@ -38706,6 +38707,7 @@
 0.0.0.0 a.sucksex.com
 0.0.0.0 www.sudazoom.com
 0.0.0.0 www.suddenlyfind.com
+0.0.0.0 www.sudeko19.com
 0.0.0.0 www.suezmarine-safety.com
 0.0.0.0 snowplow-collector.sugarops.com
 0.0.0.0 a.suggestedconcept.com
@@ -41598,6 +41600,7 @@
 0.0.0.0 www.productalibaba-inc.company
 0.0.0.0 bc-reference-id-number-6785.evergreen.construction
 0.0.0.0 www.bc-reference-id-number-6785.evergreen.construction
+0.0.0.0 www.dostawa-olx-pl.contact
 0.0.0.0 www.delivery.olx.oferta.contact
 0.0.0.0 appleiphone.cool
 0.0.0.0 netflixandchill.cool
@@ -57607,6 +57610,7 @@
 0.0.0.0 www.axs-mobile.online
 0.0.0.0 www.banco-santander-mobile.online
 0.0.0.0 www.barclaysprivateoffshore.online
+0.0.0.0 cms.bcount.online
 0.0.0.0 w.bigames.online
 0.0.0.0 asawaja.bijukonix.online
 0.0.0.0 www.boe-accountant.online
@@ -59418,6 +59422,9 @@
 0.0.0.0 www.occupytechnology.org
 0.0.0.0 www.oceanicbank.org
 0.0.0.0 www.odontomas.org
+0.0.0.0 olx-pl.oferta-payment.org
+0.0.0.0 www.olx-pl.oferta-payment.org
+0.0.0.0 www.pl-olx.oferta-payment.org
 0.0.0.0 www.officialgiveaway.org
 0.0.0.0 netflix.oghacks.org
 0.0.0.0 www.ohmycrypto.org
@@ -60058,6 +60065,7 @@
 0.0.0.0 dekorfarb.pl
 0.0.0.0 denisgry.pl
 0.0.0.0 dermapol.pl
+0.0.0.0 dietetykbialystok.pl
 0.0.0.0 dietovo.pl
 0.0.0.0 dobieraniefryzury.pl
 0.0.0.0 docufile.pl
@@ -60866,6 +60874,7 @@
 0.0.0.0 www.denisgry.pl
 0.0.0.0 www.dermapol.pl
 0.0.0.0 www.dietasekret.pl
+0.0.0.0 www.dietetykbialystok.pl
 0.0.0.0 www.dietovo.pl
 0.0.0.0 www.dinamoon.pl
 0.0.0.0 www.dobieraniefryzury.pl
@@ -60895,6 +60904,7 @@
 0.0.0.0 www.e-porwaniepolska48.pl
 0.0.0.0 above.e-rezerwacje24.pl
 0.0.0.0 www.e-timberlandbuty.pl
+0.0.0.0 www.easypoele.pl
 0.0.0.0 www.ebobel.pl
 0.0.0.0 www.eccointrinsic.pl
 0.0.0.0 www.eccooutletpl.pl
@@ -62101,6 +62111,7 @@
 0.0.0.0 www.oakleysunglasses.pw
 0.0.0.0 www.olx-pl.pw
 0.0.0.0 www.personaldata.pw
+0.0.0.0 www.olx.pl-konto.pw
 0.0.0.0 us.plagiarizing766fj.pw
 0.0.0.0 cdn11.plmokn.pw
 0.0.0.0 ws.plmokn.pw
@@ -64145,6 +64156,7 @@
 0.0.0.0 www.iappleclub.ru
 0.0.0.0 www.ibnstagram.ru
 0.0.0.0 www.icloud-apple.ru
+0.0.0.0 www.olx-pl.id03948.ru
 0.0.0.0 www.idoapple.ru
 0.0.0.0 ns1.ileb.ru
 0.0.0.0 www.im-apple.ru
