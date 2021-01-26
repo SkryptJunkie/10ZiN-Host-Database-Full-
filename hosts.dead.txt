@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Monday 25 January 2021
+# Date: 06:02 AM Tuesday 26 January 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -27378,6 +27378,7 @@
 0.0.0.0 www.bitcoinstopaypal.com
 0.0.0.0 www.bitcoinstransfermoney.com
 0.0.0.0 www.bitcoinswithpaypal.com
+0.0.0.0 asp.bite-cs.com
 0.0.0.0 www.bitfilinex.com
 0.0.0.0 www.bitmrtpro.com
 0.0.0.0 www.bitpornhub.com
