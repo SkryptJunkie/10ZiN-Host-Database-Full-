@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Tuesday 26 January 2021
+# Date: 06:03 AM Wednesday 27 January 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -71578,6 +71578,7 @@
 0.0.0.0 moneywp.website
 0.0.0.0 netflixbr.website
 0.0.0.0 oferta489519.website
+0.0.0.0 omht.website
 0.0.0.0 pinoydramas428.website
 0.0.0.0 polskasupermarkecie.website
 0.0.0.0 progenerators24.website
