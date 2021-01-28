@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:03 AM Wednesday 27 January 2021
+# Date: 06:03 AM Thursday 28 January 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -279,6 +279,11 @@
 0.0.0.0 www.padi.org.ar
 0.0.0.0 talampayaexc.tur.ar
 0.0.0.0 www.talampayaexc.tur.ar
+0.0.0.0 algreensndykeghesnpw.dns.army
+0.0.0.0 alhjchfsndyonlinsnwq.dns.army
+0.0.0.0 antisndypiracydesnzm.dns.army
+0.0.0.0 chise2neversndywalka.dns.army
+0.0.0.0 clntnjksndycloudwhin.dns.army
 0.0.0.0 desktoperverify.dns.army
 0.0.0.0 documentation.dns.army
 0.0.0.0 freeservice.dns.army
@@ -286,10 +291,21 @@
 0.0.0.0 microsfotonline.dns.army
 0.0.0.0 mndyperezluzcafeyzmn.dns.army
 0.0.0.0 mndyunitedfrkesokori.dns.army
+0.0.0.0 mslogtsdyinvestmntsn.dns.army
 0.0.0.0 nevermndywalkachine2.dns.army
 0.0.0.0 pannel-control.dns.army
+0.0.0.0 pmrimesndylimtdvensn.dns.army
 0.0.0.0 shgshgwsdynationalbp.dns.army
+0.0.0.0 sndychnesqudusissnvx.dns.army
+0.0.0.0 sndykungcommunicsngd.dns.army
+0.0.0.0 sndymjventluzcafsnqb.dns.army
+0.0.0.0 sndyrusschine2masnbc.dns.army
+0.0.0.0 sndysara1investvensn.dns.army
+0.0.0.0 sndyshgshgnationsngh.dns.army
+0.0.0.0 sndyunitedkesokosnkh.dns.army
 0.0.0.0 stdyrusschine2mapafr.dns.army
+0.0.0.0 suresb1sndyintercont.dns.army
+0.0.0.0 theviesndyjupcazsnty.dns.army
 0.0.0.0 tsdymjventsluzcafeyz.dns.army
 0.0.0.0 wsdyshgshg2induswsjg.dns.army
 0.0.0.0 alabama-usa.art
