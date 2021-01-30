@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Friday 29 January 2021
+# Date: 06:02 AM Saturday 30 January 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -27388,6 +27388,7 @@
 0.0.0.0 oidc.idp.elogin.access1.sbc.com.lrr.attlrr-internal-login-support.bisskeytv.com
 0.0.0.0 www.bit-coinmall.com
 0.0.0.0 www.bit-ebay.com
+0.0.0.0 stats.bitban.com
 0.0.0.0 www.bitcoin-2-paypal.com
 0.0.0.0 www.bitcoinerapro.com
 0.0.0.0 www.bitcoinforpaypal.com
@@ -44797,6 +44798,7 @@
 0.0.0.0 time4swap.fun
 0.0.0.0 trade4real.fun
 0.0.0.0 xueha.fun
+0.0.0.0 blomzy.abbyservertime.fun
 0.0.0.0 www.ailegro-lokainle-935271.fun
 0.0.0.0 www.bankmillennium.fun
 0.0.0.0 www.exauth.fun
