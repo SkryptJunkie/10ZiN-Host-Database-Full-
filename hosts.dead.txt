@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Saturday 30 January 2021
+# Date: 06:02 AM Sunday 31 January 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -283,19 +283,23 @@
 0.0.0.0 alhjchfsndyonlinsnwq.dns.army
 0.0.0.0 antisndypiracydesnzm.dns.army
 0.0.0.0 chise2neversndywalka.dns.army
+0.0.0.0 chneswsdyqudusiswsaq.dns.army
 0.0.0.0 clntnjksndycloudwhin.dns.army
 0.0.0.0 desktoperverify.dns.army
 0.0.0.0 documentation.dns.army
 0.0.0.0 freeservice.dns.army
 0.0.0.0 kungsb2sndygotchtsnp.dns.army
 0.0.0.0 kungsb2tsdygotchtsaw.dns.army
+0.0.0.0 kungwsdycommunicwsgd.dns.army
 0.0.0.0 microsfotonline.dns.army
+0.0.0.0 mjventwsdyluzcafwsqb.dns.army
 0.0.0.0 mndyperezluzcafeyzmn.dns.army
 0.0.0.0 mndyunitedfrkesokori.dns.army
 0.0.0.0 mslogtsdyinvestmntsn.dns.army
 0.0.0.0 nevermndywalkachine2.dns.army
 0.0.0.0 pannel-control.dns.army
 0.0.0.0 pmrimesndylimtdvensn.dns.army
+0.0.0.0 sara2wsdyentertawsin.dns.army
 0.0.0.0 shgshgwsdynationalbp.dns.army
 0.0.0.0 sndychnesqudusissnvx.dns.army
 0.0.0.0 sndykungcommunicsngd.dns.army
@@ -308,7 +312,13 @@
 0.0.0.0 suresb1sndyintercont.dns.army
 0.0.0.0 theviesndyjupcazsnty.dns.army
 0.0.0.0 tsdymjventsluzcafeyz.dns.army
+0.0.0.0 wsdychise2neverwalka.dns.army
+0.0.0.0 wsdyclntnjkcloudwsgh.dns.army
+0.0.0.0 wsdynitengymndynatem.dns.army
 0.0.0.0 wsdyshgshg2induswsjg.dns.army
+0.0.0.0 wsdysuresb1interwsnt.dns.army
+0.0.0.0 wsdytheviejupcazwsdf.dns.army
+0.0.0.0 wsdyworkfinerainbows.dns.army
 0.0.0.0 alabama-usa.art
 0.0.0.0 anhle.art
 0.0.0.0 app.astec.as
@@ -58462,6 +58472,7 @@
 0.0.0.0 nomadicgovernance.org
 0.0.0.0 norcalstonecutters.org
 0.0.0.0 notificacione.org
+0.0.0.0 nottepad-plus-plus.org
 0.0.0.0 nriqpzwgco.org
 0.0.0.0 nrjdswyhdkcnpbn.org
 0.0.0.0 nrjjfnikjserv.org
