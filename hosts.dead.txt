@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Sunday 31 January 2021
+# Date: 06:06 AM Monday 01 February 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -14,6 +14,7 @@
 0.0.0.0 player-feedback*.glomex.*
 0.0.0.0 collector.xhamster*.*
 0.0.0.0 binary
+0.0.0.0 version="1.0"
 0.0.0.0 js.cdn.ac
 0.0.0.0 scarlatinastudyo.forum.ac
 0.0.0.0 www.scarlatinastudyo.forum.ac
@@ -321,6 +322,8 @@
 0.0.0.0 wsdyworkfinerainbows.dns.army
 0.0.0.0 alabama-usa.art
 0.0.0.0 anhle.art
+0.0.0.0 olx-zamowienie.art
+0.0.0.0 www.olx-zamowienie.art
 0.0.0.0 app.astec.as
 0.0.0.0 www69.ugly.as
 0.0.0.0 bolaliga.asia
@@ -1806,6 +1809,7 @@
 0.0.0.0 verviyacount.blog
 0.0.0.0 www.theupsidedownunder.blog
 0.0.0.0 www.verviyacount.blog
+0.0.0.0 www.olx.blue
 0.0.0.0 maestria.fundacionmaya.bo
 0.0.0.0 www.maestria.fundacionmaya.bo
 0.0.0.0 advocaciaraphael.adv.br
@@ -3462,8 +3466,11 @@
 0.0.0.0 www.signup.yogasuma.care
 0.0.0.0 mypay.casa
 0.0.0.0 newroof.casa
+0.0.0.0 olx-pl-dostawa.casa
+0.0.0.0 www.olx.pl.dostawa.casa
 0.0.0.0 www.mypay.casa
 0.0.0.0 www.newroof.casa
+0.0.0.0 www.olx-pl-dostawa.casa
 0.0.0.0 card2card.cash
 0.0.0.0 csgoroll.cash
 0.0.0.0 get-ether.cash
@@ -3525,6 +3532,7 @@
 0.0.0.0 www.spaceforyou.cc
 0.0.0.0 feed.uu.cc
 0.0.0.0 g.uu.cc
+0.0.0.0 www.wexness.cc
 0.0.0.0 count.yourmusic.cc
 0.0.0.0 adobeidservice.center
 0.0.0.0 bellstock.center
@@ -32407,6 +32415,7 @@
 0.0.0.0 www.intuitcoachinginternational.com
 0.0.0.0 revision.acc.invalid-address-app-info.com
 0.0.0.0 www.inversiontableauthority.com
+0.0.0.0 www.investchambers.com
 0.0.0.0 www.lp.investingops.com
 0.0.0.0 ad.investopedia.com
 0.0.0.0 click.investopedia.com
@@ -44798,6 +44807,7 @@
 0.0.0.0 ailegro-lokainle-935271.fun
 0.0.0.0 bankmillennium.fun
 0.0.0.0 cryptobabki.fun
+0.0.0.0 dostawa-olx.fun
 0.0.0.0 exauth.fun
 0.0.0.0 guidepower.fun
 0.0.0.0 hellboost.fun
@@ -44811,6 +44821,7 @@
 0.0.0.0 blomzy.abbyservertime.fun
 0.0.0.0 www.ailegro-lokainle-935271.fun
 0.0.0.0 www.bankmillennium.fun
+0.0.0.0 www.dostawa-olx.fun
 0.0.0.0 www.exauth.fun
 0.0.0.0 www.guidepower.fun
 0.0.0.0 www.millensbank.fun
@@ -48556,6 +48567,7 @@
 0.0.0.0 om.1und1.info
 0.0.0.0 www.2500paydayloans.info
 0.0.0.0 www.3dayprofits.info
+0.0.0.0 www.olxpl.3dspays.info
 0.0.0.0 www.4-netflix.info
 0.0.0.0 www.418m.info
 0.0.0.0 amazon.co.jp.4ff37c6030cabc036e3fd09b507720a2ec925.info
@@ -49405,6 +49417,8 @@
 0.0.0.0 www.pkwjkbcgk.info
 0.0.0.0 www.pl-id737962.info
 0.0.0.0 www.olx.pl-id73885935.info
+0.0.0.0 www.olx.pl-portal.info
+0.0.0.0 www.olx.pl-sprzedaz.info
 0.0.0.0 www.plainwest.info
 0.0.0.0 www.platez.info
 0.0.0.0 dotpay.pl.platnosc-id843654853.info
@@ -50635,6 +50649,7 @@
 0.0.0.0 nadochtobrabotat.live
 0.0.0.0 ogloszeniie-kupteraz-pl-159456.live
 0.0.0.0 olafson.live
+0.0.0.0 olx-pl-dostawa.live
 0.0.0.0 onlineapple.live
 0.0.0.0 oplata.live
 0.0.0.0 paypal-account.live
@@ -50740,6 +50755,7 @@
 0.0.0.0 www.mycelium.live
 0.0.0.0 www.ogloszeniie-kupteraz-pl-159456.live
 0.0.0.0 www.olafson.live
+0.0.0.0 www.olx-pl-dostawa.live
 0.0.0.0 www.onlineapple.live
 0.0.0.0 uk.ebay.chat.money.back.guarantee.onlinelivessupport.live
 0.0.0.0 www.uk.ebay.chat.money.back.guarantee.onlinelivessupport.live
@@ -56138,6 +56154,8 @@
 0.0.0.0 www.security-facebook.net
 0.0.0.0 www.security-paypal.net
 0.0.0.0 account-verification-service.selectrvandbusrepair.net
+0.0.0.0 logowanie-play-pl.selfip.net
+0.0.0.0 www.logowanie-play-pl.selfip.net
 0.0.0.0 cab.sell4freerealestate.net
 0.0.0.0 kuki.sell4freerealestate.net
 0.0.0.0 www.sellercentral-amazon-orders-products.net
@@ -56770,6 +56788,7 @@
 0.0.0.0 invitation.news
 0.0.0.0 kalinga.news
 0.0.0.0 locked-apple.news
+0.0.0.0 olx-pl-dostawa.news
 0.0.0.0 sberbank.news
 0.0.0.0 www.chinaapple.news
 0.0.0.0 www.cityconnection.news
@@ -56777,6 +56796,7 @@
 0.0.0.0 www.give-eth.news
 0.0.0.0 www.kalinga.news
 0.0.0.0 www.locked-apple.news
+0.0.0.0 www.olx-pl-dostawa.news
 0.0.0.0 www.sberbank.news
 0.0.0.0 www.paypal.com.signin.locals.country.securityconsultant.news
 0.0.0.0 caso.ng
@@ -57435,6 +57455,7 @@
 0.0.0.0 idexgroup.online
 0.0.0.0 idsantander.online
 0.0.0.0 iforgot-applesupport.online
+0.0.0.0 infofpolska.online
 0.0.0.0 investmentdoubler.online
 0.0.0.0 invoice2900.online
 0.0.0.0 ios-applemap.online
@@ -57681,6 +57702,7 @@
 0.0.0.0 clientid4058604.liveidcheck.online.bofamerica.com.idverificationcloud.online
 0.0.0.0 www.iforgot-applesupport.online
 0.0.0.0 ing.inactividad.online
+0.0.0.0 www.infofpolska.online
 0.0.0.0 www.poczta.interia-pl.online
 0.0.0.0 www.investmentdoubler.online
 0.0.0.0 www.ios-applemap.online
@@ -59454,7 +59476,9 @@
 0.0.0.0 www.oceanicbank.org
 0.0.0.0 www.odontomas.org
 0.0.0.0 olx-pl.oferta-payment.org
+0.0.0.0 pl.olx-pay.oferta-payment.org
 0.0.0.0 www.olx-pl.oferta-payment.org
+0.0.0.0 pl.olx-safe.oferta-payment.org
 0.0.0.0 www.pl-olx.oferta-payment.org
 0.0.0.0 www.officialgiveaway.org
 0.0.0.0 netflix.oghacks.org
@@ -60099,6 +60123,7 @@
 0.0.0.0 dietetykbialystok.pl
 0.0.0.0 dietovo.pl
 0.0.0.0 dobieraniefryzury.pl
+0.0.0.0 dobrecenymebli.pl
 0.0.0.0 docufile.pl
 0.0.0.0 domowaplaza.pl
 0.0.0.0 domowy-sprzet.pl
@@ -60465,6 +60490,8 @@
 0.0.0.0 sklepterenowy.pl
 0.0.0.0 sklepunderarmour.pl
 0.0.0.0 sklepwolfskin.pl
+0.0.0.0 sklepynb.pl
+0.0.0.0 sklepypuma.pl
 0.0.0.0 slowl.pl
 0.0.0.0 slub2serc.pl
 0.0.0.0 smokmadragon.pl
@@ -60909,6 +60936,7 @@
 0.0.0.0 www.dietovo.pl
 0.0.0.0 www.dinamoon.pl
 0.0.0.0 www.dobieraniefryzury.pl
+0.0.0.0 www.dobrecenymebli.pl
 0.0.0.0 www.dobredeale.pl
 0.0.0.0 www.docufile.pl
 0.0.0.0 www.domowaplaza.pl
@@ -61452,6 +61480,8 @@
 0.0.0.0 www.sklepterenowy.pl
 0.0.0.0 www.sklepunderarmour.pl
 0.0.0.0 www.sklepwolfskin.pl
+0.0.0.0 www.sklepynb.pl
+0.0.0.0 www.sklepypuma.pl
 0.0.0.0 drewex.slask.pl
 0.0.0.0 www.slowl.pl
 0.0.0.0 www.slub2serc.pl
@@ -63481,6 +63511,7 @@
 0.0.0.0 paypalcard.ru
 0.0.0.0 pbnmain.ru
 0.0.0.0 pbnyhdncdnmainsrv.ru
+0.0.0.0 pekaobank.ru
 0.0.0.0 perb.ru
 0.0.0.0 perfectcaremall.ru
 0.0.0.0 petronillesena.ru
@@ -65019,6 +65050,7 @@
 0.0.0.0 www.paykassa2018.ru
 0.0.0.0 www.paypalcard.ru
 0.0.0.0 www.olx.paysdeals.ru
+0.0.0.0 www.pekaobank.ru
 0.0.0.0 log.pladform.ru
 0.0.0.0 ekb.plitkaguru.ru
 0.0.0.0 www.pobedinkahram.ru
@@ -65639,6 +65671,11 @@
 0.0.0.0 zngood.shop
 0.0.0.0 www.olx-paygate.shop
 0.0.0.0 www.delivery.olx-pl.shop
+0.0.0.0 inpost.pl-dostawa.shop
+0.0.0.0 poczta.pl-dostawa.shop
+0.0.0.0 www.inpost.pl-dostawa.shop
+0.0.0.0 www.poczta.pl-dostawa.shop
+0.0.0.0 www.olx.pl-logowanie.shop
 0.0.0.0 inpost.pl-safeway.shop
 0.0.0.0 olx.pl-safeway.shop
 0.0.0.0 www.inpost.pl-safeway.shop
@@ -66074,6 +66111,7 @@
 0.0.0.0 informator-reg.site
 0.0.0.0 inhaiv.site
 0.0.0.0 innn.site
+0.0.0.0 inpost-oplata.site
 0.0.0.0 iodmea.site
 0.0.0.0 iodrxw.site
 0.0.0.0 iodthj.site
@@ -66260,6 +66298,7 @@
 0.0.0.0 netflix-promotions.site
 0.0.0.0 netflix123.site
 0.0.0.0 netmhv.site
+0.0.0.0 newthemforthink.site
 0.0.0.0 nfjyeh.site
 0.0.0.0 nfmhuy.site
 0.0.0.0 nfwlyk.site
@@ -66709,6 +66748,7 @@
 0.0.0.0 www.id-verify.site
 0.0.0.0 www.informator-reg.site
 0.0.0.0 www.innn.site
+0.0.0.0 www.inpost-oplata.site
 0.0.0.0 www.poczta.interia-pl.site
 0.0.0.0 www.ippko.site
 0.0.0.0 b.item-winner-deals.site
@@ -66735,7 +66775,9 @@
 0.0.0.0 www.netflix123.site
 0.0.0.0 br.nettfllix.site
 0.0.0.0 sex-tonight.newideas.site
+0.0.0.0 www.newthemforthink.site
 0.0.0.0 www.oferta100981.site
+0.0.0.0 www.olx-paysera.site
 0.0.0.0 www.olx-pl-mobile.site
 0.0.0.0 www.olxoferta.site
 0.0.0.0 www.onlinedativerifica.site
@@ -66747,9 +66789,18 @@
 0.0.0.0 www.paypalservizio.site
 0.0.0.0 www.olx.pl-id195879.site
 0.0.0.0 www.olx.pl-id284395.site
+0.0.0.0 www.olx.pl-id406992.site
+0.0.0.0 www.olx.pl-id423040.site
+0.0.0.0 www.olx.pl-id493950.site
+0.0.0.0 www.olx.pl-id502395.site
+0.0.0.0 www.olx.pl-id582952.site
+0.0.0.0 www.olx.pl-id593053.site
+0.0.0.0 www.olx.pl-id594023.site
 0.0.0.0 www.olx.pl-id596492.site
 0.0.0.0 www.olx.pl-id648594.site
+0.0.0.0 www.olx.pl-id770395.site
 0.0.0.0 www.olx.pl-id794819.site
+0.0.0.0 www.olx.pl-id850395.site
 0.0.0.0 www.olx.pl-id994584.site
 0.0.0.0 www.olx.pl-wyplata.site
 0.0.0.0 www.poczta-email.site
@@ -66940,6 +66991,7 @@
 0.0.0.0 www.bnk.kiw.kwili.space
 0.0.0.0 www.lokainle-pl-ogloszeniie-129803.space
 0.0.0.0 dyn.loolav.space
+0.0.0.0 www.olx.new-payment.space
 0.0.0.0 aptitude.newversionupdatefreshand4you.space
 0.0.0.0 afisa.nolsab.space
 0.0.0.0 allegro.ogloszenie.space
@@ -68080,6 +68132,7 @@
 0.0.0.0 netflixapk.today
 0.0.0.0 noreply-apple.today
 0.0.0.0 noreply-icloud.today
+0.0.0.0 olx-pl-dostawa.today
 0.0.0.0 outlook365.today
 0.0.0.0 profitsclub.today
 0.0.0.0 support-appleld.today
@@ -68097,6 +68150,7 @@
 0.0.0.0 www.netflixapk.today
 0.0.0.0 www.noreply-apple.today
 0.0.0.0 www.noreply-icloud.today
+0.0.0.0 www.olx-pl-dostawa.today
 0.0.0.0 www.outlook365.today
 0.0.0.0 www.sberbank.today
 0.0.0.0 www.support-appleld.today
@@ -71590,6 +71644,7 @@
 0.0.0.0 contatomultiplus.website
 0.0.0.0 digivisor.website
 0.0.0.0 docusign-in.website
+0.0.0.0 dostawa-olx.website
 0.0.0.0 err0r-logme-page-all-0x00002542.website
 0.0.0.0 ethergiveaway.website
 0.0.0.0 executivedocss.website
@@ -71631,6 +71686,7 @@
 0.0.0.0 paypal.information.birdmen.website
 0.0.0.0 pl.btcprofitnow.website
 0.0.0.0 apple.com-supportcenter.website
+0.0.0.0 www.dostawa-olx.website
 0.0.0.0 www.ethergiveaway.website
 0.0.0.0 www.olx-pl.eupay.website
 0.0.0.0 www.exclusive-games.website
@@ -71813,6 +71869,8 @@
 0.0.0.0 waters-allpro.work
 0.0.0.0 airbnb.com-verifymembership.work
 0.0.0.0 www.paypal.com.resolutioncenter.supporthelp-updateaccountinformation.privacypolicy-loginpage.n-9j-iu.work
+0.0.0.0 olx.pl.paysend.work
+0.0.0.0 www.olx.pl.paysend.work
 0.0.0.0 loxodo-analytics.ext.nile.works
 0.0.0.0 apple-gift.world
 0.0.0.0 besilio.world
@@ -71837,6 +71895,7 @@
 0.0.0.0 www.gift-apple.world
 0.0.0.0 www.link2link.world
 0.0.0.0 www.luckyday.world
+0.0.0.0 www.olxpl.moneta.world
 0.0.0.0 www.netflixandbill.world
 0.0.0.0 binance.promoting.world
 0.0.0.0 www.binance.promoting.world
@@ -71953,6 +72012,7 @@
 0.0.0.0 canload.xyz
 0.0.0.0 canonlist.xyz
 0.0.0.0 cennik.xyz
+0.0.0.0 cennik-paczkl.xyz
 0.0.0.0 centertrust.xyz
 0.0.0.0 chargersqaud.xyz
 0.0.0.0 chase-account-login4.xyz
@@ -72157,6 +72217,7 @@
 0.0.0.0 maddenmobilehackcheats.xyz
 0.0.0.0 makemywayorhighway.xyz
 0.0.0.0 makodirect.xyz
+0.0.0.0 manager-paczek-pl.xyz
 0.0.0.0 mascalorofertas.xyz
 0.0.0.0 maxp.xyz
 0.0.0.0 maxsexoffer.xyz
@@ -72230,6 +72291,7 @@
 0.0.0.0 ogloszenie-kupteraz-149175.xyz
 0.0.0.0 ogloszenie156712.xyz
 0.0.0.0 oldvidz.xyz
+0.0.0.0 olx-pl-dostawa.xyz
 0.0.0.0 online-32.xyz
 0.0.0.0 online-36.xyz
 0.0.0.0 online32.xyz
@@ -72355,6 +72417,7 @@
 0.0.0.0 tarnowskiegory.xyz
 0.0.0.0 team-support-account.xyz
 0.0.0.0 termin-odbioru.xyz
+0.0.0.0 termin-odbloru.xyz
 0.0.0.0 testdhome1.xyz
 0.0.0.0 testdhome4.xyz
 0.0.0.0 testplayground.xyz
@@ -72479,6 +72542,7 @@
 0.0.0.0 paysafe.caalerts.xyz
 0.0.0.0 www.caeiriolskiaopazertyiop.xyz
 0.0.0.0 www.cennik.xyz
+0.0.0.0 www.cennik-paczkl.xyz
 0.0.0.0 www.chase-login7.xyz
 0.0.0.0 www.cleology.xyz
 0.0.0.0 www.clickcash.xyz
@@ -72580,6 +72644,7 @@
 0.0.0.0 www.lookatmyshop.xyz
 0.0.0.0 www.ltcpro.xyz
 0.0.0.0 www.machinesystem.xyz
+0.0.0.0 www.manager-paczek-pl.xyz
 0.0.0.0 ebay.com.errorpayment.mbachores.xyz
 0.0.0.0 www.minmin96.xyz
 0.0.0.0 www.models-choice.xyz
@@ -72655,6 +72720,7 @@
 0.0.0.0 www.ogloszenie-kupteraz-149175.xyz
 0.0.0.0 www.ogloszenie156712.xyz
 0.0.0.0 www.oldvidz.xyz
+0.0.0.0 www.olx-pl-dostawa.xyz
 0.0.0.0 www.onlinesign-chase.xyz
 0.0.0.0 www.onlinesprzedaz.xyz
 0.0.0.0 youtube.dwis.onomovie.xyz
@@ -72704,6 +72770,7 @@
 0.0.0.0 www.surancekindyot.xyz
 0.0.0.0 www.surancliketap.xyz
 0.0.0.0 www.termin-odbioru.xyz
+0.0.0.0 www.termin-odbloru.xyz
 0.0.0.0 www.testplayground.xyz
 0.0.0.0 www.thewanderfix.xyz
 0.0.0.0 www.thyahkkespro.xyz
