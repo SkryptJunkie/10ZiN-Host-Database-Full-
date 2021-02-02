@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:06 AM Monday 01 February 2021
+# Date: 06:02 AM Tuesday 02 February 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -32981,6 +32981,7 @@
 0.0.0.0 www.kateabi.com
 0.0.0.0 www.katecaudillo.com
 0.0.0.0 mail.kathryninoz.com
+0.0.0.0 www.katiedowens.com
 0.0.0.0 www.katiejemima.com
 0.0.0.0 oascentral.katv.com
 0.0.0.0 widget.kaufda.com
@@ -67018,6 +67019,7 @@
 0.0.0.0 applesecurity.store
 0.0.0.0 applesidapple.store
 0.0.0.0 axs-mobile.store
+0.0.0.0 bambootea.store
 0.0.0.0 caseopening.store
 0.0.0.0 cryptobubble.store
 0.0.0.0 csgobot.store
