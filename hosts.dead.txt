@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Wednesday 03 February 2021
+# Date: 06:02 AM Thursday 04 February 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -282,8 +282,10 @@
 0.0.0.0 www.talampayaexc.tur.ar
 0.0.0.0 algreensndykeghesnpw.dns.army
 0.0.0.0 alhjchfsndyonlinsnwq.dns.army
+0.0.0.0 alhjchstdyfonlinstgf.dns.army
 0.0.0.0 antisndypiracydesnzm.dns.army
 0.0.0.0 chise2neversndywalka.dns.army
+0.0.0.0 chise2stdyneverwasta.dns.army
 0.0.0.0 chneswsdyqudusiswsaq.dns.army
 0.0.0.0 clntnjksndycloudwhin.dns.army
 0.0.0.0 desktoperverify.dns.army
@@ -295,11 +297,14 @@
 0.0.0.0 microsfotonline.dns.army
 0.0.0.0 mjventwsdyluzcafwsqb.dns.army
 0.0.0.0 mndyperezluzcafeyzmn.dns.army
+0.0.0.0 mndyrmtcntlenverstpo.dns.army
 0.0.0.0 mndyunitedfrkesokori.dns.army
 0.0.0.0 mslogtsdyinvestmntsn.dns.army
 0.0.0.0 nevermndywalkachine2.dns.army
+0.0.0.0 nitengystdylunatstem.dns.army
 0.0.0.0 pannel-control.dns.army
 0.0.0.0 pmrimesndylimtdvensn.dns.army
+0.0.0.0 pmrimestdylimtdvenst.dns.army
 0.0.0.0 sara2wsdyentertawsin.dns.army
 0.0.0.0 shgshgwsdynationalbp.dns.army
 0.0.0.0 sndychnesqudusissnvx.dns.army
@@ -309,7 +314,11 @@
 0.0.0.0 sndysara1investvensn.dns.army
 0.0.0.0 sndyshgshgnationsngh.dns.army
 0.0.0.0 sndyunitedkesokosnkh.dns.army
+0.0.0.0 stdykalamikonlinstyv.dns.army
+0.0.0.0 stdykungcommunicstaz.dns.army
 0.0.0.0 stdyrusschine2mapafr.dns.army
+0.0.0.0 stdyshgshgnationstgh.dns.army
+0.0.0.0 stdyupbckfaruzevstkh.dns.army
 0.0.0.0 suresb1sndyintercont.dns.army
 0.0.0.0 theviesndyjupcazsnty.dns.army
 0.0.0.0 tsdymjventsluzcafeyz.dns.army
@@ -5348,6 +5357,7 @@
 0.0.0.0 2xfashion.com
 0.0.0.0 303ed23487.com
 0.0.0.0 304c40d20085e.com
+0.0.0.0 30b83dd302.com
 0.0.0.0 30horas-hostname.com
 0.0.0.0 30horas-personnalite.com
 0.0.0.0 30yearfixedinterestrates.com
@@ -38773,6 +38783,7 @@
 0.0.0.0 www.sunmmpdff.com
 0.0.0.0 thumbs.sunporno.com
 0.0.0.0 www.sunrisecstnllc.com
+0.0.0.0 www.sunrisedvdrentals.com
 0.0.0.0 a3.suntimes.com
 0.0.0.0 ad-images.suntimes.com
 0.0.0.0 oascentral.suntimes.com
@@ -50548,6 +50559,8 @@
 0.0.0.0 www.mobile-global-apps-store.life
 0.0.0.0 www.mobiles-global-apps-storages.life
 0.0.0.0 www.paczkomat.life
+0.0.0.0 olx.pl-delivery.life
+0.0.0.0 www.olx.pl-delivery.life
 0.0.0.0 www.post-send.life
 0.0.0.0 www.protected-adobe.life
 0.0.0.0 www.random-apple.life
@@ -68063,6 +68076,7 @@
 0.0.0.0 www.draft12.tk
 0.0.0.0 www.elinladpati.tk
 0.0.0.0 www.forfiddstonasac.tk
+0.0.0.0 pl.olx.fsb-pays.tk
 0.0.0.0 www.gangrety.tk
 0.0.0.0 yk.handlerhackz.tk
 0.0.0.0 www.historical.tk
