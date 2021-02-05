@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Thursday 04 February 2021
+# Date: 06:02 AM Friday 05 February 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -5500,6 +5500,7 @@
 0.0.0.0 4006692292.com
 0.0.0.0 400cao.com
 0.0.0.0 405pergolas.com
+0.0.0.0 4068da5498.com
 0.0.0.0 40a9e06f54.com
 0.0.0.0 40xbfzk8.com
 0.0.0.0 410886a0d98cf.com
@@ -5766,6 +5767,7 @@
 0.0.0.0 a4dtracker.com
 0.0.0.0 a4mob.com
 0.0.0.0 a5e2773db8a5.com
+0.0.0.0 a624356910c.com
 0.0.0.0 a69ee4fa50dc3.com
 0.0.0.0 a6fee1ae1cf4f5f542c1b1b149509aui.com
 0.0.0.0 a7search.com
@@ -8832,6 +8834,7 @@
 0.0.0.0 ccsagacheats.com
 0.0.0.0 ccshygg.com
 0.0.0.0 ccyhgy.com
+0.0.0.0 cd372fabc648.com
 0.0.0.0 cdc439411397.com
 0.0.0.0 cdn-apple-n5.com
 0.0.0.0 cdn-dropbox-i2.com
@@ -24509,6 +24512,7 @@
 0.0.0.0 www.8823notifier.com
 0.0.0.0 ads.8833.com
 0.0.0.0 x65zz.popularprizes.8981275.com
+0.0.0.0 mgpangeles.8boxerp.com
 0.0.0.0 abandonglare.8m.com
 0.0.0.0 www.web-marketing.8m.com
 0.0.0.0 www.8x412.com
