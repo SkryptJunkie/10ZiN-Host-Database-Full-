@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Friday 05 February 2021
+# Date: 06:02 AM Saturday 06 February 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -294,6 +294,7 @@
 0.0.0.0 kungsb2sndygotchtsnp.dns.army
 0.0.0.0 kungsb2tsdygotchtsaw.dns.army
 0.0.0.0 kungwsdycommunicwsgd.dns.army
+0.0.0.0 kungwsdycommunicwsxv.dns.army
 0.0.0.0 microsfotonline.dns.army
 0.0.0.0 mjventwsdyluzcafwsqb.dns.army
 0.0.0.0 mndyperezluzcafeyzmn.dns.army
@@ -303,10 +304,13 @@
 0.0.0.0 nevermndywalkachine2.dns.army
 0.0.0.0 nitengystdylunatstem.dns.army
 0.0.0.0 pannel-control.dns.army
+0.0.0.0 perezluzwsdycafewsbz.dns.army
 0.0.0.0 pmrimesndylimtdvensn.dns.army
 0.0.0.0 pmrimestdylimtdvenst.dns.army
+0.0.0.0 sara1wsdyinvestvenws.dns.army
 0.0.0.0 sara2wsdyentertawsin.dns.army
 0.0.0.0 shgshgwsdynationalbp.dns.army
+0.0.0.0 shgshgwsdynationwsmm.dns.army
 0.0.0.0 sndychnesqudusissnvx.dns.army
 0.0.0.0 sndykungcommunicsngd.dns.army
 0.0.0.0 sndymjventluzcafsnqb.dns.army
@@ -321,9 +325,16 @@
 0.0.0.0 stdyupbckfaruzevstkh.dns.army
 0.0.0.0 suresb1sndyintercont.dns.army
 0.0.0.0 theviesndyjupcazsnty.dns.army
+0.0.0.0 theviewsdyjupcazwsgv.dns.army
 0.0.0.0 tsdymjventsluzcafeyz.dns.army
+0.0.0.0 wsdyalgreenkeghewsmq.dns.army
+0.0.0.0 wsdyalhjchfonlinwsdf.dns.army
 0.0.0.0 wsdychise2neverwalka.dns.army
+0.0.0.0 wsdychise2neverwwsaa.dns.army
+0.0.0.0 wsdychthreerecanwsrq.dns.army
 0.0.0.0 wsdyclntnjkcloudwsgh.dns.army
+0.0.0.0 wsdymsloginvestmwsqd.dns.army
+0.0.0.0 wsdynitengylunatwsvg.dns.army
 0.0.0.0 wsdynitengymndynatem.dns.army
 0.0.0.0 wsdyshgshg2induswsjg.dns.army
 0.0.0.0 wsdysuresb1interwsnt.dns.army
@@ -11339,6 +11350,7 @@
 0.0.0.0 fcwpxsmiyy.com
 0.0.0.0 fd7449b9fa829.com
 0.0.0.0 fddic.com
+0.0.0.0 fdeea04644.com
 0.0.0.0 fdhwgm.com
 0.0.0.0 fdkcwl.com
 0.0.0.0 fdogfuqpgeub.com
@@ -41642,6 +41654,7 @@
 0.0.0.0 r.ads.zynga.com
 0.0.0.0 fdcbn-url-photos.zyro.com
 0.0.0.0 www.zytechmedical.com
+0.0.0.0 viglink.com*
 0.0.0.0 gemini.yahoo.com*syndication
 0.0.0.0 woolik.com*tracker
 0.0.0.0 paypal-account-update.community
