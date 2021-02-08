@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Sunday 07 February 2021
+# Date: 06:02 AM Monday 08 February 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -5374,6 +5374,7 @@
 0.0.0.0 30horas-hostname.com
 0.0.0.0 30horas-personnalite.com
 0.0.0.0 30yearfixedinterestrates.com
+0.0.0.0 315ed77de7.com
 0.0.0.0 318newportplace.com
 0.0.0.0 31f26115aed7.com
 0.0.0.0 31qqww.com
@@ -5639,6 +5640,7 @@
 0.0.0.0 7-cracker.com
 0.0.0.0 7033384694.com
 0.0.0.0 703c4af391997.com
+0.0.0.0 7078784c567.com
 0.0.0.0 70pictures.com
 0.0.0.0 7102794ef7.com
 0.0.0.0 714aa54fb81.com
