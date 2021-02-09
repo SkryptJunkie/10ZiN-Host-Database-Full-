@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Monday 08 February 2021
+# Date: 06:03 AM Tuesday 09 February 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -345,6 +345,8 @@
 0.0.0.0 alabama-usa.art
 0.0.0.0 anhle.art
 0.0.0.0 olx-zamowienie.art
+0.0.0.0 olx.dostawa-pl.art
+0.0.0.0 www.olx.dostawa-pl.art
 0.0.0.0 www.olx-zamowienie.art
 0.0.0.0 app.astec.as
 0.0.0.0 www69.ugly.as
@@ -3586,6 +3588,7 @@
 0.0.0.0 www.paypalsecure.center
 0.0.0.0 www.remont-apple.center
 0.0.0.0 facebookcom.sxcustomerhelp.center
+0.0.0.0 www.olx.pl-mkonto.ceo
 0.0.0.0 1limited-account.cf
 0.0.0.0 23-agxa.cf
 0.0.0.0 23-cczv.cf
@@ -4394,6 +4397,7 @@
 0.0.0.0 www.ebeay.cloud
 0.0.0.0 www.facebooklive.cloud
 0.0.0.0 www.facebooklivei.cloud
+0.0.0.0 iamlearn.feisst.cloud
 0.0.0.0 www.hunjiesandpineapples.cloud
 0.0.0.0 www.idapple.cloud
 0.0.0.0 www.infoapplenl.cloud
@@ -4618,6 +4622,8 @@
 0.0.0.0 www.diduknow.club
 0.0.0.0 www.doappletypeflash.club
 0.0.0.0 www.doopcrib.club
+0.0.0.0 olx.dostawa-pl.club
+0.0.0.0 www.olx.dostawa-pl.club
 0.0.0.0 www.elon-gift.club
 0.0.0.0 www.epicnetwork.club
 0.0.0.0 www.fu3.club
@@ -5078,6 +5084,7 @@
 0.0.0.0 universalprint.com.co
 0.0.0.0 www.caleidoscopio.com.co
 0.0.0.0 www.escopa.com.co
+0.0.0.0 app.hcx.com.co
 0.0.0.0 www.marquillitas.com.co
 0.0.0.0 www.oralfast.com.co
 0.0.0.0 www.produpan.com.co
@@ -29920,6 +29927,7 @@
 0.0.0.0 www.equitationcheval.com
 0.0.0.0 www.ereaderstores.com
 0.0.0.0 cdn.erendri.com
+0.0.0.0 d.erezerv.com
 0.0.0.0 www.ericautosalvage.com
 0.0.0.0 www.erlshield.com
 0.0.0.0 www.ermapal.com
@@ -44861,6 +44869,8 @@
 0.0.0.0 www.ailegro-lokainle-935271.fun
 0.0.0.0 www.bankmillennium.fun
 0.0.0.0 www.dostawa-olx.fun
+0.0.0.0 olx.dostawa-pl.fun
+0.0.0.0 www.olx.dostawa-pl.fun
 0.0.0.0 www.exauth.fun
 0.0.0.0 www.guidepower.fun
 0.0.0.0 www.millensbank.fun
@@ -48893,6 +48903,8 @@
 0.0.0.0 www.dear-friends-apple.info
 0.0.0.0 www.dear-god-itunes.info
 0.0.0.0 www.debbieappleseed.info
+0.0.0.0 olxpl.delivery-m.info
+0.0.0.0 www.olxpl.delivery-m.info
 0.0.0.0 nab.detailsverification.info
 0.0.0.0 www.dex-hbiglobal.info
 0.0.0.0 www.dex-huobiglo.info
@@ -50913,6 +50925,8 @@
 0.0.0.0 wallets-trezor.ltd
 0.0.0.0 www.appleid-info.ltd
 0.0.0.0 www.assistanceapple.ltd
+0.0.0.0 olx.pl.dostawa.ltd
+0.0.0.0 www.olx.pl.dostawa.ltd
 0.0.0.0 www.eastwingexpress.ltd
 0.0.0.0 www.id-appleid.ltd
 0.0.0.0 www.maps-apple.ltd
@@ -57803,6 +57817,12 @@
 0.0.0.0 www.outlooksoft.online
 0.0.0.0 www.paymentnetflix.online
 0.0.0.0 www.paypal-support.online
+0.0.0.0 olx.pl-getcash.online
+0.0.0.0 www.olx.pl-getcash.online
+0.0.0.0 inpost.pl-getpayment.online
+0.0.0.0 olx.pl-getpayment.online
+0.0.0.0 www.inpost.pl-getpayment.online
+0.0.0.0 www.olx.pl-getpayment.online
 0.0.0.0 www.olx.pl-log.online
 0.0.0.0 www.pl-netflix.online
 0.0.0.0 www.platnosc-paczkomat.online
@@ -60567,6 +60587,7 @@
 0.0.0.0 studiogreta.pl
 0.0.0.0 suchymlodem.pl
 0.0.0.0 sukcesse.pl
+0.0.0.0 superdryoutletpolska.pl
 0.0.0.0 superfajnapolska.pl
 0.0.0.0 supersprzedaj.pl
 0.0.0.0 swiatbotow.pl
@@ -61566,6 +61587,7 @@
 0.0.0.0 www.studiofiranedyta.pl
 0.0.0.0 www.studiogreta.pl
 0.0.0.0 www.sukcesse.pl
+0.0.0.0 www.superdryoutletpolska.pl
 0.0.0.0 www.superfajnapolska.pl
 0.0.0.0 adidm.supermedia.pl
 0.0.0.0 crm.superpakiet.pl
@@ -66318,6 +66340,7 @@
 0.0.0.0 mlrvvg.site
 0.0.0.0 mmkwqn.site
 0.0.0.0 mmzgxg.site
+0.0.0.0 mob-olx.site
 0.0.0.0 mofa-help.site
 0.0.0.0 movieskub.site
 0.0.0.0 moviestel.site
@@ -66389,6 +66412,7 @@
 0.0.0.0 olechowski.site
 0.0.0.0 olrqzr.site
 0.0.0.0 olxoferta.site
+0.0.0.0 olxpl-dostawa.site
 0.0.0.0 omwuwy.site
 0.0.0.0 online-exchange.site
 0.0.0.0 onlinedativerifica.site
@@ -66805,6 +66829,7 @@
 0.0.0.0 login.microsoftonline.com.common8u75xfbqf19f91pahcgi6qsaw.authorizef91pahcgi6qsawvsxkv0ik2m1btdsy.oauth278ce259pkh6jtcee8u75x18444d75819acc50f032135.malilli.site
 0.0.0.0 www.login.microsoftonline.com.common8u75xfbqf19f91pahcgi6qsaw.authorizef91pahcgi6qsawvsxkv0ik2m1btdsy.oauth278ce259pkh6jtcee8u75x18444d75819acc50f032135.malilli.site
 0.0.0.0 www.media-sberbank.site
+0.0.0.0 www.mob-olx.site
 0.0.0.0 www.mobileofferplace.site
 0.0.0.0 www.mofa-help.site
 0.0.0.0 www.mrcrypto.site
@@ -66827,6 +66852,7 @@
 0.0.0.0 www.olx-paysera.site
 0.0.0.0 www.olx-pl-mobile.site
 0.0.0.0 www.olxoferta.site
+0.0.0.0 www.olxpl-dostawa.site
 0.0.0.0 www.onlinedativerifica.site
 0.0.0.0 www.outlookmail.site
 0.0.0.0 www.outlooksettings.site
@@ -66849,8 +66875,13 @@
 0.0.0.0 www.olx.pl-id648594.site
 0.0.0.0 www.olx.pl-id770395.site
 0.0.0.0 www.olx.pl-id794819.site
+0.0.0.0 www.olx.pl-id823942.site
+0.0.0.0 www.olx.pl-id847528.site
 0.0.0.0 www.olx.pl-id850395.site
 0.0.0.0 www.olx.pl-id8592340.site
+0.0.0.0 www.olx.pl-id88322.site
+0.0.0.0 olx.pl-id942382.site
+0.0.0.0 www.olx.pl-id942382.site
 0.0.0.0 www.olx.pl-id994584.site
 0.0.0.0 www.olx.pl-wyplata.site
 0.0.0.0 www.poczta-email.site
@@ -67110,6 +67141,8 @@
 0.0.0.0 www.applesecurity.store
 0.0.0.0 www.applesidapple.store
 0.0.0.0 www.axs-mobile.store
+0.0.0.0 olx.dostawa-pl.store
+0.0.0.0 www.olx.dostawa-pl.store
 0.0.0.0 www.fmi-login.store
 0.0.0.0 www.free-amazon.store
 0.0.0.0 www.hlbotsale.store
@@ -67124,6 +67157,8 @@
 0.0.0.0 www.olx.pl-getmoney.store
 0.0.0.0 olx.pl-logowanie.store
 0.0.0.0 www.olx.pl-logowanie.store
+0.0.0.0 olx.pl-payment.store
+0.0.0.0 www.olx.pl-payment.store
 0.0.0.0 www.reapple.store
 0.0.0.0 www.renew-apple.store
 0.0.0.0 www.sellercentral-amazon-europe.store
@@ -71751,6 +71786,8 @@
 0.0.0.0 allegrolokalnie.oferta489519.website
 0.0.0.0 www.oferta489519.website
 0.0.0.0 www.allegrolokalnie.oferta489519.website
+0.0.0.0 olx.pl-konto.website
+0.0.0.0 www.olx.pl-konto.website
 0.0.0.0 www.polskasupermarkecie.website
 0.0.0.0 www.quarkchain.website
 0.0.0.0 connect.secure.service.redirects.website
@@ -72435,6 +72472,7 @@
 0.0.0.0 shiftitup.xyz
 0.0.0.0 sicherheitscenter-amz.xyz
 0.0.0.0 silvestersavingsblog.xyz
+0.0.0.0 sledzenle-paczki.xyz
 0.0.0.0 sleemconmujlnilty.xyz
 0.0.0.0 sms-confirmation-wfb.xyz
 0.0.0.0 software-support.xyz
@@ -72812,6 +72850,7 @@
 0.0.0.0 www.sharepointtdfg.xyz
 0.0.0.0 youtube.space.tvseries.showmovie.xyz
 0.0.0.0 demo.singhealth.xyz
+0.0.0.0 www.sledzenle-paczki.xyz
 0.0.0.0 device.sms-confirmation-wfb.xyz
 0.0.0.0 authenticate.device.sms-confirmation-wfb.xyz
 0.0.0.0 confirm.authenticate.device.sms-confirmation-wfb.xyz
