@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:03 AM Tuesday 09 February 2021
+# Date: 06:02 AM Wednesday 10 February 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -1604,6 +1604,7 @@
 0.0.0.0 nrjdswikjjfnfjr.biz
 0.0.0.0 nrjyhdncdnncjsrv.biz
 0.0.0.0 officeandhome.biz
+0.0.0.0 olx-biezpieczna-dostawa-pl.biz
 0.0.0.0 omgfiles.biz
 0.0.0.0 oplata2018.biz
 0.0.0.0 outlookmedia.biz
@@ -1773,6 +1774,7 @@
 0.0.0.0 www.nleehlrrp.biz
 0.0.0.0 outlookoffice365securitymaintenance.office4.biz
 0.0.0.0 www.officeandhome.biz
+0.0.0.0 www.olx-biezpieczna-dostawa-pl.biz
 0.0.0.0 tescoonline.bankupdate.on5.biz
 0.0.0.0 www.tescoonline.bankupdate.on5.biz
 0.0.0.0 www.oplata2018.biz
@@ -4652,6 +4654,7 @@
 0.0.0.0 www.owa-outlook.club
 0.0.0.0 www.paquetesturisticos.club
 0.0.0.0 www.participation-logistilla.club
+0.0.0.0 www.olx.pl-mkonto.club
 0.0.0.0 www.pornosexox.club
 0.0.0.0 www.rep.privatesearch.club
 0.0.0.0 www.saison-card--co-jp.club
@@ -45711,6 +45714,7 @@
 0.0.0.0 xn--yhoo-0na.group
 0.0.0.0 www.kassir.group
 0.0.0.0 www.oriyen.group
+0.0.0.0 www.olx.pl-mkonto.group
 0.0.0.0 www.xn--yhoo-0na.group
 0.0.0.0 www.youtubebrandexpand.group
 0.0.0.0 3x.gs
@@ -56057,6 +56061,7 @@
 0.0.0.0 www.picknbuy.net
 0.0.0.0 www.picloader.net
 0.0.0.0 ads.piramit.net
+0.0.0.0 www.olx.pl-mkonto.net
 0.0.0.0 www.plasticdiariesblog.net
 0.0.0.0 www.playgta5.net
 0.0.0.0 msgstore2.pldtprv.net
