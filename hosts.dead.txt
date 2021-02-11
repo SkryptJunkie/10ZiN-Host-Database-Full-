@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Wednesday 10 February 2021
+# Date: 06:02 AM Thursday 11 February 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -281,11 +281,13 @@
 0.0.0.0 talampayaexc.tur.ar
 0.0.0.0 www.talampayaexc.tur.ar
 0.0.0.0 algreensndykeghesnpw.dns.army
+0.0.0.0 algreenstdykeghestak.dns.army
 0.0.0.0 alhjchfsndyonlinsnwq.dns.army
 0.0.0.0 alhjchstdyfonlinstgf.dns.army
 0.0.0.0 antisndypiracydesnzm.dns.army
 0.0.0.0 chise2neversndywalka.dns.army
 0.0.0.0 chise2stdyneverwasta.dns.army
+0.0.0.0 chise2stdyneverwstzc.dns.army
 0.0.0.0 chneswsdyqudusiswsaq.dns.army
 0.0.0.0 clntnjksndycloudwhin.dns.army
 0.0.0.0 desktoperverify.dns.army
@@ -300,7 +302,9 @@
 0.0.0.0 mndyperezluzcafeyzmn.dns.army
 0.0.0.0 mndyrmtcntlenverstpo.dns.army
 0.0.0.0 mndyunitedfrkesokori.dns.army
+0.0.0.0 mslogstdyinvestmstgj.dns.army
 0.0.0.0 mslogtsdyinvestmntsn.dns.army
+0.0.0.0 msnsndstdyyemkemabak.dns.army
 0.0.0.0 nevermndywalkachine2.dns.army
 0.0.0.0 nitengystdylunatstem.dns.army
 0.0.0.0 pannel-control.dns.army
@@ -309,6 +313,7 @@
 0.0.0.0 pmrimestdylimtdvenst.dns.army
 0.0.0.0 sara1wsdyinvestvenws.dns.army
 0.0.0.0 sara2wsdyentertawsin.dns.army
+0.0.0.0 shgshgtwostdyindusst.dns.army
 0.0.0.0 shgshgwsdynationalbp.dns.army
 0.0.0.0 shgshgwsdynationwsmm.dns.army
 0.0.0.0 sndychnesqudusissnvx.dns.army
@@ -320,6 +325,7 @@
 0.0.0.0 sndyunitedkesokosnkh.dns.army
 0.0.0.0 stdykalamikonlinstyv.dns.army
 0.0.0.0 stdykungcommunicstaz.dns.army
+0.0.0.0 stdyrmtcntlenverstoq.dns.army
 0.0.0.0 stdyrusschine2mapafr.dns.army
 0.0.0.0 stdyshgshgnationstgh.dns.army
 0.0.0.0 stdyupbckfaruzevstkh.dns.army
@@ -49860,6 +49866,7 @@
 0.0.0.0 entesharat.torbath.ac.ir
 0.0.0.0 www.dorm.torbath.ac.ir
 0.0.0.0 www.entesharat.torbath.ac.ir
+0.0.0.0 test.aflakshoes.ir
 0.0.0.0 popup.ahledl.ir
 0.0.0.0 www.bgbazaar.ir
 0.0.0.0 www.comtravel.ir
@@ -67824,6 +67831,7 @@
 0.0.0.0 www.mungmee.co.th
 0.0.0.0 km.doae.go.th
 0.0.0.0 www.sysplk3.phitsanulok3.go.th
+0.0.0.0 www.therecruitme
 0.0.0.0 drmensajeria.thorinecrcom
 0.0.0.0 aide-authentification-compte-aide.tips
 0.0.0.0 www.toriyo.tj
