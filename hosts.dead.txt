@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Thursday 11 February 2021
+# Date: 06:02 AM Friday 12 February 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -5361,6 +5361,7 @@
 0.0.0.0 2569d02c22c.com
 0.0.0.0 267932.com
 0.0.0.0 272351.com
+0.0.0.0 27dd3562e339.com
 0.0.0.0 28570a644a.com
 0.0.0.0 286b656e86a.com
 0.0.0.0 28e220527a0b.com
@@ -5591,6 +5592,7 @@
 0.0.0.0 575f4e87970f177969fe.com
 0.0.0.0 59ce3f2bf1b3.com
 0.0.0.0 59ef0480b3fd.com
+0.0.0.0 5b1cd20a44adf.com
 0.0.0.0 5b241d28316f1.com
 0.0.0.0 5bd5e3203751.com
 0.0.0.0 5c37a1d55aa9ab.com
@@ -5657,6 +5659,7 @@
 0.0.0.0 7033384694.com
 0.0.0.0 703c4af391997.com
 0.0.0.0 7078784c567.com
+0.0.0.0 7078a8150ea.com
 0.0.0.0 70pictures.com
 0.0.0.0 7102794ef7.com
 0.0.0.0 714aa54fb81.com
@@ -9944,6 +9947,7 @@
 0.0.0.0 czcorporacion.com
 0.0.0.0 czupload.com
 0.0.0.0 d-designz.com
+0.0.0.0 d0572bd739.com
 0.0.0.0 d0eda50bf4f7d172c06.com
 0.0.0.0 d1hairandbeautyclinic.com
 0.0.0.0 d2-roulette.com
