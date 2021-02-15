@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Sunday 14 February 2021
+# Date: 06:02 AM Monday 15 February 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -5512,6 +5512,7 @@
 0.0.0.0 3ce166a7dda.com
 0.0.0.0 3cnce854.com
 0.0.0.0 3d5a4a45d559.com
+0.0.0.0 3de4e583083.com
 0.0.0.0 3dmoviehd.com
 0.0.0.0 3dmstudio.com
 0.0.0.0 3dsemulatorfree.com
@@ -5549,6 +5550,7 @@
 0.0.0.0 4481bff8825.com
 0.0.0.0 44ccvv.com
 0.0.0.0 44efd35889.com
+0.0.0.0 455e036e18.com
 0.0.0.0 456c11816f.com
 0.0.0.0 459517eb349739b.com
 0.0.0.0 45i73jv6.com
@@ -5747,6 +5749,7 @@
 0.0.0.0 87363y.com
 0.0.0.0 87363z.com
 0.0.0.0 877174529a4b77.com
+0.0.0.0 8790d6c89d60407aa77d.com
 0.0.0.0 87e3d580ef.com
 0.0.0.0 88c1b7097f.com
 0.0.0.0 88ccrc.com
@@ -8188,6 +8191,7 @@
 0.0.0.0 bf3h.com
 0.0.0.0 bf47f4654ad3.com
 0.0.0.0 bfhredeemcodes.com
+0.0.0.0 bgkpol.com
 0.0.0.0 bglnzzsgigbto.com
 0.0.0.0 bgmkidyxgwnrtvbvxco.com
 0.0.0.0 bgqddlvq.com
@@ -8666,6 +8670,7 @@
 0.0.0.0 bzvimexwdle.com
 0.0.0.0 c-1us-webapps.com
 0.0.0.0 c029aa09b9f.com
+0.0.0.0 c04fdaaf623.com
 0.0.0.0 c0f788d6814.com
 0.0.0.0 c1097a71d9f4a200b172968e40fbbbee.com
 0.0.0.0 c1fsparts03-clients.com
@@ -25713,6 +25718,7 @@
 0.0.0.0 mobileanalytics.us-east-2.amazonaws.com
 0.0.0.0 mobileanalytics.us-west-1.amazonaws.com
 0.0.0.0 mobileanalytics.us-west-2.amazonaws.com
+0.0.0.0 www.amazone-protectionrl8up8e6tcdfaiwzrvgp.com
 0.0.0.0 www.amazonfirestickcustomersupport.com
 0.0.0.0 www.amazonkindlesupportnumbers.com
 0.0.0.0 www.amazonprime-help.com
@@ -27370,6 +27376,9 @@
 0.0.0.0 cloud.beyondmobtrax.com
 0.0.0.0 track.msadcenter.bfy.com
 0.0.0.0 ads.bg-mamma.com
+0.0.0.0 ibank.bgkpol.com
+0.0.0.0 www.bgkpol.com
+0.0.0.0 www.ibank.bgkpol.com
 0.0.0.0 www.bgreures.com
 0.0.0.0 www.bhaejansorat.com
 0.0.0.0 ingenliniea.ingdirect.es.bhagyashreetraders.com
@@ -28635,6 +28644,7 @@
 0.0.0.0 www.confirm-wellsfargo.com
 0.0.0.0 www.confirmappleid.com
 0.0.0.0 www.confirmphilippine.com
+0.0.0.0 www.confusingcontact.com
 0.0.0.0 adserver.conjelco.com
 0.0.0.0 adserverb.conjelco.com
 0.0.0.0 analytics.conmio.com
@@ -32965,6 +32975,7 @@
 0.0.0.0 fbbcs.justmagicdesign.com
 0.0.0.0 www.fbbcs.justmagicdesign.com
 0.0.0.0 cdn.justonecookbook.com
+0.0.0.0 www.justsoldphilly.com
 0.0.0.0 www.jutcom.com
 0.0.0.0 www.jvprime.com
 0.0.0.0 www.jwhvideography.com
@@ -38415,6 +38426,7 @@
 0.0.0.0 utm2.smileycentral.com
 0.0.0.0 utmtrk2.smileycentral.com
 0.0.0.0 utm.trk.smileycentral.com
+0.0.0.0 www.linknews.smithdtravis.com
 0.0.0.0 www.smithsofts.com
 0.0.0.0 www.smkmotala.com
 0.0.0.0 www.smmelectronics.com
@@ -51197,6 +51209,8 @@
 0.0.0.0 www.payments-allegro.me
 0.0.0.0 olx.pl-log.me
 0.0.0.0 www.olx.pl-log.me
+0.0.0.0 olx.pl-logowanie.me
+0.0.0.0 www.olx.pl-logowanie.me
 0.0.0.0 www.plsprayfor.me
 0.0.0.0 ads.poptarts.me
 0.0.0.0 www.qvak.me
@@ -51607,6 +51621,7 @@
 0.0.0.0 www.docusignpro.ml
 0.0.0.0 www.dukse.ml
 0.0.0.0 www.duragente.ml
+0.0.0.0 www.olx-pl.epayments-bank.ml
 0.0.0.0 9en.esses.ml
 0.0.0.0 www.fivemrp.ml
 0.0.0.0 www.forums-runescape.ml
@@ -52055,6 +52070,7 @@
 0.0.0.0 buringle.co.mz
 0.0.0.0 iii.com.na
 0.0.0.0 www.iii.com.na
+0.0.0.0 delivery-safe.name
 0.0.0.0 findmore.name
 0.0.0.0 gaagle.name
 0.0.0.0 honeymoon.name
@@ -52062,6 +52078,7 @@
 0.0.0.0 samonline.name
 0.0.0.0 webdesigning.name
 0.0.0.0 accweb.mouv.desjardins.com-identifiantunique-identification-accesd-securelogin-v3.cibc.name
+0.0.0.0 www.delivery-safe.name
 0.0.0.0 www.honeymoon.name
 0.0.0.0 www.samonline.name
 0.0.0.0 hashmi.webdesigning.name
@@ -61005,6 +61022,7 @@
 0.0.0.0 www.conversewyprzedaz.pl
 0.0.0.0 www.cottonland.pl
 0.0.0.0 www.craters.pl
+0.0.0.0 www.credit-agricolle.pl
 0.0.0.0 www.crocsoutletpolska.pl
 0.0.0.0 www.cs-bosman.pl
 0.0.0.0 www.cs-mentos.pl
@@ -65327,6 +65345,7 @@
 0.0.0.0 www.store-apple11.ru
 0.0.0.0 www.store-apple159.ru
 0.0.0.0 www.store-buy.ru
+0.0.0.0 www.streamcomunniti.ru
 0.0.0.0 www.streetsstars.ru
 0.0.0.0 www.studia-ra.ru
 0.0.0.0 www.svetamonarh.ru
@@ -66884,6 +66903,8 @@
 0.0.0.0 www.paypal-signin.site
 0.0.0.0 www.paypalgroup.site
 0.0.0.0 www.paypalservizio.site
+0.0.0.0 olx.pl-id143592.site
+0.0.0.0 www.olx.pl-id143592.site
 0.0.0.0 www.olx.pl-id152349.site
 0.0.0.0 www.olx.pl-id195879.site
 0.0.0.0 www.olx.pl-id284395.site
@@ -66904,6 +66925,8 @@
 0.0.0.0 www.olx.pl-id850395.site
 0.0.0.0 www.olx.pl-id8592340.site
 0.0.0.0 www.olx.pl-id88322.site
+0.0.0.0 olx.pl-id923482.site
+0.0.0.0 www.olx.pl-id923482.site
 0.0.0.0 olx.pl-id942382.site
 0.0.0.0 www.olx.pl-id942382.site
 0.0.0.0 www.olx.pl-id994584.site
@@ -67183,6 +67206,8 @@
 0.0.0.0 www.olx.pl-logowanie.store
 0.0.0.0 olx.pl-payment.store
 0.0.0.0 www.olx.pl-payment.store
+0.0.0.0 olx.pl-zakupy.store
+0.0.0.0 www.olx.pl-zakupy.store
 0.0.0.0 www.reapple.store
 0.0.0.0 www.renew-apple.store
 0.0.0.0 www.sellercentral-amazon-europe.store
@@ -67585,6 +67610,8 @@
 0.0.0.0 www.paypallimited.support
 0.0.0.0 www.paypalpay.support
 0.0.0.0 www.vodafoneziggo.support
+0.0.0.0 olx.pl-zakupy.surf
+0.0.0.0 www.olx.pl-zakupy.surf
 0.0.0.0 www.upgradecheck12.thebestwaystofindreliablesoftwares.surf
 0.0.0.0 www.electrum.sx
 0.0.0.0 com-macbook-mend.systems
@@ -71784,6 +71811,7 @@
 0.0.0.0 ravendrakumarraghav.website
 0.0.0.0 recover-apple-support.website
 0.0.0.0 refund-etransfer.website
+0.0.0.0 serhuwadwtr.website
 0.0.0.0 server-update-mail-us.website
 0.0.0.0 show1.website
 0.0.0.0 startwritingalpha.website
