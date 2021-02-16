@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Monday 15 February 2021
+# Date: 06:02 AM Tuesday 16 February 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -11378,6 +11378,7 @@
 0.0.0.0 fbxploitz.com
 0.0.0.0 fc4254b6e17.com
 0.0.0.0 fc455c6ee5.com
+0.0.0.0 fc4eeee1c5.com
 0.0.0.0 fcbs-ca.com
 0.0.0.0 fckriegercpa.com
 0.0.0.0 fcnmbnig.com
