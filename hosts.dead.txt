@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:07 AM Wednesday 17 February 2021
+# Date: 06:02 AM Thursday 18 February 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -5563,6 +5563,7 @@
 0.0.0.0 46a5e78eda.com
 0.0.0.0 4798c7b036.com
 0.0.0.0 488hl.com
+0.0.0.0 4893a1d87a00.com
 0.0.0.0 48hrcodes.com
 0.0.0.0 4a9a17948a.com
 0.0.0.0 4anfm.com
@@ -5882,6 +5883,7 @@
 0.0.0.0 abyzam.com
 0.0.0.0 acacexjsh.com
 0.0.0.0 academiajuvenil.com
+0.0.0.0 acbfabbc4ec86e.com
 0.0.0.0 acbnksonline.com
 0.0.0.0 acbookmacbookstoree.com
 0.0.0.0 acc-servicesupport.com
@@ -7866,6 +7868,7 @@
 0.0.0.0 b4e72c9bc99.com
 0.0.0.0 b4yourpregnancy.com
 0.0.0.0 b897e5e9a20.com
+0.0.0.0 b8e931a3ab289.com
 0.0.0.0 b9c778ffac7.com
 0.0.0.0 b9e4513451c571574a57b082173ee47c.com
 0.0.0.0 ba138901a1dd4534b2d0.com
@@ -8066,6 +8069,7 @@
 0.0.0.0 bc99433dd8.com
 0.0.0.0 bcbailiff.com
 0.0.0.0 bcbengkulu.com
+0.0.0.0 bce97f29c40fc40.com
 0.0.0.0 bchydroservice.com
 0.0.0.0 bcomcastbusiness.com
 0.0.0.0 bcortzannes.com
@@ -8690,6 +8694,7 @@
 0.0.0.0 c667628.com
 0.0.0.0 c74df06d52c9da686f17.com
 0.0.0.0 c75eb3a915.com
+0.0.0.0 c7dc5b8c6db.com
 0.0.0.0 c8c528fd2b.com
 0.0.0.0 ca-fr-credit-agricole-particuliers.com
 0.0.0.0 ca201ee86b.com
