@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Thursday 18 February 2021
+# Date: 06:02 AM Friday 19 February 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -307,6 +307,7 @@
 0.0.0.0 msnsndstdyyemkemabak.dns.army
 0.0.0.0 nevermndywalkachine2.dns.army
 0.0.0.0 nitengystdylunatstem.dns.army
+0.0.0.0 owncablestdywelcomtb.dns.army
 0.0.0.0 pannel-control.dns.army
 0.0.0.0 perezluzwsdycafewsbz.dns.army
 0.0.0.0 pmrimesndylimtdvensn.dns.army
