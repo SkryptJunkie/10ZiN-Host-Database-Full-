@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Saturday 20 February 2021
+# Date: 06:04 AM Sunday 21 February 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -5230,6 +5230,7 @@
 0.0.0.0 016ih.com
 0.0.0.0 021-amazon-cloud.com
 0.0.0.0 02f08caa2ee.com
+0.0.0.0 03509fb8e72533.com
 0.0.0.0 03a1414e1c.com
 0.0.0.0 03c2e1b465.com
 0.0.0.0 040134816381437token.com
@@ -5312,6 +5313,7 @@
 0.0.0.0 1bancanetbanamex-ingreso.com
 0.0.0.0 1bluemountain.com
 0.0.0.0 1c0910ee64.com
+0.0.0.0 1d5fce9c23.com
 0.0.0.0 1dropboxx.com
 0.0.0.0 1f2f1472af32.com
 0.0.0.0 1f2fbfdb08772f.com
@@ -5512,6 +5514,7 @@
 0.0.0.0 382b09405a19.com
 0.0.0.0 3878896c72ed218.com
 0.0.0.0 395e27cfc83ea88f.com
+0.0.0.0 397e15d6124.com
 0.0.0.0 39c023edce.com
 0.0.0.0 3abcc69ab8c.com
 0.0.0.0 3arduino.com
@@ -5769,6 +5772,7 @@
 0.0.0.0 8b5a31f63acbeb2d1d88.com
 0.0.0.0 8c4cab5d072.com
 0.0.0.0 8d9d548d35.com
+0.0.0.0 8e7494a66210.com
 0.0.0.0 8ssff.com
 0.0.0.0 8valuedrivers.com
 0.0.0.0 8x412.com
@@ -5776,6 +5780,7 @@
 0.0.0.0 901openyourmin4success.com
 0.0.0.0 90ad550f42.com
 0.0.0.0 90b1acd62f5.com
+0.0.0.0 912070dfe9437.com
 0.0.0.0 9188wnsr.com
 0.0.0.0 918wnsr.com
 0.0.0.0 9199wnsr.com
@@ -7870,6 +7875,7 @@
 0.0.0.0 b46527bc99f79e17ceb9.com
 0.0.0.0 b4e72c9bc99.com
 0.0.0.0 b4yourpregnancy.com
+0.0.0.0 b72eefc4d35.com
 0.0.0.0 b897e5e9a20.com
 0.0.0.0 b8e931a3ab289.com
 0.0.0.0 b9c778ffac7.com
@@ -8070,6 +8076,7 @@
 0.0.0.0 bbxcou.com
 0.0.0.0 bc5275dd50.com
 0.0.0.0 bc99433dd8.com
+0.0.0.0 bcaf3ecf33ea.com
 0.0.0.0 bcbailiff.com
 0.0.0.0 bcbengkulu.com
 0.0.0.0 bce97f29c40fc40.com
@@ -9988,6 +9995,7 @@
 0.0.0.0 d409255ce88.com
 0.0.0.0 d50285bff60edbb406.com
 0.0.0.0 d60227ef59e.com
+0.0.0.0 d68c360796bbecd.com
 0.0.0.0 d6d323f64062.com
 0.0.0.0 d7a14c3e5ce6.com
 0.0.0.0 d7f2615c71a1567cc13cf3a7f7de6aea.com
@@ -11214,7 +11222,9 @@
 0.0.0.0 f378d3c6a1d.com
 0.0.0.0 f4674af89e.com
 0.0.0.0 f47cecd3f0a29874f.com
+0.0.0.0 f4948e5e370.com
 0.0.0.0 f5178aec06cc.com
+0.0.0.0 f6f41f98b4.com
 0.0.0.0 f774d56fd4d98.com
 0.0.0.0 f826fdf639.com
 0.0.0.0 f82af04fb2888.com
@@ -11440,6 +11450,7 @@
 0.0.0.0 festivalsoffright.com
 0.0.0.0 fethanxounqus.com
 0.0.0.0 fexcongroup.com
+0.0.0.0 ff6ab0a95f3e.com
 0.0.0.0 ffeifh.com
 0.0.0.0 fffffqp.com
 0.0.0.0 fffmasti.com
