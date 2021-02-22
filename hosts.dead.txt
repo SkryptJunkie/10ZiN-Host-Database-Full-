@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:04 AM Sunday 21 February 2021
+# Date: 06:09 AM Monday 22 February 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -462,6 +462,7 @@
 0.0.0.0 www.opzioni.at
 0.0.0.0 www.pferdepension-oberndorf.at
 0.0.0.0 www.wellsfarqosecure.at
+0.0.0.0 www.monroe.attorney
 0.0.0.0 vicwestern.alpaca.asn.au
 0.0.0.0 308carlislestreet.com.au
 0.0.0.0 aboriginalbluemountains.com.au
@@ -1691,8 +1692,29 @@
 0.0.0.0 zippyshares.biz
 0.0.0.0 zuflvriptq.biz
 0.0.0.0 zviframe.biz
+0.0.0.0 www.1mono.biz
+0.0.0.0 0.1sercher.biz
+0.0.0.0 1.1sercher.biz
+0.0.0.0 2.1sercher.biz
+0.0.0.0 3.1sercher.biz
+0.0.0.0 4.1sercher.biz
+0.0.0.0 5.1sercher.biz
+0.0.0.0 6.1sercher.biz
+0.0.0.0 7.1sercher.biz
+0.0.0.0 8.1sercher.biz
+0.0.0.0 9.1sercher.biz
+0.0.0.0 www.1sercher.biz
 0.0.0.0 www.24-apple.biz
+0.0.0.0 www.2mono.biz
+0.0.0.0 www.2solo.biz
+0.0.0.0 www.3mono.biz
+0.0.0.0 www.3solo.biz
+0.0.0.0 www.4mono.biz
+0.0.0.0 www.4solo.biz
+0.0.0.0 www.6mono.biz
+0.0.0.0 www.6solo.biz
 0.0.0.0 www.7elements.biz
+0.0.0.0 www.7mono.biz
 0.0.0.0 www.ad-click.biz
 0.0.0.0 oas.ad-vice.biz
 0.0.0.0 www.ads-info-au.biz
@@ -1750,6 +1772,7 @@
 0.0.0.0 cakes4allfamiliyes.for-the.biz
 0.0.0.0 www.give-eth.biz
 0.0.0.0 www.globalins.biz
+0.0.0.0 www.go8news.biz
 0.0.0.0 catalog.goodhousekeeper.biz
 0.0.0.0 router.googlecom.biz
 0.0.0.0 mno1.hairg.biz
@@ -1770,17 +1793,118 @@
 0.0.0.0 www.letscreate.biz
 0.0.0.0 www.likethislist.biz
 0.0.0.0 www.lindaamato.biz
+0.0.0.0 www.load00.biz
+0.0.0.0 0.load01.biz
+0.0.0.0 1.load01.biz
+0.0.0.0 2.load01.biz
+0.0.0.0 3.load01.biz
+0.0.0.0 4.load01.biz
+0.0.0.0 5.load01.biz
+0.0.0.0 6.load01.biz
+0.0.0.0 7.load01.biz
+0.0.0.0 8.load01.biz
+0.0.0.0 9.load01.biz
+0.0.0.0 www.load01.biz
+0.0.0.0 0.load02.biz
+0.0.0.0 1.load02.biz
+0.0.0.0 2.load02.biz
+0.0.0.0 3.load02.biz
+0.0.0.0 4.load02.biz
+0.0.0.0 5.load02.biz
+0.0.0.0 6.load02.biz
+0.0.0.0 7.load02.biz
+0.0.0.0 8.load02.biz
+0.0.0.0 9.load02.biz
+0.0.0.0 www.load02.biz
+0.0.0.0 www.load05.biz
+0.0.0.0 www.load06.biz
+0.0.0.0 www.load11.biz
+0.0.0.0 www.load13.biz
+0.0.0.0 0.load16.biz
+0.0.0.0 1.load16.biz
+0.0.0.0 2.load16.biz
+0.0.0.0 3.load16.biz
+0.0.0.0 4.load16.biz
+0.0.0.0 5.load16.biz
+0.0.0.0 6.load16.biz
+0.0.0.0 7.load16.biz
+0.0.0.0 8.load16.biz
+0.0.0.0 9.load16.biz
+0.0.0.0 www.load16.biz
+0.0.0.0 www.load2.biz
+0.0.0.0 www.load20.biz
+0.0.0.0 www.load22.biz
+0.0.0.0 www.load24.biz
+0.0.0.0 www.load26.biz
+0.0.0.0 www.load28.biz
+0.0.0.0 0.load5.biz
+0.0.0.0 1.load5.biz
+0.0.0.0 2.load5.biz
+0.0.0.0 3.load5.biz
+0.0.0.0 4.load5.biz
+0.0.0.0 5.load5.biz
+0.0.0.0 6.load5.biz
+0.0.0.0 7.load5.biz
+0.0.0.0 8.load5.biz
+0.0.0.0 9.load5.biz
+0.0.0.0 www.load5.biz
+0.0.0.0 www.load8.biz
 0.0.0.0 www.managementsolution.biz
 0.0.0.0 www.messagesvoice2019.biz
 0.0.0.0 cdn1.minestat.biz
 0.0.0.0 cdn2.minestat.biz
+0.0.0.0 www.mol11.biz
+0.0.0.0 www.mol14.biz
+0.0.0.0 www.mol16.biz
+0.0.0.0 0.mol19.biz
+0.0.0.0 1.mol19.biz
+0.0.0.0 2.mol19.biz
+0.0.0.0 3.mol19.biz
+0.0.0.0 4.mol19.biz
+0.0.0.0 5.mol19.biz
+0.0.0.0 6.mol19.biz
+0.0.0.0 7.mol19.biz
+0.0.0.0 8.mol19.biz
+0.0.0.0 9.mol19.biz
+0.0.0.0 www.mol19.biz
+0.0.0.0 www.mol5.biz
+0.0.0.0 www.mol7.biz
+0.0.0.0 www.mol9.biz
+0.0.0.0 www.mono3.biz
+0.0.0.0 www.mono4.biz
+0.0.0.0 www.mono6.biz
+0.0.0.0 www.mono7.biz
+0.0.0.0 www.mono9.biz
 0.0.0.0 www.nataliaporwana.biz
 0.0.0.0 www.naturalgrowthstore.biz
+0.0.0.0 www.net02.biz
+0.0.0.0 www.net04.biz
+0.0.0.0 www.net07.biz
+0.0.0.0 www.net09.biz
+0.0.0.0 www.net12.biz
+0.0.0.0 www.net13.biz
+0.0.0.0 0.net17.biz
+0.0.0.0 1.net17.biz
+0.0.0.0 2.net17.biz
+0.0.0.0 3.net17.biz
+0.0.0.0 4.net17.biz
+0.0.0.0 5.net17.biz
+0.0.0.0 6.net17.biz
+0.0.0.0 7.net17.biz
+0.0.0.0 8.net17.biz
+0.0.0.0 9.net17.biz
+0.0.0.0 www.net17.biz
 0.0.0.0 www.netflix-prime.biz
 0.0.0.0 www.netmalls.biz
 0.0.0.0 metrics.nexgen.neustar.biz
 0.0.0.0 www.new-domain.biz
 0.0.0.0 www.new-health.biz
+0.0.0.0 www.news06.biz
+0.0.0.0 www.news07.biz
+0.0.0.0 www.news11.biz
+0.0.0.0 www.news13.biz
+0.0.0.0 www.news17.biz
+0.0.0.0 www.news20.biz
 0.0.0.0 www.nleehlrrp.biz
 0.0.0.0 outlookoffice365securitymaintenance.office4.biz
 0.0.0.0 www.officeandhome.biz
@@ -1832,6 +1956,17 @@
 0.0.0.0 www.way2earn.biz
 0.0.0.0 uno.wbrotator.biz
 0.0.0.0 hondabandung.webz.biz
+0.0.0.0 0.wwserch43.biz
+0.0.0.0 1.wwserch43.biz
+0.0.0.0 2.wwserch43.biz
+0.0.0.0 3.wwserch43.biz
+0.0.0.0 4.wwserch43.biz
+0.0.0.0 5.wwserch43.biz
+0.0.0.0 6.wwserch43.biz
+0.0.0.0 7.wwserch43.biz
+0.0.0.0 8.wwserch43.biz
+0.0.0.0 9.wwserch43.biz
+0.0.0.0 www.wwserch43.biz
 0.0.0.0 www.xn--21955-gya.biz
 0.0.0.0 www.xn--30986-udb.biz
 0.0.0.0 www.ww2.xn--30986-udb.biz
@@ -3488,6 +3623,7 @@
 0.0.0.0 123netflix.cafe
 0.0.0.0 www.123netflix.cafe
 0.0.0.0 www.loveme.cam
+0.0.0.0 www.zalukaj.cam
 0.0.0.0 ligaterx.capital
 0.0.0.0 apple-id.cards
 0.0.0.0 pay24.cards
@@ -8074,6 +8210,7 @@
 0.0.0.0 bbuyirgucsbfwt.com
 0.0.0.0 bbv4-alertas.com
 0.0.0.0 bbxcou.com
+0.0.0.0 bc2391eb62.com
 0.0.0.0 bc5275dd50.com
 0.0.0.0 bc99433dd8.com
 0.0.0.0 bcaf3ecf33ea.com
@@ -16983,6 +17120,7 @@
 0.0.0.0 nexoloops.com
 0.0.0.0 nexon-loginc.com
 0.0.0.0 next-layers.com
+0.0.0.0 nextgearup.com
 0.0.0.0 nexthrc.com
 0.0.0.0 nexusvisiongroup.com
 0.0.0.0 nexventureindia.com
@@ -25233,6 +25371,7 @@
 0.0.0.0 assets.adtaily.com
 0.0.0.0 static.adtaily.com
 0.0.0.0 ums.adtech.com
+0.0.0.0 www.adserver.adtechus.com
 0.0.0.0 mraidjs.adtilt.com
 0.0.0.0 admp-tc-digo.adtlgc.com
 0.0.0.0 admp-tc-gaca.adtlgc.com
@@ -27977,6 +28116,7 @@
 0.0.0.0 idea.cabezonworks.com
 0.0.0.0 www.idea.cabezonworks.com
 0.0.0.0 www.cablyshaw.com
+0.0.0.0 www.cabrerapelaez.com
 0.0.0.0 www.cacharelshoes.com
 0.0.0.0 www.cachuchabeisbol.com
 0.0.0.0 www.cactusfashionsonline.com
@@ -30874,6 +31014,7 @@
 0.0.0.0 traitementavecclient.flywheelsites.com
 0.0.0.0 vipname.flywheelsites.com
 0.0.0.0 xmasnet.flywheelsites.com
+0.0.0.0 www.smartpl.fmailjoin.com
 0.0.0.0 track.msadcenter.fmi.com
 0.0.0.0 www.fmilocation-devicesupport-icloud.com
 0.0.0.0 www.fmipfind.com
@@ -35663,6 +35804,7 @@
 0.0.0.0 www.nexicartasibank.com
 0.0.0.0 js.next-channel.com
 0.0.0.0 adq.nextag.com
+0.0.0.0 www.nextgearup.com
 0.0.0.0 cdn5.nextinpact.com
 0.0.0.0 poum.nextinpact.com
 0.0.0.0 www.nextlnk7.com
@@ -35743,6 +35885,7 @@
 0.0.0.0 www.nolvadexnow.com
 0.0.0.0 www.nomoreverizonbill.com
 0.0.0.0 www.nonbophongthuy.com
+0.0.0.0 eddy.noneto.com
 0.0.0.0 www6.rbc.com.ukv0.webapp.signin.logon.nonfictionvideo.com
 0.0.0.0 www.www6.rbc.com.ukv0.webapp.signin.logon.nonfictionvideo.com
 0.0.0.0 wvvsec01s.nonomgaliciaeminent.com
@@ -36263,6 +36406,8 @@
 0.0.0.0 www.interac.online.revenue.agency.l3d3dy5hchbszs5jb2trl002.paomendieta.com
 0.0.0.0 www.papasmexicangrill-co.papasmexicangrill.com
 0.0.0.0 ads.papeteka.com
+0.0.0.0 www.papillor-original.com
+0.0.0.0 www.polandsale50.papillor-original.com
 0.0.0.0 excel.paradigmcontractingllc.com
 0.0.0.0 www.paradisetronics.com
 0.0.0.0 www.paraf-para-kampanya.com
@@ -36690,6 +36835,7 @@
 0.0.0.0 slider.plugrush.com
 0.0.0.0 w1.plugrush.com
 0.0.0.0 widget.plugrush.com
+0.0.0.0 www.salter51.plus.com
 0.0.0.0 www.plus-ios1.com
 0.0.0.0 www.plus-ios2.com
 0.0.0.0 www.plusandproud.com
@@ -39282,6 +39428,8 @@
 0.0.0.0 www.chaseonline.chase.com.tabipgida.com
 0.0.0.0 www.tablethospital.com
 0.0.0.0 www.taboolasyndication.com
+0.0.0.0 www.cdn.taboolasyndication.com
+0.0.0.0 www.urc.taboolasyndication.com
 0.0.0.0 aid-golf-golfdust-training.tabrays.com
 0.0.0.0 guerria-skateboard-tommy.tabrays.com
 0.0.0.0 fitness.tabula-rasa-marketing.com
@@ -44412,6 +44560,7 @@
 0.0.0.0 csucshatas.eu
 0.0.0.0 darkhacks.eu
 0.0.0.0 darmowefilmy.eu
+0.0.0.0 decydujmy-razem.eu
 0.0.0.0 deinehardware.eu
 0.0.0.0 der-wallstreet-trick.eu
 0.0.0.0 descargasytrucos.eu
@@ -44682,6 +44831,7 @@
 0.0.0.0 meincheck.de-informationallekunden.eu
 0.0.0.0 infomitglieder.de-kontaktaktualisierung.eu
 0.0.0.0 paypal.de-kontaktaktualisierung.eu
+0.0.0.0 www.decydujmy-razem.eu
 0.0.0.0 www.drukmarket.eu
 0.0.0.0 www.drukmet.eu
 0.0.0.0 crops.dunight.eu
@@ -46132,6 +46282,7 @@
 0.0.0.0 xn--yhoo-0na.group
 0.0.0.0 www.kassir.group
 0.0.0.0 www.oriyen.group
+0.0.0.0 www.olx.pl-logowanie.group
 0.0.0.0 www.olx.pl-mkonto.group
 0.0.0.0 www.xn--yhoo-0na.group
 0.0.0.0 www.youtubebrandexpand.group
@@ -46152,6 +46303,7 @@
 0.0.0.0 p.24-7.help
 0.0.0.0 www.p.24-7.help
 0.0.0.0 www.info-paypal.help
+0.0.0.0 bravanian.hk
 0.0.0.0 investorrelations.hk
 0.0.0.0 kaddafi.hk
 0.0.0.0 phorm.hk
@@ -46211,6 +46363,7 @@
 0.0.0.0 imifaloda.hu
 0.0.0.0 kaposfose.hu
 0.0.0.0 krisztiesviktor.hu
+0.0.0.0 laborex.hu
 0.0.0.0 loretti.hu
 0.0.0.0 malomingatlan.hu
 0.0.0.0 mindenbenegyblog.hu
@@ -46483,6 +46636,12 @@
 0.0.0.0 www.ogust.icu
 0.0.0.0 www.onet-regulamin.icu
 0.0.0.0 www.performquickintenselyfile.icu
+0.0.0.0 inpost.pl-cash.icu
+0.0.0.0 www.inpost.pl-cash.icu
+0.0.0.0 inpost.pl-safe.icu
+0.0.0.0 olx.pl-safe.icu
+0.0.0.0 www.inpost.pl-safe.icu
+0.0.0.0 www.olx.pl-safe.icu
 0.0.0.0 hederahashgraph.publictoken.icu
 0.0.0.0 www.publictoken.icu
 0.0.0.0 www.hederahashgraph.publictoken.icu
@@ -48664,6 +48823,7 @@
 0.0.0.0 pennystock-picks.info
 0.0.0.0 phone-digital.info
 0.0.0.0 pkwjkbcgk.info
+0.0.0.0 pl-przelew.info
 0.0.0.0 plainwest.info
 0.0.0.0 platez.info
 0.0.0.0 pleaseupdateapple.info
@@ -49898,6 +50058,7 @@
 0.0.0.0 www.pl-id737962.info
 0.0.0.0 www.olx.pl-id73885935.info
 0.0.0.0 www.olx.pl-portal.info
+0.0.0.0 www.pl-przelew.info
 0.0.0.0 www.olx.pl-sprzedaz.info
 0.0.0.0 www.plainwest.info
 0.0.0.0 www.platez.info
@@ -50521,6 +50682,7 @@
 0.0.0.0 adjust-sp.jp
 0.0.0.0 adserving.jp
 0.0.0.0 adtracker.jp
+0.0.0.0 asumedo.jp
 0.0.0.0 bank-japanposst.jp
 0.0.0.0 bank-japanpostpo.jp
 0.0.0.0 chiimaz.jp
@@ -51113,6 +51275,8 @@
 0.0.0.0 www.pills-for-male-power.life
 0.0.0.0 olx.pl-delivery.life
 0.0.0.0 www.olx.pl-delivery.life
+0.0.0.0 olx.pl-przesylka.life
+0.0.0.0 www.olx.pl-przesylka.life
 0.0.0.0 www.placeof-bigprizes.life
 0.0.0.0 www.post-send.life
 0.0.0.0 www.prize-boxes.life
@@ -51221,6 +51385,8 @@
 0.0.0.0 www.netflixservices.link
 0.0.0.0 www.mdelivery.olx-pl.link
 0.0.0.0 www.payapple.link
+0.0.0.0 olx.pl-orders.link
+0.0.0.0 www.olx.pl-orders.link
 0.0.0.0 www.pocztex-24.link
 0.0.0.0 www.santandermodulo.link
 0.0.0.0 www.stateresolver.link
@@ -51708,6 +51874,7 @@
 0.0.0.0 srv2.admedit.me
 0.0.0.0 srv6.admedit.me
 0.0.0.0 ad.adtracking.me
+0.0.0.0 www.alegrolokalnie.me
 0.0.0.0 paypable-4074c4aeda7021213cf61ec23013085e.apps-review-app.me
 0.0.0.0 trk-conceptaffi.aprism.me
 0.0.0.0 suntrust.baten.me
@@ -51757,6 +51924,7 @@
 0.0.0.0 www.newsinsider.me
 0.0.0.0 www.newview.me
 0.0.0.0 www.paczkomaty.me
+0.0.0.0 www.olx-pl.pay3d.me
 0.0.0.0 www.payments-allegro.me
 0.0.0.0 olx.pl-log.me
 0.0.0.0 www.olx.pl-log.me
@@ -55551,6 +55719,7 @@
 0.0.0.0 winebear.domainleader.net
 0.0.0.0 www.domhandlowy.net
 0.0.0.0 j-ad.dominiosfree.net
+0.0.0.0 wwwroot.doorenbos.net
 0.0.0.0 login.dotomi.net
 0.0.0.0 imp.double.net
 0.0.0.0 track.double.net
@@ -55706,6 +55875,8 @@
 0.0.0.0 onetag.ectest.net
 0.0.0.0 zde-affinity.edgecaching.net
 0.0.0.0 api.deep-ad.com.edgekey.net
+0.0.0.0 www.taboola.com.edgekey.net
+0.0.0.0 www.esd-secure.taboola.com.edgekey.net
 0.0.0.0 beacon.clickequations.net.edgekey.net
 0.0.0.0 computerworld.com.edgesuite.net
 0.0.0.0 ads.ak.facebook.com.edgesuite.net
@@ -56603,6 +56774,7 @@
 0.0.0.0 server8.opentracker.net
 0.0.0.0 server9.opentracker.net
 0.0.0.0 u-us.openx.net
+0.0.0.0 www.us-u.openx.net
 0.0.0.0 shoppstop.comood.opsource.net
 0.0.0.0 nfm.optdiv.net
 0.0.0.0 www.optiad.net
@@ -58172,6 +58344,7 @@
 0.0.0.0 netflixx21.online
 0.0.0.0 netnetflixbr.online
 0.0.0.0 nextpayment.online
+0.0.0.0 niezabardzowiadomo.online
 0.0.0.0 nisbisnis.online
 0.0.0.0 notice-redirect.online
 0.0.0.0 notice-security.online
@@ -58408,6 +58581,7 @@
 0.0.0.0 www.netflixsolition.online
 0.0.0.0 www.netflixx21.online
 0.0.0.0 www.netnetflixbr.online
+0.0.0.0 www.niezabardzowiadomo.online
 0.0.0.0 www.nova-netflix.online
 0.0.0.0 scotiabank.com-ip.novascottiaservices.online
 0.0.0.0 w-f.nv-1acc.online
@@ -61487,6 +61661,7 @@
 0.0.0.0 www.download.file.co.pl
 0.0.0.0 www.free.file.co.pl
 0.0.0.0 www.kaufland.gift-cards.co.pl
+0.0.0.0 www.hannawolska1.co.pl
 0.0.0.0 www.historiaszczepienie.co.pl
 0.0.0.0 www.historiazaszczepionej.co.pl
 0.0.0.0 login.platnosci-ntf.jumonix.co.pl
@@ -62830,6 +63005,7 @@
 0.0.0.0 accounts.googlsupport-team.pw
 0.0.0.0 hfgfz.hunteraustin.pw
 0.0.0.0 chaseonline.chase.com-public-enroll.iillj.pw
+0.0.0.0 www.inpost.pw
 0.0.0.0 download-battlefield-4-hack-crack-keygen-new-2014.ipro.pw
 0.0.0.0 paypal.co.uk.j5lq.pw
 0.0.0.0 paypal.co.uk.j7rk.pw
@@ -66351,6 +66527,7 @@
 0.0.0.0 brou.shop
 0.0.0.0 cr-mufg-card--jp.shop
 0.0.0.0 jaredquintana.shop
+0.0.0.0 pl-przelew.shop
 0.0.0.0 surveillancesystems.shop
 0.0.0.0 vvvvms.shop
 0.0.0.0 zngood.shop
@@ -66360,7 +66537,10 @@
 0.0.0.0 poczta.pl-dostawa.shop
 0.0.0.0 www.inpost.pl-dostawa.shop
 0.0.0.0 www.poczta.pl-dostawa.shop
+0.0.0.0 olx.pl-konto.shop
+0.0.0.0 www.olx.pl-konto.shop
 0.0.0.0 www.olx.pl-logowanie.shop
+0.0.0.0 www.pl-przelew.shop
 0.0.0.0 inpost.pl-safeway.shop
 0.0.0.0 olx.pl-safeway.shop
 0.0.0.0 www.inpost.pl-safeway.shop
@@ -67794,6 +67974,8 @@
 0.0.0.0 www.applesecurity.store
 0.0.0.0 www.applesidapple.store
 0.0.0.0 www.axs-mobile.store
+0.0.0.0 delivery.olx.checkid.store
+0.0.0.0 www.delivery.olx.checkid.store
 0.0.0.0 olx.dostawa-pl.store
 0.0.0.0 www.olx.dostawa-pl.store
 0.0.0.0 www.fmi-login.store
@@ -69800,6 +69982,7 @@
 0.0.0.0 accident-bodyshop.co.uk
 0.0.0.0 accountinfologinee.co.uk
 0.0.0.0 accuritcleaning.co.uk
+0.0.0.0 addstock.co.uk
 0.0.0.0 adimelowplumbingandbuilding.co.uk
 0.0.0.0 adobesucks.co.uk
 0.0.0.0 advance-ps.co.uk
@@ -72232,8 +72415,13 @@
 0.0.0.0 widget.adnet.vn
 0.0.0.0 pm.adpia.vn
 0.0.0.0 xmas.adtima.vn
+0.0.0.0 d.adx.vn
+0.0.0.0 e.adx.vn
+0.0.0.0 st.a.adx.vn
+0.0.0.0 t.d.adx.vn
 0.0.0.0 www.beautycaregold.vn
 0.0.0.0 www.biolusgoldmax.vn
+0.0.0.0 bwstatistics.bizwebapps.vn
 0.0.0.0 shutdown.cgffood.vn
 0.0.0.0 yisde.cgffood.vn
 0.0.0.0 www.chothuevinhomescentralpark.vn
@@ -72276,6 +72464,7 @@
 0.0.0.0 www.whitestudio.com.vn
 0.0.0.0 barclays-online.co.uk.statements.cx9.vn
 0.0.0.0 www.barclays-online.co.uk.statements.cx9.vn
+0.0.0.0 piwik.dsp.vn
 0.0.0.0 dt.eclick.vn
 0.0.0.0 html.eclick.vn
 0.0.0.0 mamnonbabyhouse.edu.vn
@@ -72287,6 +72476,12 @@
 0.0.0.0 www.website.phuyen.edu.vn
 0.0.0.0 www.envischool.vn
 0.0.0.0 www.fctravel.vn
+0.0.0.0 facebookads.gafin.vn
+0.0.0.0 images.gafin.vn
+0.0.0.0 m.gafin.vn
+0.0.0.0 reporting.gafin.vn
+0.0.0.0 tracking.gafin.vn
+0.0.0.0 widget.gafin.vn
 0.0.0.0 wadi.gov.vn
 0.0.0.0 www.wadi.gov.vn
 0.0.0.0 www.hows.vn
@@ -72645,6 +72840,7 @@
 0.0.0.0 netflixandbill.world
 0.0.0.0 paypa.world
 0.0.0.0 phonetography.world
+0.0.0.0 pl-przelew.world
 0.0.0.0 secure-paypal.world
 0.0.0.0 wfmobile.world
 0.0.0.0 www.apple-gift.world
@@ -72656,6 +72852,7 @@
 0.0.0.0 www.luckyday.world
 0.0.0.0 www.olxpl.moneta.world
 0.0.0.0 www.netflixandbill.world
+0.0.0.0 www.pl-przelew.world
 0.0.0.0 binance.promoting.world
 0.0.0.0 www.binance.promoting.world
 0.0.0.0 www2.smallconcretetypeflash.world
