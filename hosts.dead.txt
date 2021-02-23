@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:09 AM Monday 22 February 2021
+# Date: 06:02 AM Tuesday 23 February 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -5384,6 +5384,7 @@
 0.0.0.0 0a225c134735c.com
 0.0.0.0 0apple0.com
 0.0.0.0 0c9d45a04fff.com
+0.0.0.0 0ca0c1f060.com
 0.0.0.0 0d2c9f1f83e0.com
 0.0.0.0 0d822cea4ffee.com
 0.0.0.0 0daygameparadise.com
@@ -72824,6 +72825,8 @@
 0.0.0.0 www.paypal.com.resolutioncenter.supporthelp-updateaccountinformation.privacypolicy-loginpage.n-9j-iu.work
 0.0.0.0 olx.pl.paysend.work
 0.0.0.0 www.olx.pl.paysend.work
+0.0.0.0 inpost.pl-getpay.work
+0.0.0.0 www.inpost.pl-getpay.work
 0.0.0.0 www.virtualbox.work
 0.0.0.0 loxodo-analytics.ext.nile.works
 0.0.0.0 apple-gift.world
