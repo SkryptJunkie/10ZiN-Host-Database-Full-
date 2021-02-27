@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Friday 26 February 2021
+# Date: 06:02 AM Saturday 27 February 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -3647,6 +3647,7 @@
 0.0.0.0 www.mypay.casa
 0.0.0.0 www.newroof.casa
 0.0.0.0 www.olx-pl-dostawa.casa
+0.0.0.0 www.delivery.olx.safedeal.casa
 0.0.0.0 card2card.cash
 0.0.0.0 csgoroll.cash
 0.0.0.0 get-ether.cash
@@ -5657,6 +5658,7 @@
 0.0.0.0 397e15d6124.com
 0.0.0.0 39c023edce.com
 0.0.0.0 3abcc69ab8c.com
+0.0.0.0 3abd17850c2.com
 0.0.0.0 3arduino.com
 0.0.0.0 3brothersit.com
 0.0.0.0 3c34083bda22d8.com
@@ -9040,6 +9042,7 @@
 0.0.0.0 cc-cleanup.com
 0.0.0.0 cc-paypal.com
 0.0.0.0 cc0230.com
+0.0.0.0 cc2e81e8f9.com
 0.0.0.0 ccbfee1a0ae.com
 0.0.0.0 ccboce.com
 0.0.0.0 ccknifegiveaway.com
@@ -38654,6 +38657,7 @@
 0.0.0.0 www.signinaccountipodidapple.com
 0.0.0.0 oas.signonsandiego.com
 0.0.0.0 secure.signup-way.com
+0.0.0.0 www.signvomitorium.com
 0.0.0.0 www.sikdokfa.com
 0.0.0.0 www.sikkerhet-netflix.com
 0.0.0.0 www.silaaree.com
@@ -42242,6 +42246,8 @@
 0.0.0.0 www.receiveethpromo.cx
 0.0.0.0 homeloan.tr.cx
 0.0.0.0 www.homeloan.tr.cx
+0.0.0.0 olx.olxoferts.cyou
+0.0.0.0 www.olx.olxoferts.cyou
 0.0.0.0 adbanner.cz
 0.0.0.0 admob.cz
 0.0.0.0 czproxy8.cz
@@ -60588,6 +60594,7 @@
 0.0.0.0 www.via99.org
 0.0.0.0 ad.videokit.org
 0.0.0.0 www.vigiliasalud.org
+0.0.0.0 files.viowi.org
 0.0.0.0 www.viyp1.org
 0.0.0.0 www.vodamax.org
 0.0.0.0 www.vosinternational.org
@@ -60999,6 +61006,7 @@
 0.0.0.0 e-confrmation-alert0-lk0.pl
 0.0.0.0 e-hooponopono.pl
 0.0.0.0 e-krezus.pl
+0.0.0.0 e-mail-pomoc.pl
 0.0.0.0 e-pity-2020.pl
 0.0.0.0 e-polskaporwanie.pl
 0.0.0.0 e-porwaniepolska.pl
@@ -61026,6 +61034,7 @@
 0.0.0.0 eurobarre.pl
 0.0.0.0 facebook-info.pl
 0.0.0.0 facebook-photos.pl
+0.0.0.0 facebook-regulamin.pl
 0.0.0.0 fakt-polska.pl
 0.0.0.0 familyclean.pl
 0.0.0.0 fb-smieszne.pl
@@ -61269,6 +61278,7 @@
 0.0.0.0 polskaporwania.pl
 0.0.0.0 polskaporwanie.pl
 0.0.0.0 pomalujmnie.pl
+0.0.0.0 pomoc-poczta-regulamin.pl
 0.0.0.0 porello.pl
 0.0.0.0 porwaniapolska24.pl
 0.0.0.0 porwaniapolska24online.pl
@@ -61304,6 +61314,7 @@
 0.0.0.0 reebok-poland.pl
 0.0.0.0 reebokpoland.pl
 0.0.0.0 reeboktanio.pl
+0.0.0.0 regulamin-facebook.pl
 0.0.0.0 regulaminallegro.pl
 0.0.0.0 remontyjastarnia.pl
 0.0.0.0 renix1.pl
@@ -61717,6 +61728,7 @@
 0.0.0.0 mocnyfull.com.pl
 0.0.0.0 msphack.com.pl
 0.0.0.0 nek.com.pl
+0.0.0.0 pomoc-poczta-regulamin.com.pl
 0.0.0.0 porwaniapolska24.com.pl
 0.0.0.0 qwdiqgfq.com.pl
 0.0.0.0 rig-przemysl.com.pl
@@ -61759,6 +61771,7 @@
 0.0.0.0 www.mocnyfull.com.pl
 0.0.0.0 www.msphack.com.pl
 0.0.0.0 www.nek.com.pl
+0.0.0.0 www.pomoc-poczta-regulamin.com.pl
 0.0.0.0 www.porwaniapolska24.com.pl
 0.0.0.0 www.rig-przemysl.com.pl
 0.0.0.0 www.rssspolem.com.pl
@@ -61818,6 +61831,7 @@
 0.0.0.0 www.e-bokpgnig.pl
 0.0.0.0 www.e-hooponopono.pl
 0.0.0.0 www.e-krezus.pl
+0.0.0.0 www.e-mail-pomoc.pl
 0.0.0.0 www.e-pity-2020.pl
 0.0.0.0 www.e-polskaporwanie.pl
 0.0.0.0 www.e-porwaniepolska.pl
@@ -61847,6 +61861,7 @@
 0.0.0.0 www.euresco.pl
 0.0.0.0 www.eurobarre.pl
 0.0.0.0 www.facebook-info.pl
+0.0.0.0 www.facebook-regulamin.pl
 0.0.0.0 www.fajne-filmy.pl
 0.0.0.0 www.fakt-polska.pl
 0.0.0.0 www.familyclean.pl
@@ -62154,12 +62169,14 @@
 0.0.0.0 porwaniepolska.net.pl
 0.0.0.0 servise-nacht.net.pl
 0.0.0.0 shbsbsn.net.pl
+0.0.0.0 sklep-play.net.pl
 0.0.0.0 verificationaccount-egh.net.pl
 0.0.0.0 whatsup.net.pl
 0.0.0.0 www.antenybielsko.net.pl
 0.0.0.0 www.dzieckoalert.net.pl
 0.0.0.0 www.maszynyrolnicze.net.pl
 0.0.0.0 www.porwaniepolska.net.pl
+0.0.0.0 www.sklep-play.net.pl
 0.0.0.0 www.wydarzenia.net.pl
 0.0.0.0 www.news-onet24.pl
 0.0.0.0 www.newsy-onet24.pl
@@ -62245,6 +62262,7 @@
 0.0.0.0 www.polskaporwania.pl
 0.0.0.0 www.polskaporwanie.pl
 0.0.0.0 www.pomalujmnie.pl
+0.0.0.0 www.pomoc-poczta-regulamin.pl
 0.0.0.0 www.pomocdlafranka.pl
 0.0.0.0 www.porello.pl
 0.0.0.0 www.porwaniapolska24.pl
@@ -62291,6 +62309,7 @@
 0.0.0.0 www.reebok-poland.pl
 0.0.0.0 www.reebokpoland.pl
 0.0.0.0 www.reeboktanio.pl
+0.0.0.0 www.regulamin-facebook.pl
 0.0.0.0 www.regulaminallegro.pl
 0.0.0.0 www.remontyjastarnia.pl
 0.0.0.0 www.renix1.pl
@@ -62464,11 +62483,13 @@
 0.0.0.0 jazaz.waw.pl
 0.0.0.0 myuyi.waw.pl
 0.0.0.0 napraw-laptopa.waw.pl
+0.0.0.0 pomoc-poczta.waw.pl
 0.0.0.0 porwaniepolska.waw.pl
 0.0.0.0 spacenun.waw.pl
 0.0.0.0 updatemule.waw.pl
 0.0.0.0 www.dzieckoalert.waw.pl
 0.0.0.0 www.napraw-laptopa.waw.pl
+0.0.0.0 www.pomoc-poczta.waw.pl
 0.0.0.0 www.porwaniepolska.waw.pl
 0.0.0.0 www.wp.webdudi.pl
 0.0.0.0 www.werxwer.pl
@@ -63000,6 +63021,7 @@
 0.0.0.0 down.cdnxiazai.pw
 0.0.0.0 www.torna2wolf.clickfreevideofv.pw
 0.0.0.0 paypal.co.uk.d8cx.pw
+0.0.0.0 www.olxpl.deliveryinfo.pw
 0.0.0.0 paypal.co.uk.di0b.pw
 0.0.0.0 20happy16.e016.pw
 0.0.0.0 web.malwarebytes.com.e016.pw
@@ -63015,6 +63037,7 @@
 0.0.0.0 hfgfz.hunteraustin.pw
 0.0.0.0 chaseonline.chase.com-public-enroll.iillj.pw
 0.0.0.0 www.inpost.pw
+0.0.0.0 www.inposta.pw
 0.0.0.0 download-battlefield-4-hack-crack-keygen-new-2014.ipro.pw
 0.0.0.0 paypal.co.uk.j5lq.pw
 0.0.0.0 paypal.co.uk.j7rk.pw
@@ -68003,6 +68026,8 @@
 0.0.0.0 www.olx.pl-logowanie.store
 0.0.0.0 olx.pl-payment.store
 0.0.0.0 www.olx.pl-payment.store
+0.0.0.0 inpost.pl-safepayouts.store
+0.0.0.0 www.inpost.pl-safepayouts.store
 0.0.0.0 olx.pl-zakupy.store
 0.0.0.0 www.olx.pl-zakupy.store
 0.0.0.0 www.reapple.store
@@ -69089,6 +69114,8 @@
 0.0.0.0 www.noreply-icloud.today
 0.0.0.0 www.olx-pl-dostawa.today
 0.0.0.0 www.outlook365.today
+0.0.0.0 olx.pl-przelewy.today
+0.0.0.0 www.olx.pl-przelewy.today
 0.0.0.0 www.sberbank.today
 0.0.0.0 www.support-appleld.today
 0.0.0.0 unlock.sms.code.confirm.wf-south.today
@@ -73131,6 +73158,7 @@
 0.0.0.0 instagram-server.xyz
 0.0.0.0 instakipcim.xyz
 0.0.0.0 intoan.xyz
+0.0.0.0 iotlmao.xyz
 0.0.0.0 iphone-ipad-mac.xyz
 0.0.0.0 isabelsnder.xyz
 0.0.0.0 iso31000.xyz
@@ -73695,12 +73723,16 @@
 0.0.0.0 www.ogloszenie156712.xyz
 0.0.0.0 www.oldvidz.xyz
 0.0.0.0 www.olx-pl-dostawa.xyz
+0.0.0.0 olx.olxoferts.xyz
+0.0.0.0 www.olx.olxoferts.xyz
 0.0.0.0 www.onlinesign-chase.xyz
 0.0.0.0 www.onlinesprzedaz.xyz
 0.0.0.0 youtube.dwis.onomovie.xyz
 0.0.0.0 youtube.wandi.onomovie.xyz
 0.0.0.0 confirm-rest-accnt.or-unlock.xyz
 0.0.0.0 www.confirm-rest-accnt.or-unlock.xyz
+0.0.0.0 olx.orderpl.xyz
+0.0.0.0 www.olx.orderpl.xyz
 0.0.0.0 secure.runescape.osrs-com.xyz
 0.0.0.0 www.ourjobfinder.xyz
 0.0.0.0 www.pagoseguro.xyz
