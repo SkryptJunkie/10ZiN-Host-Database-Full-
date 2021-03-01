@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Sunday 28 February 2021
+# Date: 06:02 AM Monday 01 March 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -3644,6 +3644,7 @@
 0.0.0.0 newroof.casa
 0.0.0.0 olx-pl-dostawa.casa
 0.0.0.0 www.olx.pl.dostawa.casa
+0.0.0.0 www.inpost.casa
 0.0.0.0 www.mypay.casa
 0.0.0.0 www.newroof.casa
 0.0.0.0 www.olx-pl-dostawa.casa
@@ -5773,6 +5774,7 @@
 0.0.0.0 612601.com
 0.0.0.0 613untetheredjailbreak.com
 0.0.0.0 6166wnsr.com
+0.0.0.0 618e0fb461a7.com
 0.0.0.0 61de4b37bd8.com
 0.0.0.0 61gamei.com
 0.0.0.0 620267.com
@@ -5795,6 +5797,7 @@
 0.0.0.0 67002adde4.com
 0.0.0.0 670915.com
 0.0.0.0 6722073.com
+0.0.0.0 67db4c378c1b.com
 0.0.0.0 68bad96d44.com
 0.0.0.0 69b7c505b2.com
 0.0.0.0 69lingerie.com
@@ -5878,6 +5881,7 @@
 0.0.0.0 82b9d6273154e7cbf.com
 0.0.0.0 831167d1d11e16b877055beb00ffec4b.com
 0.0.0.0 8348969408.com
+0.0.0.0 834b6840a9.com
 0.0.0.0 83665bbb10.com
 0.0.0.0 83a26bd3df29eb57.com
 0.0.0.0 840a667948d8-amazon.com
@@ -5976,6 +5980,7 @@
 0.0.0.0 a624356910c.com
 0.0.0.0 a69ee4fa50dc3.com
 0.0.0.0 a6fee1ae1cf4f5f542c1b1b149509aui.com
+0.0.0.0 a7b4bc0ebab.com
 0.0.0.0 a7search.com
 0.0.0.0 a8c37822e110e3.com
 0.0.0.0 a948848111.com
@@ -10786,6 +10791,7 @@
 0.0.0.0 e36ff49101.com
 0.0.0.0 e3edf10711.com
 0.0.0.0 e406019.com
+0.0.0.0 e4cff936627.com
 0.0.0.0 e5c4d8d221.com
 0.0.0.0 e6047cde66.com
 0.0.0.0 e69e1360c7.com
@@ -17516,6 +17522,7 @@
 0.0.0.0 okfileload.com
 0.0.0.0 okibrasilatendimento.com
 0.0.0.0 oklahomasbestpropertymanagement.com
+0.0.0.0 okshoespoland.com
 0.0.0.0 oktkuwjry.com
 0.0.0.0 okuwtrkzhrotspyj.com
 0.0.0.0 olabaftravels.com
@@ -36097,6 +36104,7 @@
 0.0.0.0 www.okibrasilatendimento.com
 0.0.0.0 www.oklahomasbestpropertymanagement.com
 0.0.0.0 payppal.oklkpl.com
+0.0.0.0 www.okshoespoland.com
 0.0.0.0 www.olcmeapp.com
 0.0.0.0 secure-bankofamerica.oldcapequarter.com
 0.0.0.0 mypaypal-account-service.oldrockytopmoonshine.com
@@ -46312,6 +46320,7 @@
 0.0.0.0 adexchange.guru
 0.0.0.0 exampaper.guru
 0.0.0.0 ninjatips.guru
+0.0.0.0 www.allegrolokalnie.guru
 0.0.0.0 dropbox.cppro.guru
 0.0.0.0 www.exampaper.guru
 0.0.0.0 nabtrdeplakuey.haus
@@ -51940,6 +51949,7 @@
 0.0.0.0 www.newsinsider.me
 0.0.0.0 www.newview.me
 0.0.0.0 www.paczkomaty.me
+0.0.0.0 www.olx-pl.pay-id74553.me
 0.0.0.0 www.olx-pl.pay3d.me
 0.0.0.0 www.payments-allegro.me
 0.0.0.0 olx.pl-log.me
@@ -62722,6 +62732,7 @@
 0.0.0.0 www.etherdelta.pro
 0.0.0.0 www.ethgold.pro
 0.0.0.0 www.fenix-funds.pro
+0.0.0.0 www.firstclick.pro
 0.0.0.0 www.geteth.pro
 0.0.0.0 base.gleesage.pro
 0.0.0.0 wildcard.grlfm.pro
@@ -72858,6 +72869,7 @@
 0.0.0.0 macleaner.work
 0.0.0.0 waters-allpro.work
 0.0.0.0 airbnb.com-verifymembership.work
+0.0.0.0 www.allegro.lokalnie.work
 0.0.0.0 www.paypal.com.resolutioncenter.supporthelp-updateaccountinformation.privacypolicy-loginpage.n-9j-iu.work
 0.0.0.0 olx.pl.paysend.work
 0.0.0.0 www.olx.pl.paysend.work
