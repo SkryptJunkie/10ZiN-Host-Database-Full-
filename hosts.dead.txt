@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Thursday 04 March 2021
+# Date: 06:04 AM Friday 05 March 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -39315,6 +39315,7 @@
 0.0.0.0 oascentral.superpages.com
 0.0.0.0 www.superqualitypackers.com
 0.0.0.0 www.superseocompany.com
+0.0.0.0 mobilelogs.supersonic.com
 0.0.0.0 sonic-us.supersonicads.com
 0.0.0.0 www.suporte-netflixcliente2017.com
 0.0.0.0 www.supp0rtapple.com
@@ -73181,6 +73182,8 @@
 0.0.0.0 issue50.xyz
 0.0.0.0 issue60.xyz
 0.0.0.0 issue70.xyz
+0.0.0.0 j11g9xecuxe43xu.xyz
+0.0.0.0 j12z7407gwtzk.xyz
 0.0.0.0 jercaus.xyz
 0.0.0.0 jhyrgweb.xyz
 0.0.0.0 jiopd.xyz
