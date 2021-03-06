@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:04 AM Friday 05 March 2021
+# Date: 06:07 AM Saturday 06 March 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -301,8 +301,10 @@
 0.0.0.0 kungwsdycommunicwsxv.dns.army
 0.0.0.0 microsfotonline.dns.army
 0.0.0.0 mjventwsdyluzcafwsqb.dns.army
+0.0.0.0 mndychnesqudusismnha.dns.army
 0.0.0.0 mndyperezluzcafeyzmn.dns.army
 0.0.0.0 mndyrmtcntlenverstpo.dns.army
+0.0.0.0 mndytheviejupcafgast.dns.army
 0.0.0.0 mndytheviejupcazfeyz.dns.army
 0.0.0.0 mndyunitedfrkesokori.dns.army
 0.0.0.0 mslogstdyinvestmstgj.dns.army
@@ -5457,6 +5459,7 @@
 0.0.0.0 1c0910ee64.com
 0.0.0.0 1d5fce9c23.com
 0.0.0.0 1dropboxx.com
+0.0.0.0 1f10898ba83eab.com
 0.0.0.0 1f2f1472af32.com
 0.0.0.0 1f2fbfdb08772f.com
 0.0.0.0 1forced.com
@@ -5700,6 +5703,7 @@
 0.0.0.0 411commerce.com
 0.0.0.0 4121wellsfargo4388181144.com
 0.0.0.0 417c76f52b0.com
+0.0.0.0 4314fe96fbc.com
 0.0.0.0 437301aa95.com
 0.0.0.0 43e6c30abcff9.com
 0.0.0.0 4481bff8825.com
@@ -5722,6 +5726,7 @@
 0.0.0.0 4ded47cc011c1.com
 0.0.0.0 4e34b4865905c4.com
 0.0.0.0 4e9fa3c5de.com
+0.0.0.0 4eb0601358ea5.com
 0.0.0.0 4ebde70ccf.com
 0.0.0.0 4ed2ca9aac09d.com
 0.0.0.0 4f2f6589dd7618.com
@@ -5782,6 +5787,7 @@
 0.0.0.0 635905.com
 0.0.0.0 636a105de10d.com
 0.0.0.0 642fa8b172.com
+0.0.0.0 648d1ffab480.com
 0.0.0.0 650895.com
 0.0.0.0 65125672a6fa0.com
 0.0.0.0 651305.com
@@ -5827,6 +5833,7 @@
 0.0.0.0 703c4af391997.com
 0.0.0.0 7078784c567.com
 0.0.0.0 7078a8150ea.com
+0.0.0.0 70e52227c403.com
 0.0.0.0 70f4b25c15.com
 0.0.0.0 70pictures.com
 0.0.0.0 7102794ef7.com
@@ -5964,6 +5971,7 @@
 0.0.0.0 a-nagy-alku.com
 0.0.0.0 a012f15e6ee3.com
 0.0.0.0 a02d0adbca0.com
+0.0.0.0 a0ac42dda2131.com
 0.0.0.0 a0e5b16728.com
 0.0.0.0 a0f3ad8585.com
 0.0.0.0 a0liasoleadersrfectearchcustohihingnepelectione.com
@@ -5983,6 +5991,7 @@
 0.0.0.0 a7b4bc0ebab.com
 0.0.0.0 a7search.com
 0.0.0.0 a8c37822e110e3.com
+0.0.0.0 a920bf7a549.com
 0.0.0.0 a948848111.com
 0.0.0.0 aa08daf7e13b6345e09e92f771507fa5f4.com
 0.0.0.0 aa14ab57a3339c4064bd9ae6fad7495b5f.com
@@ -10793,6 +10802,7 @@
 0.0.0.0 e406019.com
 0.0.0.0 e4cff936627.com
 0.0.0.0 e5c4d8d221.com
+0.0.0.0 e5f06193a7.com
 0.0.0.0 e6047cde66.com
 0.0.0.0 e69e1360c7.com
 0.0.0.0 e739acf90a.com
@@ -32716,6 +32726,7 @@
 0.0.0.0 ads.insidehighered.com
 0.0.0.0 edw.insideline.com
 0.0.0.0 www.insidestorepplx.com
+0.0.0.0 sadbmetrics.muevetebasketsmetrics.insight.com
 0.0.0.0 ai062.insightexpress.com
 0.0.0.0 ai087.insightexpress.com
 0.0.0.0 au052.insightexpress.com
@@ -42294,6 +42305,7 @@
 0.0.0.0 www.marienbad-kurtourismus.cz
 0.0.0.0 stats.mf.cz
 0.0.0.0 www.nga.cz
+0.0.0.0 swa.oskarta.cz
 0.0.0.0 statistiky.ovanet.cz
 0.0.0.0 www.resort-hrabovo.cz
 0.0.0.0 mobile-rental.spindlmax.cz
@@ -72945,6 +72957,7 @@
 0.0.0.0 86g6pcwh2dlogtn950mc7zxpd6lgexwyj5d38s7ahmmtauuwkt.xyz
 0.0.0.0 93427.xyz
 0.0.0.0 9u5syataewpmftpqy85di8eqxmudypq5ksuizcmmbgc0bcaqxa.xyz
+0.0.0.0 a3a8cr9sddn45ty.xyz
 0.0.0.0 account-support.xyz
 0.0.0.0 accountprotection.xyz
 0.0.0.0 accountsecure.xyz
