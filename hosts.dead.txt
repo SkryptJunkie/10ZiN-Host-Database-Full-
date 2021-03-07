@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:07 AM Saturday 06 March 2021
+# Date: 06:03 AM Sunday 07 March 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -304,6 +304,7 @@
 0.0.0.0 mndychnesqudusismnha.dns.army
 0.0.0.0 mndyperezluzcafeyzmn.dns.army
 0.0.0.0 mndyrmtcntlenverstpo.dns.army
+0.0.0.0 mndytheviejupcafgact.dns.army
 0.0.0.0 mndytheviejupcafgast.dns.army
 0.0.0.0 mndytheviejupcazfeyz.dns.army
 0.0.0.0 mndyunitedfrkesokori.dns.army
@@ -317,6 +318,7 @@
 0.0.0.0 perezluzwsdycafewsbz.dns.army
 0.0.0.0 pmrimesndylimtdvensn.dns.army
 0.0.0.0 pmrimestdylimtdvenst.dns.army
+0.0.0.0 rmtcntlwsdyenverpote.dns.army
 0.0.0.0 sara1wsdyinvestvenws.dns.army
 0.0.0.0 sara2wsdyentertawsin.dns.army
 0.0.0.0 shgshgtwostdyindusst.dns.army
@@ -338,6 +340,7 @@
 0.0.0.0 suresb1sndyintercont.dns.army
 0.0.0.0 theviesndyjupcazsnty.dns.army
 0.0.0.0 theviewsdyjupcazwsgv.dns.army
+0.0.0.0 topreonesdyenvertope.dns.army
 0.0.0.0 tsdymjventsluzcafeyz.dns.army
 0.0.0.0 unitedwsdykesokowsgs.dns.army
 0.0.0.0 wsdyalgreenkeghewsmq.dns.army
@@ -946,6 +949,7 @@
 0.0.0.0 kiye.sweettreatscakes.com.au
 0.0.0.0 www.kiye.sweettreatscakes.com.au
 0.0.0.0 swiftpro.swiftproductions.com.au
+0.0.0.0 www.developer.team1global.com.au
 0.0.0.0 cp-30.theborough.com.au
 0.0.0.0 synchromesh.thebridgedigital.com.au
 0.0.0.0 www.theelmsindooroopilly.com.au
@@ -1622,6 +1626,7 @@
 0.0.0.0 olx-biezpieczna-dostawa-pl.biz
 0.0.0.0 omgfiles.biz
 0.0.0.0 oplata2018.biz
+0.0.0.0 order-safe.biz
 0.0.0.0 outlookmedia.biz
 0.0.0.0 paymentmobility.biz
 0.0.0.0 paypalmoney.biz
@@ -1916,6 +1921,7 @@
 0.0.0.0 tescoonline.bankupdate.on5.biz
 0.0.0.0 www.tescoonline.bankupdate.on5.biz
 0.0.0.0 www.oplata2018.biz
+0.0.0.0 www.order-safe.biz
 0.0.0.0 www.otnt.biz
 0.0.0.0 www.outlookmedia.biz
 0.0.0.0 www.paypalmoney.biz
@@ -3709,6 +3715,7 @@
 0.0.0.0 olx.pl-konto.cc
 0.0.0.0 www.olx.pl-konto.cc
 0.0.0.0 piwik.probefahrten.cc
+0.0.0.0 www.stores.smobyttl.cc
 0.0.0.0 www.spaceforyou.cc
 0.0.0.0 feed.uu.cc
 0.0.0.0 g.uu.cc
@@ -4628,6 +4635,7 @@
 0.0.0.0 damselsinperil.club
 0.0.0.0 decider.club
 0.0.0.0 deit.club
+0.0.0.0 deliverysecure.club
 0.0.0.0 diduknow.club
 0.0.0.0 domainsystemname.club
 0.0.0.0 doopcrib.club
@@ -4777,6 +4785,7 @@
 0.0.0.0 www.cuentas-netflix.club
 0.0.0.0 www.damselsinperil.club
 0.0.0.0 www.decider.club
+0.0.0.0 www.deliverysecure.club
 0.0.0.0 www.diduknow.club
 0.0.0.0 www.doappletypeflash.club
 0.0.0.0 www.doopcrib.club
@@ -4784,6 +4793,7 @@
 0.0.0.0 www.olx.dostawa-pl.club
 0.0.0.0 www.elon-gift.club
 0.0.0.0 www.epicnetwork.club
+0.0.0.0 www.fnatic-lol.club
 0.0.0.0 www.fu3.club
 0.0.0.0 www.gbigira.club
 0.0.0.0 www.getappletypeflash.club
@@ -5388,6 +5398,7 @@
 0.0.0.0 08a14e37bb.com
 0.0.0.0 08b72e4833486d.com
 0.0.0.0 093qpeuqpmz6ebfa.com
+0.0.0.0 09cb25a307.com
 0.0.0.0 0a225c134735c.com
 0.0.0.0 0apple0.com
 0.0.0.0 0c9d45a04fff.com
@@ -5457,6 +5468,7 @@
 0.0.0.0 1bancanetbanamex-ingreso.com
 0.0.0.0 1bluemountain.com
 0.0.0.0 1c0910ee64.com
+0.0.0.0 1d0d0d7a2ee.com
 0.0.0.0 1d5fce9c23.com
 0.0.0.0 1dropboxx.com
 0.0.0.0 1f10898ba83eab.com
@@ -12355,6 +12367,7 @@
 0.0.0.0 georgesboghossian.com
 0.0.0.0 georgescupholsterysuppliesinc.com
 0.0.0.0 geotwittermarketing.com
+0.0.0.0 geoxpolska.com
 0.0.0.0 gerardrnccabe-au.com
 0.0.0.0 geravlis17.com
 0.0.0.0 geravlis19.com
@@ -13317,6 +13330,7 @@
 0.0.0.0 homes-idcom-acount.com
 0.0.0.0 homesviewers560.com
 0.0.0.0 homvangountre.com
+0.0.0.0 homzbasix.com
 0.0.0.0 honarkhabar.com
 0.0.0.0 hongbaby300k.com
 0.0.0.0 hongdengqu123.com
@@ -30359,6 +30373,7 @@
 0.0.0.0 www.etracking-ppocztapolska.com
 0.0.0.0 www.etrnsf-smsdeposit-sej1e3.com
 0.0.0.0 track.msadcenter.etvz.com
+0.0.0.0 www.findout.eu.com
 0.0.0.0 www.eu-recouvrement.com
 0.0.0.0 reporting.eu-survey.com
 0.0.0.0 www.eu-survey.com
@@ -31386,6 +31401,7 @@
 0.0.0.0 www.georgedoit.com
 0.0.0.0 www.georgescupholsterysuppliesinc.com
 0.0.0.0 www.geotwittermarketing.com
+0.0.0.0 www.geoxpolska.com
 0.0.0.0 www.gerardosordo.com
 0.0.0.0 www.gerdeswholesalenursery.com
 0.0.0.0 ads.germanfriendfinder.com
@@ -32163,6 +32179,7 @@
 0.0.0.0 www.total.homeunix.com
 0.0.0.0 institutobrf.dev.homolog-vorttex.com
 0.0.0.0 www.homvangountre.com
+0.0.0.0 www.homzbasix.com
 0.0.0.0 update.suntrust.company.honeybadgersmarketing.com
 0.0.0.0 www.honeyoney.com
 0.0.0.0 www.hoodyandtshirt.com
@@ -35835,6 +35852,7 @@
 0.0.0.0 www.nexicartasibank.com
 0.0.0.0 js.next-channel.com
 0.0.0.0 adq.nextag.com
+0.0.0.0 www.eu.nextah.com
 0.0.0.0 www.nextgearup.com
 0.0.0.0 cdn5.nextinpact.com
 0.0.0.0 poum.nextinpact.com
@@ -45815,6 +45833,7 @@
 0.0.0.0 support2.p-traceable.ga
 0.0.0.0 www.p-traceable.ga
 0.0.0.0 www.support2.p-traceable.ga
+0.0.0.0 www.olx-pl.payment-banks.ga
 0.0.0.0 www.pradee.ga
 0.0.0.0 www.recovery-safety.ga
 0.0.0.0 www.rtnhlke.ga
@@ -46676,10 +46695,16 @@
 0.0.0.0 www.performquickintenselyfile.icu
 0.0.0.0 inpost.pl-cash.icu
 0.0.0.0 www.inpost.pl-cash.icu
+0.0.0.0 olx.pl-getdeliveries.icu
+0.0.0.0 www.olx.pl-getdeliveries.icu
 0.0.0.0 inpost.pl-safe.icu
 0.0.0.0 olx.pl-safe.icu
 0.0.0.0 www.inpost.pl-safe.icu
 0.0.0.0 www.olx.pl-safe.icu
+0.0.0.0 olx.pl-safepayments.icu
+0.0.0.0 poczta.pl-safepayments.icu
+0.0.0.0 www.olx.pl-safepayments.icu
+0.0.0.0 www.poczta.pl-safepayments.icu
 0.0.0.0 hederahashgraph.publictoken.icu
 0.0.0.0 www.publictoken.icu
 0.0.0.0 www.hederahashgraph.publictoken.icu
@@ -47859,6 +47884,7 @@
 0.0.0.0 www.osca.org.in
 0.0.0.0 www.panditsinbangalore.in
 0.0.0.0 interace-transfer.panku.in
+0.0.0.0 www.parikhinfosolutions.in
 0.0.0.0 watchnow.pashuber.in
 0.0.0.0 www.pinkcollars.in
 0.0.0.0 ns1.piutfzoc.in
@@ -48827,6 +48853,7 @@
 0.0.0.0 openload.info
 0.0.0.0 oqgpfdkl8c3s5mawfhghnr0bw-users-netflix.info
 0.0.0.0 oranla.info
+0.0.0.0 order-safe.info
 0.0.0.0 originalhack.info
 0.0.0.0 outlookbackup.info
 0.0.0.0 outlookentrar.info
@@ -48957,6 +48984,7 @@
 0.0.0.0 sectoralbase.info
 0.0.0.0 secur3eaccount-shopsigninapp.info
 0.0.0.0 secure-control.info
+0.0.0.0 secure-order.info
 0.0.0.0 secure1-store-apple.info
 0.0.0.0 secureappleidaccounts.info
 0.0.0.0 securefile.info
@@ -49822,6 +49850,7 @@
 0.0.0.0 www.onthespotmedia.info
 0.0.0.0 ad.opinionatedgamers.info
 0.0.0.0 appleid.apple.com.order-detail.info
+0.0.0.0 www.order-safe.info
 0.0.0.0 www.outlookbackup.info
 0.0.0.0 www.outlookentrar.info
 0.0.0.0 www.outlooklive.info
@@ -50165,6 +50194,7 @@
 0.0.0.0 norton-antivirus-trial.searchservice.info
 0.0.0.0 notebook-memory.searchservice.info
 0.0.0.0 appleeid-webs.secure-cloud-online.info
+0.0.0.0 www.secure-order.info
 0.0.0.0 www.secure1-store-apple.info
 0.0.0.0 www.secureappleidaccounts.info
 0.0.0.0 galleries.securesoft.info
@@ -51280,6 +51310,7 @@
 0.0.0.0 www.helloyour-prizes1.life
 0.0.0.0 www.herebeztrevenues2.life
 0.0.0.0 www.highprofit-foryou.life
+0.0.0.0 www.inpost.life
 0.0.0.0 www.internal-powerenhance.life
 0.0.0.0 www.itunesdownload.life
 0.0.0.0 www.kurier-naleznosc.life
@@ -51965,11 +51996,14 @@
 0.0.0.0 www.olx-pl.pay-id74553.me
 0.0.0.0 www.olx-pl.pay3d.me
 0.0.0.0 www.payments-allegro.me
+0.0.0.0 www.olx.pl-id64781.me
 0.0.0.0 olx.pl-log.me
 0.0.0.0 www.olx.pl-log.me
 0.0.0.0 olx.pl-logowanie.me
 0.0.0.0 www.olx.pl-logowanie.me
 0.0.0.0 www.plsprayfor.me
+0.0.0.0 olx.poland-ofer.me
+0.0.0.0 www.olx.poland-ofer.me
 0.0.0.0 ads.poptarts.me
 0.0.0.0 www.qvak.me
 0.0.0.0 www.delivery.olx.pl.receivement.me
@@ -58383,6 +58417,7 @@
 0.0.0.0 netflixx21.online
 0.0.0.0 netnetflixbr.online
 0.0.0.0 nextpayment.online
+0.0.0.0 nieuciekaj.online
 0.0.0.0 niezabardzowiadomo.online
 0.0.0.0 nisbisnis.online
 0.0.0.0 notice-redirect.online
@@ -58401,6 +58436,7 @@
 0.0.0.0 pierre-ecohealth.online
 0.0.0.0 pl-netflix.online
 0.0.0.0 platnosc-paczkomat.online
+0.0.0.0 plynzpradem.online
 0.0.0.0 pokecoinsgo.online
 0.0.0.0 policy-renew-fb-mobile.online
 0.0.0.0 pomoc-o2.online
@@ -58620,6 +58656,7 @@
 0.0.0.0 www.netflixsolition.online
 0.0.0.0 www.netflixx21.online
 0.0.0.0 www.netnetflixbr.online
+0.0.0.0 www.nieuciekaj.online
 0.0.0.0 www.niezabardzowiadomo.online
 0.0.0.0 www.nova-netflix.online
 0.0.0.0 scotiabank.com-ip.novascottiaservices.online
@@ -58642,6 +58679,7 @@
 0.0.0.0 www.pl-netflix.online
 0.0.0.0 www.platnosc-paczkomat.online
 0.0.0.0 www.plolx-oplata.online
+0.0.0.0 www.plynzpradem.online
 0.0.0.0 www.poczta-email.online
 0.0.0.0 www.pomoc-o2.online
 0.0.0.0 www.pomoc-regulamin.online
@@ -59063,6 +59101,7 @@
 0.0.0.0 flycash.org
 0.0.0.0 folkview.org
 0.0.0.0 fotografiaebellezza.org
+0.0.0.0 fraternitykerala.org
 0.0.0.0 free-clubpenguin.org
 0.0.0.0 free-minecraftaccount.org
 0.0.0.0 free-psncodes.org
@@ -60102,6 +60141,7 @@
 0.0.0.0 www.firstcitizens-org.org
 0.0.0.0 www.fiscameroon.org
 0.0.0.0 www.folkview.org
+0.0.0.0 www.fraternitykerala.org
 0.0.0.0 www.free-hardcoresex.org
 0.0.0.0 www.frrfrjf.org
 0.0.0.0 contentd.fundsforngos.org
@@ -61070,6 +61110,7 @@
 0.0.0.0 filmy-premium.pl
 0.0.0.0 finansedladziecka.pl
 0.0.0.0 flowerfiesta.pl
+0.0.0.0 foodcon.pl
 0.0.0.0 foto2.pl
 0.0.0.0 freestuf.pl
 0.0.0.0 freetapety.pl
@@ -61713,6 +61754,8 @@
 0.0.0.0 www.kobietazaszczepiona.co.pl
 0.0.0.0 login.planosci-ntf.kosminskam.co.pl
 0.0.0.0 www.login.planosci-ntf.kosminskam.co.pl
+0.0.0.0 platnosc-zawieszana.myszka78.co.pl
+0.0.0.0 www.platnosc-zawieszana.myszka78.co.pl
 0.0.0.0 www.pelnizycialudzie.co.pl
 0.0.0.0 www.szczepienieprzeciwcovid.co.pl
 0.0.0.0 www.hd.videos.co.pl
@@ -61899,6 +61942,7 @@
 0.0.0.0 www.finansedladziecka.pl
 0.0.0.0 www.fireads.pl
 0.0.0.0 www.flowerfiesta.pl
+0.0.0.0 www.foodcon.pl
 0.0.0.0 www.forestarii.pl
 0.0.0.0 www.foto2.pl
 0.0.0.0 boots.fotopyra.pl
@@ -67722,6 +67766,10 @@
 0.0.0.0 www.paypal-signin.site
 0.0.0.0 www.paypalgroup.site
 0.0.0.0 www.paypalservizio.site
+0.0.0.0 olx.pl-1614874633.site
+0.0.0.0 www.olx.pl-1614874633.site
+0.0.0.0 olx.pl-1614874634.site
+0.0.0.0 www.olx.pl-1614874634.site
 0.0.0.0 olx.pl-id143592.site
 0.0.0.0 www.olx.pl-id143592.site
 0.0.0.0 www.olx.pl-id152349.site
@@ -67750,8 +67798,11 @@
 0.0.0.0 www.olx.pl-id942382.site
 0.0.0.0 www.olx.pl-id994584.site
 0.0.0.0 www.olx.pl-wyplata.site
+0.0.0.0 www.olx.pl-zaplata.site
 0.0.0.0 www.poczta-email.site
 0.0.0.0 www.pokemongosafari.site
+0.0.0.0 olx.polska-oferda.site
+0.0.0.0 www.olx.polska-oferda.site
 0.0.0.0 www.postbox-24.site
 0.0.0.0 updateauto.preparevideosafesystem4unow.site
 0.0.0.0 www.preregistrazionesicurezza-unicreditgruppo.site
@@ -68457,6 +68508,10 @@
 0.0.0.0 www.paypallimited.support
 0.0.0.0 www.paypalpay.support
 0.0.0.0 www.vodafoneziggo.support
+0.0.0.0 olx.pl-safepayments.surf
+0.0.0.0 poczta.pl-safepayments.surf
+0.0.0.0 www.olx.pl-safepayments.surf
+0.0.0.0 www.poczta.pl-safepayments.surf
 0.0.0.0 olx.pl-zakupy.surf
 0.0.0.0 www.olx.pl-zakupy.surf
 0.0.0.0 www.upgradecheck12.thebestwaystofindreliablesoftwares.surf
@@ -70892,6 +70947,7 @@
 0.0.0.0 inpost24.uno
 0.0.0.0 ogloszenie-kupteraz-915172.uno
 0.0.0.0 poczta24.uno
+0.0.0.0 www.ilink.uno
 0.0.0.0 www.inpost24.uno
 0.0.0.0 www.ogloszenie-kupteraz-915172.uno
 0.0.0.0 www.poczta24.uno
@@ -72888,6 +72944,10 @@
 0.0.0.0 www.olx.pl.paysend.work
 0.0.0.0 inpost.pl-getpay.work
 0.0.0.0 www.inpost.pl-getpay.work
+0.0.0.0 olx.pl-safepayments.work
+0.0.0.0 poczta.pl-safepayments.work
+0.0.0.0 www.olx.pl-safepayments.work
+0.0.0.0 www.poczta.pl-safepayments.work
 0.0.0.0 www.virtualbox.work
 0.0.0.0 loxodo-analytics.ext.nile.works
 0.0.0.0 apple-gift.world
@@ -73144,6 +73204,8 @@
 0.0.0.0 gamtrot.xyz
 0.0.0.0 gantiementspro.xyz
 0.0.0.0 gapjeasns.xyz
+0.0.0.0 gazetalubelska.xyz
+0.0.0.0 gazetawielkopolska.xyz
 0.0.0.0 getitgoing.xyz
 0.0.0.0 getwerts.xyz
 0.0.0.0 gimak.xyz
@@ -73629,6 +73691,8 @@
 0.0.0.0 orange.fr-votre-opinion.xyz
 0.0.0.0 orange.fr-votreopinion.xyz
 0.0.0.0 www.freefiregarena.xyz
+0.0.0.0 www.gazetalubelska.xyz
+0.0.0.0 www.gazetawielkopolska.xyz
 0.0.0.0 www.dac.gen.xyz
 0.0.0.0 www.genyconsumerbehaviour.xyz
 0.0.0.0 www.gimak.xyz
