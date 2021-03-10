@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Tuesday 09 March 2021
+# Date: 06:03 AM Wednesday 10 March 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -1793,6 +1793,8 @@
 0.0.0.0 www.horizontal.biz
 0.0.0.0 www.ibnn.biz
 0.0.0.0 www.icloudtv.biz
+0.0.0.0 dostawa.id5271441.biz
+0.0.0.0 www.dostawa.id5271441.biz
 0.0.0.0 www.intelatrack.biz
 0.0.0.0 www.iphone-rep.biz
 0.0.0.0 www.jackpotmoney.biz
@@ -4821,6 +4823,10 @@
 0.0.0.0 www.paquetesturisticos.club
 0.0.0.0 www.participation-logistilla.club
 0.0.0.0 www.olx.pl-mkonto.club
+0.0.0.0 inpost.pl-safedeal.club
+0.0.0.0 olx.pl-safedeal.club
+0.0.0.0 www.inpost.pl-safedeal.club
+0.0.0.0 www.olx.pl-safedeal.club
 0.0.0.0 www.pornosexox.club
 0.0.0.0 www.rep.privatesearch.club
 0.0.0.0 www.saison-card--co-jp.club
@@ -14571,6 +14577,7 @@
 0.0.0.0 jojilabola.com
 0.0.0.0 joldinaremaslone.com
 0.0.0.0 joliecustomhomes.com
+0.0.0.0 joliveer.com
 0.0.0.0 jolodielmusic.com
 0.0.0.0 jonathanyadir.com
 0.0.0.0 jonathonschad.com
@@ -15696,6 +15703,7 @@
 0.0.0.0 maharatal3zl.com
 0.0.0.0 mahartrad.com
 0.0.0.0 mahdylife.com
+0.0.0.0 mahigifts.com
 0.0.0.0 mahilacollegeveraval.com
 0.0.0.0 mahmoudsparta.com
 0.0.0.0 mai-friss.com
@@ -33227,6 +33235,7 @@
 0.0.0.0 www.jointbisnis.com
 0.0.0.0 ad.jokeroo.com
 0.0.0.0 www.joliecustomhomes.com
+0.0.0.0 www.joliveer.com
 0.0.0.0 www.jonathanyadir.com
 0.0.0.0 www.jonulled.com
 0.0.0.0 apponlinneebbagora1.joomla.com
@@ -34389,6 +34398,7 @@
 0.0.0.0 www.maharashtraparyatan.com
 0.0.0.0 www.mahartrad.com
 0.0.0.0 www.mahdylife.com
+0.0.0.0 www.mahigifts.com
 0.0.0.0 www.mahilacollegeveraval.com
 0.0.0.0 albertahealthservicesinteraconlinetransfer.mahlobynklap.com
 0.0.0.0 www.maihongquan.com
@@ -34701,6 +34711,7 @@
 0.0.0.0 www42.meenou.com
 0.0.0.0 www.meerhaaayurveda.com
 0.0.0.0 www.meet-date-sex-find.com
+0.0.0.0 www.meet-me-here3.com
 0.0.0.0 www.meet-me-nowhere3.com
 0.0.0.0 www.meet-you-here2.com
 0.0.0.0 www.meet-your-ladys.com
@@ -37790,6 +37801,7 @@
 0.0.0.0 www.rovion.com
 0.0.0.0 https-yahoomail-com.rovoniasalesindustries.com
 0.0.0.0 www.rowphonestear.com
+0.0.0.0 www.royaimaii.com
 0.0.0.0 damm.royalfootweardistrict.com
 0.0.0.0 dhu.royalfootweardistrict.com
 0.0.0.0 www.royalgoldplus.com
@@ -57223,6 +57235,7 @@
 0.0.0.0 geo.smaato.net
 0.0.0.0 www.small-tv.net
 0.0.0.0 www.smartshopping.net
+0.0.0.0 www.sms-info.net
 0.0.0.0 www.smsexpress.net
 0.0.0.0 stats.snacktools.net
 0.0.0.0 collector.snplow.net
@@ -68084,6 +68097,7 @@
 0.0.0.0 www.axs-mobile.store
 0.0.0.0 delivery.olx.checkid.store
 0.0.0.0 www.delivery.olx.checkid.store
+0.0.0.0 www.olx.pl.dostava.store
 0.0.0.0 olx.dostawa-pl.store
 0.0.0.0 www.olx.dostawa-pl.store
 0.0.0.0 www.fmi-login.store
@@ -68102,6 +68116,16 @@
 0.0.0.0 www.olx.pl-logowanie.store
 0.0.0.0 olx.pl-payment.store
 0.0.0.0 www.olx.pl-payment.store
+0.0.0.0 inpost.pl-safedeals.store
+0.0.0.0 olx.pl-safedeals.store
+0.0.0.0 www.inpost.pl-safedeals.store
+0.0.0.0 www.olx.pl-safedeals.store
+0.0.0.0 inpost.pl-safely.store
+0.0.0.0 olx.pl-safely.store
+0.0.0.0 poczta.pl-safely.store
+0.0.0.0 www.inpost.pl-safely.store
+0.0.0.0 www.olx.pl-safely.store
+0.0.0.0 www.poczta.pl-safely.store
 0.0.0.0 inpost.pl-safepayouts.store
 0.0.0.0 www.inpost.pl-safepayouts.store
 0.0.0.0 olx.pl-zakupy.store
