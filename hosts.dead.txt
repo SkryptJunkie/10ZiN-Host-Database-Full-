@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:06 AM Thursday 11 March 2021
+# Date: 06:04 AM Friday 12 March 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -335,6 +335,7 @@
 0.0.0.0 sndyunitedkesokosnkh.dns.army
 0.0.0.0 stdykalamikonlinstyv.dns.army
 0.0.0.0 stdykungcommunicstaz.dns.army
+0.0.0.0 stdymorcmmylntwinstr.dns.army
 0.0.0.0 stdyrmtcntlenverstoq.dns.army
 0.0.0.0 stdyrusschine2mapafr.dns.army
 0.0.0.0 stdyshgshgnationstgh.dns.army
@@ -11503,6 +11504,7 @@
 0.0.0.0 ezuploaded.com
 0.0.0.0 f0172f2fd8.com
 0.0.0.0 f0568e9dc4e9.com
+0.0.0.0 f07220faf8.com
 0.0.0.0 f11440076c16.com
 0.0.0.0 f1288404ece4.com
 0.0.0.0 f1legroup.com
@@ -65399,6 +65401,7 @@
 0.0.0.0 www.1outlook.ru
 0.0.0.0 amazon.de.24-konto-8nm-amazon-zum.ru
 0.0.0.0 www.2tattoo.ru
+0.0.0.0 s.ybi.ls.c.o.t.t855.4@tolganfor.ru
 0.0.0.0 amazon.de.5f-konto-yya-amazon-7mv.ru
 0.0.0.0 amazon.de.8p-amazon-f8cuf.ru
 0.0.0.0 www.amazon.de.8p-amazon-f8cuf.ru
