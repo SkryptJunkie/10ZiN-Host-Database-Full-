@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:04 AM Friday 12 March 2021
+# Date: 06:02 AM Saturday 13 March 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -685,6 +685,7 @@
 0.0.0.0 www.308carlislestreet.com.au
 0.0.0.0 nab.com.au-66c28750.national-australia-bank-179602f4.3inatree.com.au
 0.0.0.0 www.nab.com.au-66c28750.national-australia-bank-179602f4.3inatree.com.au
+0.0.0.0 s.jd.u.eh.yds.g.524.87.59.68.4@hellogorgeous.com.au
 0.0.0.0 connect.secure.wellsfargo.com.aaru486.com.au
 0.0.0.0 www.aboriginalbluemountains.com.au
 0.0.0.0 www.abrazi.com.au
