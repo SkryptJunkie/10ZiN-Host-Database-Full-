@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Sunday 14 March 2021
+# Date: 06:03 AM Monday 15 March 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -346,6 +346,7 @@
 0.0.0.0 theviestdyjupcafgmcn.dns.army
 0.0.0.0 theviewsdyjupcazwsgv.dns.army
 0.0.0.0 topreonesdyenvertope.dns.army
+0.0.0.0 toprethreestdymovstc.dns.army
 0.0.0.0 topretwostdyanimakas.dns.army
 0.0.0.0 tsdymjventsluzcafeyz.dns.army
 0.0.0.0 unitedwsdykesokowsgs.dns.army
@@ -45930,6 +45931,7 @@
 0.0.0.0 intotheyellowwood.fun
 0.0.0.0 millensbank.fun
 0.0.0.0 mordi.fun
+0.0.0.0 parotsan.fun
 0.0.0.0 sigfowgern.fun
 0.0.0.0 snaphell.fun
 0.0.0.0 ticketbonus.fun
@@ -68266,6 +68268,7 @@
 0.0.0.0 tmwijt.site
 0.0.0.0 tngsxr.site
 0.0.0.0 tnnrso.site
+0.0.0.0 tomykospa.site
 0.0.0.0 top-application-web-online.site
 0.0.0.0 tovqxq.site
 0.0.0.0 tpcrcj.site
@@ -70222,6 +70225,7 @@
 0.0.0.0 z3nl.top
 0.0.0.0 zaandam.top
 0.0.0.0 zikdrop.top
+0.0.0.0 yeq.i.u.j.ia.n.3@yual.top
 0.0.0.0 free-movies.3xp4e3kno6.top
 0.0.0.0 www.3xp4e3kno6.top
 0.0.0.0 www.918service.top
