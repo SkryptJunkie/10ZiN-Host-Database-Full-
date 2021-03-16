@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:03 AM Monday 15 March 2021
+# Date: 06:02 AM Tuesday 16 March 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -32284,6 +32284,7 @@
 0.0.0.0 portal.guiaparelheiros.com
 0.0.0.0 www.portal.guiaparelheiros.com
 0.0.0.0 blog.guiket.com
+0.0.0.0 samba.guineegalaise.com
 0.0.0.0 www.guise9.com
 0.0.0.0 www.gujaratfurnitureassociation.com
 0.0.0.0 wo.gumgum.com
@@ -35316,6 +35317,8 @@
 0.0.0.0 www.midtier-help-midtier.com
 0.0.0.0 www.migliorigadget.com
 0.0.0.0 www.mihallaqandrea.com
+0.0.0.0 01.mihanatours.com
+0.0.0.0 indh.mihanatours.com
 0.0.0.0 a.mijifen.com
 0.0.0.0 sso-secureserver.mikaelspreitz.com
 0.0.0.0 www.milangardeninn.com
