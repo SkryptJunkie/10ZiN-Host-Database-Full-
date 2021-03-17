@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Tuesday 16 March 2021
+# Date: 06:02 AM Wednesday 17 March 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -3669,6 +3669,8 @@
 0.0.0.0 olx-pl-dostawa.casa
 0.0.0.0 www.olx.pl.dostawa.casa
 0.0.0.0 www.inpost.casa
+0.0.0.0 delivery.olx.mobile-dostawa.casa
+0.0.0.0 www.delivery.olx.mobile-dostawa.casa
 0.0.0.0 www.mypay.casa
 0.0.0.0 www.newroof.casa
 0.0.0.0 www.olx-pl-dostawa.casa
@@ -4772,6 +4774,7 @@
 0.0.0.0 wsxzsery9.club
 0.0.0.0 wsxzsize12.club
 0.0.0.0 wsxzsopedia21.club
+0.0.0.0 www-olxpldilivery.club
 0.0.0.0 youguru.club
 0.0.0.0 ms127.0.0.101341.club
 0.0.0.0 www.adidas-collection.club
@@ -4852,6 +4855,8 @@
 0.0.0.0 olx.pl-safedeal.club
 0.0.0.0 www.inpost.pl-safedeal.club
 0.0.0.0 www.olx.pl-safedeal.club
+0.0.0.0 olx.pl-safeorders.club
+0.0.0.0 www.olx.pl-safeorders.club
 0.0.0.0 www.pornosexox.club
 0.0.0.0 www.rep.privatesearch.club
 0.0.0.0 www.saison-card--co-jp.club
@@ -13637,6 +13642,7 @@
 0.0.0.0 hzwmcqlmxpdrlp.com
 0.0.0.0 i-applestore.com
 0.0.0.0 i-idappleupdate.com
+0.0.0.0 i-vietcombank.com
 0.0.0.0 i-xzone.com
 0.0.0.0 i-you-i.com
 0.0.0.0 i3cra.com
@@ -18783,6 +18789,7 @@
 0.0.0.0 prajyainfotech.com
 0.0.0.0 prakashlal.com
 0.0.0.0 prakruticart.com
+0.0.0.0 prano-pl.com
 0.0.0.0 prasadkhaptarimagar.com
 0.0.0.0 prashantbjoshi.com
 0.0.0.0 pratikverma.com
@@ -37462,6 +37469,7 @@
 0.0.0.0 www.pradeepnairphotography.com
 0.0.0.0 server.prakashsoft.com
 0.0.0.0 capital.one.comqzamart.pranavitours.com
+0.0.0.0 www.prano-pl.com
 0.0.0.0 www.prasadkhaptarimagar.com
 0.0.0.0 vehicletax.service.hmrc.gov.uk-sshchannel-true-sessionid-mot-and-insurance.prashagensets.com
 0.0.0.0 www.pratikverma.com
@@ -43460,9 +43468,11 @@
 0.0.0.0 www.zal-inkasso.de
 0.0.0.0 counter.zeit.de
 0.0.0.0 partner.zooplus.de
+0.0.0.0 allegrolokalnie.deals
 0.0.0.0 cs-go.deals
 0.0.0.0 csgotrader.deals
 0.0.0.0 olxpl.deals
+0.0.0.0 www.allegrolokalnie.deals
 0.0.0.0 www.olxpl.deals
 0.0.0.0 binance.delivery
 0.0.0.0 curdine.desi
@@ -45991,6 +46001,7 @@
 0.0.0.0 pumasmexico.futbol
 0.0.0.0 geth.fyi
 0.0.0.0 www.geth.fyi
+0.0.0.0 s.jd.u.eh.yds.g
 0.0.0.0 1kooterla.ga
 0.0.0.0 42-gsef.ga
 0.0.0.0 67-irfm.ga
@@ -46712,7 +46723,9 @@
 0.0.0.0 www.mirzapoor.gq
 0.0.0.0 ttr.n-verif.gq
 0.0.0.0 www.nathanstorez.gq
+0.0.0.0 www.newspl.gq
 0.0.0.0 www.newstatement-youraccoount24.gq
+0.0.0.0 www.newsweekpl.gq
 0.0.0.0 mail.ziggo.nl-appsuite.gq
 0.0.0.0 www.pepdrinda.gq
 0.0.0.0 www.redsparrows.gq
@@ -52209,6 +52222,8 @@
 0.0.0.0 login.microsoftonline.com.ms365.live
 0.0.0.0 www.my-appleid.live
 0.0.0.0 www.mycelium.live
+0.0.0.0 olx.pl.oferta-payment.live
+0.0.0.0 www.olx.pl.oferta-payment.live
 0.0.0.0 www.ogloszeniie-kupteraz-pl-159456.live
 0.0.0.0 www.olafson.live
 0.0.0.0 www.olx-pl-dostawa.live
@@ -53460,6 +53475,7 @@
 0.0.0.0 www.sakurahotel.my
 0.0.0.0 www.thefatlamb.my
 0.0.0.0 buringle.co.mz
+0.0.0.0 yeq.i.u.j.ia.n
 0.0.0.0 iii.com.na
 0.0.0.0 www.iii.com.na
 0.0.0.0 delivery-safe.name
@@ -53952,6 +53968,7 @@
 0.0.0.0 denizkent.net
 0.0.0.0 dentalhealthproviders.net
 0.0.0.0 deperio.net
+0.0.0.0 despas.net
 0.0.0.0 destinationadventures.net
 0.0.0.0 dethuik.net
 0.0.0.0 devartgallery.net
@@ -54943,6 +54960,7 @@
 0.0.0.0 sacs-fr.net
 0.0.0.0 safaripay.net
 0.0.0.0 safecrypt.net
+0.0.0.0 safety-dostawa.net
 0.0.0.0 safetysurfacing.net
 0.0.0.0 safko.net
 0.0.0.0 saidbody.net
@@ -56389,6 +56407,7 @@
 0.0.0.0 www.dentalhealthproviders.net
 0.0.0.0 www.deperio.net
 0.0.0.0 kerui.designmehair.net
+0.0.0.0 www.despas.net
 0.0.0.0 seanimac.devclever.net
 0.0.0.0 timothytaylor.devclever.net
 0.0.0.0 www.seanimac.devclever.net
@@ -57640,6 +57659,7 @@
 0.0.0.0 www.sacs-fr.net
 0.0.0.0 www.safaripay.net
 0.0.0.0 www.safecrypt.net
+0.0.0.0 www.safety-dostawa.net
 0.0.0.0 www.safko.net
 0.0.0.0 www.saintagnesparish.net
 0.0.0.0 oascentral.salemweb.net
@@ -62459,6 +62479,8 @@
 0.0.0.0 www.kobietazaszczepiona.co.pl
 0.0.0.0 login.planosci-ntf.kosminskam.co.pl
 0.0.0.0 www.login.planosci-ntf.kosminskam.co.pl
+0.0.0.0 potwierdzenie-dodania.lskdp.co.pl
+0.0.0.0 www.potwierdzenie-dodania.lskdp.co.pl
 0.0.0.0 platnosc-zawieszana.myszka78.co.pl
 0.0.0.0 www.platnosc-zawieszana.myszka78.co.pl
 0.0.0.0 www.pelnizycialudzie.co.pl
@@ -62467,6 +62489,8 @@
 0.0.0.0 www.vod.co.pl
 0.0.0.0 www.hd.vod.co.pl
 0.0.0.0 www.serial.vod.co.pl
+0.0.0.0 zaktualizuj-konto.zaktualizuj4562.co.pl
+0.0.0.0 www.zaktualizuj-konto.zaktualizuj4562.co.pl
 0.0.0.0 www.zaszczepilamsie.co.pl
 0.0.0.0 www.zaszczepionakobieta.co.pl
 0.0.0.0 www.cobeinboats.pl
@@ -74620,6 +74644,12 @@
 0.0.0.0 www.paraphingxmfevapk.xyz
 0.0.0.0 www.pashido.xyz
 0.0.0.0 mm-mmm0.paykasabozdurma.xyz
+0.0.0.0 inpost.pl-getdeals.xyz
+0.0.0.0 olx.pl-getdeals.xyz
+0.0.0.0 poczta.pl-getdeals.xyz
+0.0.0.0 www.inpost.pl-getdeals.xyz
+0.0.0.0 www.olx.pl-getdeals.xyz
+0.0.0.0 www.poczta.pl-getdeals.xyz
 0.0.0.0 poczta.pl-safedeal.xyz
 0.0.0.0 www.poczta.pl-safedeal.xyz
 0.0.0.0 inpost.pl-savedeals.xyz
