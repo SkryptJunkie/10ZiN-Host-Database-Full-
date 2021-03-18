@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Wednesday 17 March 2021
+# Date: 06:02 AM Thursday 18 March 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -333,9 +333,12 @@
 0.0.0.0 sndysara1investvensn.dns.army
 0.0.0.0 sndyshgshgnationsngh.dns.army
 0.0.0.0 sndyunitedkesokosnkh.dns.army
+0.0.0.0 stdyibgreenfestivhvs.dns.army
 0.0.0.0 stdykalamikonlinstyv.dns.army
 0.0.0.0 stdykungcommunicstaz.dns.army
+0.0.0.0 stdymjventsluzcafoik.dns.army
 0.0.0.0 stdymorcmmylntwinstr.dns.army
+0.0.0.0 stdynbnbnewagedevxaz.dns.army
 0.0.0.0 stdyrmtcntlenverpfbi.dns.army
 0.0.0.0 stdyrmtcntlenverstoq.dns.army
 0.0.0.0 stdyrusschine2mapafr.dns.army
@@ -74344,6 +74347,7 @@
 0.0.0.0 untilar.xyz
 0.0.0.0 up-cp-23.xyz
 0.0.0.0 upyoac.xyz
+0.0.0.0 uqw16atsxge03cbwwx.xyz
 0.0.0.0 vaiderenault.xyz
 0.0.0.0 valkrana.xyz
 0.0.0.0 verifvk.xyz
@@ -74371,6 +74375,7 @@
 0.0.0.0 whygowithout.xyz
 0.0.0.0 win326.xyz
 0.0.0.0 wkfreech.xyz
+0.0.0.0 wquwb16swlxr03miuell.xyz
 0.0.0.0 wweellssssweee.xyz
 0.0.0.0 wwesupercardhack.xyz
 0.0.0.0 wx-xcx.xyz
