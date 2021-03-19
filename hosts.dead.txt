@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Thursday 18 March 2021
+# Date: 06:02 AM Friday 19 March 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -5522,6 +5522,7 @@
 0.0.0.0 154yildanhediyeler.com
 0.0.0.0 15976a3e57.com
 0.0.0.0 15cf13b2000029.com
+0.0.0.0 16ab95b4940.com
 0.0.0.0 173okwei.com
 0.0.0.0 177momo.com
 0.0.0.0 1800netflix.com
@@ -5536,6 +5537,7 @@
 0.0.0.0 1bancanetbanamex-ingreso.com
 0.0.0.0 1bluemountain.com
 0.0.0.0 1c0910ee64.com
+0.0.0.0 1cd01ebaa34d.com
 0.0.0.0 1d0d0d7a2ee.com
 0.0.0.0 1d5fce9c23.com
 0.0.0.0 1dropboxx.com
@@ -5640,6 +5642,7 @@
 0.0.0.0 3278dy.com
 0.0.0.0 332gm.com
 0.0.0.0 33d249c809e.com
+0.0.0.0 33f7414761d4.com
 0.0.0.0 33kkvv.com
 0.0.0.0 33lzmm.com
 0.0.0.0 3436580b830.com
@@ -10261,6 +10264,7 @@
 0.0.0.0 d2-roulette.com
 0.0.0.0 d25192919cb6d.com
 0.0.0.0 d2crazy.com
+0.0.0.0 d2e27d40f9.com
 0.0.0.0 d2hit.com
 0.0.0.0 d2sweet.com
 0.0.0.0 d3darkzone.com
@@ -10402,6 +10406,7 @@
 0.0.0.0 deals-ebay.com
 0.0.0.0 dealshakerkangdarto86.com
 0.0.0.0 deardrocher.com
+0.0.0.0 dec77d02f99.com
 0.0.0.0 dechoices.com
 0.0.0.0 decorarteargentina.com
 0.0.0.0 decvbnm.com
@@ -10907,6 +10912,7 @@
 0.0.0.0 e-ziraatbankonlineislemler.com
 0.0.0.0 e0663490cca0296f7.com
 0.0.0.0 e079cbbe23.com
+0.0.0.0 e17ed2d3a9df0.com
 0.0.0.0 e2bworld.com
 0.0.0.0 e331ff4e674c083.com
 0.0.0.0 e36ff49101.com
@@ -69902,6 +69908,7 @@
 0.0.0.0 paypal.kunden080aanmelden.tk
 0.0.0.0 www.maktabajamiatractorsandheavyequipments.tk
 0.0.0.0 www.monamiforsale.tk
+0.0.0.0 www.bausch.kr-atlas.monaxikoslykos@zytrox.tk
 0.0.0.0 www.onedrive-secure.tk
 0.0.0.0 storage.ourmail.tk
 0.0.0.0 www.outerdobancha.tk
