@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Saturday 20 March 2021
+# Date: 06:02 AM Sunday 21 March 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -341,6 +341,7 @@
 0.0.0.0 stdynbnbnewagedevxaz.dns.army
 0.0.0.0 stdyrmtcntlenverpfbi.dns.army
 0.0.0.0 stdyrmtcntlenverstoq.dns.army
+0.0.0.0 stdyrmtcntlfarmtrypo.dns.army
 0.0.0.0 stdyrusschine2mapafr.dns.army
 0.0.0.0 stdyshgshgnationstgh.dns.army
 0.0.0.0 stdyupbckfaruzevstkh.dns.army
@@ -5458,6 +5459,7 @@
 0.0.0.0 04273b4d0ffe.com
 0.0.0.0 04f89f867c5d.com
 0.0.0.0 061a1632d773-amazon.com
+0.0.0.0 066044ef36.com
 0.0.0.0 068943613eb.com
 0.0.0.0 06dd0894cce50c.com
 0.0.0.0 07567b5175d.com
@@ -5586,6 +5588,7 @@
 0.0.0.0 2219ca6fc1.com
 0.0.0.0 225396e831e8.com
 0.0.0.0 226cbae0e14.com
+0.0.0.0 229288b88bfba.com
 0.0.0.0 237482345sd.com
 0.0.0.0 247898edad.com
 0.0.0.0 247binaryreviews.com
@@ -5754,6 +5757,7 @@
 0.0.0.0 3ce166a7dda.com
 0.0.0.0 3cnce854.com
 0.0.0.0 3d5a4a45d559.com
+0.0.0.0 3d668b10b54e.com
 0.0.0.0 3de4e583083.com
 0.0.0.0 3dmoviehd.com
 0.0.0.0 3dmstudio.com
@@ -5935,6 +5939,7 @@
 0.0.0.0 736bdcef84.com
 0.0.0.0 7533788.com
 0.0.0.0 755431a59e7.com
+0.0.0.0 75573deb31d61e.com
 0.0.0.0 75764c9bb79.com
 0.0.0.0 75a91a1683.com
 0.0.0.0 7687d91e8ad8.com
@@ -11527,6 +11532,7 @@
 0.0.0.0 f11440076c16.com
 0.0.0.0 f1288404ece4.com
 0.0.0.0 f1legroup.com
+0.0.0.0 f2b44414ad5.com
 0.0.0.0 f2phacks.com
 0.0.0.0 f378d3c6a1d.com
 0.0.0.0 f4674af89e.com
@@ -73294,6 +73300,7 @@
 0.0.0.0 inhaus.uz
 0.0.0.0 xivashedu.uz
 0.0.0.0 www.inhaus.uz
+0.0.0.0 unrel.a.t.ed.o.j.b.v@
 0.0.0.0 mediafire.vc
 0.0.0.0 myetherwallet.com.vc
 0.0.0.0 www.electrum.vc
