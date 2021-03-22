@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Sunday 21 March 2021
+# Date: 06:03 AM Monday 22 March 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -4602,6 +4602,7 @@
 0.0.0.0 www.itunesapps.cloud
 0.0.0.0 www.my-apple-i.cloud
 0.0.0.0 www.nexi-it.cloud
+0.0.0.0 www.olx-pl.oferta-payment.cloud
 0.0.0.0 www.order-confirmation-appleid.cloud
 0.0.0.0 www.post-epay.cloud
 0.0.0.0 www.privacy-apple.cloud
@@ -4854,6 +4855,10 @@
 0.0.0.0 www.participation-logistilla.club
 0.0.0.0 inpost.pl-getdeal.club
 0.0.0.0 www.inpost.pl-getdeal.club
+0.0.0.0 inpost.pl-getordered.club
+0.0.0.0 olx.pl-getordered.club
+0.0.0.0 www.inpost.pl-getordered.club
+0.0.0.0 www.olx.pl-getordered.club
 0.0.0.0 www.olx.pl-mkonto.club
 0.0.0.0 inpost.pl-safedeal.club
 0.0.0.0 olx.pl-safedeal.club
@@ -4861,6 +4866,8 @@
 0.0.0.0 www.olx.pl-safedeal.club
 0.0.0.0 olx.pl-safeorders.club
 0.0.0.0 www.olx.pl-safeorders.club
+0.0.0.0 olx.pl-sprzedaz.club
+0.0.0.0 www.olx.pl-sprzedaz.club
 0.0.0.0 www.pornosexox.club
 0.0.0.0 www.rep.privatesearch.club
 0.0.0.0 www.saison-card--co-jp.club
@@ -9858,6 +9865,7 @@
 0.0.0.0 controlatudestino.com
 0.0.0.0 contructionportal.com
 0.0.0.0 conversationsaboutlifeanddeath.com
+0.0.0.0 conversebutypl.com
 0.0.0.0 conversion-tracker.com
 0.0.0.0 cookies-netflix.com
 0.0.0.0 cookingyourspanish.com
@@ -11539,6 +11547,7 @@
 0.0.0.0 f47cecd3f0a29874f.com
 0.0.0.0 f4948e5e370.com
 0.0.0.0 f5178aec06cc.com
+0.0.0.0 f5a7708fb1e03cc0dc51.com
 0.0.0.0 f6f41f98b4.com
 0.0.0.0 f774d56fd4d98.com
 0.0.0.0 f826fdf639.com
@@ -19785,6 +19794,7 @@
 0.0.0.0 roundtelevision.com
 0.0.0.0 routertechsupport247.com
 0.0.0.0 rovar-ebay.com
+0.0.0.0 rovars.com
 0.0.0.0 rowinglyzone.com
 0.0.0.0 rowphonestear.com
 0.0.0.0 roxcase.com
@@ -28806,6 +28816,7 @@
 0.0.0.0 www.cc-paypal.com
 0.0.0.0 www.cc0230.com
 0.0.0.0 www.ccboce.com
+0.0.0.0 blog.cciske.com
 0.0.0.0 www.ccragop.com
 0.0.0.0 www.ccshygg.com
 0.0.0.0 a.cctv.com
@@ -29437,6 +29448,7 @@
 0.0.0.0 www.contractorsofinstagram.com
 0.0.0.0 www.controlatudestino.com
 0.0.0.0 www.contructionportal.com
+0.0.0.0 www.conversebutypl.com
 0.0.0.0 www.conversion-tracker.com
 0.0.0.0 scripts.conversionattribution.com
 0.0.0.0 go.conversionmasters.com
@@ -35969,6 +35981,7 @@
 0.0.0.0 www.nadikepri.com
 0.0.0.0 thz.nadvpnu.com
 0.0.0.0 www.naeemtariq.com
+0.0.0.0 www.nagarsethji.com
 0.0.0.0 www.nagpurglobaltravels.com
 0.0.0.0 www.nahuallis.com
 0.0.0.0 facebook.naijacoolest.com
@@ -38267,6 +38280,7 @@
 0.0.0.0 ads.rottentomatoes.com
 0.0.0.0 adserv.roundrockmedia.com
 0.0.0.0 www.rovar-ebay.com
+0.0.0.0 www.rovars.com
 0.0.0.0 from.rovion.com
 0.0.0.0 manager.rovion.com
 0.0.0.0 www.rovion.com
@@ -59279,6 +59293,8 @@
 0.0.0.0 www.eth-airdrop.online
 0.0.0.0 www.ether-giveaway.online
 0.0.0.0 www.exoduswallet.online
+0.0.0.0 253.express-inpost.online
+0.0.0.0 www.253.express-inpost.online
 0.0.0.0 www.facebookinternational.online
 0.0.0.0 www.facebookwebcam.online
 0.0.0.0 www.orange.fr.facturation253134.online
@@ -59363,6 +59379,9 @@
 0.0.0.0 olx.pl-getpayment.online
 0.0.0.0 www.inpost.pl-getpayment.online
 0.0.0.0 www.olx.pl-getpayment.online
+0.0.0.0 olx.pl-id1615912803.online
+0.0.0.0 www.olx.pl-id1615912803.online
+0.0.0.0 www.olx.pl-id1616000302.online
 0.0.0.0 www.olx.pl-log.online
 0.0.0.0 www.pl-netflix.online
 0.0.0.0 www.platnosc-paczkomat.online
@@ -68546,6 +68565,7 @@
 0.0.0.0 olx.pl-id143592.site
 0.0.0.0 www.olx.pl-id143592.site
 0.0.0.0 www.olx.pl-id152349.site
+0.0.0.0 www.olx.pl-id1616242803.site
 0.0.0.0 www.olx.pl-id195879.site
 0.0.0.0 www.olx.pl-id284395.site
 0.0.0.0 www.olx.pl-id406992.site
@@ -68878,6 +68898,8 @@
 0.0.0.0 www.olx.pl-getmoney.store
 0.0.0.0 olx.pl-logowanie.store
 0.0.0.0 www.olx.pl-logowanie.store
+0.0.0.0 inpost.pl-ordered.store
+0.0.0.0 www.inpost.pl-ordered.store
 0.0.0.0 olx.pl-payment.store
 0.0.0.0 www.olx.pl-payment.store
 0.0.0.0 inpost.pl-safedeals.store
@@ -73300,6 +73322,7 @@
 0.0.0.0 inhaus.uz
 0.0.0.0 xivashedu.uz
 0.0.0.0 www.inhaus.uz
+0.0.0.0 unrel.a.t.ed.o.j.b.v
 0.0.0.0 unrel.a.t.ed.o.j.b.v@
 0.0.0.0 mediafire.vc
 0.0.0.0 myetherwallet.com.vc
@@ -74033,6 +74056,9 @@
 0.0.0.0 gamtrot.xyz
 0.0.0.0 gantiementspro.xyz
 0.0.0.0 gapjeasns.xyz
+0.0.0.0 gazeta-gdansk.xyz
+0.0.0.0 gazeta-sosnowlec.xyz
+0.0.0.0 gazeta-szczecin.xyz
 0.0.0.0 gazetalubelska.xyz
 0.0.0.0 gazetawielkopolska.xyz
 0.0.0.0 getitgoing.xyz
@@ -74208,6 +74234,7 @@
 0.0.0.0 ogloszenie156712.xyz
 0.0.0.0 oldvidz.xyz
 0.0.0.0 olx-pl-dostawa.xyz
+0.0.0.0 onet-pomocy.xyz
 0.0.0.0 online-32.xyz
 0.0.0.0 online-36.xyz
 0.0.0.0 online32.xyz
@@ -74522,6 +74549,9 @@
 0.0.0.0 orange.fr-votre-opinion.xyz
 0.0.0.0 orange.fr-votreopinion.xyz
 0.0.0.0 www.freefiregarena.xyz
+0.0.0.0 www.gazeta-gdansk.xyz
+0.0.0.0 www.gazeta-sosnowlec.xyz
+0.0.0.0 www.gazeta-szczecin.xyz
 0.0.0.0 www.gazetalubelska.xyz
 0.0.0.0 www.gazetawielkopolska.xyz
 0.0.0.0 www.dac.gen.xyz
@@ -74649,6 +74679,7 @@
 0.0.0.0 www.olx-pl-dostawa.xyz
 0.0.0.0 olx.olxoferts.xyz
 0.0.0.0 www.olx.olxoferts.xyz
+0.0.0.0 www.onet-pomocy.xyz
 0.0.0.0 www.onlinesign-chase.xyz
 0.0.0.0 www.onlinesprzedaz.xyz
 0.0.0.0 youtube.dwis.onomovie.xyz
