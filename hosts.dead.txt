@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:03 AM Monday 22 March 2021
+# Date: 06:03 AM Tuesday 23 March 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -15,6 +15,8 @@
 0.0.0.0 collector.xhamster*.*
 0.0.0.0 binary
 0.0.0.0 version="1.0"
+0.0.0.0 thefirmlawgrop.com.a
+0.0.0.0 winghamelectrical.com.a
 0.0.0.0 eos.ac
 0.0.0.0 js.cdn.ac
 0.0.0.0 scarlatinastudyo.forum.ac
@@ -2581,6 +2583,7 @@
 0.0.0.0 sertaoforteba.com.br
 0.0.0.0 servicossociaiscaixa.com.br
 0.0.0.0 sevenstreet.com.br
+0.0.0.0 shoppingdossegros.com.br
 0.0.0.0 sicredinorterssc.com.br
 0.0.0.0 silvergama.com.br
 0.0.0.0 simoneodontologia.com.br
@@ -4292,6 +4295,7 @@
 0.0.0.0 plazasport.cl
 0.0.0.0 pmpltda.cl
 0.0.0.0 popgraf.cl
+0.0.0.0 prospport.cl
 0.0.0.0 quirovem.cl
 0.0.0.0 radioadictiva.cl
 0.0.0.0 radiojireh.cl
@@ -5183,6 +5187,7 @@
 0.0.0.0 getsumpsi.co
 0.0.0.0 greatdealsuk.co
 0.0.0.0 grhh.co
+0.0.0.0 grpodelavega.co
 0.0.0.0 gta-5.co
 0.0.0.0 guarderiaparaperros.co
 0.0.0.0 healthtreatment.co
@@ -5476,7 +5481,9 @@
 0.0.0.0 093qpeuqpmz6ebfa.com
 0.0.0.0 09cb25a307.com
 0.0.0.0 0a225c134735c.com
+0.0.0.0 0a6efd24b565c.com
 0.0.0.0 0apple0.com
+0.0.0.0 0c12b89c3738.com
 0.0.0.0 0c9d45a04fff.com
 0.0.0.0 0ca0c1f060.com
 0.0.0.0 0d2c9f1f83e0.com
@@ -5628,6 +5635,7 @@
 0.0.0.0 2bluemountain.com
 0.0.0.0 2c95e050909.com
 0.0.0.0 2cent37.com
+0.0.0.0 2d86920f51.com
 0.0.0.0 2dee7f1db0d07.com
 0.0.0.0 2f48a41ea4.com
 0.0.0.0 2fca2fdee31.com
@@ -5856,6 +5864,7 @@
 0.0.0.0 575f4e87970f177969fe.com
 0.0.0.0 59ce3f2bf1b3.com
 0.0.0.0 59ef0480b3fd.com
+0.0.0.0 5accb38d350.com
 0.0.0.0 5b1cd20a44adf.com
 0.0.0.0 5b241d28316f1.com
 0.0.0.0 5bd5e3203751.com
@@ -6151,6 +6160,7 @@
 0.0.0.0 acacexjsh.com
 0.0.0.0 academiajuvenil.com
 0.0.0.0 acbfabbc4ec86e.com
+0.0.0.0 acbmodernhose.com
 0.0.0.0 acbnksonline.com
 0.0.0.0 acbookmacbookstoree.com
 0.0.0.0 acc-servicesupport.com
@@ -8823,6 +8833,7 @@
 0.0.0.0 bravoartpanels.com
 0.0.0.0 bravoeexecutive.com
 0.0.0.0 brazzers-hack.com
+0.0.0.0 brceleetshirts.com
 0.0.0.0 breadtokenapp.com
 0.0.0.0 brecobdirectintl.com
 0.0.0.0 breitermetals.com
@@ -8839,6 +8850,7 @@
 0.0.0.0 brispage.com
 0.0.0.0 brivnarnce.com
 0.0.0.0 brlcktop.com
+0.0.0.0 brmconsltants.com
 0.0.0.0 brokerlowongan.com
 0.0.0.0 bromobuk.com
 0.0.0.0 bronzeandblack.com
@@ -11468,6 +11480,7 @@
 0.0.0.0 evg-cn.com
 0.0.0.0 evisitcs2.com
 0.0.0.0 evlpfjro.com
+0.0.0.0 evolesecre.com
 0.0.0.0 evolutionpaws.com
 0.0.0.0 evrenselaikido.com
 0.0.0.0 evuchenzypysci.com
@@ -11554,6 +11567,7 @@
 0.0.0.0 f82af04fb2888.com
 0.0.0.0 f82ef2dafcfe.com
 0.0.0.0 f85c751e0b4.com
+0.0.0.0 f87b88d3649456.com
 0.0.0.0 f89u28ch3-billing.com
 0.0.0.0 f8a22e34a2.com
 0.0.0.0 fa06e75c16.com
@@ -13169,6 +13183,7 @@
 0.0.0.0 hanankhaleeqphotography.com
 0.0.0.0 handasa-sistem.com
 0.0.0.0 handymanea.com
+0.0.0.0 hangloosestdios.com
 0.0.0.0 hangmup400k.com
 0.0.0.0 hangmup450k.com
 0.0.0.0 hangmup500k.com
@@ -13434,6 +13449,7 @@
 0.0.0.0 hmmmcjgho.com
 0.0.0.0 hmrc-council-tax.com
 0.0.0.0 hmrc-form.com
+0.0.0.0 hmrosegrop.com
 0.0.0.0 hnd-groups.com
 0.0.0.0 hndsecures.com
 0.0.0.0 hnhsvlswqtoxgn.com
@@ -16333,6 +16349,7 @@
 0.0.0.0 midecho.com
 0.0.0.0 midecorhogar.com
 0.0.0.0 midistirone.com
+0.0.0.0 midlandtexasconstrction.com
 0.0.0.0 midtier-help-midtier.com
 0.0.0.0 midusueyew.com
 0.0.0.0 miegpokitjxm.com
@@ -16398,6 +16415,7 @@
 0.0.0.0 mirchandaniskitchen.com
 0.0.0.0 miremanufacturing.com
 0.0.0.0 mirrormini.com
+0.0.0.0 misaldsana.com
 0.0.0.0 mise-ajourpaypal.com
 0.0.0.0 misfitsolutions.com
 0.0.0.0 mishainna.com
@@ -16657,6 +16675,7 @@
 0.0.0.0 ms365portal.com
 0.0.0.0 mscplash.com
 0.0.0.0 msegusa.com
+0.0.0.0 mshkonline.com
 0.0.0.0 msigpurubzkm.com
 0.0.0.0 msihacks.com
 0.0.0.0 mslivegirl.com
@@ -17616,6 +17635,7 @@
 0.0.0.0 nticqzrucdg.com
 0.0.0.0 ntlhrttump.com
 0.0.0.0 ntpawkfea.com
+0.0.0.0 nts-lcy.com
 0.0.0.0 nubiboxarts.com
 0.0.0.0 nudoanhnhanasean.com
 0.0.0.0 nuetheriumllet.com
@@ -24446,6 +24466,7 @@
 0.0.0.0 yojunganma.com
 0.0.0.0 yojxoefvnyrc.com
 0.0.0.0 yonadrepopcybery.com
+0.0.0.0 yorclb1.com
 0.0.0.0 yorkndb.com
 0.0.0.0 you-trader.com
 0.0.0.0 you2meenglish.com
@@ -31549,6 +31570,7 @@
 0.0.0.0 www.fndemolitiongroup.com
 0.0.0.0 ad.fnnews.com
 0.0.0.0 analysis.focalprice.com
+0.0.0.0 cannacopia.focs5stdios.com
 0.0.0.0 www.focustiens.com
 0.0.0.0 a.foditgoz.com
 0.0.0.0 xhr.foditgoz.com
@@ -38027,6 +38049,7 @@
 0.0.0.0 oascentral.register.com
 0.0.0.0 oascentral.registerguard.com
 0.0.0.0 oascentral.registguard.com
+0.0.0.0 robots.regnmit.com
 0.0.0.0 www.regulatepaypal.com
 0.0.0.0 www.regulosantander.com
 0.0.0.0 www.regurazona.com
@@ -48796,6 +48819,7 @@
 0.0.0.0 coinscrypto.info
 0.0.0.0 coinswallet.info
 0.0.0.0 coldenvy.info
+0.0.0.0 colempaqes.info
 0.0.0.0 colhsruqa-mailer-netflix.info
 0.0.0.0 com-cancellation-order-form.info
 0.0.0.0 com-ch-accsslckdkont0.info
@@ -51573,6 +51597,8 @@
 0.0.0.0 c.a.t.webtracker.jp
 0.0.0.0 ad.wiredvision.jp
 0.0.0.0 hunadiri.xsrv.jp
+0.0.0.0 yoprocontact.k
+0.0.0.0 carinsrancecompare.co.k
 0.0.0.0 dentalnursingschool.ac.ke
 0.0.0.0 www.dentalnursingschool.ac.ke
 0.0.0.0 adamwood.co.ke
@@ -59368,6 +59394,7 @@
 0.0.0.0 wf.nv-acc.online
 0.0.0.0 www.onemew.online
 0.0.0.0 platnosc.oplackuriera.online
+0.0.0.0 www.orderhose.online
 0.0.0.0 www.outlook-seguranca.online
 0.0.0.0 www.outlookemailsupport.online
 0.0.0.0 www.outlooksoft.online
@@ -61043,6 +61070,7 @@
 0.0.0.0 swiss.1.kerites.org
 0.0.0.0 swiss.h.kerites.org
 0.0.0.0 twitter.login.kevanshome.org
+0.0.0.0 kf.kfpstore.org
 0.0.0.0 www.kilabilian.org
 0.0.0.0 www.kinecosystems.org
 0.0.0.0 verifyme.kitaghana.org
@@ -63839,6 +63867,7 @@
 0.0.0.0 paypal.co.uk.1ulj.pw
 0.0.0.0 paypal.co.uk.21le.pw
 0.0.0.0 paypal.co.uk.3e1d.pw
+0.0.0.0 jg3.3uag.pw
 0.0.0.0 paypal.co.uk.4tdc.pw
 0.0.0.0 paypal.co.uk.6g1x.pw
 0.0.0.0 paypal.co.uk.6gzw.pw
@@ -67116,6 +67145,7 @@
 0.0.0.0 childcarerwanda.org.rw
 0.0.0.0 www.childcarerwanda.org.rw
 0.0.0.0 www.trustindustries.rw
+0.0.0.0 delivery.3azamto.s
 0.0.0.0 smartchart.com.sa
 0.0.0.0 ca-mobilerefund.cad.faco.com.sa
 0.0.0.0 www.smartchart.com.sa
@@ -68383,6 +68413,7 @@
 0.0.0.0 uxiadb.site
 0.0.0.0 uyazsk.site
 0.0.0.0 uylftz.site
+0.0.0.0 uyohwedus.site
 0.0.0.0 uzbqgj.site
 0.0.0.0 vaoqls.site
 0.0.0.0 vbydxg.site
@@ -68838,6 +68869,7 @@
 0.0.0.0 applesidapple.store
 0.0.0.0 axs-mobile.store
 0.0.0.0 bambootea.store
+0.0.0.0 beatyscot.store
 0.0.0.0 caseopening.store
 0.0.0.0 cryptobubble.store
 0.0.0.0 csgobot.store
@@ -74956,6 +74988,7 @@
 0.0.0.0 digitalblue.co.za
 0.0.0.0 dignity4pets.co.za
 0.0.0.0 drended.co.za
+0.0.0.0 drgrop.co.za
 0.0.0.0 dropboxdocufile.co.za
 0.0.0.0 dstvincapetown.co.za
 0.0.0.0 eastviewestateonline.co.za
@@ -75217,6 +75250,7 @@
 0.0.0.0 match.winoxloans.co.za
 0.0.0.0 www.match.winoxloans.co.za
 0.0.0.0 gloda.org.za
+0.0.0.0 glowfondation.org.za
 0.0.0.0 grafephot.org.za
 0.0.0.0 kimcc.org.za
 0.0.0.0 profl.org.za
