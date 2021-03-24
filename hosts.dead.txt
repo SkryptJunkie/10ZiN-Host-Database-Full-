@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:03 AM Tuesday 23 March 2021
+# Date: 08:30 AM Wednesday 24 March 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -6032,6 +6032,7 @@
 0.0.0.0 88kkvv.com
 0.0.0.0 898protrudesolve.com
 0.0.0.0 8a13cd2a7e.com
+0.0.0.0 8b18a31eb3.com
 0.0.0.0 8b5a31f63acbeb2d1d88.com
 0.0.0.0 8c4cab5d072.com
 0.0.0.0 8d9d548d35.com
@@ -10272,6 +10273,7 @@
 0.0.0.0 cybermini.com
 0.0.0.0 cybertechcomputo.com
 0.0.0.0 cybertiny.com
+0.0.0.0 cyberworldsoltion.com
 0.0.0.0 cycfruit.com
 0.0.0.0 cyclehearse.com
 0.0.0.0 cyclingpeeps.com
@@ -23682,6 +23684,7 @@
 0.0.0.0 www-bankera.com
 0.0.0.0 www-cm.com
 0.0.0.0 www-icloud-location.com
+0.0.0.0 www-injry.com
 0.0.0.0 www-mvetherwallet.com
 0.0.0.0 www-myetherrwallet.com
 0.0.0.0 www-myethertwallet.com
@@ -33620,6 +33623,7 @@
 0.0.0.0 www.jaminak.com
 0.0.0.0 www.jamondergueno.com
 0.0.0.0 www.janaksinghkhadka.com
+0.0.0.0 lp.jancamilogarciareyes.com
 0.0.0.0 www.jandc-consulting.com
 0.0.0.0 a.jandolav.com
 0.0.0.0 xhr.jandolav.com
@@ -53323,6 +53327,7 @@
 0.0.0.0 arnieconnell.com.mx
 0.0.0.0 asess.com.mx
 0.0.0.0 candoxfloreria.com.mx
+0.0.0.0 cbrebocasenpebla.com.mx
 0.0.0.0 cerrodeltepeyac.com.mx
 0.0.0.0 cityshoes.com.mx
 0.0.0.0 concreart.com.mx
