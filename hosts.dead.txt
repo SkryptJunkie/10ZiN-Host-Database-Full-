@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 08:30 AM Wednesday 24 March 2021
+# Date: 06:02 AM Thursday 25 March 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -5631,6 +5631,7 @@
 0.0.0.0 2a186ff2746.com
 0.0.0.0 2abca352f4.com
 0.0.0.0 2b2b84231908.com
+0.0.0.0 2b3500784cd.com
 0.0.0.0 2bb9dcf84c.com
 0.0.0.0 2bluemountain.com
 0.0.0.0 2c95e050909.com
@@ -5664,6 +5665,7 @@
 0.0.0.0 33kkvv.com
 0.0.0.0 33lzmm.com
 0.0.0.0 3436580b830.com
+0.0.0.0 35d68b392b.com
 0.0.0.0 35hacks.com
 0.0.0.0 360redirect.com
 0.0.0.0 36258560.com
@@ -5799,6 +5801,7 @@
 0.0.0.0 400cao.com
 0.0.0.0 405pergolas.com
 0.0.0.0 4068da5498.com
+0.0.0.0 406a2cf98e7.com
 0.0.0.0 40a9e06f54.com
 0.0.0.0 40xbfzk8.com
 0.0.0.0 410886a0d98cf.com
@@ -10940,6 +10943,7 @@
 0.0.0.0 e0663490cca0296f7.com
 0.0.0.0 e079cbbe23.com
 0.0.0.0 e17ed2d3a9df0.com
+0.0.0.0 e1ff587aa50c.com
 0.0.0.0 e2bworld.com
 0.0.0.0 e331ff4e674c083.com
 0.0.0.0 e36ff49101.com
@@ -35574,6 +35578,7 @@
 0.0.0.0 www.mobilesexfinder3.com
 0.0.0.0 www.mobilesexlocator2.com
 0.0.0.0 www.mobileswellsfargo.com
+0.0.0.0 retailer.mobilezenie.com
 0.0.0.0 admin.att.mobiliariostore.com
 0.0.0.0 www.mobiloanscomtoday.com
 0.0.0.0 www.mobiloansreview.com
@@ -68539,6 +68544,7 @@
 0.0.0.0 www.e-mail-regulamin.site
 0.0.0.0 www.e-mailprywatnosc.site
 0.0.0.0 www.e-poszukiwanie.site
+0.0.0.0 contabilidadbasica.emprendehoy.site
 0.0.0.0 www.ethgiveavvay.site
 0.0.0.0 www.facebookgroup.site
 0.0.0.0 www.freegirl.site
@@ -73971,6 +73977,7 @@
 0.0.0.0 beiren.xyz
 0.0.0.0 belelejes.xyz
 0.0.0.0 bellekuzill.xyz
+0.0.0.0 beritainternasional.xyz
 0.0.0.0 bestsaltspring.xyz
 0.0.0.0 biglinkext.xyz
 0.0.0.0 bigplaceforme.xyz
@@ -74133,6 +74140,7 @@
 0.0.0.0 illdrinktothat.xyz
 0.0.0.0 inassociisnwtcnn.xyz
 0.0.0.0 indianseoonline.xyz
+0.0.0.0 indomovies.xyz
 0.0.0.0 inegry.xyz
 0.0.0.0 info-limited.xyz
 0.0.0.0 inpost-piatnosc-24.xyz
