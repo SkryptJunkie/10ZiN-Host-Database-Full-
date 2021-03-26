@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Thursday 25 March 2021
+# Date: 06:02 AM Friday 26 March 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -317,6 +317,7 @@
 0.0.0.0 msnsndstdyyemkemabak.dns.army
 0.0.0.0 nevermndywalkachine2.dns.army
 0.0.0.0 nitengystdylunatstem.dns.army
+0.0.0.0 nitenrgystdyluncstde.dns.army
 0.0.0.0 owncablestdywelcomtb.dns.army
 0.0.0.0 pannel-control.dns.army
 0.0.0.0 perezluzwsdycafewsbz.dns.army
@@ -5546,6 +5547,7 @@
 0.0.0.0 19086a38727f.com
 0.0.0.0 196504.com
 0.0.0.0 19930216.com
+0.0.0.0 1a7783db6c.com
 0.0.0.0 1ambu11.com
 0.0.0.0 1appleod.com
 0.0.0.0 1b01adcc41.com
@@ -35578,6 +35580,7 @@
 0.0.0.0 www.mobilesexfinder3.com
 0.0.0.0 www.mobilesexlocator2.com
 0.0.0.0 www.mobileswellsfargo.com
+0.0.0.0 admin.mobilezenie.com
 0.0.0.0 retailer.mobilezenie.com
 0.0.0.0 admin.att.mobiliariostore.com
 0.0.0.0 www.mobiloanscomtoday.com
@@ -38059,6 +38062,7 @@
 0.0.0.0 oascentral.registerguard.com
 0.0.0.0 oascentral.registguard.com
 0.0.0.0 robots.regnmit.com
+0.0.0.0 update.regnumit.com
 0.0.0.0 www.regulatepaypal.com
 0.0.0.0 www.regulosantander.com
 0.0.0.0 www.regurazona.com
@@ -73983,6 +73987,7 @@
 0.0.0.0 bigplaceforme.xyz
 0.0.0.0 bookminkreviews.xyz
 0.0.0.0 box-loginapps.xyz
+0.0.0.0 brannon-powlowski25d.xyz
 0.0.0.0 briikingnushahape.xyz
 0.0.0.0 buthak.xyz
 0.0.0.0 caeiriolskiaopazertyiop.xyz
@@ -74030,6 +74035,7 @@
 0.0.0.0 courtensdreef.xyz
 0.0.0.0 cr-mufg-card--jp.xyz
 0.0.0.0 cr-mufg-jp--card.xyz
+0.0.0.0 crooks-cooper24g.xyz
 0.0.0.0 cw-233.xyz
 0.0.0.0 daddaairlines.xyz
 0.0.0.0 daecan.xyz
@@ -74041,6 +74047,7 @@
 0.0.0.0 deducingsi.xyz
 0.0.0.0 def-014.xyz
 0.0.0.0 demovie.xyz
+0.0.0.0 dennis-hill25lw.xyz
 0.0.0.0 dentoms.xyz
 0.0.0.0 desktest9.xyz
 0.0.0.0 dfgdgertdvdf.xyz
@@ -74124,6 +74131,7 @@
 0.0.0.0 hochumilfu.xyz
 0.0.0.0 houseoffunfreecoins.xyz
 0.0.0.0 howtomakemoneyingta5.xyz
+0.0.0.0 hprosacco25i.xyz
 0.0.0.0 htechblog.xyz
 0.0.0.0 htmlhubing.xyz
 0.0.0.0 hummmaaa.xyz
@@ -74342,9 +74350,11 @@
 0.0.0.0 report-sign.xyz
 0.0.0.0 reserved34.xyz
 0.0.0.0 retroservices.xyz
+0.0.0.0 rgleason25s.xyz
 0.0.0.0 ribbinkx.xyz
 0.0.0.0 rither.xyz
 0.0.0.0 rjujujdshfnmyflj.xyz
+0.0.0.0 rosenbaum-jaida24nz.xyz
 0.0.0.0 royalrbupdate.xyz
 0.0.0.0 rp8nqp0j2yvw5bj5gidizkmuxhi1vmgjo19bgo305mc9oz7xi3.xyz
 0.0.0.0 rumahpelajar.xyz
@@ -74420,6 +74430,7 @@
 0.0.0.0 trailer-wheel.xyz
 0.0.0.0 trato-traffic-support.xyz
 0.0.0.0 trend2020.xyz
+0.0.0.0 treutel-jamir25ju.xyz
 0.0.0.0 trislee.xyz
 0.0.0.0 ttvfuj6tqwm2prhcmz56n7jl2lp8k5nrxvmen8ey1oxtwrv06r.xyz
 0.0.0.0 tubebd24.xyz
@@ -74466,6 +74477,7 @@
 0.0.0.0 wwesupercardhack.xyz
 0.0.0.0 wx-xcx.xyz
 0.0.0.0 xactive.xyz
+0.0.0.0 xherzog24pv.xyz
 0.0.0.0 xn--amazon-273eya6m7hsa2mi43a6cx8cu314cib9cor0b.xyz
 0.0.0.0 xn--amazon-2o4e9doisa5v1dr294d800b.xyz
 0.0.0.0 xn--amazon-2o4exa8dj0gyad8gwb9gpi9a6pmetdxaek3ng1v.xyz
