@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Saturday 27 March 2021
+# Date: 06:05 AM Sunday 28 March 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -323,6 +323,7 @@
 0.0.0.0 perezluzwsdycafewsbz.dns.army
 0.0.0.0 pmrimesndylimtdvensn.dns.army
 0.0.0.0 pmrimestdylimtdvenst.dns.army
+0.0.0.0 pmrimewsdylimtwswods.dns.army
 0.0.0.0 rmtcntlwsdyenverpote.dns.army
 0.0.0.0 sara1wsdyinvestvenws.dns.army
 0.0.0.0 sara2wsdyentertawsin.dns.army
@@ -357,6 +358,7 @@
 0.0.0.0 topretwostdyanimakas.dns.army
 0.0.0.0 tsdymjventsluzcafeyz.dns.army
 0.0.0.0 unitedwsdykesokowsgs.dns.army
+0.0.0.0 unitedwsdykesokowsku.dns.army
 0.0.0.0 wsdyalgreenkeghewsmq.dns.army
 0.0.0.0 wsdyalhjchfonlinwsdf.dns.army
 0.0.0.0 wsdyantipiracydewspv.dns.army
@@ -364,11 +366,14 @@
 0.0.0.0 wsdychise2neverwwsaa.dns.army
 0.0.0.0 wsdychthreerecanwsrq.dns.army
 0.0.0.0 wsdyclntnjkcloudwsgh.dns.army
+0.0.0.0 wsdykungsb2talenwsmz.dns.army
 0.0.0.0 wsdymsloginvestmwsqd.dns.army
 0.0.0.0 wsdynitengylunatwsvg.dns.army
 0.0.0.0 wsdynitengymndynatem.dns.army
+0.0.0.0 wsdyrmtcntlfarmtwsvb.dns.army
 0.0.0.0 wsdyshgshg2induswsjg.dns.army
 0.0.0.0 wsdysuresb1interwsnt.dns.army
+0.0.0.0 wsdysuresbonescageqa.dns.army
 0.0.0.0 wsdytheviejupcazwsdf.dns.army
 0.0.0.0 wsdyworkfinerainbows.dns.army
 0.0.0.0 alabama-usa.art
@@ -4736,13 +4741,16 @@
 0.0.0.0 paypalbooster.club
 0.0.0.0 pchmayoreo.club
 0.0.0.0 pikappa.club
+0.0.0.0 pipgiglea.club
 0.0.0.0 polskota.club
 0.0.0.0 pornosexox.club
 0.0.0.0 prizestohandle.club
 0.0.0.0 renewaltourplus.club
 0.0.0.0 rikvipcode.club
 0.0.0.0 rivercoveresidences.club
+0.0.0.0 rueaukrim.club
 0.0.0.0 saison-card--co-jp.club
+0.0.0.0 sayfibhat.club
 0.0.0.0 searchhub.club
 0.0.0.0 seavey.club
 0.0.0.0 secureoptimize.club
@@ -4752,6 +4760,7 @@
 0.0.0.0 serendipitygalenite.club
 0.0.0.0 serranofootball.club
 0.0.0.0 service-spk.club
+0.0.0.0 setlotnay.club
 0.0.0.0 simplebigdeals.club
 0.0.0.0 smaoewewe.club
 0.0.0.0 soyasticks.club
@@ -5881,6 +5890,7 @@
 0.0.0.0 5e1fcb75b6d662d.com
 0.0.0.0 5eba117283784.com
 0.0.0.0 5f6a83f8b9.com
+0.0.0.0 5gl1x9qc.com
 0.0.0.0 5k-player.com
 0.0.0.0 5x412.com
 0.0.0.0 5y412.com
@@ -6046,6 +6056,7 @@
 0.0.0.0 8ssff.com
 0.0.0.0 8valuedrivers.com
 0.0.0.0 8x412.com
+0.0.0.0 8yxupue8.com
 0.0.0.0 8z412.com
 0.0.0.0 901openyourmin4success.com
 0.0.0.0 90454d05252.com
@@ -6081,6 +6092,7 @@
 0.0.0.0 9gname.com
 0.0.0.0 9jadey.com
 0.0.0.0 9ret0ur-hy7dr0q1c.com
+0.0.0.0 9ts3tpia.com
 0.0.0.0 9y412.com
 0.0.0.0 a-bankieren.com
 0.0.0.0 a-nagy-alku.com
@@ -6108,6 +6120,7 @@
 0.0.0.0 a8c37822e110e3.com
 0.0.0.0 a920bf7a549.com
 0.0.0.0 a948848111.com
+0.0.0.0 a94bcec8bb.com
 0.0.0.0 aa08daf7e13b6345e09e92f771507fa5f4.com
 0.0.0.0 aa14ab57a3339c4064bd9ae6fad7495b5f.com
 0.0.0.0 aa625d84f1587749c1ab011d6f269f7d64.com
@@ -6486,6 +6499,7 @@
 0.0.0.0 aethpromogive.com
 0.0.0.0 aethyrquest.com
 0.0.0.0 aeysop.com
+0.0.0.0 af201768865.com
 0.0.0.0 af2b4b0e7280.com
 0.0.0.0 afabumtunpo.com
 0.0.0.0 afantispy.com
@@ -8870,6 +8884,11 @@
 0.0.0.0 browserprotecter.com
 0.0.0.0 brsantandervangohbr.com
 0.0.0.0 brtvnarnce.com
+0.0.0.0 bruceleadx.com
+0.0.0.0 bruceleadx1.com
+0.0.0.0 bruceleadx2.com
+0.0.0.0 bruceleadx3.com
+0.0.0.0 bruceleadx4.com
 0.0.0.0 brujavuduamarre.com
 0.0.0.0 brumaraltamiranda.com
 0.0.0.0 brundona.com
@@ -9405,6 +9424,7 @@
 0.0.0.0 child-safe-kits.com
 0.0.0.0 chilescort.com
 0.0.0.0 china-applelnc.com
+0.0.0.0 china-netwave.com
 0.0.0.0 chinafoodlng.com
 0.0.0.0 chinakargo.com
 0.0.0.0 chinalve.com
@@ -9945,6 +9965,7 @@
 0.0.0.0 cpaclickoffer.com
 0.0.0.0 cpafornoob.com
 0.0.0.0 cpageconstruction.com
+0.0.0.0 cpanuk.com
 0.0.0.0 cparts1-partais.com
 0.0.0.0 cpatraffictracker.com
 0.0.0.0 cpaypalonline.com
@@ -11060,6 +11081,7 @@
 0.0.0.0 edugeetha.com
 0.0.0.0 edumarketinginternational.com
 0.0.0.0 edutechlibpro.com
+0.0.0.0 edvfwlacluo.com
 0.0.0.0 edwardbonaparte.com
 0.0.0.0 eeagxonnsoggq.com
 0.0.0.0 eehdv.com
@@ -11649,6 +11671,7 @@
 0.0.0.0 facilite-aut-comt.com
 0.0.0.0 factorysandstone.com
 0.0.0.0 facturation-mobility.com
+0.0.0.0 fadsats.com
 0.0.0.0 faena-hotel.com
 0.0.0.0 fairiewhispers.com
 0.0.0.0 fairybuddies.com
@@ -11803,6 +11826,7 @@
 0.0.0.0 fffffqp.com
 0.0.0.0 fffmasti.com
 0.0.0.0 ffxobftzaiogcg.com
+0.0.0.0 fg09t.com
 0.0.0.0 fgconstructora.com
 0.0.0.0 fgtdzvlydqcpus.com
 0.0.0.0 fgtsconsultar.com
@@ -15854,6 +15878,8 @@
 0.0.0.0 macpurifier.com
 0.0.0.0 madgeniusreview.com
 0.0.0.0 madrste.com
+0.0.0.0 madsatz.com
+0.0.0.0 madsipz.com
 0.0.0.0 madukelulutsunnah.com
 0.0.0.0 maesattic.com
 0.0.0.0 mafroradmi.com
@@ -18999,6 +19025,7 @@
 0.0.0.0 psadvertisingagency.com
 0.0.0.0 psbctts.com
 0.0.0.0 pscreditrepair.com
+0.0.0.0 pseqcs05.com
 0.0.0.0 psgteel.com
 0.0.0.0 psijdbcwwnqqw.com
 0.0.0.0 psncardgenerators.com
@@ -19952,6 +19979,8 @@
 0.0.0.0 sadaaljanoob.com
 0.0.0.0 sadaehalmin.com
 0.0.0.0 sadiyahexports.com
+0.0.0.0 sadsipz.com
+0.0.0.0 sadspmz.com
 0.0.0.0 saeedinteriors.com
 0.0.0.0 saeedkhanindustry.com
 0.0.0.0 saenrwiqesp.com
@@ -20659,6 +20688,7 @@
 0.0.0.0 shefqetlulja.com
 0.0.0.0 sheivshakti.com
 0.0.0.0 shellez.com
+0.0.0.0 shemeejo.com
 0.0.0.0 sheqelinvestments.com
 0.0.0.0 sherehindtipu.com
 0.0.0.0 sherkatkonandeh.com
@@ -22773,6 +22803,7 @@
 0.0.0.0 valleycrewstaffing.com
 0.0.0.0 valleynco.com
 0.0.0.0 valpkwew.com
+0.0.0.0 valthyra.com
 0.0.0.0 vanchuyenvanan.com
 0.0.0.0 vandeliergrouploans.com
 0.0.0.0 vandencross.com
@@ -22784,6 +22815,7 @@
 0.0.0.0 varokahselalu.com
 0.0.0.0 vastu-realty.com
 0.0.0.0 vateba.com
+0.0.0.0 vaxaqngzs3.com
 0.0.0.0 vaxincol.com
 0.0.0.0 vbdrzplqtgk.com
 0.0.0.0 vbguaqweaif.com
@@ -23067,6 +23099,7 @@
 0.0.0.0 virginianaturalfarms.com
 0.0.0.0 virginiarokahselalu.com
 0.0.0.0 viridislanka.com
+0.0.0.0 viriepak.com
 0.0.0.0 virounaklen.com
 0.0.0.0 virtual-developers.com
 0.0.0.0 virtualcreditcardpaypal.com
@@ -23471,6 +23504,7 @@
 0.0.0.0 wglbucuhxxxj.com
 0.0.0.0 wgqsgcdcxsmxw.com
 0.0.0.0 wgrbdqucfoieha.com
+0.0.0.0 wh5kb0u4.com
 0.0.0.0 whatdslrtobuy.com
 0.0.0.0 whatisinablog.com
 0.0.0.0 whatsapp-callwebcam.com
@@ -23812,6 +23846,7 @@
 0.0.0.0 xfilmovi.com
 0.0.0.0 xfmjleuaqgnuvv.com
 0.0.0.0 xfreehacks.com
+0.0.0.0 xfs5yhr1.com
 0.0.0.0 xg-hacks.com
 0.0.0.0 xghretunapafes.com
 0.0.0.0 xgigroup.com
@@ -48803,6 +48838,7 @@
 0.0.0.0 cabifygratis.info
 0.0.0.0 canadianhealthcaremall.info
 0.0.0.0 candycrushsagacheats.info
+0.0.0.0 carbian.info
 0.0.0.0 careogtheroadcity.info
 0.0.0.0 castle-landmark.info
 0.0.0.0 catchvid.info
@@ -48836,6 +48872,7 @@
 0.0.0.0 coldenvy.info
 0.0.0.0 colempaqes.info
 0.0.0.0 colhsruqa-mailer-netflix.info
+0.0.0.0 colleable.info
 0.0.0.0 com-cancellation-order-form.info
 0.0.0.0 com-ch-accsslckdkont0.info
 0.0.0.0 com-credit-usage.info
@@ -49573,6 +49610,7 @@
 0.0.0.0 s28oobqoaamatr3vmf75q-users-netflix.info
 0.0.0.0 sabafon.info
 0.0.0.0 safetyscan.info
+0.0.0.0 sahraex7vah.info
 0.0.0.0 santanderbankpolska.info
 0.0.0.0 santanderbp.info
 0.0.0.0 santandercom.info
@@ -49835,6 +49873,7 @@
 0.0.0.0 xwshhpdqjkiqh63-noreply-netflix.info
 0.0.0.0 xygsebtz1-security-netflix.info
 0.0.0.0 yarcz.info
+0.0.0.0 ycasmd.info
 0.0.0.0 yetroplamnh.info
 0.0.0.0 yhdjfnservjfn.info
 0.0.0.0 yhdkcn.info
@@ -52528,6 +52567,7 @@
 0.0.0.0 c4l20b1w.me
 0.0.0.0 central-page-account.me
 0.0.0.0 clashofclanshack.me
+0.0.0.0 clickly.me
 0.0.0.0 com-authenticating-pay.me
 0.0.0.0 conradcycles.me
 0.0.0.0 constone.me
@@ -53874,6 +53914,7 @@
 0.0.0.0 bxznn.net
 0.0.0.0 bxzxw.net
 0.0.0.0 bytim.net
+0.0.0.0 c-planet.net
 0.0.0.0 cabehealthservices.net
 0.0.0.0 cadastro-santander.net
 0.0.0.0 caixa-cliente.net
@@ -63468,6 +63509,7 @@
 0.0.0.0 borysenkoigor.pro
 0.0.0.0 btc24ex.pro
 0.0.0.0 casespolygon.pro
+0.0.0.0 cdnasjdkajgfhgajfjkagfa.pro
 0.0.0.0 cindicator.pro
 0.0.0.0 competewizard.pro
 0.0.0.0 coolbar.pro
@@ -68022,6 +68064,7 @@
 0.0.0.0 lnpcuo.site
 0.0.0.0 lnsofj.site
 0.0.0.0 loduqb.site
+0.0.0.0 logfrochi.site
 0.0.0.0 lora-lutsk.site
 0.0.0.0 lowfdm.site
 0.0.0.0 lpcktu.site
@@ -70125,6 +70168,7 @@
 0.0.0.0 1xycg.top
 0.0.0.0 3xp4e3kno6.top
 0.0.0.0 7cfmnf.top
+0.0.0.0 7t15ny0f4f.top
 0.0.0.0 8220halfdomecourt.top
 0.0.0.0 abendbrot.top
 0.0.0.0 academicsys.top
@@ -71050,6 +71094,7 @@
 0.0.0.0 constructionsgear.co.uk
 0.0.0.0 contactapple.co.uk
 0.0.0.0 contactpestcontrol.co.uk
+0.0.0.0 contentclick.co.uk
 0.0.0.0 cookinggenius.co.uk
 0.0.0.0 coolwifedata.co.uk
 0.0.0.0 coretarget.co.uk
@@ -74104,6 +74149,7 @@
 0.0.0.0 freeclashofclansresourcesgenerators.xyz
 0.0.0.0 freefiregarena.xyz
 0.0.0.0 ftih.xyz
+0.0.0.0 fyredet.xyz
 0.0.0.0 game-tools.xyz
 0.0.0.0 gameplaystime.xyz
 0.0.0.0 gamtrot.xyz
@@ -74497,6 +74543,7 @@
 0.0.0.0 xn--amazon-vs4exaab82bb3jz076dog3b.xyz
 0.0.0.0 xn--s9jae1jb6wva0gwlwkm744dpz7a.xyz
 0.0.0.0 yeopde.xyz
+0.0.0.0 yesra.xyz
 0.0.0.0 yinmyar.xyz
 0.0.0.0 yllasatra.xyz
 0.0.0.0 ytnhjlhuynrto.xyz
