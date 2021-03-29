@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:05 AM Sunday 28 March 2021
+# Date: 06:04 AM Monday 29 March 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -3687,6 +3687,8 @@
 0.0.0.0 www.mypay.casa
 0.0.0.0 www.newroof.casa
 0.0.0.0 www.olx-pl-dostawa.casa
+0.0.0.0 olx.pl-post.casa
+0.0.0.0 www.olx.pl-post.casa
 0.0.0.0 www.delivery.olx.safedeal.casa
 0.0.0.0 card2card.cash
 0.0.0.0 csgoroll.cash
@@ -4679,6 +4681,7 @@
 0.0.0.0 deit.club
 0.0.0.0 deliverysecure.club
 0.0.0.0 diduknow.club
+0.0.0.0 digyepnag.club
 0.0.0.0 domainsystemname.club
 0.0.0.0 doopcrib.club
 0.0.0.0 einloggen-konto-erstellen.club
@@ -4867,6 +4870,8 @@
 0.0.0.0 www.owa-outlook.club
 0.0.0.0 www.paquetesturisticos.club
 0.0.0.0 www.participation-logistilla.club
+0.0.0.0 inpost.pl-confirm.club
+0.0.0.0 www.inpost.pl-confirm.club
 0.0.0.0 inpost.pl-getdeal.club
 0.0.0.0 www.inpost.pl-getdeal.club
 0.0.0.0 inpost.pl-getordered.club
@@ -4874,6 +4879,8 @@
 0.0.0.0 www.inpost.pl-getordered.club
 0.0.0.0 www.olx.pl-getordered.club
 0.0.0.0 www.olx.pl-mkonto.club
+0.0.0.0 inpost.pl-post.club
+0.0.0.0 www.inpost.pl-post.club
 0.0.0.0 inpost.pl-safedeal.club
 0.0.0.0 olx.pl-safedeal.club
 0.0.0.0 www.inpost.pl-safedeal.club
@@ -5811,6 +5818,7 @@
 0.0.0.0 4-wheelers.com
 0.0.0.0 4006692292.com
 0.0.0.0 400cao.com
+0.0.0.0 40253b3e67b8.com
 0.0.0.0 405pergolas.com
 0.0.0.0 4068da5498.com
 0.0.0.0 406a2cf98e7.com
@@ -5832,6 +5840,7 @@
 0.0.0.0 459517eb349739b.com
 0.0.0.0 45i73jv6.com
 0.0.0.0 46a5e78eda.com
+0.0.0.0 46c404ccde27.com
 0.0.0.0 4798c7b036.com
 0.0.0.0 488hl.com
 0.0.0.0 4893a1d87a00.com
@@ -5868,6 +5877,7 @@
 0.0.0.0 51jczxw.com
 0.0.0.0 51mogui.com
 0.0.0.0 51netflix.com
+0.0.0.0 529e573b99.com
 0.0.0.0 54-ironbound-plowman.com
 0.0.0.0 542fe1b0002a.com
 0.0.0.0 551525cb44.com
@@ -5877,6 +5887,7 @@
 0.0.0.0 567bbl.com
 0.0.0.0 57473b6b571.com
 0.0.0.0 575f4e87970f177969fe.com
+0.0.0.0 58c30e7b29e.com
 0.0.0.0 59ce3f2bf1b3.com
 0.0.0.0 59ef0480b3fd.com
 0.0.0.0 5accb38d350.com
@@ -10327,6 +10338,7 @@
 0.0.0.0 d3sir3.com
 0.0.0.0 d409255ce88.com
 0.0.0.0 d50285bff60edbb406.com
+0.0.0.0 d533eecf3a7.com
 0.0.0.0 d60227ef59e.com
 0.0.0.0 d68c360796bbecd.com
 0.0.0.0 d6d323f64062.com
@@ -11063,6 +11075,7 @@
 0.0.0.0 ecosmeticscoupons.com
 0.0.0.0 ecoswiftcleaners.com
 0.0.0.0 ecrackdiablo3.com
+0.0.0.0 ecurewealthygains.com
 0.0.0.0 ecutrack.com
 0.0.0.0 edbesttreatmentfored24.com
 0.0.0.0 edelmiranda.com
@@ -11602,6 +11615,7 @@
 0.0.0.0 f87b88d3649456.com
 0.0.0.0 f89u28ch3-billing.com
 0.0.0.0 f8a22e34a2.com
+0.0.0.0 f97f1e91da5e2.com
 0.0.0.0 fa06e75c16.com
 0.0.0.0 fa165246ee.com
 0.0.0.0 fabgemsandjewels.com
@@ -16230,6 +16244,7 @@
 0.0.0.0 megaagro-my.com
 0.0.0.0 megaboxhdweb.com
 0.0.0.0 megacinemahd.com
+0.0.0.0 megacpm.com
 0.0.0.0 megadataupload.com
 0.0.0.0 megagadgetscity.com
 0.0.0.0 megahackfrancaise.com
@@ -16617,6 +16632,7 @@
 0.0.0.0 monetha-crowdsale.com
 0.0.0.0 monetisevideo.com
 0.0.0.0 money-lnteractfunds.com
+0.0.0.0 money4ads.com
 0.0.0.0 moneybackfinder.com
 0.0.0.0 moneyeventcatering.com
 0.0.0.0 moneyisecondgod.com
@@ -16860,6 +16876,7 @@
 0.0.0.0 mycelloffer.com
 0.0.0.0 mychannelpoints.com
 0.0.0.0 mychterwallet.com
+0.0.0.0 myclickbankads.com
 0.0.0.0 myconnect-support.com
 0.0.0.0 mycryiptowaliet.com
 0.0.0.0 mycryptoethwallet.com
@@ -17053,6 +17070,7 @@
 0.0.0.0 mymediasearchnow.com
 0.0.0.0 mymobilelinealert.com
 0.0.0.0 mymobilvideo.com
+0.0.0.0 mynativeads.com
 0.0.0.0 mynethwallet.com
 0.0.0.0 mynewalleteth.com
 0.0.0.0 mynewmatchpicturespics.com
@@ -20384,6 +20402,7 @@
 0.0.0.0 securesmyaccount-webappid.com
 0.0.0.0 securesrv-amazon.com
 0.0.0.0 securetrarsportation.com
+0.0.0.0 securewealthygains.com
 0.0.0.0 secureweb-update.com
 0.0.0.0 securezon.com
 0.0.0.0 securitecontrolepass.com
@@ -27833,6 +27852,7 @@
 0.0.0.0 www.bachikhanday.com
 0.0.0.0 ns1.backbeatmedia.com
 0.0.0.0 ns2.backbeatmedia.com
+0.0.0.0 www.f000.backblazeb2.com
 0.0.0.0 ad.backtalkmedia.com
 0.0.0.0 www.backxcoin.com
 0.0.0.0 www.bacucredicoop.com
@@ -28275,8 +28295,10 @@
 0.0.0.0 www.bit-ebay.com
 0.0.0.0 stats.bitban.com
 0.0.0.0 www.bitcoin-2-paypal.com
+0.0.0.0 www.bitcoineranew.com
 0.0.0.0 www.bitcoinerapro.com
 0.0.0.0 www.bitcoinforpaypal.com
+0.0.0.0 www.bitcoinprofitpro.com
 0.0.0.0 www.bitcoins-profit.com
 0.0.0.0 www.bitcoinstopaypal.com
 0.0.0.0 www.bitcoinstransfermoney.com
@@ -29608,6 +29630,7 @@
 0.0.0.0 www.cq565.com
 0.0.0.0 www.cqchuanao.com
 0.0.0.0 t.cqq5id8n.com
+0.0.0.0 www.cr-toptom.com
 0.0.0.0 newware10.craa-club.com
 0.0.0.0 www.craftandplank.com
 0.0.0.0 www.craftcville.com
@@ -30477,6 +30500,7 @@
 0.0.0.0 ads.ecosalon.com
 0.0.0.0 www.ecosmeticscoupons.com
 0.0.0.0 account.details.upgrade.helpdata.information.center.security.service.protection.ecospringsmelbourne.com
+0.0.0.0 www.ecurewealthygains.com
 0.0.0.0 www.ecutrack.com
 0.0.0.0 ads.edatracker.com
 0.0.0.0 www.edbesttreatmentfored24.com
@@ -31494,6 +31518,14 @@
 0.0.0.0 www.finance-offer.com
 0.0.0.0 www.financial-advice-books.com
 0.0.0.0 www.financialhopecenter.com
+0.0.0.0 www.financialmarketsworld.com
+0.0.0.0 www.bitcoin-billionaire-pro.financialmarketsworld.com
+0.0.0.0 www.bitcoinscodepro.financialmarketsworld.com
+0.0.0.0 www.bitcoinup-pro.financialmarketsworld.com
+0.0.0.0 www.immediateedgepro.financialmarketsworld.com
+0.0.0.0 www.the-bitcoin-millionaire.financialmarketsworld.com
+0.0.0.0 www.the-bitcoin-traders-app.financialmarketsworld.com
+0.0.0.0 www.thebitcoins-pro.financialmarketsworld.com
 0.0.0.0 www.find-apple-iphone.com
 0.0.0.0 www.find-appleid.com
 0.0.0.0 www.find-best-profits.com
@@ -36399,6 +36431,7 @@
 0.0.0.0 rb.newsru.com
 0.0.0.0 amazon.de.newssend0.com
 0.0.0.0 www.newssourceoftoday.com
+0.0.0.0 www.newsspypro.com
 0.0.0.0 ads.newtimes.com
 0.0.0.0 ads2.newtimes.com
 0.0.0.0 adserver.newtimes.com
@@ -37590,6 +37623,7 @@
 0.0.0.0 www.premiere1ent.com
 0.0.0.0 ads.premiereinteractive.com
 0.0.0.0 www.premierempresarial.com
+0.0.0.0 www.premieroffr.com
 0.0.0.0 www.premiersirzs.com
 0.0.0.0 freepsncodes.premium-codes.com
 0.0.0.0 microsoftpoints.premium-codes.com
@@ -38826,6 +38860,7 @@
 0.0.0.0 www.securepass24.com
 0.0.0.0 sec-paypal.com.securer-pyment-invoiced.com
 0.0.0.0 www.securesrv-amazon.com
+0.0.0.0 www.securewealthygains.com
 0.0.0.0 www.securezon.com
 0.0.0.0 www.securities-stop-apple.com
 0.0.0.0 www.security--breach-apple.com
@@ -40270,6 +40305,7 @@
 0.0.0.0 www.thebest-dating4u.com
 0.0.0.0 www.thebestdeting1.com
 0.0.0.0 www.thebesttailor.com
+0.0.0.0 www.thebitqtapp.com
 0.0.0.0 www.thebizpanel.com
 0.0.0.0 www.thebloggerspersonals.com
 0.0.0.0 scrooge.thebostonchannel.com
@@ -43597,6 +43633,7 @@
 0.0.0.0 www.tumoursd.desi
 0.0.0.0 www.vietyjsjs.desi
 0.0.0.0 sberbank.design
+0.0.0.0 www.olx.pl.oferta-payment.design
 0.0.0.0 www.sberbank.design
 0.0.0.0 tailieu.dev
 0.0.0.0 usarmy.digital
@@ -46089,6 +46126,8 @@
 0.0.0.0 www.gupsuhphw.fun
 0.0.0.0 www.millensbank.fun
 0.0.0.0 www.mordi.fun
+0.0.0.0 olx.pl.oferta-payment.fun
+0.0.0.0 www.olx.pl.oferta-payment.fun
 0.0.0.0 cache.one88.fun
 0.0.0.0 cache1.one88.fun
 0.0.0.0 www.protection-cellphone.fun
@@ -48960,6 +48999,7 @@
 0.0.0.0 download-gta5.info
 0.0.0.0 dqqxwlptvmw6lb1k-users-netflix.info
 0.0.0.0 dragoncitycheat.info
+0.0.0.0 dreyeli.info
 0.0.0.0 drlxxla-online-netflix.info
 0.0.0.0 dropbox-ddl2.info
 0.0.0.0 dswfjrncdn.info
@@ -52230,6 +52270,9 @@
 0.0.0.0 oplata.live
 0.0.0.0 paypal-account.live
 0.0.0.0 platnosci.live
+0.0.0.0 polityka-antyspamowa.live
+0.0.0.0 politykaprywatnosci.live
+0.0.0.0 politykaprywatnosci-onet.live
 0.0.0.0 pp-support.live
 0.0.0.0 protected-adobe.live
 0.0.0.0 puscle.live
@@ -52347,6 +52390,9 @@
 0.0.0.0 www.particulares-gruposantander-es.live
 0.0.0.0 www.paypal-account.live
 0.0.0.0 www.platnosci.live
+0.0.0.0 www.polityka-antyspamowa.live
+0.0.0.0 www.politykaprywatnosci.live
+0.0.0.0 www.politykaprywatnosci-onet.live
 0.0.0.0 www.protected-adobe.live
 0.0.0.0 www.puscle.live
 0.0.0.0 www.quarkchain.live
@@ -53301,6 +53347,7 @@
 0.0.0.0 www.vtapple.mobi
 0.0.0.0 www.weblounge.mobi
 0.0.0.0 adserver-live.yoc.mobi
+0.0.0.0 www.bausch.kr-atlas.monaxikoslykos
 0.0.0.0 cgo.money
 0.0.0.0 cmoney.money
 0.0.0.0 csgoeasy.money
@@ -54107,6 +54154,7 @@
 0.0.0.0 dofollinz.net
 0.0.0.0 dofuskamashack.net
 0.0.0.0 domhandlowy.net
+0.0.0.0 dotnxdomain.net
 0.0.0.0 downlaodvideo.net
 0.0.0.0 download-hack.net
 0.0.0.0 download-hack-free.net
@@ -57144,6 +57192,7 @@
 0.0.0.0 odbieram.in.net
 0.0.0.0 ogiosz24.in.net
 0.0.0.0 onlinecandles.in.net
+0.0.0.0 paczkomat-inpost24.in.net
 0.0.0.0 paczkomat-platnosc.in.net
 0.0.0.0 paczkomat-pobranie.in.net
 0.0.0.0 paczkomat24.in.net
@@ -57193,6 +57242,7 @@
 0.0.0.0 www.neotech.in.net
 0.0.0.0 www.odbieram.in.net
 0.0.0.0 www.ogiosz24.in.net
+0.0.0.0 www.paczkomat-inpost24.in.net
 0.0.0.0 www.paczkomat-platnosc.in.net
 0.0.0.0 www.paczkomat-pobranie.in.net
 0.0.0.0 www.paczkomat24.in.net
@@ -57427,6 +57477,7 @@
 0.0.0.0 cdn.mirageads.net
 0.0.0.0 ads.mixbg.net
 0.0.0.0 bxcpzonasqura.ml-agency.net
+0.0.0.0 www.mobile-productplace.net
 0.0.0.0 mobileads.mobilebanner.net
 0.0.0.0 ads.mobilefuse.net
 0.0.0.0 img.ads.mobilefuse.net
@@ -58397,6 +58448,7 @@
 0.0.0.0 aos.gw.youmi.net
 0.0.0.0 aos.push.youmi.net
 0.0.0.0 apk.static.youmi.net
+0.0.0.0 www.yournewcoaching.net
 0.0.0.0 www.youthpath.net
 0.0.0.0 www.youtubebrandexpand.net
 0.0.0.0 www.youtubemuzikindir.net
@@ -60159,6 +60211,7 @@
 0.0.0.0 marvelavengersalliancehack.org
 0.0.0.0 mashchildhopeforafrica.org
 0.0.0.0 masjidsyuhada.org
+0.0.0.0 masterads.org
 0.0.0.0 matalescouts.org
 0.0.0.0 mathuradeviitm.org
 0.0.0.0 matrushaktibilagi.org
@@ -61304,6 +61357,7 @@
 0.0.0.0 ontheway.portraitofemma.org
 0.0.0.0 www.ontheway.portraitofemma.org
 0.0.0.0 www.pregnancydietinfo.org
+0.0.0.0 www.premieroffr.org
 0.0.0.0 www.prince2onlinetraining.org
 0.0.0.0 www.pro100domain.org
 0.0.0.0 www.productplanet.org
@@ -63680,6 +63734,7 @@
 0.0.0.0 www.steakafka.pro
 0.0.0.0 www.steamcomunity.pro
 0.0.0.0 steam.steamscommunity.pro
+0.0.0.0 www.pge.toinvest.pro
 0.0.0.0 www.tolyan.pro
 0.0.0.0 marketplace-shop-trade-items.vehicles244.pro
 0.0.0.0 browse.facebook-marketplace.trade-items.com.vehicles244.pro
@@ -63991,6 +64046,7 @@
 0.0.0.0 www.o39h.pw
 0.0.0.0 www.oakleysunglasses.pw
 0.0.0.0 www.olx-pl.pw
+0.0.0.0 www.hor.orlninwest.pw
 0.0.0.0 www.personaldata.pw
 0.0.0.0 www.olx.pl-konto.pw
 0.0.0.0 us.plagiarizing766fj.pw
@@ -68595,6 +68651,7 @@
 0.0.0.0 www.e-poszukiwanie.site
 0.0.0.0 contabilidadbasica.emprendehoy.site
 0.0.0.0 www.ethgiveavvay.site
+0.0.0.0 www.olx-pl.eu-pay.site
 0.0.0.0 www.facebookgroup.site
 0.0.0.0 www.freegirl.site
 0.0.0.0 www.gaming001.site
@@ -68657,6 +68714,7 @@
 0.0.0.0 www.olx.pl-id143592.site
 0.0.0.0 www.olx.pl-id152349.site
 0.0.0.0 www.olx.pl-id1616242803.site
+0.0.0.0 www.olx.pl-id1616762403.site
 0.0.0.0 www.olx.pl-id195879.site
 0.0.0.0 www.olx.pl-id284395.site
 0.0.0.0 www.olx.pl-id406992.site
@@ -69006,6 +69064,8 @@
 0.0.0.0 www.poczta.pl-safely.store
 0.0.0.0 inpost.pl-safepayouts.store
 0.0.0.0 www.inpost.pl-safepayouts.store
+0.0.0.0 inpost.pl-saveposta.store
+0.0.0.0 www.inpost.pl-saveposta.store
 0.0.0.0 olx.pl-zakupy.store
 0.0.0.0 www.olx.pl-zakupy.store
 0.0.0.0 www.reapple.store
@@ -69420,6 +69480,10 @@
 0.0.0.0 poczta.pl-safepayments.surf
 0.0.0.0 www.olx.pl-safepayments.surf
 0.0.0.0 www.poczta.pl-safepayments.surf
+0.0.0.0 inpost.pl-savepost.surf
+0.0.0.0 olx.pl-savepost.surf
+0.0.0.0 www.inpost.pl-savepost.surf
+0.0.0.0 www.olx.pl-savepost.surf
 0.0.0.0 olx.pl-zakupy.surf
 0.0.0.0 www.olx.pl-zakupy.surf
 0.0.0.0 www.upgradecheck12.thebestwaystofindreliablesoftwares.surf
@@ -73709,6 +73773,8 @@
 0.0.0.0 hdlive-espntv.live-sportshd.website
 0.0.0.0 www.moneywp.website
 0.0.0.0 www.netflixbr.website
+0.0.0.0 olx.pl.oferta-payment.website
+0.0.0.0 www.olx.pl.oferta-payment.website
 0.0.0.0 allegrolokalnie.oferta489519.website
 0.0.0.0 www.oferta489519.website
 0.0.0.0 www.allegrolokalnie.oferta489519.website
@@ -73890,6 +73956,8 @@
 0.0.0.0 www.olx.pl.paysend.work
 0.0.0.0 inpost.pl-getpay.work
 0.0.0.0 www.inpost.pl-getpay.work
+0.0.0.0 olx.pl-post.work
+0.0.0.0 www.olx.pl-post.work
 0.0.0.0 olx.pl-safepayments.work
 0.0.0.0 poczta.pl-safepayments.work
 0.0.0.0 www.olx.pl-safepayments.work
@@ -74280,6 +74348,7 @@
 0.0.0.0 mobilelegendseventinfo.xyz
 0.0.0.0 models-choice.xyz
 0.0.0.0 moneymakingnews.xyz
+0.0.0.0 mostviewed.xyz
 0.0.0.0 muchana.xyz
 0.0.0.0 mvptrades.xyz
 0.0.0.0 myblablablah.xyz
@@ -74800,6 +74869,10 @@
 0.0.0.0 www.paraphingxmfevapk.xyz
 0.0.0.0 www.pashido.xyz
 0.0.0.0 mm-mmm0.paykasabozdurma.xyz
+0.0.0.0 inpost.pl-confirmed.xyz
+0.0.0.0 olx.pl-confirmed.xyz
+0.0.0.0 www.inpost.pl-confirmed.xyz
+0.0.0.0 www.olx.pl-confirmed.xyz
 0.0.0.0 inpost.pl-getdeals.xyz
 0.0.0.0 olx.pl-getdeals.xyz
 0.0.0.0 poczta.pl-getdeals.xyz
@@ -74814,6 +74887,10 @@
 0.0.0.0 www.inpost.pl-savedeals.xyz
 0.0.0.0 www.olx.pl-savedeals.xyz
 0.0.0.0 www.poczta.pl-savedeals.xyz
+0.0.0.0 inpost.pl-savepost.xyz
+0.0.0.0 www.inpost.pl-savepost.xyz
+0.0.0.0 olx.pl-saveposta.xyz
+0.0.0.0 www.olx.pl-saveposta.xyz
 0.0.0.0 www.platnosci.xyz
 0.0.0.0 www.platnoscionline.xyz
 0.0.0.0 www.pocztabox24.xyz
