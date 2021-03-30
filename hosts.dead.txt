@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:04 AM Monday 29 March 2021
+# Date: 06:03 AM Tuesday 30 March 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -6063,6 +6063,7 @@
 0.0.0.0 8b5a31f63acbeb2d1d88.com
 0.0.0.0 8c4cab5d072.com
 0.0.0.0 8d9d548d35.com
+0.0.0.0 8e26ad24b3.com
 0.0.0.0 8e7494a66210.com
 0.0.0.0 8ssff.com
 0.0.0.0 8valuedrivers.com
@@ -39486,6 +39487,7 @@
 0.0.0.0 tcy.smartadserver.com
 0.0.0.0 ww309.smartadserver.com
 0.0.0.0 ads.smartdevicemedia.com
+0.0.0.0 api.smartechmetrics.com
 0.0.0.0 www.smartechworldweb.com
 0.0.0.0 www.smarterrorpage.com
 0.0.0.0 www.smartphoneappleiphone.com
@@ -41860,6 +41862,7 @@
 0.0.0.0 adserv.wiredmediainc.com
 0.0.0.0 www.wiredtemple.com
 0.0.0.0 www.wireless-att.com
+0.0.0.0 pie.wirelessregistry.com
 0.0.0.0 banner.wirenode.com
 0.0.0.0 gcirm.wisinfo.com
 0.0.0.0 www.wittmanbiz.com
@@ -51186,6 +51189,7 @@
 0.0.0.0 trk.pixeltracksys.io
 0.0.0.0 www.start.placetolearn.io
 0.0.0.0 www.pokerbox.io
+0.0.0.0 sdk.predic.io
 0.0.0.0 ad.pxlad.io
 0.0.0.0 www.quarkchain-ico.io
 0.0.0.0 www.quarkchains.io
