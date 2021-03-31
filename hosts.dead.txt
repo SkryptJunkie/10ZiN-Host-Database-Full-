@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:03 AM Tuesday 30 March 2021
+# Date: 06:02 AM Wednesday 31 March 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -3317,6 +3317,7 @@
 0.0.0.0 izinet.net.br
 0.0.0.0 maximetal.net.br
 0.0.0.0 meumimo.net.br
+0.0.0.0 movix.net.br
 0.0.0.0 ultraprint.net.br
 0.0.0.0 www.castanheiras.net.br
 0.0.0.0 www.ceimasjm.net.br
@@ -5828,6 +5829,7 @@
 0.0.0.0 4108f01cc82.com
 0.0.0.0 411commerce.com
 0.0.0.0 4121wellsfargo4388181144.com
+0.0.0.0 41274223720.com
 0.0.0.0 417c76f52b0.com
 0.0.0.0 4314fe96fbc.com
 0.0.0.0 437301aa95.com
@@ -6101,6 +6103,7 @@
 0.0.0.0 9c51vda.com
 0.0.0.0 9dc9ece33bd4.com
 0.0.0.0 9dffa299bbc098481e6a.com
+0.0.0.0 9ee5a075e6.com
 0.0.0.0 9gname.com
 0.0.0.0 9jadey.com
 0.0.0.0 9ret0ur-hy7dr0q1c.com
