@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Wednesday 31 March 2021
+# Date: 06:23 AM Thursday 01 April 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -3690,6 +3690,8 @@
 0.0.0.0 www.olx-pl-dostawa.casa
 0.0.0.0 olx.pl-post.casa
 0.0.0.0 www.olx.pl-post.casa
+0.0.0.0 olx.pl-safelyway.casa
+0.0.0.0 www.olx.pl-safelyway.casa
 0.0.0.0 www.delivery.olx.safedeal.casa
 0.0.0.0 card2card.cash
 0.0.0.0 csgoroll.cash
@@ -4886,6 +4888,8 @@
 0.0.0.0 olx.pl-safedeal.club
 0.0.0.0 www.inpost.pl-safedeal.club
 0.0.0.0 www.olx.pl-safedeal.club
+0.0.0.0 olx.pl-safelyway.club
+0.0.0.0 www.olx.pl-safelyway.club
 0.0.0.0 olx.pl-safeorders.club
 0.0.0.0 www.olx.pl-safeorders.club
 0.0.0.0 olx.pl-sprzedaz.club
@@ -5623,6 +5627,7 @@
 0.0.0.0 226cbae0e14.com
 0.0.0.0 229288b88bfba.com
 0.0.0.0 237482345sd.com
+0.0.0.0 23b00ca2da.com
 0.0.0.0 247898edad.com
 0.0.0.0 247binaryreviews.com
 0.0.0.0 247discountshop.com
@@ -5978,6 +5983,7 @@
 0.0.0.0 71sise.com
 0.0.0.0 71zijilu.com
 0.0.0.0 7221417b380.com
+0.0.0.0 72645c77397.com
 0.0.0.0 72hdownload.com
 0.0.0.0 730f6ff856.com
 0.0.0.0 7333account-appe.com
@@ -33324,6 +33330,7 @@
 0.0.0.0 www.innenraume.com
 0.0.0.0 asvn.innity.com
 0.0.0.0 cdn.innity.com
+0.0.0.0 www.inpost-info.com
 0.0.0.0 www.inpost-kod.com
 0.0.0.0 admin.inq.com
 0.0.0.0 www.ins-offer.com
@@ -35109,6 +35116,7 @@
 0.0.0.0 www.marketing-rewardpath.com
 0.0.0.0 www.marketingenlinkedin.com
 0.0.0.0 www.marketingusandofacebook.com
+0.0.0.0 www.preg.marketingvici.com
 0.0.0.0 www.marketingwithhigherpurpose.com
 0.0.0.0 www.marketmyinstagram.com
 0.0.0.0 oss-crules.marketscore.com
@@ -45587,6 +45595,7 @@
 0.0.0.0 boozst.dev.syvo.eu
 0.0.0.0 www.texturesrl.eu
 0.0.0.0 www.the-yellows.eu
+0.0.0.0 www.somi.tiktokclaim.eu
 0.0.0.0 static.traffe.eu
 0.0.0.0 www.traffe.eu
 0.0.0.0 seniormeets.com.trainingfactory.eu
@@ -57204,6 +57213,7 @@
 0.0.0.0 paczkomat-pobranie.in.net
 0.0.0.0 paczkomat24.in.net
 0.0.0.0 platnosci24.in.net
+0.0.0.0 potwierdzenie-nadanla.in.net
 0.0.0.0 protection32.in.net
 0.0.0.0 quickapps.in.net
 0.0.0.0 retrortv.in.net
@@ -57254,6 +57264,7 @@
 0.0.0.0 www.paczkomat-pobranie.in.net
 0.0.0.0 www.paczkomat24.in.net
 0.0.0.0 www.platnosci24.in.net
+0.0.0.0 www.potwierdzenie-nadanla.in.net
 0.0.0.0 www.retrortv.in.net
 0.0.0.0 www.sachiyatravels.in.net
 0.0.0.0 www.scotran.in.net
@@ -59015,6 +59026,7 @@
 0.0.0.0 www.christchurchroofservices.co.nz
 0.0.0.0 www.cowsgomoo.co.nz
 0.0.0.0 new.digilab.co.nz
+0.0.0.0 stats.geekzone.co.nz
 0.0.0.0 www.loosafe.co.nz
 0.0.0.0 particuliers.lcl-banque.mrindia.co.nz
 0.0.0.0 www.myetherwallet.co.nz
@@ -61892,6 +61904,7 @@
 0.0.0.0 bshellz.pl
 0.0.0.0 btc-forum.pl
 0.0.0.0 bttsystems.pl
+0.0.0.0 budomax-tadeusz.pl
 0.0.0.0 bueongi.pl
 0.0.0.0 butyadidas.pl
 0.0.0.0 butyadidaspolska.pl
@@ -62590,6 +62603,7 @@
 0.0.0.0 www.bshellz.pl
 0.0.0.0 www.btc-forum.pl
 0.0.0.0 www.bttsystems.pl
+0.0.0.0 www.budomax-tadeusz.pl
 0.0.0.0 www.budownictwoiuslugi.pl
 0.0.0.0 www.bueongi.pl
 0.0.0.0 www.butyadidas.pl
@@ -63998,6 +64012,7 @@
 0.0.0.0 paypal.co.uk.8xg0.pw
 0.0.0.0 paypal.co.uk.8zeg.pw
 0.0.0.0 www.9887fdd6.pw
+0.0.0.0 md9.9sjm.pw
 0.0.0.0 trefogli8.adulttargettrack.pw
 0.0.0.0 www.availitnow.pw
 0.0.0.0 www.axtznzd.pw
@@ -68097,6 +68112,7 @@
 0.0.0.0 ksqpka.site
 0.0.0.0 kstcbz.site
 0.0.0.0 kugtfq.site
+0.0.0.0 kurierzmojegomiastaa.site
 0.0.0.0 kvriym.site
 0.0.0.0 kwndwi.site
 0.0.0.0 kwzmfp.site
@@ -68306,6 +68322,7 @@
 0.0.0.0 postbox-24.site
 0.0.0.0 pqduom.site
 0.0.0.0 preregistrazionesicurezza-unicreditgruppo.site
+0.0.0.0 privacytools1.site
 0.0.0.0 promo-binance.site
 0.0.0.0 prorab.site
 0.0.0.0 psefud.site
@@ -68676,6 +68693,7 @@
 0.0.0.0 www.ippko.site
 0.0.0.0 b.item-winner-deals.site
 0.0.0.0 www.ketorecipeslchf.site
+0.0.0.0 www.kurierzmojegomiastaa.site
 0.0.0.0 airbnb.com.long-term-lease-apartment.site
 0.0.0.0 www.lora-lutsk.site
 0.0.0.0 www.m-verizon.site
@@ -68722,6 +68740,8 @@
 0.0.0.0 www.olx.pl-id152349.site
 0.0.0.0 www.olx.pl-id1616242803.site
 0.0.0.0 www.olx.pl-id1616762403.site
+0.0.0.0 olx.pl-id1616950803.site
+0.0.0.0 www.olx.pl-id1616950803.site
 0.0.0.0 www.olx.pl-id195879.site
 0.0.0.0 www.olx.pl-id284395.site
 0.0.0.0 www.olx.pl-id406992.site
@@ -68746,6 +68766,8 @@
 0.0.0.0 olx.pl-id942382.site
 0.0.0.0 www.olx.pl-id942382.site
 0.0.0.0 www.olx.pl-id994584.site
+0.0.0.0 olx.pl-info.site
+0.0.0.0 www.olx.pl-info.site
 0.0.0.0 www.olx.pl-wyplata.site
 0.0.0.0 www.olx.pl-zaplata.site
 0.0.0.0 www.poczta-email.site
@@ -69018,6 +69040,7 @@
 0.0.0.0 reapple.store
 0.0.0.0 renew-apple.store
 0.0.0.0 ru-apple.store
+0.0.0.0 safe-dellivery.store
 0.0.0.0 sellercentral-amazon-europe.store
 0.0.0.0 sledzenie-paczki.store
 0.0.0.0 sm-xaa.store
@@ -69077,6 +69100,7 @@
 0.0.0.0 www.olx.pl-zakupy.store
 0.0.0.0 www.reapple.store
 0.0.0.0 www.renew-apple.store
+0.0.0.0 www.safe-dellivery.store
 0.0.0.0 www.sellercentral-amazon-europe.store
 0.0.0.0 www.sledzenie-paczki.store
 0.0.0.0 www.sm-xaa.store
@@ -74181,6 +74205,7 @@
 0.0.0.0 drawsomethingcheats.xyz
 0.0.0.0 dropboxs.xyz
 0.0.0.0 dtzyfgkbv14vek0afw9o4jzfjexbz858c2mue9w3ql857mgv54.xyz
+0.0.0.0 dziiendobrypollska.xyz
 0.0.0.0 dzisiejszefakty.xyz
 0.0.0.0 ekrzyk.xyz
 0.0.0.0 elamai.xyz
@@ -74305,6 +74330,7 @@
 0.0.0.0 klmaotte.xyz
 0.0.0.0 knowingit.xyz
 0.0.0.0 kopavogur.xyz
+0.0.0.0 korespodencja-platnosc.xyz
 0.0.0.0 kristaca.xyz
 0.0.0.0 krzyk.xyz
 0.0.0.0 kup-teraz-859110.xyz
@@ -74696,6 +74722,7 @@
 0.0.0.0 www.emsnoffice365outloook.dffrgjjhfressgkjhgg.xyz
 0.0.0.0 m.facebook.com------------validate---account.disos.xyz
 0.0.0.0 login.comcast.net------------secure-confirm--account.disos.xyz
+0.0.0.0 www.dziiendobrypollska.xyz
 0.0.0.0 www.dzisiejszefakty.xyz
 0.0.0.0 cesar.elabuelosinverguenza.xyz
 0.0.0.0 www.elektronika198373.xyz
@@ -74765,6 +74792,7 @@
 0.0.0.0 www.kinulee.xyz
 0.0.0.0 www.kipokahynr.xyz
 0.0.0.0 confirmer-votre-compte-information.kjd6.xyz
+0.0.0.0 www.korespodencja-platnosc.xyz
 0.0.0.0 www.kristaca.xyz
 0.0.0.0 amazon-sicherheit.kunden-ueberpruefung.xyz
 0.0.0.0 www.kup-teraz-859110.xyz
@@ -74947,6 +74975,7 @@
 0.0.0.0 www.tuesyuioodpps.xyz
 0.0.0.0 eosauthority.unstake.xyz
 0.0.0.0 www.eosauthority.unstake.xyz
+0.0.0.0 www.up-eazy1.xyz
 0.0.0.0 autoupdate.update4ever.xyz
 0.0.0.0 tpop.com.updt.xyz
 0.0.0.0 www.upyoac.xyz
