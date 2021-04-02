@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:23 AM Thursday 01 April 2021
+# Date: 06:02 AM Friday 02 April 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -5957,6 +5957,7 @@
 0.0.0.0 6d2d5f558f3.com
 0.0.0.0 6d9b3be751.com
 0.0.0.0 6e1167fc12a.com
+0.0.0.0 6e1c33faf740.com
 0.0.0.0 6e2d970a9d2.com
 0.0.0.0 6f0ede26e60.com
 0.0.0.0 6f8b7b9fbb6.com
@@ -5973,6 +5974,7 @@
 0.0.0.0 7078784c567.com
 0.0.0.0 7078a8150ea.com
 0.0.0.0 70e52227c403.com
+0.0.0.0 70f2102bcdb4.com
 0.0.0.0 70f4b25c15.com
 0.0.0.0 70pictures.com
 0.0.0.0 7102794ef7.com
@@ -5983,6 +5985,7 @@
 0.0.0.0 71sise.com
 0.0.0.0 71zijilu.com
 0.0.0.0 7221417b380.com
+0.0.0.0 7227018403.com
 0.0.0.0 72645c77397.com
 0.0.0.0 72hdownload.com
 0.0.0.0 730f6ff856.com
@@ -6107,6 +6110,7 @@
 0.0.0.0 9ad850802a.com
 0.0.0.0 9asoft.com
 0.0.0.0 9c51vda.com
+0.0.0.0 9d906d0a8bb.com
 0.0.0.0 9dc9ece33bd4.com
 0.0.0.0 9dffa299bbc098481e6a.com
 0.0.0.0 9ee5a075e6.com
@@ -11007,6 +11011,7 @@
 0.0.0.0 e860045edaecd.com
 0.0.0.0 e9cb2923380.com
 0.0.0.0 e9e1542c796.com
+0.0.0.0 e9e21762138.com
 0.0.0.0 e9mlrvy1.com
 0.0.0.0 ea-traffic-redirection.com
 0.0.0.0 ea6d133f7ae.com
@@ -68068,6 +68073,7 @@
 0.0.0.0 jmorganwriting.site
 0.0.0.0 jnavja.site
 0.0.0.0 jnvmol.site
+0.0.0.0 jobiden.site
 0.0.0.0 jonnydev.site
 0.0.0.0 jozcrn.site
 0.0.0.0 jpmlmc.site
