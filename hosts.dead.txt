@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Friday 02 April 2021
+# Date: 06:03 AM Saturday 03 April 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -11,6 +11,7 @@
 ###
 
 
+0.0.0.0 huerty.*
 0.0.0.0 player-feedback*.glomex.*
 0.0.0.0 collector.xhamster*.*
 0.0.0.0 binary
@@ -11079,6 +11080,7 @@
 0.0.0.0 ecaatasehir.com
 0.0.0.0 ecashxchange.com
 0.0.0.0 ecb55246ab.com
+0.0.0.0 ecdglplsmzxcergaqx.com
 0.0.0.0 eclodtech.com
 0.0.0.0 ecode-santander.com
 0.0.0.0 ecodieselattorney.com
@@ -11572,6 +11574,7 @@
 0.0.0.0 expertpodarkov.com
 0.0.0.0 expertwriterscenter.com
 0.0.0.0 explorando-peru.com
+0.0.0.0 expogrim.com
 0.0.0.0 exposedhacks.com
 0.0.0.0 express-gens.com
 0.0.0.0 expresslogisticspostservice.com
@@ -11871,6 +11874,7 @@
 0.0.0.0 fidesltda.com
 0.0.0.0 fidingonman.com
 0.0.0.0 fidosolutiionpay.com
+0.0.0.0 fiechaev.com
 0.0.0.0 fifa-14-coin-generator.com
 0.0.0.0 fifa-ea.com
 0.0.0.0 fifa13pointsfree.com
@@ -12448,6 +12452,7 @@
 0.0.0.0 galgotiasglobalschool.com
 0.0.0.0 gallatycleaning.com
 0.0.0.0 galleriela.com
+0.0.0.0 galumbor.com
 0.0.0.0 gambling-drop.com
 0.0.0.0 game-hack24.com
 0.0.0.0 game-hacks24.com
@@ -13450,6 +13455,7 @@
 0.0.0.0 hi7800.com
 0.0.0.0 hibe-halkbank.com
 0.0.0.0 hicksmath.com
+0.0.0.0 hiekeegi.com
 0.0.0.0 hieuthoi.com
 0.0.0.0 high-alert24x7.com
 0.0.0.0 higherhealthsolutions.com
@@ -14342,6 +14348,7 @@
 0.0.0.0 isceponlinesube.com
 0.0.0.0 isfmvohloskgw.com
 0.0.0.0 isfxsiooyjad.com
+0.0.0.0 ishahguv.com
 0.0.0.0 iskmarnss.com
 0.0.0.0 islandofhacks.com
 0.0.0.0 islinea.com
@@ -24662,6 +24669,7 @@
 0.0.0.0 zachtdesigns.com
 0.0.0.0 zadhrsvmawp.com
 0.0.0.0 zadlawfirm.com
+0.0.0.0 zaeyaeph.com
 0.0.0.0 zaferteam.com
 0.0.0.0 zagasouidres.com
 0.0.0.0 zajawwgpl.com
@@ -24732,6 +24740,7 @@
 0.0.0.0 zilzolachi.com
 0.0.0.0 zimako.com
 0.0.0.0 zinovila.com
+0.0.0.0 zinphyra.com
 0.0.0.0 ziploaded.com
 0.0.0.0 ziraaatmobilsubedesiniz.com
 0.0.0.0 ziraat-1559yil.com
@@ -48729,6 +48738,7 @@
 0.0.0.0 adsbrokermirror4.info
 0.0.0.0 adserv.info
 0.0.0.0 adservicedomain.info
+0.0.0.0 aew9eigieng.info
 0.0.0.0 affiliatesupport.info
 0.0.0.0 afftracker.info
 0.0.0.0 agenziaent-online.info
@@ -48985,6 +48995,7 @@
 0.0.0.0 cyprusads.info
 0.0.0.0 cyzx9s9ewllry0uyay8-membership-netflix.info
 0.0.0.0 d3efcoabkrut6vkyu-accounts-netflix.info
+0.0.0.0 dah0ooy4doe.info
 0.0.0.0 dailypaypalprofits.info
 0.0.0.0 dailysoccertips.info
 0.0.0.0 daiminhphat.info
@@ -49879,6 +49890,7 @@
 0.0.0.0 web1enhancejs.info
 0.0.0.0 webagosducato.info
 0.0.0.0 webbankof-americaaccess.info
+0.0.0.0 webcontentdelivery.info
 0.0.0.0 webglobaltraffic.info
 0.0.0.0 weblover.info
 0.0.0.0 websitebulacan.info
@@ -54459,6 +54471,7 @@
 0.0.0.0 gowern.net
 0.0.0.0 gram-network.net
 0.0.0.0 grandtheftauto5hacks.net
+0.0.0.0 graphli.net
 0.0.0.0 greatbookswap.net
 0.0.0.0 greatvacationbeirut.net
 0.0.0.0 greenfm.net
@@ -55082,6 +55095,7 @@
 0.0.0.0 radconcept.net
 0.0.0.0 ral2547verizon.net
 0.0.0.0 rap-ltd.net
+0.0.0.0 rapidyl.net
 0.0.0.0 ratemodels.net
 0.0.0.0 razersoft.net
 0.0.0.0 razerzonne.net
@@ -63608,6 +63622,7 @@
 0.0.0.0 dianko.pro
 0.0.0.0 dota2trade.pro
 0.0.0.0 double-skins.pro
+0.0.0.0 dustumbs.pro
 0.0.0.0 ebay--datenschutz.pro
 0.0.0.0 ebay-com-datenschutz.pro
 0.0.0.0 ebay-com-datenschutz-ebay.pro
@@ -63625,6 +63640,7 @@
 0.0.0.0 geteth.pro
 0.0.0.0 giftcardgenerator.pro
 0.0.0.0 harriscote.pro
+0.0.0.0 justailley.pro
 0.0.0.0 justcase.pro
 0.0.0.0 linknext.pro
 0.0.0.0 messengercheck.pro
@@ -63642,7 +63658,9 @@
 0.0.0.0 pomocnapozyczka.pro
 0.0.0.0 prezenty.pro
 0.0.0.0 privatix.pro
+0.0.0.0 queurow.pro
 0.0.0.0 quickweightloss.pro
+0.0.0.0 readvasturked.pro
 0.0.0.0 reez.pro
 0.0.0.0 report-us-apple.pro
 0.0.0.0 roseolsen.pro
@@ -63656,6 +63674,8 @@
 0.0.0.0 spacebets.pro
 0.0.0.0 steakafka.pro
 0.0.0.0 steamcomunity.pro
+0.0.0.0 stimergeners.pro
+0.0.0.0 succumbertson.pro
 0.0.0.0 support-free.pro
 0.0.0.0 support-online.pro
 0.0.0.0 the-ether.pro
@@ -63687,6 +63707,7 @@
 0.0.0.0 vksupports-messange.pro
 0.0.0.0 vksupports-system.pro
 0.0.0.0 vksystem-support.pro
+0.0.0.0 vulging.pro
 0.0.0.0 webtopia.pro
 0.0.0.0 wppilot.pro
 0.0.0.0 xmultiply.pro
@@ -74215,8 +74236,10 @@
 0.0.0.0 dzisiejszefakty.xyz
 0.0.0.0 ekrzyk.xyz
 0.0.0.0 elamai.xyz
+0.0.0.0 elatumal.xyz
 0.0.0.0 elektronika198373.xyz
 0.0.0.0 elmenor.xyz
+0.0.0.0 erberos.xyz
 0.0.0.0 error-service.xyz
 0.0.0.0 eryuop.xyz
 0.0.0.0 escort-girl-strasbourg.xyz
@@ -74629,6 +74652,7 @@
 0.0.0.0 win326.xyz
 0.0.0.0 wkfreech.xyz
 0.0.0.0 wquwb16swlxr03miuell.xyz
+0.0.0.0 wranjeon.xyz
 0.0.0.0 wweellssssweee.xyz
 0.0.0.0 wwesupercardhack.xyz
 0.0.0.0 wx-xcx.xyz
