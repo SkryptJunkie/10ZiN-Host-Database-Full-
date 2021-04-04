@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:03 AM Saturday 03 April 2021
+# Date: 06:02 AM Sunday 04 April 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -5604,6 +5604,7 @@
 0.0.0.0 1tdverify.com
 0.0.0.0 1ttt1.com
 0.0.0.0 1xirsp17.com
+0.0.0.0 1yk851od.com
 0.0.0.0 1yood.com
 0.0.0.0 1zabslwvn538n4i5tcjl.com
 0.0.0.0 2-art-coliseum.com
@@ -9040,6 +9041,7 @@
 0.0.0.0 c1fsparts03-clients.com
 0.0.0.0 c21b3cc85b.com
 0.0.0.0 c25677a7c2.com
+0.0.0.0 c341a7c9502.com
 0.0.0.0 c3477ddc09f.com
 0.0.0.0 c3e8c79280e1f4de01c0dd1e99c2a35m.com
 0.0.0.0 c40ada56da96c20ae0ad.com
