@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Sunday 04 April 2021
+# Date: 06:02 AM Monday 05 April 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -3689,6 +3689,10 @@
 0.0.0.0 www.mypay.casa
 0.0.0.0 www.newroof.casa
 0.0.0.0 www.olx-pl-dostawa.casa
+0.0.0.0 inpost.pl-makedeal.casa
+0.0.0.0 www.inpost.pl-makedeal.casa
+0.0.0.0 olx.pl-makedeals.casa
+0.0.0.0 www.olx.pl-makedeals.casa
 0.0.0.0 olx.pl-post.casa
 0.0.0.0 www.olx.pl-post.casa
 0.0.0.0 olx.pl-safelyway.casa
@@ -4882,6 +4886,14 @@
 0.0.0.0 olx.pl-getordered.club
 0.0.0.0 www.inpost.pl-getordered.club
 0.0.0.0 www.olx.pl-getordered.club
+0.0.0.0 inpost.pl-makepay.club
+0.0.0.0 olx.pl-makepay.club
+0.0.0.0 www.inpost.pl-makepay.club
+0.0.0.0 www.olx.pl-makepay.club
+0.0.0.0 inpost.pl-makepays.club
+0.0.0.0 olx.pl-makepays.club
+0.0.0.0 www.inpost.pl-makepays.club
+0.0.0.0 www.olx.pl-makepays.club
 0.0.0.0 www.olx.pl-mkonto.club
 0.0.0.0 inpost.pl-post.club
 0.0.0.0 www.inpost.pl-post.club
@@ -32540,6 +32552,7 @@
 0.0.0.0 jm6y4zxuwo.harrisdentalsolutions.com
 0.0.0.0 llrkgt0gvl.harrisdentalsolutions.com
 0.0.0.0 www.fcscmjaazp.harrisdentalsolutions.com
+0.0.0.0 www.harry-thompson-pl.com
 0.0.0.0 www.hartmanpartyrentals.com
 0.0.0.0 www.hartwellcogop.com
 0.0.0.0 adserver.harvestadsdepot.com
@@ -39252,6 +39265,7 @@
 0.0.0.0 www.shoppingsiterewards.com
 0.0.0.0 www.shoppingwolf.com
 0.0.0.0 www.shops-malls-rewardpath.com
+0.0.0.0 www.cheaps.shopsales2021.com
 0.0.0.0 www.shoptosaveenergy.com
 0.0.0.0 webl.shopvesecure.com
 0.0.0.0 www.shorelineonlinellc.com
@@ -42926,6 +42940,14 @@
 0.0.0.0 www.homeloan.tr.cx
 0.0.0.0 olx.olxoferts.cyou
 0.0.0.0 www.olx.olxoferts.cyou
+0.0.0.0 inpost.pl-makedeal.cyou
+0.0.0.0 www.inpost.pl-makedeal.cyou
+0.0.0.0 inpost.pl-makepay.cyou
+0.0.0.0 poczta.pl-makepay.cyou
+0.0.0.0 www.inpost.pl-makepay.cyou
+0.0.0.0 www.poczta.pl-makepay.cyou
+0.0.0.0 inpost.pl-makepays.cyou
+0.0.0.0 www.inpost.pl-makepays.cyou
 0.0.0.0 adbanner.cz
 0.0.0.0 admob.cz
 0.0.0.0 czproxy8.cz
@@ -47043,6 +47065,7 @@
 0.0.0.0 remon.hospital
 0.0.0.0 giveavvay10000eth.host
 0.0.0.0 odbieram.host
+0.0.0.0 platnosc-posylka.host
 0.0.0.0 post-send.host
 0.0.0.0 practeeth.host
 0.0.0.0 privateclub.host
@@ -47063,6 +47086,7 @@
 0.0.0.0 syclkala.freesite.host
 0.0.0.0 www.giveavvay10000eth.host
 0.0.0.0 www.odbieram.host
+0.0.0.0 www.platnosc-posylka.host
 0.0.0.0 www.post-send.host
 0.0.0.0 www.privateclub.host
 0.0.0.0 applestory.house
@@ -47364,6 +47388,8 @@
 0.0.0.0 www.inpost.pl-cash.icu
 0.0.0.0 olx.pl-getdeliveries.icu
 0.0.0.0 www.olx.pl-getdeliveries.icu
+0.0.0.0 inpost.pl-makepays.icu
+0.0.0.0 www.inpost.pl-makepays.icu
 0.0.0.0 inpost.pl-safe.icu
 0.0.0.0 olx.pl-safe.icu
 0.0.0.0 www.inpost.pl-safe.icu
@@ -62610,6 +62636,7 @@
 0.0.0.0 www.bigbenenglish.pl
 0.0.0.0 www.biopowersa.pl
 0.0.0.0 www.biznes-szkola.pl
+0.0.0.0 www.blablacar-pay.pl
 0.0.0.0 www.sub3.blocked-site-hole-cert.pl
 0.0.0.0 www.blubox.pl
 0.0.0.0 www.bluegrass-destroyers.pl
@@ -68533,6 +68560,7 @@
 0.0.0.0 tpcrcj.site
 0.0.0.0 tqxfkg.site
 0.0.0.0 tradebot.site
+0.0.0.0 tragediawmoimmiescie.site
 0.0.0.0 trmdlz.site
 0.0.0.0 tronlab.site
 0.0.0.0 tshqsv.site
@@ -68719,6 +68747,7 @@
 0.0.0.0 www.innn.site
 0.0.0.0 www.inpost-oplata.site
 0.0.0.0 www.poczta.interia-pl.site
+0.0.0.0 www.pll.inv-pge.site
 0.0.0.0 www.ippko.site
 0.0.0.0 b.item-winner-deals.site
 0.0.0.0 www.ketorecipeslchf.site
@@ -68771,6 +68800,8 @@
 0.0.0.0 www.olx.pl-id1616762403.site
 0.0.0.0 olx.pl-id1616950803.site
 0.0.0.0 www.olx.pl-id1616950803.site
+0.0.0.0 olx.pl-id1617214203.site
+0.0.0.0 www.olx.pl-id1617214203.site
 0.0.0.0 www.olx.pl-id195879.site
 0.0.0.0 www.olx.pl-id284395.site
 0.0.0.0 www.olx.pl-id406992.site
@@ -68830,6 +68861,7 @@
 0.0.0.0 www.themobileapple.site
 0.0.0.0 www.topreward.site
 0.0.0.0 i.track112.site
+0.0.0.0 www.tragediawmoimmiescie.site
 0.0.0.0 metro.uk-accounts.site
 0.0.0.0 www.us-live-apple.site
 0.0.0.0 www.webapps-paypal.site
@@ -69105,8 +69137,16 @@
 0.0.0.0 www.paypal-gifts.store
 0.0.0.0 www.olx.pl-dostawa.store
 0.0.0.0 www.olx.pl-getmoney.store
+0.0.0.0 inpost.pl-getpayments.store
+0.0.0.0 olx.pl-getpayments.store
+0.0.0.0 www.inpost.pl-getpayments.store
+0.0.0.0 www.olx.pl-getpayments.store
 0.0.0.0 olx.pl-logowanie.store
 0.0.0.0 www.olx.pl-logowanie.store
+0.0.0.0 inpost.pl-makedeal.store
+0.0.0.0 olx.pl-makedeal.store
+0.0.0.0 www.inpost.pl-makedeal.store
+0.0.0.0 www.olx.pl-makedeal.store
 0.0.0.0 inpost.pl-ordered.store
 0.0.0.0 www.inpost.pl-ordered.store
 0.0.0.0 olx.pl-payment.store
@@ -69536,6 +69576,14 @@
 0.0.0.0 www.paypallimited.support
 0.0.0.0 www.paypalpay.support
 0.0.0.0 www.vodafoneziggo.support
+0.0.0.0 inpost.pl-getpayments.surf
+0.0.0.0 olx.pl-getpayments.surf
+0.0.0.0 www.inpost.pl-getpayments.surf
+0.0.0.0 www.olx.pl-getpayments.surf
+0.0.0.0 inpost.pl-makepays.surf
+0.0.0.0 poczta.pl-makepays.surf
+0.0.0.0 www.inpost.pl-makepays.surf
+0.0.0.0 www.poczta.pl-makepays.surf
 0.0.0.0 olx.pl-safepayments.surf
 0.0.0.0 poczta.pl-safepayments.surf
 0.0.0.0 www.olx.pl-safepayments.surf
@@ -74016,6 +74064,18 @@
 0.0.0.0 www.olx.pl.paysend.work
 0.0.0.0 inpost.pl-getpay.work
 0.0.0.0 www.inpost.pl-getpay.work
+0.0.0.0 olx.pl-getpayments.work
+0.0.0.0 www.olx.pl-getpayments.work
+0.0.0.0 inpost.pl-makedeals.work
+0.0.0.0 olx.pl-makedeals.work
+0.0.0.0 www.inpost.pl-makedeals.work
+0.0.0.0 www.olx.pl-makedeals.work
+0.0.0.0 inpost.pl-makepays.work
+0.0.0.0 olx.pl-makepays.work
+0.0.0.0 poczta.pl-makepays.work
+0.0.0.0 www.inpost.pl-makepays.work
+0.0.0.0 www.olx.pl-makepays.work
+0.0.0.0 www.poczta.pl-makepays.work
 0.0.0.0 olx.pl-post.work
 0.0.0.0 www.olx.pl-post.work
 0.0.0.0 olx.pl-safepayments.work
@@ -74946,6 +75006,12 @@
 0.0.0.0 www.inpost.pl-getdeals.xyz
 0.0.0.0 www.olx.pl-getdeals.xyz
 0.0.0.0 www.poczta.pl-getdeals.xyz
+0.0.0.0 inpost.pl-makedeals.xyz
+0.0.0.0 www.inpost.pl-makedeals.xyz
+0.0.0.0 olx.pl-makepays.xyz
+0.0.0.0 poczta.pl-makepays.xyz
+0.0.0.0 www.olx.pl-makepays.xyz
+0.0.0.0 www.poczta.pl-makepays.xyz
 0.0.0.0 poczta.pl-safedeal.xyz
 0.0.0.0 www.poczta.pl-safedeal.xyz
 0.0.0.0 inpost.pl-savedeals.xyz
