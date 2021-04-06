@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Monday 05 April 2021
+# Date: 06:02 AM Tuesday 06 April 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -5509,6 +5509,7 @@
 0.0.0.0 066044ef36.com
 0.0.0.0 068943613eb.com
 0.0.0.0 06dd0894cce50c.com
+0.0.0.0 06f7da3f1535.com
 0.0.0.0 07567b5175d.com
 0.0.0.0 078f1809206a.com
 0.0.0.0 08a14e37bb.com
@@ -5799,6 +5800,7 @@
 0.0.0.0 36cfbd917fd.com
 0.0.0.0 36robots.com
 0.0.0.0 377baidu.com
+0.0.0.0 37a4ffab14b.com
 0.0.0.0 382b09405a19.com
 0.0.0.0 3878896c72ed218.com
 0.0.0.0 395e27cfc83ea88f.com
@@ -6143,6 +6145,7 @@
 0.0.0.0 a0liasoleadersrfectearchcustohihingnepelectione.com
 0.0.0.0 a10fortenmatchmakers.com
 0.0.0.0 a1englishtest.com
+0.0.0.0 a26e8205e7023.com
 0.0.0.0 a2ba3784cb354807d.com
 0.0.0.0 a2eeaee88e.com
 0.0.0.0 a2zeeholidays.com
@@ -9279,6 +9282,7 @@
 0.0.0.0 cebteteb-tr-mobil-puan.com
 0.0.0.0 cebuorange.com
 0.0.0.0 cecymertopdesign.com
+0.0.0.0 ceepq.com
 0.0.0.0 cef-empresa.com
 0.0.0.0 cef5b491241aa0f3.com
 0.0.0.0 cef915c718.com
@@ -9481,6 +9485,7 @@
 0.0.0.0 choice-rx.com
 0.0.0.0 choicesurveypanel.com
 0.0.0.0 chopkinsfischer.com
+0.0.0.0 chopstick16.com
 0.0.0.0 chopwise.com
 0.0.0.0 chotto-ippuku.com
 0.0.0.0 chowebno1.com
