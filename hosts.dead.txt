@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Wednesday 07 April 2021
+# Date: 06:02 AM Thursday 08 April 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -16,6 +16,7 @@
 0.0.0.0 collector.xhamster*.*
 0.0.0.0 binary
 0.0.0.0 version="1.0"
+0.0.0.0 s.hu.d.es.h.d.u.e54.78.16247@
 0.0.0.0 thefirmlawgrop.com.a
 0.0.0.0 winghamelectrical.com.a
 0.0.0.0 eos.ac
@@ -5658,6 +5659,7 @@
 0.0.0.0 2569d02c22c.com
 0.0.0.0 267932.com
 0.0.0.0 272351.com
+0.0.0.0 272487a244.com
 0.0.0.0 27dd3562e339.com
 0.0.0.0 27fa0ce65e.com
 0.0.0.0 28570a644a.com
@@ -42154,6 +42156,7 @@
 0.0.0.0 www.api.admob.xiaomi.com
 0.0.0.0 www.sgp.o2o.api.xiaomi.com
 0.0.0.0 ad.intl.xiaomi.com
+0.0.0.0 diagnosis.ad.intl.xiaomi.com
 0.0.0.0 zeus.ad.intl.xiaomi.com
 0.0.0.0 www.api.ad.intl.xiaomi.com
 0.0.0.0 www.sdkconfig.ad.intl.xiaomi.com
@@ -47178,6 +47181,7 @@
 0.0.0.0 www.steinhauser.hu
 0.0.0.0 www.turiplaza.hu
 0.0.0.0 www.vedredi.hu
+0.0.0.0 alumni.hildred.ibbott@
 0.0.0.0 8wfl.icu
 0.0.0.0 aimseychelles.icu
 0.0.0.0 anjimoniquephotography.icu
@@ -59284,6 +59288,7 @@
 0.0.0.0 m-verizon.online
 0.0.0.0 mail-auth.online
 0.0.0.0 manage-apple.online
+0.0.0.0 masharie.online
 0.0.0.0 mcro2018.online
 0.0.0.0 megaricardoofertas.online
 0.0.0.0 melhoresseriesnetflix.online
