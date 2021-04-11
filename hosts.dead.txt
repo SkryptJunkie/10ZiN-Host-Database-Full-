@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:03 AM Saturday 10 April 2021
+# Date: 06:02 AM Sunday 11 April 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -378,6 +378,7 @@
 0.0.0.0 wsdysuresbonescageqa.dns.army
 0.0.0.0 wsdytheviejupcazwsdf.dns.army
 0.0.0.0 wsdyworkfinerainbows.dns.army
+0.0.0.0 zgchgwsdycloudgowsaq.dns.army
 0.0.0.0 alabama-usa.art
 0.0.0.0 anhle.art
 0.0.0.0 olx-zamowienie.art
@@ -5559,6 +5560,7 @@
 0.0.0.0 0a225c134735c.com
 0.0.0.0 0a6efd24b565c.com
 0.0.0.0 0apple0.com
+0.0.0.0 0b5a4ab9a6.com
 0.0.0.0 0c12b89c3738.com
 0.0.0.0 0c9d45a04fff.com
 0.0.0.0 0ca0c1f060.com
@@ -6141,6 +6143,7 @@
 0.0.0.0 8z412.com
 0.0.0.0 901openyourmin4success.com
 0.0.0.0 90454d05252.com
+0.0.0.0 906cccf2c19.com
 0.0.0.0 90ad550f42.com
 0.0.0.0 90b1acd62f5.com
 0.0.0.0 912070dfe9437.com
@@ -11836,6 +11839,7 @@
 0.0.0.0 fb-request-appeal-1000052145264723.com
 0.0.0.0 fb-support-request-for-property-rights.com
 0.0.0.0 fb-verfiy.com
+0.0.0.0 fb66096fdff.com
 0.0.0.0 fbacchacker.com
 0.0.0.0 fbaccounthacker.com
 0.0.0.0 fbaccounthacking.com
@@ -70262,9 +70266,11 @@
 0.0.0.0 yhdfjr.tk
 0.0.0.0 yhdyhdfjr.tk
 0.0.0.0 yvanfrnn.tk
+0.0.0.0 ziyker4gaming@zytrox.tk
 0.0.0.0 zjbhkdzg.tk
 0.0.0.0 login.yahoo.com.0x4fc271.tk
 0.0.0.0 www.23-relr.tk
+0.0.0.0 yeq.i.u.j.ia.n.3@zytrox.tk
 0.0.0.0 www.accer-inc.tk
 0.0.0.0 www.accesspass.tk
 0.0.0.0 www.acepark.tk
@@ -70281,6 +70287,7 @@
 0.0.0.0 www.bizdevar.tk
 0.0.0.0 www.bodranowelnaver.tk
 0.0.0.0 updateinfo.ucoek.buys6zominu881mangoooiu.tk
+0.0.0.0 l.oc.atevur.c@zytrox.tk
 0.0.0.0 www.chisfr.tk
 0.0.0.0 www.devkit.tk
 0.0.0.0 updddha.dhlercodhl.tk
@@ -70310,6 +70317,8 @@
 0.0.0.0 storage.ourmail.tk
 0.0.0.0 www.outerdobancha.tk
 0.0.0.0 www.piuxnybt.tk
+0.0.0.0 a.stro.lo.gy.t.em.r@zytrox.tk
+0.0.0.0 qu.o.t.ev.v.n.r@zytrox.tk
 0.0.0.0 www.riestudanfreebcotee.tk
 0.0.0.0 www.rocleotolonva.tk
 0.0.0.0 net.seriesan.tk
@@ -70322,6 +70331,7 @@
 0.0.0.0 oauth.statushunt.tk
 0.0.0.0 www.sultmba.tk
 0.0.0.0 www.supmail-bnakofamerica.tk
+0.0.0.0 b.r.uce.lee.b.es.t@zytrox.tk
 0.0.0.0 www.tarm.tk
 0.0.0.0 www.thevanda.tk
 0.0.0.0 www.toyota-mobile.tk
@@ -70333,6 +70343,7 @@
 0.0.0.0 www.videosmatch.tk
 0.0.0.0 www.voiturepascheres.tk
 0.0.0.0 www.xenewns.tk
+0.0.0.0 c.ompact.i.o.np.d.yu@zytrox.tk
 0.0.0.0 microsoft.tl
 0.0.0.0 www.microsoft.tl
 0.0.0.0 educationdoctor.tn
