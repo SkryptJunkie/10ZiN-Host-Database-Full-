@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Sunday 11 April 2021
+# Date: 06:02 AM Monday 12 April 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -6083,6 +6083,7 @@
 0.0.0.0 7z412.com
 0.0.0.0 800-my-apple.com
 0.0.0.0 8033088.com
+0.0.0.0 8067edb5f4.com
 0.0.0.0 811plus.com
 0.0.0.0 816wnsr.com
 0.0.0.0 8188wnsr.com
