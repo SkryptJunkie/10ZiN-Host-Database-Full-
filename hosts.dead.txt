@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:04 AM Wednesday 14 April 2021
+# Date: 06:02 AM Thursday 15 April 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -289,7 +289,9 @@
 0.0.0.0 algreensndykeghesnpw.dns.army
 0.0.0.0 algreenstdykeghestak.dns.army
 0.0.0.0 alhjchfsndyonlinsnwq.dns.army
+0.0.0.0 alhjchfstdyonlinsthg.dns.army
 0.0.0.0 alhjchstdyfonlinstgf.dns.army
+0.0.0.0 annyms2stdygeneratin.dns.army
 0.0.0.0 antisndypiracydesnzm.dns.army
 0.0.0.0 chise2neversndywalka.dns.army
 0.0.0.0 chise2stdyneverwasta.dns.army
@@ -302,6 +304,7 @@
 0.0.0.0 ibgreenstdykeghestfg.dns.army
 0.0.0.0 ibgreenstdykeghestpk.dns.army
 0.0.0.0 kungsb2sndygotchtsnp.dns.army
+0.0.0.0 kungsb2stdytalenjfst.dns.army
 0.0.0.0 kungsb2tsdygotchtsaw.dns.army
 0.0.0.0 kungwsdycommunicwsgd.dns.army
 0.0.0.0 kungwsdycommunicwsxv.dns.army
@@ -348,6 +351,7 @@
 0.0.0.0 stdynbnbnewagedevixz.dns.army
 0.0.0.0 stdynbnbnewagedevxaz.dns.army
 0.0.0.0 stdynmxwllminoragest.dns.army
+0.0.0.0 stdyperezluzcafefrst.dns.army
 0.0.0.0 stdyrmtcntlenverpfbi.dns.army
 0.0.0.0 stdyrmtcntlenverstoq.dns.army
 0.0.0.0 stdyrmtcntlfarmtrypo.dns.army
@@ -5633,6 +5637,7 @@
 0.0.0.0 10188118.com
 0.0.0.0 10bestsearch.com
 0.0.0.0 10daysdetoxplan.com
+0.0.0.0 10f0c7b222.com
 0.0.0.0 1102478ce1.com
 0.0.0.0 1111outlet.com
 0.0.0.0 111appleton-1.com
@@ -59353,6 +59358,7 @@
 0.0.0.0 central-netflix.online
 0.0.0.0 centralnetflix.online
 0.0.0.0 centralsuportenetflixoficial.online
+0.0.0.0 chocolateuncle.online
 0.0.0.0 cloud-adobe.online
 0.0.0.0 coinsforfree.online
 0.0.0.0 comofuncionanetflix.online
