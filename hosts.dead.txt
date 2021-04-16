@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Thursday 15 April 2021
+# Date: 06:02 AM Friday 16 April 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -968,6 +968,7 @@
 0.0.0.0 www.sentinelplus.com.au
 0.0.0.0 transamericaannuities.com.login.login.aspx.profile.web.ssocontroller.cmd.ssoresume.idpxuhs3.resumesaml20.idp.sso.pingspentityft.sharpiescharitychallenge.com.au
 0.0.0.0 www.transamericaannuities.com.login.login.aspx.profile.web.ssocontroller.cmd.ssoresume.idpxuhs3.resumesaml20.idp.sso.pingspentityft.sharpiescharitychallenge.com.au
+0.0.0.0 po.siteunderconstruction.com.au
 0.0.0.0 u.skimstone.com.au
 0.0.0.0 www.smallbusinessdirectoryaustralia.com.au
 0.0.0.0 bankofamerica.com-activity.soundstrategyaccounts.com.au
@@ -6115,6 +6116,7 @@
 0.0.0.0 7687d91e8ad8.com
 0.0.0.0 777mobileslots.com
 0.0.0.0 77ccrc.com
+0.0.0.0 781ca8a804e.com
 0.0.0.0 788522cceae.com
 0.0.0.0 7903dabd2b6.com
 0.0.0.0 7a418ea5bc199.com
@@ -10481,6 +10483,7 @@
 0.0.0.0 d6d323f64062.com
 0.0.0.0 d7a14c3e5ce6.com
 0.0.0.0 d7f2615c71a1567cc13cf3a7f7de6aea.com
+0.0.0.0 d80ca4cff3.com
 0.0.0.0 d84b95a7c3e.com
 0.0.0.0 daalmorse.com
 0.0.0.0 dacorgas.com
