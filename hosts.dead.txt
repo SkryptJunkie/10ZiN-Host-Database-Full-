@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Friday 16 April 2021
+# Date: 06:02 AM Saturday 17 April 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -6011,6 +6011,7 @@
 0.0.0.0 57473b6b571.com
 0.0.0.0 575f4e87970f177969fe.com
 0.0.0.0 58c30e7b29e.com
+0.0.0.0 596317de3d.com
 0.0.0.0 59ce3f2bf1b3.com
 0.0.0.0 59ef0480b3fd.com
 0.0.0.0 5accb38d350.com
@@ -70405,6 +70406,7 @@
 0.0.0.0 ziyker4gaming@zytrox.tk
 0.0.0.0 zjbhkdzg.tk
 0.0.0.0 login.yahoo.com.0x4fc271.tk
+0.0.0.0 s.hu.d.es.h.d.u.e54.78.16247@zytrox.tk
 0.0.0.0 www.23-relr.tk
 0.0.0.0 yeq.i.u.j.ia.n.3@zytrox.tk
 0.0.0.0 www.accer-inc.tk
@@ -74688,6 +74690,7 @@
 0.0.0.0 issue70.xyz
 0.0.0.0 j11g9xecuxe43xu.xyz
 0.0.0.0 j12z7407gwtzk.xyz
+0.0.0.0 jelly1.xyz
 0.0.0.0 jercaus.xyz
 0.0.0.0 jhyrgweb.xyz
 0.0.0.0 jiopd.xyz
