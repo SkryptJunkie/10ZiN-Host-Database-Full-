@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Saturday 17 April 2021
+# Date: 06:02 AM Sunday 18 April 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -5909,6 +5909,7 @@
 0.0.0.0 3abcc69ab8c.com
 0.0.0.0 3abd17850c2.com
 0.0.0.0 3arduino.com
+0.0.0.0 3b202770a2.com
 0.0.0.0 3brothersit.com
 0.0.0.0 3c34083bda22d8.com
 0.0.0.0 3c917200d3.com
@@ -5952,6 +5953,7 @@
 0.0.0.0 4121wellsfargo4388181144.com
 0.0.0.0 41274223720.com
 0.0.0.0 417c76f52b0.com
+0.0.0.0 42ed29d67ed.com
 0.0.0.0 4314fe96fbc.com
 0.0.0.0 437301aa95.com
 0.0.0.0 43e6c30abcff9.com
@@ -6014,6 +6016,7 @@
 0.0.0.0 596317de3d.com
 0.0.0.0 59ce3f2bf1b3.com
 0.0.0.0 59ef0480b3fd.com
+0.0.0.0 59ef627aa2a.com
 0.0.0.0 5accb38d350.com
 0.0.0.0 5b1cd20a44adf.com
 0.0.0.0 5b241d28316f1.com
@@ -6484,6 +6487,7 @@
 0.0.0.0 adblizglobal.com
 0.0.0.0 add-vicevodka.com
 0.0.0.0 addealing.com
+0.0.0.0 addf5c754cc6.com
 0.0.0.0 addiafortcnewtionhcmai.com
 0.0.0.0 addition-games.com
 0.0.0.0 addon-teamspeak.com
@@ -25364,6 +25368,7 @@
 0.0.0.0 www.51netflix.com
 0.0.0.0 www.55163.com
 0.0.0.0 stat.55bbs.com
+0.0.0.0 united.5765@panslimiterd.com
 0.0.0.0 ahalam.5gbfree.com
 0.0.0.0 anababayala.5gbfree.com
 0.0.0.0 andrewd.5gbfree.com
