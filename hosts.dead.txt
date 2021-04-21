@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:15 AM Tuesday 20 April 2021
+# Date: 06:03 AM Wednesday 21 April 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -5978,6 +5978,7 @@
 0.0.0.0 4068da5498.com
 0.0.0.0 406a2cf98e7.com
 0.0.0.0 40a9e06f54.com
+0.0.0.0 40f386e243.com
 0.0.0.0 40xbfzk8.com
 0.0.0.0 410886a0d98cf.com
 0.0.0.0 4108f01cc82.com
@@ -14974,6 +14975,7 @@
 0.0.0.0 johnsuresh.com
 0.0.0.0 joinboxx.com
 0.0.0.0 joinfuckbook.com
+0.0.0.0 joinnowinstantly.com
 0.0.0.0 joinrb24.com
 0.0.0.0 jointbisnis.com
 0.0.0.0 jojilabola.com
@@ -15091,6 +15093,7 @@
 0.0.0.0 jyahmckzsbh.com
 0.0.0.0 jymactroltd.com
 0.0.0.0 jyujouii.com
+0.0.0.0 jz9ugaqb.com
 0.0.0.0 jzbutifk.com
 0.0.0.0 jzjhcpdf.com
 0.0.0.0 jzkznpleaqshdj.com
@@ -64402,6 +64405,7 @@
 0.0.0.0 airbnb.com.online-booking.reference1618.pw
 0.0.0.0 stats.remoteserver.pw
 0.0.0.0 www.rffpp.pw
+0.0.0.0 drolukse.rokz@modem.pw
 0.0.0.0 www.rwrxjj.pw
 0.0.0.0 www.rzqbulpmw.pw
 0.0.0.0 runescape.com.sd3.pw
