@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:03 AM Wednesday 21 April 2021
+# Date: 06:03 AM Thursday 22 April 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -5634,6 +5634,7 @@
 0.0.0.0 068943613eb.com
 0.0.0.0 06dd0894cce50c.com
 0.0.0.0 06f7da3f1535.com
+0.0.0.0 0748d0112a4fb.com
 0.0.0.0 07567b5175d.com
 0.0.0.0 075c83915a3a.com
 0.0.0.0 078f1809206a.com
@@ -5818,6 +5819,7 @@
 0.0.0.0 2shocking4you.com
 0.0.0.0 2whatsappin1phone.com
 0.0.0.0 2xfashion.com
+0.0.0.0 30104fd89dc.com
 0.0.0.0 303ed23487.com
 0.0.0.0 304c40d20085e.com
 0.0.0.0 30b83dd302.com
@@ -6030,6 +6032,7 @@
 0.0.0.0 5116776.com
 0.0.0.0 5116778.com
 0.0.0.0 5116779.com
+0.0.0.0 5147d4b423.com
 0.0.0.0 51d12014cd0.com
 0.0.0.0 51hzmn.com
 0.0.0.0 51jczxw.com
@@ -6179,6 +6182,7 @@
 0.0.0.0 7z412.com
 0.0.0.0 800-my-apple.com
 0.0.0.0 8033088.com
+0.0.0.0 806360b129d126.com
 0.0.0.0 8067edb5f4.com
 0.0.0.0 811plus.com
 0.0.0.0 816wnsr.com
@@ -6303,6 +6307,7 @@
 0.0.0.0 a6fee1ae1cf4f5f542c1b1b149509aui.com
 0.0.0.0 a7b4bc0ebab.com
 0.0.0.0 a7search.com
+0.0.0.0 a876140f415c.com
 0.0.0.0 a8c37822e110e3.com
 0.0.0.0 a920bf7a549.com
 0.0.0.0 a948848111.com
@@ -9196,6 +9201,7 @@
 0.0.0.0 c-1us-webapps.com
 0.0.0.0 c029aa09b9f.com
 0.0.0.0 c04fdaaf623.com
+0.0.0.0 c0eb07a7cf947.com
 0.0.0.0 c0f788d6814.com
 0.0.0.0 c1097a71d9f4a200b172968e40fbbbee.com
 0.0.0.0 c1fsparts03-clients.com
@@ -11173,6 +11179,7 @@
 0.0.0.0 e5f06193a7.com
 0.0.0.0 e6047cde66.com
 0.0.0.0 e69e1360c7.com
+0.0.0.0 e6d7b3e5d9f.com
 0.0.0.0 e739acf90a.com
 0.0.0.0 e746f6279559c.com
 0.0.0.0 e765487792.com
@@ -11783,6 +11790,7 @@
 0.0.0.0 f07220faf8.com
 0.0.0.0 f11440076c16.com
 0.0.0.0 f1288404ece4.com
+0.0.0.0 f18ea5c9f46a.com
 0.0.0.0 f1legroup.com
 0.0.0.0 f2b44414ad5.com
 0.0.0.0 f2phacks.com
@@ -11794,6 +11802,7 @@
 0.0.0.0 f5a7708fb1e03cc0dc51.com
 0.0.0.0 f6f41f98b4.com
 0.0.0.0 f774d56fd4d98.com
+0.0.0.0 f8205a529477e1.com
 0.0.0.0 f826fdf639.com
 0.0.0.0 f82af04fb2888.com
 0.0.0.0 f82ef2dafcfe.com
@@ -29826,6 +29835,7 @@
 0.0.0.0 adk2trk.cpmrocket.com
 0.0.0.0 cdn2.cpmstar.com
 0.0.0.0 www.cportal4u.com
+0.0.0.0 info.cprtonintl.com
 0.0.0.0 ads.cpsgsoftware.com
 0.0.0.0 adserving.cpxinteractive.com
 0.0.0.0 panther1.cpxinteractive.com
@@ -38030,6 +38040,7 @@
 0.0.0.0 www.pyanmpald.com
 0.0.0.0 appleid.apple.com-en.secure2.pyle-locked.com
 0.0.0.0 www.pym-netflix.com
+0.0.0.0 app.are.ntf.yn.q@lidamtour.com
 0.0.0.0 developer.qbicblack.com
 0.0.0.0 www.developer.qbicblack.com
 0.0.0.0 interac.qc-hydro.com
@@ -65039,6 +65050,7 @@
 0.0.0.0 www.ztapobanefuller.review
 0.0.0.0 www.zyiztazhfprochain.review
 0.0.0.0 www.zzptzdhugavot.review
+0.0.0.0 prud.e.nttg.ri@
 0.0.0.0 aehm.ro
 0.0.0.0 aesatom.ro
 0.0.0.0 agrouniqum.ro
