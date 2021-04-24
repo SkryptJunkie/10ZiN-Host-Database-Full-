@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Friday 23 April 2021
+# Date: 06:02 AM Saturday 24 April 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -15,8 +15,10 @@
 0.0.0.0 player-feedback*.glomex.*
 0.0.0.0 collector.xhamster*.*
 0.0.0.0 binary
+0.0.0.0 info@
 0.0.0.0 version="1.0"
 0.0.0.0 s.hu.d.es.h.d.u.e54.78.16247@
+0.0.0.0 yeq.i.u.j.ia.n.3@
 0.0.0.0 thefirmlawgrop.com.a
 0.0.0.0 winghamelectrical.com.a
 0.0.0.0 eos.ac
@@ -6231,6 +6233,7 @@
 0.0.0.0 88kkvv.com
 0.0.0.0 898protrudesolve.com
 0.0.0.0 8a13cd2a7e.com
+0.0.0.0 8b1192f16d.com
 0.0.0.0 8b18a31eb3.com
 0.0.0.0 8b5a31f63acbeb2d1d88.com
 0.0.0.0 8c4cab5d072.com
@@ -28043,6 +28046,7 @@
 0.0.0.0 www.azmsoft.com
 0.0.0.0 depositauthorizations.canadacentral.cloudapp.azure.com
 0.0.0.0 funds-cradeposits.canadacentral.cloudapp.azure.com
+0.0.0.0 conlazionzzytz.eastus.cloudapp.azure.com
 0.0.0.0 deudaurgente.eastus.cloudapp.azure.com
 0.0.0.0 muerte.eastus.cloudapp.azure.com
 0.0.0.0 obligacion.eastus.cloudapp.azure.com
@@ -52635,6 +52639,7 @@
 0.0.0.0 www.cryptomediamoney.live
 0.0.0.0 www.d-offers.live
 0.0.0.0 www.decimalprovehour8.live
+0.0.0.0 b.o.nanz.ajhrw@b.dircgame.live
 0.0.0.0 www.effectstorestream1.live
 0.0.0.0 www.effectstorestream13.live
 0.0.0.0 www.effectstorestream2.live
@@ -64500,6 +64505,7 @@
 0.0.0.0 guidelineservices.com.qa
 0.0.0.0 a.stro.lo.gy.t.em.r
 0.0.0.0 qu.o.t.ev.v.n.r
+0.0.0.0 a.stro.lo.gy.t.em.r@
 0.0.0.0 apple-best.racing
 0.0.0.0 cryptobtc.racing
 0.0.0.0 maxgenerator.racing
