@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Saturday 24 April 2021
+# Date: 06:11 AM Sunday 25 April 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -102,6 +102,7 @@
 0.0.0.0 www.www.wellsfargo.com.checking.wfconfirm.agency
 0.0.0.0 chatchat.ai
 0.0.0.0 www.chatchat.ai
+0.0.0.0 b.o.nanz.ajhrw
 0.0.0.0 bin1.kns1.al
 0.0.0.0 www.redirect.al
 0.0.0.0 arthursarkissian.am
@@ -3718,6 +3719,8 @@
 0.0.0.0 www.olx-pl-dostawa.casa
 0.0.0.0 www.pl-buy.casa
 0.0.0.0 www.pl-buyorder.casa
+0.0.0.0 inpost.pl-kontos-oferta.casa
+0.0.0.0 www.inpost.pl-kontos-oferta.casa
 0.0.0.0 inpost.pl-makedeal.casa
 0.0.0.0 www.pl-makedeal.casa
 0.0.0.0 www.inpost.pl-makedeal.casa
@@ -4942,6 +4945,7 @@
 0.0.0.0 huntington.ibanks.club
 0.0.0.0 www.idms-apple-pay.club
 0.0.0.0 b.ifmnwi.club
+0.0.0.0 www.informacja.club
 0.0.0.0 www.ipko.club
 0.0.0.0 www.jestnatoczass.club
 0.0.0.0 www.joshkelly.club
@@ -4984,8 +4988,16 @@
 0.0.0.0 olx.pl-getordered.club
 0.0.0.0 www.inpost.pl-getordered.club
 0.0.0.0 www.olx.pl-getordered.club
+0.0.0.0 olx.pl-holding.club
+0.0.0.0 www.olx.pl-holding.club
+0.0.0.0 olx.pl-holdmoney.club
+0.0.0.0 www.olx.pl-holdmoney.club
+0.0.0.0 olx.pl-holds.club
+0.0.0.0 www.olx.pl-holds.club
 0.0.0.0 olx.pl-konto-orders.club
 0.0.0.0 www.olx.pl-konto-orders.club
+0.0.0.0 inpost.pl-kontos-oferta.club
+0.0.0.0 www.inpost.pl-kontos-oferta.club
 0.0.0.0 www.pl-makedeal.club
 0.0.0.0 inpost.pl-makepay.club
 0.0.0.0 olx.pl-makepay.club
@@ -9447,6 +9459,7 @@
 0.0.0.0 celiactracker.com
 0.0.0.0 celine-japan.com
 0.0.0.0 cell-phone-giveaways.com
+0.0.0.0 cellmakula.com
 0.0.0.0 cellphoneoea.com
 0.0.0.0 cellulitecreamsite.com
 0.0.0.0 cemusluoglu.com
@@ -13891,6 +13904,7 @@
 0.0.0.0 hundredhoursent.com
 0.0.0.0 hunktoons.com
 0.0.0.0 hunt-coin.com
+0.0.0.0 huntercena.com
 0.0.0.0 huntmyn.com
 0.0.0.0 hurtelkablo.com
 0.0.0.0 hushaquarium.com
@@ -21238,6 +21252,7 @@
 0.0.0.0 sms-shorters.com
 0.0.0.0 sms17-7bankofamerica0-alert.com
 0.0.0.0 sms4flash.com
+0.0.0.0 smsaraophagus1.com
 0.0.0.0 smscode-santander.com
 0.0.0.0 smsfun4u.com
 0.0.0.0 smsservicehyderabad.com
@@ -25208,6 +25223,7 @@
 0.0.0.0 www.entersecureid-554211.2016beattheblackoutssale.com
 0.0.0.0 www.2018-netflix.com
 0.0.0.0 www.2020closings.com
+0.0.0.0 www.shops.2021cheapsale.com
 0.0.0.0 click.202trackingsoft.com
 0.0.0.0 tr.202trackingsoft.com
 0.0.0.0 www.202trackingsoft.com
@@ -26719,6 +26735,7 @@
 0.0.0.0 www.amazon-verification-deutschland-safer.com
 0.0.0.0 www.amazon-web-student.com
 0.0.0.0 analytics-beacon-*.amazonaws.com
+0.0.0.0 www.ec2-18-133-158-255.eu-west-2.compute.amazonaws.com
 0.0.0.0 vtnlog-*.elb.amazonaws.com
 0.0.0.0 waiwidgets-1246822334.eu-west-1.elb.amazonaws.com
 0.0.0.0 newbuzz-collection-1925855828.us-east-1.elb.amazonaws.com
@@ -29162,6 +29179,7 @@
 0.0.0.0 tracker.celebtaboo.com
 0.0.0.0 www.celesteceleste.com
 0.0.0.0 www.cell-phone-giveaways.com
+0.0.0.0 www.cellmakula.com
 0.0.0.0 www.celsocovo.com
 0.0.0.0 www.cemusluoglu.com
 0.0.0.0 atlas.verification.login.54a54a.ceneba.com
@@ -29952,6 +29970,7 @@
 0.0.0.0 www.cryptoapplecoin.com
 0.0.0.0 www.cryptoapplewallet.com
 0.0.0.0 www.cryptocreditfoundation.com
+0.0.0.0 www.cryptominded.com
 0.0.0.0 www.cryptonback.com
 0.0.0.0 www.cryptoxinvest.com
 0.0.0.0 new.crystal-bucha.com
@@ -33113,6 +33132,7 @@
 0.0.0.0 www.hundredhoursent.com
 0.0.0.0 go.hunkwebcam.com
 0.0.0.0 www.hunt-coin.com
+0.0.0.0 www.huntercena.com
 0.0.0.0 img.ads.huntmad.com
 0.0.0.0 www.huntmyn.com
 0.0.0.0 www.hushaquarium.com
@@ -34606,6 +34626,7 @@
 0.0.0.0 ad.leadcrunch.com
 0.0.0.0 www.leadgenetwork.com
 0.0.0.0 track.leadin.com
+0.0.0.0 www.leadingchannls.com
 0.0.0.0 banners.leadingedgecash.com
 0.0.0.0 www.leadingedgecash.com
 0.0.0.0 www2.leadingedgecash.com
@@ -39739,6 +39760,7 @@
 0.0.0.0 www.sms-shorters.com
 0.0.0.0 www.sms17-7bankofamerica0-alert.com
 0.0.0.0 www.sms4flash.com
+0.0.0.0 www.smsaraophagus1.com
 0.0.0.0 www.smscode-santander.com
 0.0.0.0 www.smsfun4u.com
 0.0.0.0 www.smsservicehyderabad.com
@@ -40511,6 +40533,7 @@
 0.0.0.0 www.the-appleapp.com
 0.0.0.0 www.the-best-profimethods.com
 0.0.0.0 www.the-binary-theorem.com
+0.0.0.0 www.the-bitcoin-era-pro.com
 0.0.0.0 www.the-bitcoin-profit.com
 0.0.0.0 www.the-book-factor.com
 0.0.0.0 www.the-fitters.com
@@ -43134,6 +43157,10 @@
 0.0.0.0 www.olx.pl-buyed.cyou
 0.0.0.0 inpost.pl-buyorders.cyou
 0.0.0.0 www.inpost.pl-buyorders.cyou
+0.0.0.0 olx.pl-konto.cyou
+0.0.0.0 www.olx.pl-konto.cyou
+0.0.0.0 inpost.pl-kontos-oferta.cyou
+0.0.0.0 www.inpost.pl-kontos-oferta.cyou
 0.0.0.0 inpost.pl-makedeal.cyou
 0.0.0.0 www.inpost.pl-makedeal.cyou
 0.0.0.0 inpost.pl-makepay.cyou
@@ -52560,6 +52587,7 @@
 0.0.0.0 my-appleid.live
 0.0.0.0 mycelium.live
 0.0.0.0 nadochtobrabotat.live
+0.0.0.0 ninatekhol.live
 0.0.0.0 ogloszeniie-kupteraz-pl-159456.live
 0.0.0.0 olafson.live
 0.0.0.0 olx-pl-dostawa.live
@@ -52672,6 +52700,7 @@
 0.0.0.0 login.microsoftonline.com.ms365.live
 0.0.0.0 www.my-appleid.live
 0.0.0.0 www.mycelium.live
+0.0.0.0 www.ninatekhol.live
 0.0.0.0 olx.pl.oferta-payment.live
 0.0.0.0 www.olx.pl.oferta-payment.live
 0.0.0.0 www.ogloszeniie-kupteraz-pl-159456.live
@@ -53448,6 +53477,7 @@
 0.0.0.0 yonder.ml
 0.0.0.0 ziraatbankasi.ml
 0.0.0.0 www.1whitetaillane.ml
+0.0.0.0 www.olxpl.3dsxs.ml
 0.0.0.0 www.3nson.ml
 0.0.0.0 www.75-tgxz.ml
 0.0.0.0 www2.amazon.co.jp.8074856808ebec0c49403ce3589b28de.ml
@@ -53871,6 +53901,7 @@
 0.0.0.0 www.phoenixstudio.mx
 0.0.0.0 www.previte.mx
 0.0.0.0 www.pueblados22.mx
+0.0.0.0 dnjpes.samsungstore.mx
 0.0.0.0 www.serprofesionales.mx
 0.0.0.0 www.shoecolatt.mx
 0.0.0.0 apexmuseum.x10.mx
@@ -57619,6 +57650,7 @@
 0.0.0.0 www.jobpush.net
 0.0.0.0 ads.joetec.net
 0.0.0.0 www.ads.joetec.net
+0.0.0.0 elk.jonsully.net
 0.0.0.0 www.jpy-6utd25.net
 0.0.0.0 www.jque.net
 0.0.0.0 stats.jtvnw.net
@@ -62133,6 +62165,12 @@
 0.0.0.0 imrankhan.web.pk
 0.0.0.0 www.imrankhan.web.pk
 0.0.0.0 1elt.pl
+0.0.0.0 997-policja.pl
+0.0.0.0 997-policyjka.pl
+0.0.0.0 997-policyjne.pl
+0.0.0.0 997policja.pl
+0.0.0.0 997policyjka.pl
+0.0.0.0 997policyjne.pl
 0.0.0.0 abcautoserwis.pl
 0.0.0.0 abipoland.pl
 0.0.0.0 account-access-point-v1.pl
@@ -62243,6 +62281,7 @@
 0.0.0.0 centrummarek.pl
 0.0.0.0 cgoutletpolska.pl
 0.0.0.0 charakterna.pl
+0.0.0.0 chloepolska.pl
 0.0.0.0 chucktaylor.pl
 0.0.0.0 chucktaylorallstar.pl
 0.0.0.0 cibcoft.pl
@@ -62352,14 +62391,24 @@
 0.0.0.0 galeria-zdjec-ola.pl
 0.0.0.0 galeriakamienica.pl
 0.0.0.0 gangaya.pl
+0.0.0.0 gazeta-997.pl
 0.0.0.0 gazeta-informacje.pl
+0.0.0.0 gazeta997.pl
 0.0.0.0 gazetainfo.pl
+0.0.0.0 gazetka-997.pl
+0.0.0.0 gazetka-swiatowa.pl
+0.0.0.0 gazetka997.pl
+0.0.0.0 gazetkaswiatowa.pl
+0.0.0.0 gazetowo-swiatowo.pl
+0.0.0.0 gazetowoswiatowo.pl
 0.0.0.0 getthesneakers.pl
 0.0.0.0 giga-tech.pl
 0.0.0.0 globalcontact.pl
 0.0.0.0 gmp-poland.pl
 0.0.0.0 gnprojekt.pl
 0.0.0.0 go-camps.pl
+0.0.0.0 goracy-temat.pl
+0.0.0.0 goracytemat.pl
 0.0.0.0 green-kredyt.pl
 0.0.0.0 greenpatio.pl
 0.0.0.0 grynanecie.pl
@@ -62538,6 +62587,7 @@
 0.0.0.0 odszukajgo24.pl
 0.0.0.0 odysseyreact.pl
 0.0.0.0 odziezpl.pl
+0.0.0.0 ogloszenia-gminne.pl
 0.0.0.0 ogrodekedukacyjny.pl
 0.0.0.0 okiemmarynarza.pl
 0.0.0.0 okleinyvescom.pl
@@ -62563,6 +62613,7 @@
 0.0.0.0 pastabiz-online.pl
 0.0.0.0 patrykchilewicz.pl
 0.0.0.0 paweltyniec.pl
+0.0.0.0 pay54-olx.pl
 0.0.0.0 payplupdatecenter.pl
 0.0.0.0 pc-serwis-brzozow.pl
 0.0.0.0 phuwinstal.pl
@@ -62575,7 +62626,20 @@
 0.0.0.0 pobierznet.pl
 0.0.0.0 pocztowysa.pl
 0.0.0.0 podkogucikiem.pl
+0.0.0.0 policja-997.pl
+0.0.0.0 policyjka-997.pl
+0.0.0.0 policyjka997.pl
+0.0.0.0 policyjne-997.pl
+0.0.0.0 policyjne-poszukiwania.pl
+0.0.0.0 policyjne-poszukiwania997.pl
+0.0.0.0 policyjne997.pl
+0.0.0.0 policyjneposzukiwania.pl
+0.0.0.0 policyjneposzukiwania997.pl
+0.0.0.0 policyjnie-tematowo.pl
+0.0.0.0 policyjnietematowo.pl
 0.0.0.0 poloralphlaurensklep.pl
+0.0.0.0 polsat-nevsy.pl
+0.0.0.0 polsatnevsy.pl
 0.0.0.0 polskaporwania.pl
 0.0.0.0 polskaporwanie.pl
 0.0.0.0 pomalujmnie.pl
@@ -62691,7 +62755,10 @@
 0.0.0.0 superdryoutletpolska.pl
 0.0.0.0 superfajnapolska.pl
 0.0.0.0 supersprzedaj.pl
+0.0.0.0 swiat-informacji.pl
 0.0.0.0 swiatbotow.pl
+0.0.0.0 swiatowe-infa.pl
+0.0.0.0 swiatoweinfa.pl
 0.0.0.0 swiezefakty.pl
 0.0.0.0 syndromkreta.pl
 0.0.0.0 szafykatowicesosnowiec.pl
@@ -62706,6 +62773,10 @@
 0.0.0.0 tarnowianka-park.pl
 0.0.0.0 ted-fisher.pl
 0.0.0.0 telioonline.pl
+0.0.0.0 tematowo-policyjnie.pl
+0.0.0.0 tematowopolicyjnie.pl
+0.0.0.0 tematy-policyjne.pl
+0.0.0.0 tematypolicyjne.pl
 0.0.0.0 thenorthfacepl.pl
 0.0.0.0 thenorthfacepolska.pl
 0.0.0.0 thenorthfaceprzeceny.pl
@@ -62728,12 +62799,15 @@
 0.0.0.0 trzcinski-usg.pl
 0.0.0.0 tsarina.pl
 0.0.0.0 tsldada.pl
+0.0.0.0 tv-ogloszam.pl
 0.0.0.0 tvmedion.pl
+0.0.0.0 tvogloszam.pl
 0.0.0.0 twoj-macbook.pl
 0.0.0.0 twoj-tauron.pl
 0.0.0.0 twoja-paka.pl
 0.0.0.0 twosunflowers.pl
 0.0.0.0 tyaal.pl
+0.0.0.0 tychniebanuj.pl
 0.0.0.0 tysiaczek.pl
 0.0.0.0 uantonio.pl
 0.0.0.0 uggbutywyprzedaz.pl
@@ -62764,7 +62838,12 @@
 0.0.0.0 werxwer.pl
 0.0.0.0 wesklan.pl
 0.0.0.0 wettinlegal.pl
+0.0.0.0 wiadomoacizmiasata.pl
+0.0.0.0 wiadomosci-gmina.pl
 0.0.0.0 wiadomosci-onet24.pl
+0.0.0.0 wiadomoscigmina.pl
+0.0.0.0 wiadomoscione-tu.pl
+0.0.0.0 wiadomoscionetu.pl
 0.0.0.0 wieczorowapora.pl
 0.0.0.0 wielkilukwarty.pl
 0.0.0.0 wiezienlabiryntu.pl
@@ -62798,6 +62877,8 @@
 0.0.0.0 zespolmayol.pl
 0.0.0.0 zieleniewscy.pl
 0.0.0.0 zielonadrewutnia.pl
+0.0.0.0 znany-temat.pl
+0.0.0.0 znanytemat.pl
 0.0.0.0 zs-czajkowski.pl
 0.0.0.0 zspjablkowo.pl
 0.0.0.0 zszdzary.pl
@@ -62818,6 +62899,12 @@
 0.0.0.0 relaks.3h.pl
 0.0.0.0 www.relaks.3h.pl
 0.0.0.0 www.host1.5v.pl
+0.0.0.0 www.997-policja.pl
+0.0.0.0 www.997-policyjka.pl
+0.0.0.0 www.997-policyjne.pl
+0.0.0.0 www.997policja.pl
+0.0.0.0 www.997policyjka.pl
+0.0.0.0 www.997policyjne.pl
 0.0.0.0 www.9print.pl
 0.0.0.0 www.abipoland.pl
 0.0.0.0 www.adamdelivery.pl
@@ -62961,6 +63048,7 @@
 0.0.0.0 www.chansonpolska.pl
 0.0.0.0 www.charakterna.pl
 0.0.0.0 www.chceszogred.pl
+0.0.0.0 www.chloepolska.pl
 0.0.0.0 sponrol.chrzanowskiart.pl
 0.0.0.0 www.sponrol.chrzanowskiart.pl
 0.0.0.0 www.chucktaylor.pl
@@ -63200,8 +63288,16 @@
 0.0.0.0 www.galeria-zdjec-ola.pl
 0.0.0.0 www.galeriakamienica.pl
 0.0.0.0 www.gangaya.pl
+0.0.0.0 www.gazeta-997.pl
 0.0.0.0 www.gazeta-informacje.pl
+0.0.0.0 www.gazeta997.pl
 0.0.0.0 www.gazetainfo.pl
+0.0.0.0 www.gazetka-997.pl
+0.0.0.0 www.gazetka-swiatowa.pl
+0.0.0.0 www.gazetka997.pl
+0.0.0.0 www.gazetkaswiatowa.pl
+0.0.0.0 www.gazetowo-swiatowo.pl
+0.0.0.0 www.gazetowoswiatowo.pl
 0.0.0.0 spanel.gem.pl
 0.0.0.0 counter.gemius.pl
 0.0.0.0 ua.cnt.gemius.pl
@@ -63218,6 +63314,8 @@
 0.0.0.0 www.gmp-poland.pl
 0.0.0.0 www.gnprojekt.pl
 0.0.0.0 www.go-camps.pl
+0.0.0.0 www.goracy-temat.pl
+0.0.0.0 www.goracytemat.pl
 0.0.0.0 ad.gra.pl
 0.0.0.0 www.green-kredyt.pl
 0.0.0.0 www.greenpatio.pl
@@ -63531,6 +63629,7 @@
 0.0.0.0 www.odysseyreact.pl
 0.0.0.0 www.odziezpl.pl
 0.0.0.0 www.pierogarnia.ogicom.pl
+0.0.0.0 www.ogloszenia-gminne.pl
 0.0.0.0 www.ogrodekedukacyjny.pl
 0.0.0.0 www.okiemmarynarza.pl
 0.0.0.0 www.okno-house.pl
@@ -63556,6 +63655,7 @@
 0.0.0.0 www.pandha.pl
 0.0.0.0 www.patrykchilewicz.pl
 0.0.0.0 www.paweltyniec.pl
+0.0.0.0 www.pay54-olx.pl
 0.0.0.0 www.pc-serwis-brzozow.pl
 0.0.0.0 www.sklep.phumaria.pl
 0.0.0.0 www.phuwinstal.pl
@@ -63576,7 +63676,20 @@
 0.0.0.0 www.pocztowysa.pl
 0.0.0.0 www.podkogucikiem.pl
 0.0.0.0 www.pogodaparyz.pl
+0.0.0.0 www.policja-997.pl
+0.0.0.0 www.policyjka-997.pl
+0.0.0.0 www.policyjka997.pl
+0.0.0.0 www.policyjne-997.pl
+0.0.0.0 www.policyjne-poszukiwania.pl
+0.0.0.0 www.policyjne-poszukiwania997.pl
+0.0.0.0 www.policyjne997.pl
+0.0.0.0 www.policyjneposzukiwania.pl
+0.0.0.0 www.policyjneposzukiwania997.pl
+0.0.0.0 www.policyjnie-tematowo.pl
+0.0.0.0 www.policyjnietematowo.pl
 0.0.0.0 www.poloralphlaurensklep.pl
+0.0.0.0 www.polsat-nevsy.pl
+0.0.0.0 www.polsatnevsy.pl
 0.0.0.0 www.polskaporwania.pl
 0.0.0.0 www.polskaporwanie.pl
 0.0.0.0 www.pomalujmnie.pl
@@ -63725,6 +63838,9 @@
 0.0.0.0 www.supersprzedaj.pl
 0.0.0.0 www.support-konto.pl
 0.0.0.0 www.swapgg.pl
+0.0.0.0 www.swiat-informacji.pl
+0.0.0.0 www.swiatowe-infa.pl
+0.0.0.0 www.swiatoweinfa.pl
 0.0.0.0 www.swiezefakty.pl
 0.0.0.0 www.syndromkreta.pl
 0.0.0.0 www.szafykatowicesosnowiec.pl
@@ -63737,6 +63853,10 @@
 0.0.0.0 www.tanitimberlandbuty.pl
 0.0.0.0 www.tarnowianka-park.pl
 0.0.0.0 www.aoc.teleaudio.pl
+0.0.0.0 www.tematowo-policyjnie.pl
+0.0.0.0 www.tematowopolicyjnie.pl
+0.0.0.0 www.tematy-policyjne.pl
+0.0.0.0 www.tematypolicyjne.pl
 0.0.0.0 www.thenorthfacepl.pl
 0.0.0.0 www.thenorthfacepolska.pl
 0.0.0.0 www.thenorthfaceprzeceny.pl
@@ -63759,11 +63879,14 @@
 0.0.0.0 www.trzcinski-usg.pl
 0.0.0.0 www.tsarina.pl
 0.0.0.0 www.tsldada.pl
+0.0.0.0 www.tv-ogloszam.pl
 0.0.0.0 subskrypcja.tvhr.pl
 0.0.0.0 www.subskrypcja.tvhr.pl
+0.0.0.0 www.tvogloszam.pl
 0.0.0.0 www.twoj-tauron.pl
 0.0.0.0 www.twoja-paka.pl
 0.0.0.0 www.twosunflowers.pl
+0.0.0.0 www.tychniebanuj.pl
 0.0.0.0 www.tysiaczek.pl
 0.0.0.0 www.uggbutywyprzedaz.pl
 0.0.0.0 www.uggclassic.pl
@@ -63816,7 +63939,12 @@
 0.0.0.0 www.werxwer.pl
 0.0.0.0 www.wesklan.pl
 0.0.0.0 www.wettinlegal.pl
+0.0.0.0 www.wiadomoacizmiasata.pl
+0.0.0.0 www.wiadomosci-gmina.pl
 0.0.0.0 www.wiadomosci-onet24.pl
+0.0.0.0 www.wiadomoscigmina.pl
+0.0.0.0 www.wiadomoscione-tu.pl
+0.0.0.0 www.wiadomoscionetu.pl
 0.0.0.0 www.wieczorowapora.pl
 0.0.0.0 www.ce.wielkaniespodzianka.pl
 0.0.0.0 www.wiezienlabiryntu.pl
@@ -63865,6 +63993,8 @@
 0.0.0.0 www.zespolmayol.pl
 0.0.0.0 www.zieleniewscy.pl
 0.0.0.0 www.zielonadrewutnia.pl
+0.0.0.0 www.znany-temat.pl
+0.0.0.0 www.znanytemat.pl
 0.0.0.0 www.zs-czajkowski.pl
 0.0.0.0 www.zspjablkowo.pl
 0.0.0.0 www.zszdzary.pl
@@ -64053,6 +64183,7 @@
 0.0.0.0 www.ebay-de-datenschutz-ebay.pro
 0.0.0.0 www.ebay-de-dsgvo-ebay.pro
 0.0.0.0 www.ebay-deuschland-datenschutz.pro
+0.0.0.0 www.invp.edealand.pro
 0.0.0.0 www.edland.pro
 0.0.0.0 www.enjin.pro
 0.0.0.0 www.etherdelta.pro
@@ -65056,6 +65187,7 @@
 0.0.0.0 www.ztapobanefuller.review
 0.0.0.0 www.zyiztazhfprochain.review
 0.0.0.0 www.zzptzdhugavot.review
+0.0.0.0 prud.e.nttg.ri
 0.0.0.0 prud.e.nttg.ri@
 0.0.0.0 aehm.ro
 0.0.0.0 aesatom.ro
@@ -65349,6 +65481,7 @@
 0.0.0.0 neverspent.tomancona.rocks
 0.0.0.0 www.neverspent.tomancona.rocks
 0.0.0.0 www.verizonwireless.rocks
+0.0.0.0 drolukse.rokz
 0.0.0.0 unk.vver.kiae.rr
 0.0.0.0 commodorehost.rs
 0.0.0.0 dalecarnegie.rs
@@ -67616,6 +67749,8 @@
 0.0.0.0 amazon.de.zn-amazon-8h7lu.ru
 0.0.0.0 www.amazon.de.zn-amazon-8h7lu.ru
 0.0.0.0 okna.zurmaster.ru
+0.0.0.0 inpost.pl-kontos-oferta.run
+0.0.0.0 www.inpost.pl-kontos-oferta.run
 0.0.0.0 centurypark.rw
 0.0.0.0 gtn.rw
 0.0.0.0 mukonoinvestmentltd.rw
@@ -67941,6 +68076,8 @@
 0.0.0.0 www.oferta-payment.shop
 0.0.0.0 www.olx-paygate.shop
 0.0.0.0 www.delivery.olx-pl.shop
+0.0.0.0 inpost.pl-bought.shop
+0.0.0.0 www.inpost.pl-bought.shop
 0.0.0.0 olx.pl-buydeal.shop
 0.0.0.0 www.olx.pl-buydeal.shop
 0.0.0.0 inpost.pl-dostawa.shop
@@ -67950,6 +68087,8 @@
 0.0.0.0 www.poczta.pl-dostawa.shop
 0.0.0.0 olx.pl-konto.shop
 0.0.0.0 www.olx.pl-konto.shop
+0.0.0.0 inpost.pl-kontos-oferta.shop
+0.0.0.0 www.inpost.pl-kontos-oferta.shop
 0.0.0.0 www.olx.pl-logowanie.shop
 0.0.0.0 www.pl-przelew.shop
 0.0.0.0 www.pl-safedeal.shop
@@ -69038,6 +69177,7 @@
 0.0.0.0 www.bullito.site
 0.0.0.0 www.c5k.site
 0.0.0.0 www.celer.site
+0.0.0.0 www.inpost.check-pay.site
 0.0.0.0 www.cloudnetflix.site
 0.0.0.0 www.coinbit24.site
 0.0.0.0 www.coinone.site
@@ -69132,6 +69272,9 @@
 0.0.0.0 www.olx.pl-id1616950803.site
 0.0.0.0 olx.pl-id1617214203.site
 0.0.0.0 www.olx.pl-id1617214203.site
+0.0.0.0 olx.pl-id1618943912.site
+0.0.0.0 www.olx.pl-id1618943912.site
+0.0.0.0 www.olx.pl-id1619025954.site
 0.0.0.0 www.olx.pl-id195879.site
 0.0.0.0 www.olx.pl-id284395.site
 0.0.0.0 www.olx.pl-id406992.site
@@ -69508,6 +69651,8 @@
 0.0.0.0 olx.pl-makedeal.store
 0.0.0.0 www.inpost.pl-makedeal.store
 0.0.0.0 www.olx.pl-makedeal.store
+0.0.0.0 inpost.pl-official-dostawa.store
+0.0.0.0 www.inpost.pl-official-dostawa.store
 0.0.0.0 inpost.pl-ordered.store
 0.0.0.0 www.inpost.pl-ordered.store
 0.0.0.0 olx.pl-payment.store
@@ -69948,6 +70093,8 @@
 0.0.0.0 olx.pl-getpayments.surf
 0.0.0.0 www.inpost.pl-getpayments.surf
 0.0.0.0 www.olx.pl-getpayments.surf
+0.0.0.0 inpost.pl-kontos-oferta.surf
+0.0.0.0 www.inpost.pl-kontos-oferta.surf
 0.0.0.0 inpost.pl-makepays.surf
 0.0.0.0 poczta.pl-makepays.surf
 0.0.0.0 www.inpost.pl-makepays.surf
@@ -74005,6 +74152,8 @@
 0.0.0.0 www.www3659009.vip
 0.0.0.0 nucleuss.vision
 0.0.0.0 wepower.vision
+0.0.0.0 inpost.pl-kontos-oferta.vision
+0.0.0.0 www.inpost.pl-kontos-oferta.vision
 0.0.0.0 beautycaregold.vn
 0.0.0.0 biolusgoldmax.vn
 0.0.0.0 bonetongold.vn
@@ -74485,6 +74634,8 @@
 0.0.0.0 www.inpost.pl-getpay.work
 0.0.0.0 olx.pl-getpayments.work
 0.0.0.0 www.olx.pl-getpayments.work
+0.0.0.0 inpost.pl-kontos-oferta.work
+0.0.0.0 www.inpost.pl-kontos-oferta.work
 0.0.0.0 inpost.pl-makedeals.work
 0.0.0.0 olx.pl-makedeals.work
 0.0.0.0 www.inpost.pl-makedeals.work
@@ -74661,6 +74812,7 @@
 0.0.0.0 bigplaceforme.xyz
 0.0.0.0 bookminkreviews.xyz
 0.0.0.0 box-loginapps.xyz
+0.0.0.0 boxworktoardazana.xyz
 0.0.0.0 brannon-powlowski25d.xyz
 0.0.0.0 briikingnushahape.xyz
 0.0.0.0 buthak.xyz
@@ -75171,6 +75323,7 @@
 0.0.0.0 wfb-wa-security-update-pending.xyz
 0.0.0.0 wfbnk-authorize.xyz
 0.0.0.0 whygowithout.xyz
+0.0.0.0 wilrio.xyz
 0.0.0.0 win326.xyz
 0.0.0.0 wkfreech.xyz
 0.0.0.0 wquwb16swlxr03miuell.xyz
@@ -75178,6 +75331,7 @@
 0.0.0.0 wweellssssweee.xyz
 0.0.0.0 wwesupercardhack.xyz
 0.0.0.0 wx-xcx.xyz
+0.0.0.0 wydaniefaktypofaktach.xyz
 0.0.0.0 xactive.xyz
 0.0.0.0 xherzog24pv.xyz
 0.0.0.0 xn--amazon-273eya6m7hsa2mi43a6cx8cu314cib9cor0b.xyz
@@ -75244,6 +75398,7 @@
 0.0.0.0 www.biglinkext.xyz
 0.0.0.0 www.bitcointime.xyz
 0.0.0.0 www.box-loginapps.xyz
+0.0.0.0 www.boxworktoardazana.xyz
 0.0.0.0 cadinter.caalerts.xyz
 0.0.0.0 fundsec.caalerts.xyz
 0.0.0.0 intercad.caalerts.xyz
@@ -75479,6 +75634,10 @@
 0.0.0.0 www.inpost.pl-getdeals.xyz
 0.0.0.0 www.olx.pl-getdeals.xyz
 0.0.0.0 www.poczta.pl-getdeals.xyz
+0.0.0.0 olx.pl-kontos.xyz
+0.0.0.0 www.olx.pl-kontos.xyz
+0.0.0.0 inpost.pl-kontos-oferta.xyz
+0.0.0.0 www.inpost.pl-kontos-oferta.xyz
 0.0.0.0 inpost.pl-makedeals.xyz
 0.0.0.0 www.inpost.pl-makedeals.xyz
 0.0.0.0 www.pl-makepay.xyz
@@ -75590,9 +75749,11 @@
 0.0.0.0 www.wellsmealert.xyz
 0.0.0.0 www.wfb-wa-security-update-pending.xyz
 0.0.0.0 www.wfbnk-authorize.xyz
+0.0.0.0 www.wilrio.xyz
 0.0.0.0 www.wkfreech.xyz
 0.0.0.0 bancoestado.cl.imagene.comun2008_nuevo.paglg.pers.wpks.xyz
 0.0.0.0 www.wx-xcx.xyz
+0.0.0.0 www.wydaniefaktypofaktach.xyz
 0.0.0.0 secure.runescape.wz-com.xyz
 0.0.0.0 www.xn---amazon-6q4f0a5dwgzftc6cyzc.xyz
 0.0.0.0 www.xn---amazon-6q4fjj7csk7c8d.xyz
