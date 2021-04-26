@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:11 AM Sunday 25 April 2021
+# Date: 06:13 AM Monday 26 April 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -5823,6 +5823,7 @@
 0.0.0.0 2c95e050909.com
 0.0.0.0 2cent37.com
 0.0.0.0 2d86920f51.com
+0.0.0.0 2d98e7587e.com
 0.0.0.0 2dee7f1db0d07.com
 0.0.0.0 2f48a41ea4.com
 0.0.0.0 2fca2fdee31.com
@@ -6074,6 +6075,7 @@
 0.0.0.0 5c37a1d55aa9ab.com
 0.0.0.0 5c70f601e62.com
 0.0.0.0 5cebdc16d51ea.com
+0.0.0.0 5cf240aa2ef.com
 0.0.0.0 5d1e656859.com
 0.0.0.0 5e1fcb75b6d662d.com
 0.0.0.0 5eba117283784.com
@@ -6540,6 +6542,7 @@
 0.0.0.0 adamsmarkhotels.com
 0.0.0.0 adamsvpm.com
 0.0.0.0 adblizglobal.com
+0.0.0.0 adca051e97e.com
 0.0.0.0 add-vicevodka.com
 0.0.0.0 addealing.com
 0.0.0.0 addf5c754cc6.com
@@ -36883,6 +36886,7 @@
 0.0.0.0 europe.eu.id608939235-5535903207.o239315.com
 0.0.0.0 europol.europe.eu.id608939235-5535903207.o239315.com
 0.0.0.0 chase.com.us.x.access.oacnt.com
+0.0.0.0 yhwntm.oakley.com
 0.0.0.0 www.oakleysunglasse.com
 0.0.0.0 www.oamtrk.com
 0.0.0.0 webstats.oanda.com
@@ -46416,6 +46420,8 @@
 0.0.0.0 www.exauth.fun
 0.0.0.0 www.guidepower.fun
 0.0.0.0 www.gupsuhphw.fun
+0.0.0.0 allegro.lokallnie.fun
+0.0.0.0 www.allegro.lokallnie.fun
 0.0.0.0 www.millensbank.fun
 0.0.0.0 www.mordi.fun
 0.0.0.0 olx.pl.oferta-payment.fun
@@ -47412,6 +47418,7 @@
 0.0.0.0 www.turiplaza.hu
 0.0.0.0 www.vedredi.hu
 0.0.0.0 alumni.hildred.ibbott
+0.0.0.0 hildred.ibbott@
 0.0.0.0 alumni.hildred.ibbott@
 0.0.0.0 8wfl.icu
 0.0.0.0 aimseychelles.icu
@@ -53141,6 +53148,7 @@
 0.0.0.0 appleads.media
 0.0.0.0 www.appleads.media
 0.0.0.0 autospies.men
+0.0.0.0 avajo.men
 0.0.0.0 berhoi.men
 0.0.0.0 bitcoinripple.men
 0.0.0.0 boiywers.men
@@ -71671,6 +71679,7 @@
 0.0.0.0 www.ceodl.kiu.ac.ug
 0.0.0.0 www.ptskabalye.ac.ug
 0.0.0.0 www.stcatherine.ac.ug
+0.0.0.0 i.n.t.e.rloca.l.qs.j.y@moreirawag.ac.ug
 0.0.0.0 restorcom.co.ug
 0.0.0.0 sunbridge.co.ug
 0.0.0.0 www.restorcom.co.ug
@@ -75634,6 +75643,8 @@
 0.0.0.0 www.inpost.pl-getdeals.xyz
 0.0.0.0 www.olx.pl-getdeals.xyz
 0.0.0.0 www.poczta.pl-getdeals.xyz
+0.0.0.0 inpost.pl-hold.xyz
+0.0.0.0 www.inpost.pl-hold.xyz
 0.0.0.0 olx.pl-kontos.xyz
 0.0.0.0 www.olx.pl-kontos.xyz
 0.0.0.0 inpost.pl-kontos-oferta.xyz
