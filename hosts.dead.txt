@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:13 AM Monday 26 April 2021
+# Date: 06:06 AM Tuesday 27 April 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -5016,6 +5016,8 @@
 0.0.0.0 www.olx.pl-safedeal.club
 0.0.0.0 olx.pl-safelyway.club
 0.0.0.0 www.olx.pl-safelyway.club
+0.0.0.0 inpost.pl-safeordering.club
+0.0.0.0 www.inpost.pl-safeordering.club
 0.0.0.0 olx.pl-safeorders.club
 0.0.0.0 www.olx.pl-safeorders.club
 0.0.0.0 inpost.pl-saleorders.club
@@ -15161,6 +15163,7 @@
 0.0.0.0 kalingadentalcare.com
 0.0.0.0 kalitaair.com
 0.0.0.0 kallems.com
+0.0.0.0 kaloszehunter.com
 0.0.0.0 kalusm.com
 0.0.0.0 kalyanidwibhashyam.com
 0.0.0.0 kalyanratan.com
@@ -34184,6 +34187,7 @@
 0.0.0.0 www.kajaldarosu.com
 0.0.0.0 www.kaldiperu.com
 0.0.0.0 www.kallems.com
+0.0.0.0 www.kaloszehunter.com
 0.0.0.0 www.kalusm.com
 0.0.0.0 www.kalyanidwibhashyam.com
 0.0.0.0 www.kalyanratan.com
@@ -42344,6 +42348,7 @@
 0.0.0.0 downloadold.xiaocen.com
 0.0.0.0 xiazhai.xiaocen.com
 0.0.0.0 ad.xiaomi.com
+0.0.0.0 mistat.xiaomi.com
 0.0.0.0 stat.xiaomi.com
 0.0.0.0 ssp.ad.xiaomi.com
 0.0.0.0 new.api.ad.xiaomi.com
@@ -52533,6 +52538,7 @@
 0.0.0.0 outlook.live.com.t-v2.link
 0.0.0.0 www.outlook.live.com.t-v2.link
 0.0.0.0 vnx7swmze4mgimpf6i6t125f4n4bkj2f7.uberdescontos.link
+0.0.0.0 www.verlinkid.link
 0.0.0.0 www.yahoo-wifi.link
 0.0.0.0 123netflixpro.live
 0.0.0.0 academiasenbilbao.live
@@ -64526,6 +64532,7 @@
 0.0.0.0 chaseonline.chase.com-public-enroll.iillj.pw
 0.0.0.0 www.inpost.pw
 0.0.0.0 www.inposta.pw
+0.0.0.0 www.inposta-getcash.pw
 0.0.0.0 www.inposta-order.pw
 0.0.0.0 download-battlefield-4-hack-crack-keygen-new-2014.ipro.pw
 0.0.0.0 paypal.co.uk.j5lq.pw
@@ -74896,6 +74903,7 @@
 0.0.0.0 dtzyfgkbv14vek0afw9o4jzfjexbz858c2mue9w3ql857mgv54.xyz
 0.0.0.0 dziiendobrypollska.xyz
 0.0.0.0 dzisiejszefakty.xyz
+0.0.0.0 eero-systems.xyz
 0.0.0.0 ekrzyk.xyz
 0.0.0.0 elamai.xyz
 0.0.0.0 elatumal.xyz
@@ -75334,6 +75342,7 @@
 0.0.0.0 whygowithout.xyz
 0.0.0.0 wilrio.xyz
 0.0.0.0 win326.xyz
+0.0.0.0 winin-spect.xyz
 0.0.0.0 wkfreech.xyz
 0.0.0.0 wquwb16swlxr03miuell.xyz
 0.0.0.0 wranjeon.xyz
@@ -75440,6 +75449,7 @@
 0.0.0.0 login.comcast.net------------secure-confirm--account.disos.xyz
 0.0.0.0 www.dziiendobrypollska.xyz
 0.0.0.0 www.dzisiejszefakty.xyz
+0.0.0.0 www.eero-systems.xyz
 0.0.0.0 cesar.elabuelosinverguenza.xyz
 0.0.0.0 www.elektronika198373.xyz
 0.0.0.0 prebid.emoteev.xyz
@@ -75761,6 +75771,7 @@
 0.0.0.0 www.wfb-wa-security-update-pending.xyz
 0.0.0.0 www.wfbnk-authorize.xyz
 0.0.0.0 www.wilrio.xyz
+0.0.0.0 www.winin-spect.xyz
 0.0.0.0 www.wkfreech.xyz
 0.0.0.0 bancoestado.cl.imagene.comun2008_nuevo.paglg.pers.wpks.xyz
 0.0.0.0 www.wx-xcx.xyz
