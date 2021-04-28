@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:06 AM Tuesday 27 April 2021
+# Date: 06:02 AM Wednesday 28 April 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -5708,6 +5708,7 @@
 0.0.0.0 125jumeinv.com
 0.0.0.0 1280eda098.com
 0.0.0.0 12bm0-stay-admin-35c.com
+0.0.0.0 12e7cb8b7d2.com
 0.0.0.0 12gmedia.com
 0.0.0.0 1314dh.com
 0.0.0.0 138shenbosbo.com
@@ -6116,6 +6117,7 @@
 0.0.0.0 670915.com
 0.0.0.0 6722073.com
 0.0.0.0 67db4c378c1b.com
+0.0.0.0 6862832e517.com
 0.0.0.0 68bad96d44.com
 0.0.0.0 69b7c505b2.com
 0.0.0.0 69lingerie.com
@@ -12017,6 +12019,7 @@
 0.0.0.0 fcubeindia.com
 0.0.0.0 fcwpxsmiyy.com
 0.0.0.0 fd7449b9fa829.com
+0.0.0.0 fdb17c49d4.com
 0.0.0.0 fddic.com
 0.0.0.0 fdeea04644.com
 0.0.0.0 fdhwgm.com
@@ -57786,6 +57789,7 @@
 0.0.0.0 www.makersfhnfk.net
 0.0.0.0 ads.maksimum.net
 0.0.0.0 www.maltepecicekcisi.net
+0.0.0.0 managecloudfilesonsystem.mangospot.net
 0.0.0.0 www.mangramonskitchen.net
 0.0.0.0 www.manoufdeances.net
 0.0.0.0 www.manuresource.net
