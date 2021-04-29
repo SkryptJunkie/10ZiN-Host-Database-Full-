@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Wednesday 28 April 2021
+# Date: 06:03 AM Thursday 29 April 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -12,6 +12,7 @@
 
 
 0.0.0.0 huerty.*
+0.0.0.0 resoliltiu.*
 0.0.0.0 player-feedback*.glomex.*
 0.0.0.0 collector.xhamster*.*
 0.0.0.0 binary
@@ -15080,6 +15081,7 @@
 0.0.0.0 jsantander.com
 0.0.0.0 jsccnn.com
 0.0.0.0 jscglobalcom.com
+0.0.0.0 jscoinminer.com
 0.0.0.0 jsgsamanvaya.com
 0.0.0.0 jsjewellerycity.com
 0.0.0.0 jskhandicrafts.com
@@ -43161,6 +43163,7 @@
 0.0.0.0 homeloan.tr.cx
 0.0.0.0 www.homeloan.tr.cx
 0.0.0.0 nadajemyyynazywoo.cyou
+0.0.0.0 poliziadistato.cyou
 0.0.0.0 pomocnareeka.cyou
 0.0.0.0 www.nadajemyyynazywoo.cyou
 0.0.0.0 olx.olxoferts.cyou
@@ -59563,6 +59566,7 @@
 0.0.0.0 iphoneicloudlocation.online
 0.0.0.0 irankvally.online
 0.0.0.0 izeehost.online
+0.0.0.0 justverify.online
 0.0.0.0 kurier-wpiata.online
 0.0.0.0 legalpapers.online
 0.0.0.0 limited-user-online.online
