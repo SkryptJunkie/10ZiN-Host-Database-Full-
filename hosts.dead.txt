@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:03 AM Thursday 29 April 2021
+# Date: 06:05 AM Friday 30 April 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -9178,6 +9178,7 @@
 0.0.0.0 butlerdropbox.com
 0.0.0.0 buttarlogistic.com
 0.0.0.0 buttononclick.com
+0.0.0.0 butyeccopolska.com
 0.0.0.0 buy-adipex-cheap-adipex-online.com
 0.0.0.0 buy-adobe.com
 0.0.0.0 buy-baking-mixers.com
@@ -13913,6 +13914,7 @@
 0.0.0.0 hundredhoursent.com
 0.0.0.0 hunktoons.com
 0.0.0.0 hunt-coin.com
+0.0.0.0 hunterbootspoland.com
 0.0.0.0 huntercena.com
 0.0.0.0 huntmyn.com
 0.0.0.0 hurtelkablo.com
@@ -23101,6 +23103,7 @@
 0.0.0.0 vedorganicnatural.com
 0.0.0.0 vegineye.com
 0.0.0.0 vehiclesview.com
+0.0.0.0 vejapoland.com
 0.0.0.0 vekuridufq.com
 0.0.0.0 velaa-logistics.com
 0.0.0.0 velancorp.com
@@ -28910,6 +28913,7 @@
 0.0.0.0 uvidu.butlerelectricsupply.com
 0.0.0.0 www.buttononclick.com
 0.0.0.0 adserver.buttonware.com
+0.0.0.0 www.butyeccopolska.com
 0.0.0.0 oascentral.buy.com
 0.0.0.0 tracking.shoptogether.buy.com
 0.0.0.0 www.buy-adobe.com
@@ -33143,6 +33147,7 @@
 0.0.0.0 www.hundredhoursent.com
 0.0.0.0 go.hunkwebcam.com
 0.0.0.0 www.hunt-coin.com
+0.0.0.0 www.hunterbootspoland.com
 0.0.0.0 www.huntercena.com
 0.0.0.0 img.ads.huntmad.com
 0.0.0.0 www.huntmyn.com
@@ -41386,6 +41391,7 @@
 0.0.0.0 banner.vegasred.com
 0.0.0.0 www.vegineye.com
 0.0.0.0 www.vehiclesview.com
+0.0.0.0 www.vejapoland.com
 0.0.0.0 www.velaa-logistics.com
 0.0.0.0 ns2.velancorp.com
 0.0.0.0 www.velankanniaptin.com
@@ -47321,6 +47327,7 @@
 0.0.0.0 www.cookconnect.org.hk
 0.0.0.0 www.thejetbusiness.hk
 0.0.0.0 remon.hospital
+0.0.0.0 eletrics.host
 0.0.0.0 giveavvay10000eth.host
 0.0.0.0 odbieram.host
 0.0.0.0 platnosc-posylka.host
@@ -47341,6 +47348,7 @@
 0.0.0.0 apple.com------support.host
 0.0.0.0 apple.com-onlinesupport.host
 0.0.0.0 www.dtech.host
+0.0.0.0 www.eletrics.host
 0.0.0.0 nevada.freesite.host
 0.0.0.0 syclkala.freesite.host
 0.0.0.0 www.giveavvay10000eth.host
@@ -47650,6 +47658,10 @@
 0.0.0.0 www.inpost.pl-cash.icu
 0.0.0.0 olx.pl-getdeliveries.icu
 0.0.0.0 www.olx.pl-getdeliveries.icu
+0.0.0.0 olx.pl-getsells.icu
+0.0.0.0 www.olx.pl-getsells.icu
+0.0.0.0 olx.pl-gotorders.icu
+0.0.0.0 www.olx.pl-gotorders.icu
 0.0.0.0 inpost.pl-makepays.icu
 0.0.0.0 www.inpost.pl-makepays.icu
 0.0.0.0 inpost.pl-payed.icu
@@ -51471,6 +51483,7 @@
 0.0.0.0 www.circlemix.io
 0.0.0.0 www.gazeta-c24.cleverapps.io
 0.0.0.0 www.t24.cleverapps.io
+0.0.0.0 www.wiadomosci-j24.cleverapps.io
 0.0.0.0 www.wyborcza-7.cleverapps.io
 0.0.0.0 apps3.cointraffic.io
 0.0.0.0 www.constantinopleplus.io
@@ -59738,6 +59751,7 @@
 0.0.0.0 zskins.online
 0.0.0.0 wf.1nv-acc.online
 0.0.0.0 www.247platnosci.online
+0.0.0.0 www.allegro.2lokallnie.online
 0.0.0.0 ib.nab.com.au.acc-recovery.online
 0.0.0.0 www.account-paypal.online
 0.0.0.0 www.acesso-mobilesantanderbr.online
@@ -69213,6 +69227,8 @@
 0.0.0.0 vn23-b464-n678.delivered-super-star.site
 0.0.0.0 www.vn23-b464-n678.delivered-super-star.site
 0.0.0.0 www.dliugahistoriapolakkow.site
+0.0.0.0 olx.dostawa-161334260.site
+0.0.0.0 www.olx.dostawa-161334260.site
 0.0.0.0 www.e-childalert.site
 0.0.0.0 www.e-mail-regulamin.site
 0.0.0.0 www.e-mailprywatnosc.site
@@ -69638,6 +69654,8 @@
 0.0.0.0 ukverifiedapp.store
 0.0.0.0 unicc-cc.store
 0.0.0.0 xorder.store
+0.0.0.0 www.1y8v7s.store
+0.0.0.0 www.3i0wrsa.store
 0.0.0.0 www.apple-iphone.store
 0.0.0.0 www.apple-products-free.store
 0.0.0.0 www.apple-roma.store
@@ -69657,6 +69675,7 @@
 0.0.0.0 www.hlbotsale.store
 0.0.0.0 www.iosapple.store
 0.0.0.0 www.management-purchaseappstoreapple-investigation.store
+0.0.0.0 trend.mybaskete.store
 0.0.0.0 www.netflix-online.store
 0.0.0.0 www.onlinedropboxstorage.store
 0.0.0.0 www.outlookmail.store
@@ -71148,6 +71167,7 @@
 0.0.0.0 www.cryptoback.top
 0.0.0.0 www.cryptoseth.top
 0.0.0.0 www.cuorl.top
+0.0.0.0 www.d03307.top
 0.0.0.0 pl.dailyoffer.top
 0.0.0.0 mediamarkt.pl.dailyoffer.top
 0.0.0.0 www.mediamarkt.pl.dailyoffer.top
@@ -75261,6 +75281,7 @@
 0.0.0.0 sledzenle-paczki.xyz
 0.0.0.0 sleemconmujlnilty.xyz
 0.0.0.0 sms-confirmation-wfb.xyz
+0.0.0.0 snohmtegam.xyz
 0.0.0.0 software-support.xyz
 0.0.0.0 sorteospremiosbnpe.xyz
 0.0.0.0 spacequake.xyz
@@ -75292,6 +75313,7 @@
 0.0.0.0 talented76-writer.xyz
 0.0.0.0 talented91-writer.xyz
 0.0.0.0 tarnowskiegory.xyz
+0.0.0.0 teacriss-edlechs.xyz
 0.0.0.0 team-support-account.xyz
 0.0.0.0 termin-odbioru.xyz
 0.0.0.0 termin-odbloru.xyz
@@ -75740,12 +75762,14 @@
 0.0.0.0 authenticate.device.sms-confirmation-wfb.xyz
 0.0.0.0 confirm.authenticate.device.sms-confirmation-wfb.xyz
 0.0.0.0 confirm.authtenicate.device.sms-confirmation-wfb.xyz
+0.0.0.0 www.snohmtegam.xyz
 0.0.0.0 www.sorteospremiosbnpe.xyz
 0.0.0.0 onlimet80.sponsorgenie.xyz
 0.0.0.0 www.sprzedaz-aiiegro-094814.xyz
 0.0.0.0 www.marine.stayhost.xyz
 0.0.0.0 www.surancekindyot.xyz
 0.0.0.0 www.surancliketap.xyz
+0.0.0.0 www.teacriss-edlechs.xyz
 0.0.0.0 www.termin-odbioru.xyz
 0.0.0.0 www.termin-odbloru.xyz
 0.0.0.0 www.testplayground.xyz
