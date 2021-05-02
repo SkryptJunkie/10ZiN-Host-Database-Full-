@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Saturday 01 May 2021
+# Date: 06:02 AM Sunday 02 May 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -26750,6 +26750,7 @@
 0.0.0.0 www.amazon-web-student.com
 0.0.0.0 analytics-beacon-*.amazonaws.com
 0.0.0.0 www.ec2-18-133-158-255.eu-west-2.compute.amazonaws.com
+0.0.0.0 www.ec2-35-178-235-52.eu-west-2.compute.amazonaws.com
 0.0.0.0 vtnlog-*.elb.amazonaws.com
 0.0.0.0 waiwidgets-1246822334.eu-west-1.elb.amazonaws.com
 0.0.0.0 newbuzz-collection-1925855828.us-east-1.elb.amazonaws.com
