@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:03 AM Tuesday 04 May 2021
+# Date: 06:09 AM Wednesday 05 May 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -1065,6 +1065,8 @@
 0.0.0.0 www.soundhouse.band
 0.0.0.0 dostawa-olx.bar
 0.0.0.0 www.dostawa-olx.bar
+0.0.0.0 inpost.kontospls.bar
+0.0.0.0 www.inpost.kontospls.bar
 0.0.0.0 eminescu.com.bd
 0.0.0.0 exin.com.bd
 0.0.0.0 filmproducersassociation.com.bd
@@ -26750,6 +26752,7 @@
 0.0.0.0 www.amazon-web-student.com
 0.0.0.0 analytics-beacon-*.amazonaws.com
 0.0.0.0 www.ec2-18-133-158-255.eu-west-2.compute.amazonaws.com
+0.0.0.0 www.ec2-3-8-146-77.eu-west-2.compute.amazonaws.com
 0.0.0.0 www.ec2-35-178-235-52.eu-west-2.compute.amazonaws.com
 0.0.0.0 vtnlog-*.elb.amazonaws.com
 0.0.0.0 waiwidgets-1246822334.eu-west-1.elb.amazonaws.com
@@ -43171,7 +43174,9 @@
 0.0.0.0 www.homeloan.tr.cx
 0.0.0.0 nadajemyyynazywoo.cyou
 0.0.0.0 poliziadistato.cyou
+0.0.0.0 polka-oferta.cyou
 0.0.0.0 pomocnareeka.cyou
+0.0.0.0 wyprzedaz-polska.cyou
 0.0.0.0 www.nadajemyyynazywoo.cyou
 0.0.0.0 olx.olxoferts.cyou
 0.0.0.0 www.olx.olxoferts.cyou
@@ -43197,9 +43202,11 @@
 0.0.0.0 www.inpost.pl-payed.cyou
 0.0.0.0 inpost.pl-savesell.cyou
 0.0.0.0 www.inpost.pl-savesell.cyou
+0.0.0.0 www.polka-oferta.cyou
 0.0.0.0 olx.polska-ofer1o.cyou
 0.0.0.0 www.olx.polska-ofer1o.cyou
 0.0.0.0 www.pomocnareeka.cyou
+0.0.0.0 www.wyprzedaz-polska.cyou
 0.0.0.0 adbanner.cz
 0.0.0.0 admob.cz
 0.0.0.0 czproxy8.cz
@@ -64578,6 +64585,7 @@
 0.0.0.0 www.oakleysunglasses.pw
 0.0.0.0 www.olx-pl.pw
 0.0.0.0 www.hor.orlninwest.pw
+0.0.0.0 www.pay01-olx.pw
 0.0.0.0 www.personaldata.pw
 0.0.0.0 www.olx.pl-konto.pw
 0.0.0.0 us.plagiarizing766fj.pw
@@ -68827,6 +68835,7 @@
 0.0.0.0 ooldjd.site
 0.0.0.0 oomvvw.site
 0.0.0.0 opbiqn.site
+0.0.0.0 orlen-pl-syst.site
 0.0.0.0 oskpfx.site
 0.0.0.0 oticsh.site
 0.0.0.0 otkiqs.site
@@ -69230,6 +69239,10 @@
 0.0.0.0 www.dliugahistoriapolakkow.site
 0.0.0.0 olx.dostawa-161334260.site
 0.0.0.0 www.olx.dostawa-161334260.site
+0.0.0.0 www.olx.dostawa-1619283154.site
+0.0.0.0 www.olx.dostawa-1619288399.site
+0.0.0.0 olx.dostawa-1619355631.site
+0.0.0.0 www.olx.dostawa-1619355631.site
 0.0.0.0 www.e-childalert.site
 0.0.0.0 www.e-mail-regulamin.site
 0.0.0.0 www.e-mailprywatnosc.site
@@ -69292,6 +69305,7 @@
 0.0.0.0 www.olxoferta.site
 0.0.0.0 www.olxpl-dostawa.site
 0.0.0.0 www.onlinedativerifica.site
+0.0.0.0 www.orlen-pl-syst.site
 0.0.0.0 www.outlookmail.site
 0.0.0.0 www.outlooksettings.site
 0.0.0.0 www.inpost.pay-web.site
@@ -74508,6 +74522,7 @@
 0.0.0.0 www.ujecie24telerradio.website
 0.0.0.0 konto.vp-pl.website
 0.0.0.0 www.konto.vp-pl.website
+0.0.0.0 www.poczta.vp-pl.website
 0.0.0.0 www.xn--amazon-vt4op38dzqhto5e.website
 0.0.0.0 www.xn--como-ganar-dinero-por-facebook-fcil-y-rpido-4rdh.website
 0.0.0.0 www.z33apple.website
@@ -74911,6 +74926,7 @@
 0.0.0.0 daddaairlines.xyz
 0.0.0.0 daecan.xyz
 0.0.0.0 dangerously.xyz
+0.0.0.0 dapolli.xyz
 0.0.0.0 darinre.xyz
 0.0.0.0 darwintax.xyz
 0.0.0.0 datattro.xyz
@@ -75080,8 +75096,10 @@
 0.0.0.0 login345.xyz
 0.0.0.0 lojacriarthost.xyz
 0.0.0.0 lokalnieaiiegro.xyz
+0.0.0.0 lomino.xyz
 0.0.0.0 longxvisitorcenter.xyz
 0.0.0.0 lookatmyshop.xyz
+0.0.0.0 loutam.xyz
 0.0.0.0 ltcpro.xyz
 0.0.0.0 luven.xyz
 0.0.0.0 m-facebook-com.xyz
@@ -75252,6 +75270,7 @@
 0.0.0.0 rither.xyz
 0.0.0.0 rjujujdshfnmyflj.xyz
 0.0.0.0 rosenbaum-jaida24nz.xyz
+0.0.0.0 rossmanie.xyz
 0.0.0.0 royalrbupdate.xyz
 0.0.0.0 rp8nqp0j2yvw5bj5gidizkmuxhi1vmgjo19bgo305mc9oz7xi3.xyz
 0.0.0.0 rumahpelajar.xyz
@@ -75467,6 +75486,7 @@
 0.0.0.0 www.consityr600.xyz
 0.0.0.0 cnc.cs9ting.xyz
 0.0.0.0 confirm.sms.code.customers-wfb.xyz
+0.0.0.0 www.dapolli.xyz
 0.0.0.0 www.darwintax.xyz
 0.0.0.0 ssl-paypal.de-east-account-verification-center.xyz
 0.0.0.0 cc.dealcleaners.xyz
@@ -75564,10 +75584,12 @@
 0.0.0.0 gov.uk.claim-tax-refund.loguk.xyz
 0.0.0.0 www.lokalnieaiiegro.xyz
 0.0.0.0 www.lokjhq.xyz
+0.0.0.0 www.lomino.xyz
 0.0.0.0 eu.longxvisitorcenter.xyz
 0.0.0.0 www.longxvisitorcenter.xyz
 0.0.0.0 www.eu.longxvisitorcenter.xyz
 0.0.0.0 www.lookatmyshop.xyz
+0.0.0.0 www.loutam.xyz
 0.0.0.0 www.ltcpro.xyz
 0.0.0.0 www.machinesystem.xyz
 0.0.0.0 www.manager-paczek-pl.xyz
@@ -75700,6 +75722,8 @@
 0.0.0.0 www.poczta.pl-makepays.xyz
 0.0.0.0 www.pl-payed.xyz
 0.0.0.0 www.pl-receive.xyz
+0.0.0.0 olx.pl-safebuy.xyz
+0.0.0.0 www.olx.pl-safebuy.xyz
 0.0.0.0 poczta.pl-safedeal.xyz
 0.0.0.0 www.pl-safedeal.xyz
 0.0.0.0 www.poczta.pl-safedeal.xyz
@@ -75746,6 +75770,7 @@
 0.0.0.0 www.rdrc.xyz
 0.0.0.0 orange.recompenses.xyz
 0.0.0.0 www.regulamin.xyz
+0.0.0.0 www.rossmanie.xyz
 0.0.0.0 dl.rumusic.xyz
 0.0.0.0 www.saison-jp--card.xyz
 0.0.0.0 www.samtegoniezrobiisz.xyz
