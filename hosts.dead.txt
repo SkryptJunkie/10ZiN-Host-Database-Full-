@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:09 AM Wednesday 05 May 2021
+# Date: 06:03 AM Thursday 06 May 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -6074,6 +6074,7 @@
 0.0.0.0 59ce3f2bf1b3.com
 0.0.0.0 59ef0480b3fd.com
 0.0.0.0 59ef627aa2a.com
+0.0.0.0 5ac9af9fc8f.com
 0.0.0.0 5accb38d350.com
 0.0.0.0 5b1cd20a44adf.com
 0.0.0.0 5b241d28316f1.com
@@ -6183,6 +6184,7 @@
 0.0.0.0 781ca8a804e.com
 0.0.0.0 788522cceae.com
 0.0.0.0 7903dabd2b6.com
+0.0.0.0 7a228575ea8f.com
 0.0.0.0 7a418ea5bc199.com
 0.0.0.0 7b3b96c01d798f.com
 0.0.0.0 7c4cdf61056.com
@@ -6370,6 +6372,7 @@
 0.0.0.0 abar-sy.com
 0.0.0.0 abc-adidas.com
 0.0.0.0 abc-check.com
+0.0.0.0 abc226c33d.com
 0.0.0.0 abdulazizandsons.com
 0.0.0.0 abdullohkhizazi.com
 0.0.0.0 abebagroup.com
@@ -10558,6 +10561,7 @@
 0.0.0.0 d7f2615c71a1567cc13cf3a7f7de6aea.com
 0.0.0.0 d80ca4cff3.com
 0.0.0.0 d84b95a7c3e.com
+0.0.0.0 d86ac31f6a.com
 0.0.0.0 daalmorse.com
 0.0.0.0 dacorgas.com
 0.0.0.0 dacque.com
@@ -11212,6 +11216,7 @@
 0.0.0.0 e765487792.com
 0.0.0.0 e78b09c3cf.com
 0.0.0.0 e860045edaecd.com
+0.0.0.0 e920300ea9783.com
 0.0.0.0 e9cb2923380.com
 0.0.0.0 e9e1542c796.com
 0.0.0.0 e9e21762138.com
@@ -27927,6 +27932,7 @@
 0.0.0.0 www.ateresraffle.com
 0.0.0.0 audience.atex.com
 0.0.0.0 www.atgleric.com
+0.0.0.0 sicas.ikea.csom.athenahealth.com
 0.0.0.0 www.athenawisdompearls.com
 0.0.0.0 www.athirahcity.com
 0.0.0.0 www.athomewithiz.com
@@ -43256,6 +43262,7 @@
 0.0.0.0 www.webflex-omgeving.cz
 0.0.0.0 www.zahradazakatu.cz
 0.0.0.0 ad-de-08.adm.dailymotion
+0.0.0.0 opsc.ns.emailvision.net.daraz
 0.0.0.0 germanycrypto.date
 0.0.0.0 linkship.date
 0.0.0.0 online-kassa.date
@@ -75078,6 +75085,7 @@
 0.0.0.0 korespodencja-platnosc.xyz
 0.0.0.0 kristaca.xyz
 0.0.0.0 krzyk.xyz
+0.0.0.0 kugo.xyz
 0.0.0.0 kup-teraz-859110.xyz
 0.0.0.0 kuponline129006.xyz
 0.0.0.0 kuponline158460.xyz
@@ -75254,6 +75262,7 @@
 0.0.0.0 pyple-customer-center.xyz
 0.0.0.0 qhpfewseduddrvwb.xyz
 0.0.0.0 qstnwpjfdgrlkhv.xyz
+0.0.0.0 quantro.xyz
 0.0.0.0 qurm.xyz
 0.0.0.0 radardisplaytrailer.xyz
 0.0.0.0 rainur.xyz
@@ -75377,6 +75386,7 @@
 0.0.0.0 vintagerookiecards.xyz
 0.0.0.0 viscofl.xyz
 0.0.0.0 visitoronearthxrussellathletic.xyz
+0.0.0.0 viskio.xyz
 0.0.0.0 vnwv.xyz
 0.0.0.0 walterostanekband.xyz
 0.0.0.0 waoooo.xyz
@@ -75574,6 +75584,7 @@
 0.0.0.0 confirmer-votre-compte-information.kjd6.xyz
 0.0.0.0 www.korespodencja-platnosc.xyz
 0.0.0.0 www.kristaca.xyz
+0.0.0.0 www.kugo.xyz
 0.0.0.0 amazon-sicherheit.kunden-ueberpruefung.xyz
 0.0.0.0 www.kup-teraz-859110.xyz
 0.0.0.0 www.kuponline129006.xyz
@@ -75766,6 +75777,7 @@
 0.0.0.0 www.promo-sales.xyz
 0.0.0.0 www.przesylka24.xyz
 0.0.0.0 www.pumatail.xyz
+0.0.0.0 www.quantro.xyz
 0.0.0.0 bnk.ib.rankk.xyz
 0.0.0.0 www.rdrc.xyz
 0.0.0.0 orange.recompenses.xyz
@@ -75821,6 +75833,7 @@
 0.0.0.0 eu.visitoronearthxrussellathletic.xyz
 0.0.0.0 www.visitoronearthxrussellathletic.xyz
 0.0.0.0 www.eu.visitoronearthxrussellathletic.xyz
+0.0.0.0 www.viskio.xyz
 0.0.0.0 www.vnwv.xyz
 0.0.0.0 www.wangjy1211.xyz
 0.0.0.0 www.warninginfo.xyz
