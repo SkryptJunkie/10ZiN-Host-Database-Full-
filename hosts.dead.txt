@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:03 AM Thursday 06 May 2021
+# Date: 06:03 AM Friday 07 May 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -1383,6 +1383,7 @@
 0.0.0.0 pettracer.bid
 0.0.0.0 phc-online.bid
 0.0.0.0 pianoall.bid
+0.0.0.0 potwierdzenie-nadania24.bid
 0.0.0.0 proofgenerator.bid
 0.0.0.0 pumpchasersclothing.bid
 0.0.0.0 pvqumuqgcwpocx.bid
@@ -1509,6 +1510,7 @@
 0.0.0.0 www.phc-online.bid
 0.0.0.0 www.pianoall.bid
 0.0.0.0 sparkasse.de.portal-026432516246964-verifisieren.bid
+0.0.0.0 www.potwierdzenie-nadania24.bid
 0.0.0.0 www.pumpchasersclothing.bid
 0.0.0.0 safety.apple.com.rbmrzz.qww79z2wxzsn.bid
 0.0.0.0 safety.microsoft.com.vihoyc.qww79z2wxzsn.bid
@@ -4780,11 +4782,13 @@
 0.0.0.0 itunesdownload.club
 0.0.0.0 iwsxzsa24.club
 0.0.0.0 jestnatoczass.club
+0.0.0.0 jezzellichodziiommnie.club
 0.0.0.0 jnhgg.club
 0.0.0.0 joshkelly.club
 0.0.0.0 kemechshop.club
 0.0.0.0 kenyayevette.club
 0.0.0.0 king-of-the-rings.club
+0.0.0.0 konsyliumoplakow.club
 0.0.0.0 konto-commerzbank.club
 0.0.0.0 largermethodenroll.club
 0.0.0.0 limithelb.club
@@ -4807,10 +4811,12 @@
 0.0.0.0 myethswallet.club
 0.0.0.0 napoczatekpopatrztutaj.club
 0.0.0.0 naprawdetozmienn.club
+0.0.0.0 naszakronika.club
 0.0.0.0 nbfcs.club
 0.0.0.0 netflixlovers.club
 0.0.0.0 netflixoffer.club
 0.0.0.0 nguhanh.club
+0.0.0.0 niedokoncawszystkojassne.club
 0.0.0.0 nmjhhiu.club
 0.0.0.0 nukiero.club
 0.0.0.0 nuwsxzsa33.club
@@ -4826,18 +4832,24 @@
 0.0.0.0 pikappa.club
 0.0.0.0 pipgiglea.club
 0.0.0.0 pl-buyorder.club
+0.0.0.0 pl-dane.club
 0.0.0.0 pl-deals.club
 0.0.0.0 pl-getcash.club
 0.0.0.0 pl-makedeal.club
+0.0.0.0 pl-przelew.club
 0.0.0.0 pl-upowaznienie.club
+0.0.0.0 pl-wprowadz.club
+0.0.0.0 plpkobp.club
 0.0.0.0 polska-dostawka.club
 0.0.0.0 polska-oferla.club
 0.0.0.0 polskota.club
 0.0.0.0 pornosexox.club
 0.0.0.0 prizestohandle.club
+0.0.0.0 przejdzmydoseddna.club
 0.0.0.0 renewaltourplus.club
 0.0.0.0 rikvipcode.club
 0.0.0.0 rivercoveresidences.club
+0.0.0.0 roznerowzzwiazania.club
 0.0.0.0 rueaukrim.club
 0.0.0.0 saison-card--co-jp.club
 0.0.0.0 sayfibhat.club
@@ -4860,9 +4872,11 @@
 0.0.0.0 supportapple.club
 0.0.0.0 suppotcnter-activated.club
 0.0.0.0 syaseigangan.club
+0.0.0.0 taktoleciwtellewizjii.club
 0.0.0.0 taktooceniamypolacy.club
 0.0.0.0 thelobolair.club
 0.0.0.0 thisisamericaanythingcanhappen.club
+0.0.0.0 toniejjesjtnonsens.club
 0.0.0.0 toniemusibycsen.club
 0.0.0.0 trywsxzsa3.club
 0.0.0.0 tylkodojdziedosiebie.club
@@ -4951,8 +4965,10 @@
 0.0.0.0 www.informacja.club
 0.0.0.0 www.ipko.club
 0.0.0.0 www.jestnatoczass.club
+0.0.0.0 www.jezzellichodziiommnie.club
 0.0.0.0 www.joshkelly.club
 0.0.0.0 a.karmatrail.club
+0.0.0.0 www.konsyliumoplakow.club
 0.0.0.0 www.blog.lalalalala.club
 0.0.0.0 www.bancoestado.cl.imagenes.comun2008_nuevo.paglg.perss.html.litau.club
 0.0.0.0 www.localmeets.club
@@ -4963,11 +4979,15 @@
 0.0.0.0 www.myethswallet.club
 0.0.0.0 www.napoczatekpopatrztutaj.club
 0.0.0.0 www.naprawdetozmienn.club
+0.0.0.0 www.naszakronika.club
 0.0.0.0 www.meu.original.com.br.original.internetbanking.webapp.jkjeuiuudkjkjdhjhhquedfghjkl.netfliixx.club
 0.0.0.0 www.netflixlovers.club
 0.0.0.0 www.netflixoffer.club
+0.0.0.0 inpost.new-pl-oferta.club
+0.0.0.0 www.inpost.new-pl-oferta.club
 0.0.0.0 olx.new-polska-oferta.club
 0.0.0.0 www.olx.new-polska-oferta.club
+0.0.0.0 www.niedokoncawszystkojassne.club
 0.0.0.0 www.toy.onlinekid.club
 0.0.0.0 www.owa-outlook.club
 0.0.0.0 www.paquetesturisticos.club
@@ -4983,6 +5003,7 @@
 0.0.0.0 www.poczta.pl-buyorder.club
 0.0.0.0 inpost.pl-confirm.club
 0.0.0.0 www.inpost.pl-confirm.club
+0.0.0.0 www.pl-dane.club
 0.0.0.0 www.pl-deals.club
 0.0.0.0 www.pl-getcash.club
 0.0.0.0 inpost.pl-getdeal.club
@@ -4995,6 +5016,8 @@
 0.0.0.0 www.olx.pl-holding.club
 0.0.0.0 olx.pl-holdmoney.club
 0.0.0.0 www.olx.pl-holdmoney.club
+0.0.0.0 inpost.pl-holdorders.club
+0.0.0.0 www.inpost.pl-holdorders.club
 0.0.0.0 olx.pl-holds.club
 0.0.0.0 www.olx.pl-holds.club
 0.0.0.0 olx.pl-konto-orders.club
@@ -5011,8 +5034,11 @@
 0.0.0.0 www.inpost.pl-makepays.club
 0.0.0.0 www.olx.pl-makepays.club
 0.0.0.0 www.olx.pl-mkonto.club
+0.0.0.0 olx.pl-paydeals.club
+0.0.0.0 www.olx.pl-paydeals.club
 0.0.0.0 inpost.pl-post.club
 0.0.0.0 www.inpost.pl-post.club
+0.0.0.0 www.pl-przelew.club
 0.0.0.0 inpost.pl-safedeal.club
 0.0.0.0 olx.pl-safedeal.club
 0.0.0.0 www.inpost.pl-safedeal.club
@@ -5020,13 +5046,21 @@
 0.0.0.0 olx.pl-safelyway.club
 0.0.0.0 www.olx.pl-safelyway.club
 0.0.0.0 inpost.pl-safeordering.club
+0.0.0.0 olx.pl-safeordering.club
 0.0.0.0 www.inpost.pl-safeordering.club
+0.0.0.0 www.olx.pl-safeordering.club
 0.0.0.0 olx.pl-safeorders.club
 0.0.0.0 www.olx.pl-safeorders.club
 0.0.0.0 inpost.pl-saleorders.club
 0.0.0.0 olx.pl-saleorders.club
 0.0.0.0 www.inpost.pl-saleorders.club
 0.0.0.0 www.olx.pl-saleorders.club
+0.0.0.0 inpost.pl-savepay.club
+0.0.0.0 olx.pl-savepay.club
+0.0.0.0 www.inpost.pl-savepay.club
+0.0.0.0 www.olx.pl-savepay.club
+0.0.0.0 inpost.pl-sold.club
+0.0.0.0 www.inpost.pl-sold.club
 0.0.0.0 inpost.pl-soldorder.club
 0.0.0.0 www.inpost.pl-soldorder.club
 0.0.0.0 olx.pl-sprzedaz.club
@@ -5034,6 +5068,8 @@
 0.0.0.0 www.pl-upowaznienie.club
 0.0.0.0 olx.pl-wdrazanie.club
 0.0.0.0 www.olx.pl-wdrazanie.club
+0.0.0.0 www.pl-wprowadz.club
+0.0.0.0 www.plpkobp.club
 0.0.0.0 www.polska-dostawka.club
 0.0.0.0 olx.polska-ofer1o.club
 0.0.0.0 www.olx.polska-ofer1o.club
@@ -5042,6 +5078,8 @@
 0.0.0.0 www.olx.polska-ofertl.club
 0.0.0.0 www.pornosexox.club
 0.0.0.0 www.rep.privatesearch.club
+0.0.0.0 www.przejdzmydoseddna.club
+0.0.0.0 www.roznerowzzwiazania.club
 0.0.0.0 www.saison-card--co-jp.club
 0.0.0.0 www.saveappletypeflash.club
 0.0.0.0 www.savetypeappleflash.club
@@ -5056,8 +5094,10 @@
 0.0.0.0 www.sprobujazdobedziiesz.club
 0.0.0.0 www.steamcodez.club
 0.0.0.0 www.supportapple.club
+0.0.0.0 www.taktoleciwtellewizjii.club
 0.0.0.0 www.taktooceniamypolacy.club
 0.0.0.0 www.thisisamericaanythingcanhappen.club
+0.0.0.0 www.toniejjesjtnonsens.club
 0.0.0.0 www.toniemusibycsen.club
 0.0.0.0 www.toptypeappleflash.club
 0.0.0.0 www.tylkodojdziedosiebie.club
@@ -9274,6 +9314,7 @@
 0.0.0.0 cainabela.com
 0.0.0.0 caiqueportweb.com
 0.0.0.0 caisseparticulier.com
+0.0.0.0 caixamob.com
 0.0.0.0 cajascartonsantander.com
 0.0.0.0 cal-maxtransport.com
 0.0.0.0 calametal.com
@@ -11591,6 +11632,7 @@
 0.0.0.0 es-dropbox.com
 0.0.0.0 esabilisimguvenlik.com
 0.0.0.0 esam-koteman.com
+0.0.0.0 escaixa.com
 0.0.0.0 escarpitafotografia.com
 0.0.0.0 escuelaperrosguia.com
 0.0.0.0 esea-lounge.com
@@ -28999,6 +29041,7 @@
 0.0.0.0 www.cagauravgupta.com
 0.0.0.0 www.caiqueportweb.com
 0.0.0.0 www.caixaconsultafgtsivativo.com
+0.0.0.0 www.caixamob.com
 0.0.0.0 www.cajascartonsantander.com
 0.0.0.0 ads.calgarysun.com
 0.0.0.0 www.caliielartista.com
@@ -31099,6 +31142,7 @@
 0.0.0.0 www.es-idapple.com
 0.0.0.0 signin.paypal.com-country.es-mpp.com
 0.0.0.0 signin.paypal.com-country.es-pais.com
+0.0.0.0 www.escaixa.com
 0.0.0.0 oascentral.escapistmagazine.com
 0.0.0.0 www.escarpitafotografia.com
 0.0.0.0 www.escuelaperrosguia.com
@@ -43151,6 +43195,7 @@
 0.0.0.0 williscu.coop
 0.0.0.0 www.williscu.coop
 0.0.0.0 partnercreative.vibrant.corp
+0.0.0.0 demo.learningcentre.cowww
 0.0.0.0 ads.flvrrz.cpm
 0.0.0.0 data.flvrrz.cpm
 0.0.0.0 centra.credit
@@ -59573,6 +59618,7 @@
 0.0.0.0 fixapple.online
 0.0.0.0 fldo-verlfy.online
 0.0.0.0 freejobportal.online
+0.0.0.0 getihbank.online
 0.0.0.0 gift-today85.online
 0.0.0.0 gjhf.online
 0.0.0.0 gosantanderhtrm.online
@@ -59842,6 +59888,7 @@
 0.0.0.0 www.fixapple.online
 0.0.0.0 www.flanneldistribuidora.online
 0.0.0.0 orange.fr-enqueteofficielle.online
+0.0.0.0 www.getihbank.online
 0.0.0.0 poland.gift-today85.online
 0.0.0.0 www.gosantanderhtrm.online
 0.0.0.0 www.grabyourluck.online
@@ -59864,8 +59911,10 @@
 0.0.0.0 platnosc.kurierzyplatnosci.online
 0.0.0.0 www.laxmirugnaseva.online
 0.0.0.0 www.legalpapers.online
+0.0.0.0 www.allegro.llokalnie.online
 0.0.0.0 www.login-portal.online
 0.0.0.0 www.loginfacebook.online
+0.0.0.0 www.allegro.lokallnie.online
 0.0.0.0 www.lubricante.online
 0.0.0.0 www.luxkur.online
 0.0.0.0 www.m-verizon.online
@@ -59874,6 +59923,7 @@
 0.0.0.0 www.mobile-alert.online
 0.0.0.0 www.mobile-alerts.online
 0.0.0.0 www.mobilnyj-bank-sberbank.online
+0.0.0.0 www.olx-pl.moja-dostawa.online
 0.0.0.0 www.mpp-paypal.online
 0.0.0.0 www.musicloud.online
 0.0.0.0 www.my-amazon.online
@@ -64593,6 +64643,7 @@
 0.0.0.0 www.olx-pl.pw
 0.0.0.0 www.hor.orlninwest.pw
 0.0.0.0 www.pay01-olx.pw
+0.0.0.0 www.pay08-olx.pw
 0.0.0.0 www.personaldata.pw
 0.0.0.0 www.olx.pl-konto.pw
 0.0.0.0 us.plagiarizing766fj.pw
@@ -75117,6 +75168,7 @@
 0.0.0.0 makemywayorhighway.xyz
 0.0.0.0 makodirect.xyz
 0.0.0.0 manager-paczek-pl.xyz
+0.0.0.0 manio.xyz
 0.0.0.0 mascalorofertas.xyz
 0.0.0.0 maxp.xyz
 0.0.0.0 maxsexoffer.xyz
@@ -75130,6 +75182,7 @@
 0.0.0.0 microsoft-official-error2103.xyz
 0.0.0.0 microsoftservice.xyz
 0.0.0.0 mid3056kjjmv2.xyz
+0.0.0.0 millano.xyz
 0.0.0.0 minmin96.xyz
 0.0.0.0 mitido.xyz
 0.0.0.0 mix431321.xyz
@@ -75191,6 +75244,7 @@
 0.0.0.0 oghituk.xyz
 0.0.0.0 ogloszenie-kupteraz-149175.xyz
 0.0.0.0 ogloszenie156712.xyz
+0.0.0.0 okrilno.xyz
 0.0.0.0 oldvidz.xyz
 0.0.0.0 olx-pl-dostawa.xyz
 0.0.0.0 one-pay.xyz
@@ -75254,6 +75308,7 @@
 0.0.0.0 ppverifi.xyz
 0.0.0.0 prim-new-prim.xyz
 0.0.0.0 printersecure.xyz
+0.0.0.0 prismaliquld.xyz
 0.0.0.0 promo-sales.xyz
 0.0.0.0 promocoescasasbaia.xyz
 0.0.0.0 promopontofrio.xyz
@@ -75286,6 +75341,7 @@
 0.0.0.0 s3caccverifisubmit.xyz
 0.0.0.0 saison-jp--card.xyz
 0.0.0.0 samtegoniezrobiisz.xyz
+0.0.0.0 sandeman.xyz
 0.0.0.0 scotiaenlima.xyz
 0.0.0.0 section-info-settings.xyz
 0.0.0.0 secure-getinbank.xyz
@@ -75376,11 +75432,13 @@
 0.0.0.0 uregulowanie-naleznosci-24.xyz
 0.0.0.0 vaiderenault.xyz
 0.0.0.0 valkrana.xyz
+0.0.0.0 vardian.xyz
 0.0.0.0 verifvk.xyz
 0.0.0.0 verify-center.xyz
 0.0.0.0 verify-email.xyz
 0.0.0.0 verify-facebook-account.xyz
 0.0.0.0 verifywe.xyz
+0.0.0.0 versales.xyz
 0.0.0.0 veturas.xyz
 0.0.0.0 vinogradzaoknom.xyz
 0.0.0.0 vintagerookiecards.xyz
@@ -75604,7 +75662,9 @@
 0.0.0.0 www.ltcpro.xyz
 0.0.0.0 www.machinesystem.xyz
 0.0.0.0 www.manager-paczek-pl.xyz
+0.0.0.0 www.manio.xyz
 0.0.0.0 ebay.com.errorpayment.mbachores.xyz
+0.0.0.0 www.millano.xyz
 0.0.0.0 www.minmin96.xyz
 0.0.0.0 www.models-choice.xyz
 0.0.0.0 www.moneywp.xyz
@@ -75681,6 +75741,7 @@
 0.0.0.0 www.oghituk.xyz
 0.0.0.0 www.ogloszenie-kupteraz-149175.xyz
 0.0.0.0 www.ogloszenie156712.xyz
+0.0.0.0 www.okrilno.xyz
 0.0.0.0 www.oldvidz.xyz
 0.0.0.0 www.olx-pl-dostawa.xyz
 0.0.0.0 olx.olxoferts.xyz
@@ -75774,6 +75835,7 @@
 0.0.0.0 www.portafolioadsfon.xyz
 0.0.0.0 fb.postmee.xyz
 0.0.0.0 www.printersecure.xyz
+0.0.0.0 www.prismaliquld.xyz
 0.0.0.0 www.promo-sales.xyz
 0.0.0.0 www.przesylka24.xyz
 0.0.0.0 www.pumatail.xyz
@@ -75786,6 +75848,7 @@
 0.0.0.0 dl.rumusic.xyz
 0.0.0.0 www.saison-jp--card.xyz
 0.0.0.0 www.samtegoniezrobiisz.xyz
+0.0.0.0 www.sandeman.xyz
 0.0.0.0 paroex.sart-ci.xyz
 0.0.0.0 www.secure-getinbank.xyz
 0.0.0.0 www.secureddocufile.xyz
@@ -75827,7 +75890,9 @@
 0.0.0.0 credentials-req.urgent-validation.xyz
 0.0.0.0 www.credentials-req.urgent-validation.xyz
 0.0.0.0 www.vaiderenault.xyz
+0.0.0.0 www.vardian.xyz
 0.0.0.0 www.verify-email.xyz
+0.0.0.0 www.versales.xyz
 0.0.0.0 1.versionday.xyz
 0.0.0.0 www.viscofl.xyz
 0.0.0.0 eu.visitoronearthxrussellathletic.xyz
