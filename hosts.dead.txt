@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:03 AM Friday 07 May 2021
+# Date: 06:05 AM Saturday 08 May 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -26643,6 +26643,7 @@
 0.0.0.0 s.click.alimama.com
 0.0.0.0 www.alimentosfauchon.com
 0.0.0.0 apple.alimermertas.com
+0.0.0.0 www.alirey.com
 0.0.0.0 www.alisabyfinna.com
 0.0.0.0 p3p.alisoft.com
 0.0.0.0 tj.alisoft.com
