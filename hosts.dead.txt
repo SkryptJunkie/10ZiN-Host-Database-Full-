@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:05 AM Saturday 08 May 2021
+# Date: 06:03 AM Sunday 09 May 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -6300,6 +6300,7 @@
 0.0.0.0 8b18a31eb3.com
 0.0.0.0 8b5a31f63acbeb2d1d88.com
 0.0.0.0 8c4cab5d072.com
+0.0.0.0 8c535773f89c8.com
 0.0.0.0 8d9d548d35.com
 0.0.0.0 8e26ad24b3.com
 0.0.0.0 8e7494a66210.com
@@ -6405,6 +6406,7 @@
 0.0.0.0 aaruka.com
 0.0.0.0 aathmaarthi.com
 0.0.0.0 aazwugtom.com
+0.0.0.0 ab78f9910d.com
 0.0.0.0 ababaloka.com
 0.0.0.0 abacorporationindia.com
 0.0.0.0 abahah.com
@@ -11241,6 +11243,7 @@
 0.0.0.0 e079cbbe23.com
 0.0.0.0 e17ed2d3a9df0.com
 0.0.0.0 e1ff587aa50c.com
+0.0.0.0 e23b6d790a5b.com
 0.0.0.0 e2bworld.com
 0.0.0.0 e331ff4e674c083.com
 0.0.0.0 e36ff49101.com
@@ -11368,6 +11371,7 @@
 0.0.0.0 eernnfbfby.com
 0.0.0.0 eeshansplace.com
 0.0.0.0 ef5b6b02d2.com
+0.0.0.0 ef9af376b7f.com
 0.0.0.0 efax-delivery-id18.com
 0.0.0.0 efe9838bf0.com
 0.0.0.0 efecebeci.com
