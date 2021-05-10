@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:03 AM Sunday 09 May 2021
+# Date: 06:02 AM Monday 10 May 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -5155,6 +5155,7 @@
 0.0.0.0 co8vd.cn
 0.0.0.0 dirtub.cn
 0.0.0.0 download-123.cn
+0.0.0.0 drrcns.cn
 0.0.0.0 egypt-shop.cn
 0.0.0.0 egyptgood.cn
 0.0.0.0 fjrdswsitepbnyhd.cn
@@ -5192,6 +5193,8 @@
 0.0.0.0 wyf003.cn
 0.0.0.0 xc-jt.cn
 0.0.0.0 yhdnrjncj.cn
+0.0.0.0 yingtaiboli.cn
+0.0.0.0 photo.0234408.cn
 0.0.0.0 iliilllio00oo0.321.cn
 0.0.0.0 soyo.360.cn
 0.0.0.0 stat.apc.360.cn
@@ -5238,6 +5241,7 @@
 0.0.0.0 plolgki.com.cn
 0.0.0.0 ad.114.com.cn
 0.0.0.0 wap.6262.com.cn
+0.0.0.0 l.ad4.com.cn
 0.0.0.0 adx.admaster.com.cn
 0.0.0.0 logs.aiya.com.cn
 0.0.0.0 1.allyes.com.cn
@@ -5263,6 +5267,7 @@
 0.0.0.0 scc.domob.cn
 0.0.0.0 sdl.domob.cn
 0.0.0.0 swx.domob.cn
+0.0.0.0 m.drrcns.cn
 0.0.0.0 dmn2.bjpeu.edu.cn
 0.0.0.0 mail.edi.edu.cn
 0.0.0.0 indy.fjmu.edu.cn
@@ -5283,6 +5288,7 @@
 0.0.0.0 mail.hangzhouit.gov.cn
 0.0.0.0 41907.gwtoys.cn
 0.0.0.0 public2.zz.ha.cn
+0.0.0.0 m.henxg.cn
 0.0.0.0 track2.ra.icast.cn
 0.0.0.0 www.iosny.cn
 0.0.0.0 www.iphone-appleid.cn
@@ -5299,6 +5305,7 @@
 0.0.0.0 b.l-a-c.cn
 0.0.0.0 www.lhrc.cn
 0.0.0.0 lm.bilibili.wan.liebao.cn
+0.0.0.0 m.lsiwd.cn
 0.0.0.0 appsrv1.madserving.cn
 0.0.0.0 appsrv4.madserving.cn
 0.0.0.0 ssh.mi61l.cn
@@ -5310,11 +5317,14 @@
 0.0.0.0 www.caobenjiawang.net.cn
 0.0.0.0 www.jssy.net.cn
 0.0.0.0 apk.ninebox.cn
+0.0.0.0 e.oul78c.cn
 0.0.0.0 mpp.sawchina.cn
+0.0.0.0 m.sdfvk.cn
 0.0.0.0 idttrading.shinyeh.cn
 0.0.0.0 www.idttrading.shinyeh.cn
 0.0.0.0 114.sohenan.cn
 0.0.0.0 car.swotin.cn
+0.0.0.0 m.syxsa.cn
 0.0.0.0 advise.ttpod.cn
 0.0.0.0 ads1.uc.cn
 0.0.0.0 down1.app.uc.cn
@@ -5328,6 +5338,7 @@
 0.0.0.0 www.wqysvfw.cn
 0.0.0.0 fw.xc-jt.cn
 0.0.0.0 www.yibaruxet.cn
+0.0.0.0 photo.yingtaiboli.cn
 0.0.0.0 www.yinruidong.cn
 0.0.0.0 www.ymuiiiwkff.cn
 0.0.0.0 proxy.youdraw.cn
