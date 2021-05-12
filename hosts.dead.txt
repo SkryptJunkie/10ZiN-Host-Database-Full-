@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:06 AM Tuesday 11 May 2021
+# Date: 06:02 AM Wednesday 12 May 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -14385,6 +14385,7 @@
 0.0.0.0 infinitiins.com
 0.0.0.0 infinityblade3hack.com
 0.0.0.0 infinitydownline5k.com
+0.0.0.0 infinityglobaltrade.com
 0.0.0.0 infitradebrokers.com
 0.0.0.0 infmateuriontpileons.com
 0.0.0.0 info-accessvalidatesumary.com
@@ -20032,6 +20033,7 @@
 0.0.0.0 richboysblog.com
 0.0.0.0 richbtc4u.com
 0.0.0.0 richmond-va-bankruptcy-lawyer.com
+0.0.0.0 ricky-usb.com
 0.0.0.0 ridagellt.com
 0.0.0.0 ridemybanana.com
 0.0.0.0 ridleyclark.com
@@ -60204,6 +60206,7 @@
 0.0.0.0 beckerstaxservice.org
 0.0.0.0 beckly.org
 0.0.0.0 berkshirefoodweb.org
+0.0.0.0 berylconsultinglimited.org
 0.0.0.0 beslchange.org
 0.0.0.0 best-cheat.org
 0.0.0.0 best-files.org
