@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:17 AM Friday 14 May 2021
+# Date: 06:11 AM Saturday 15 May 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -53567,6 +53567,7 @@
 0.0.0.0 servyhdncjpecdbn.ml
 0.0.0.0 sesepa.ml
 0.0.0.0 severvice0utkook.ml
+0.0.0.0 seychelless.ml
 0.0.0.0 sfers.ml
 0.0.0.0 sharlock.ml
 0.0.0.0 sicherheitszone.ml
