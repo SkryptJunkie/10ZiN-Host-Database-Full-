@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:11 AM Saturday 15 May 2021
+# Date: 06:08 AM Sunday 16 May 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -3433,6 +3433,7 @@
 0.0.0.0 www.service01-itunes.business
 0.0.0.0 support.secure-account.veriviacation-report.business
 0.0.0.0 sthlmtjejer.buzz
+0.0.0.0 www.babosiki.buzz
 0.0.0.0 www.browsefeatureaasn31254.buzz
 0.0.0.0 www.thapho.buzz
 0.0.0.0 www.aps.co.bw
@@ -3695,6 +3696,7 @@
 0.0.0.0 myetherwallet.cam
 0.0.0.0 www.kontospl.cam
 0.0.0.0 www.loveme.cam
+0.0.0.0 www.fyp.tubesmaza.cam
 0.0.0.0 www.zalukaj.cam
 0.0.0.0 ligaterx.capital
 0.0.0.0 apple-id.cards
@@ -3761,6 +3763,8 @@
 0.0.0.0 www.inpost.pl-sold.casa
 0.0.0.0 inpost.pl-soldorder.casa
 0.0.0.0 www.inpost.pl-soldorder.casa
+0.0.0.0 olx.plkonstosa.casa
+0.0.0.0 www.olx.plkonstosa.casa
 0.0.0.0 olx.polska-ofer1o.casa
 0.0.0.0 www.olx.polska-ofer1o.casa
 0.0.0.0 www.delivery.olx.safedeal.casa
@@ -4994,6 +4998,8 @@
 0.0.0.0 olx.new-polska-oferta.club
 0.0.0.0 www.olx.new-polska-oferta.club
 0.0.0.0 www.niedokoncawszystkojassne.club
+0.0.0.0 olx.olxkonstos.club
+0.0.0.0 www.olx.olxkonstos.club
 0.0.0.0 www.toy.onlinekid.club
 0.0.0.0 www.owa-outlook.club
 0.0.0.0 www.paquetesturisticos.club
@@ -5020,6 +5026,10 @@
 0.0.0.0 www.olx.pl-getordered.club
 0.0.0.0 olx.pl-getpaid.club
 0.0.0.0 www.olx.pl-getpaid.club
+0.0.0.0 inpost.pl-gotpay.club
+0.0.0.0 www.inpost.pl-gotpay.club
+0.0.0.0 olx.pl-gotpays.club
+0.0.0.0 www.olx.pl-gotpays.club
 0.0.0.0 olx.pl-holding.club
 0.0.0.0 www.olx.pl-holding.club
 0.0.0.0 olx.pl-holdmoney.club
@@ -5042,6 +5052,10 @@
 0.0.0.0 www.inpost.pl-makepays.club
 0.0.0.0 www.olx.pl-makepays.club
 0.0.0.0 www.olx.pl-mkonto.club
+0.0.0.0 inpost.pl-orderspaid.club
+0.0.0.0 olx.pl-orderspaid.club
+0.0.0.0 www.inpost.pl-orderspaid.club
+0.0.0.0 www.olx.pl-orderspaid.club
 0.0.0.0 inpost.pl-paid.club
 0.0.0.0 www.inpost.pl-paid.club
 0.0.0.0 olx.pl-paydeals.club
@@ -5079,6 +5093,8 @@
 0.0.0.0 olx.pl-wdrazanie.club
 0.0.0.0 www.olx.pl-wdrazanie.club
 0.0.0.0 www.pl-wprowadz.club
+0.0.0.0 olx.plkonstosa.club
+0.0.0.0 www.olx.plkonstosa.club
 0.0.0.0 www.plpkobp.club
 0.0.0.0 www.polska-dostawka.club
 0.0.0.0 olx.polska-ofer1o.club
@@ -9315,6 +9331,8 @@
 0.0.0.0 c8c528fd2b.com
 0.0.0.0 ca-fr-credit-agricole-particuliers.com
 0.0.0.0 ca201ee86b.com
+0.0.0.0 ca24-login.com
+0.0.0.0 ca24-online.com
 0.0.0.0 ca43588366c.com
 0.0.0.0 caalnt.com
 0.0.0.0 caancel.com
@@ -29060,6 +29078,8 @@
 0.0.0.0 www.c2path.com
 0.0.0.0 www.c3e8c79280e1f4de01c0dd1e99c2a35m.com
 0.0.0.0 sdc.ca.com
+0.0.0.0 www.ca24-login.com
+0.0.0.0 www.ca24-online.com
 0.0.0.0 idea.cabezonworks.com
 0.0.0.0 www.idea.cabezonworks.com
 0.0.0.0 www.cablyshaw.com
@@ -33615,6 +33635,8 @@
 0.0.0.0 www.infoboaverify.com
 0.0.0.0 it.infophlino.com
 0.0.0.0 www.infoportal-computer-ipads-handys-zubehoer.com
+0.0.0.0 olx-pl.inform-pays.com
+0.0.0.0 www.olx-pl.inform-pays.com
 0.0.0.0 www.informaticsanalyst.com
 0.0.0.0 searchportal.information.com
 0.0.0.0 www.information-account-apple.com
@@ -43291,6 +43313,8 @@
 0.0.0.0 www.inpost.pl-payed.cyou
 0.0.0.0 inpost.pl-savesell.cyou
 0.0.0.0 www.inpost.pl-savesell.cyou
+0.0.0.0 olx.plkonstosa.cyou
+0.0.0.0 www.olx.plkonstosa.cyou
 0.0.0.0 inpost.plskontasa.cyou
 0.0.0.0 www.inpost.plskontasa.cyou
 0.0.0.0 www.polka-oferta.cyou
@@ -49828,6 +49852,7 @@
 0.0.0.0 macapple.info
 0.0.0.0 macbook-pro-free.info
 0.0.0.0 macsecurityalarm.info
+0.0.0.0 mail-links3.info
 0.0.0.0 mainncjservsite.info
 0.0.0.0 mainsrvikjmain.info
 0.0.0.0 mainyhdfjr.info
@@ -50909,6 +50934,7 @@
 0.0.0.0 oik.mactechinfo.info
 0.0.0.0 www.madeua.info
 0.0.0.0 cdn.mahmukhach.info
+0.0.0.0 www.mail-links3.info
 0.0.0.0 www.makemoneyonlinez.info
 0.0.0.0 www.mankyousam.info
 0.0.0.0 engine.mapshup.info
@@ -59571,6 +59597,7 @@
 0.0.0.0 aideausupport9683687.online
 0.0.0.0 alexlito-interiors.online
 0.0.0.0 aliexpress-cashback.online
+0.0.0.0 allegro-lokalniie.online
 0.0.0.0 amazon-delivery.online
 0.0.0.0 amazon-id.online
 0.0.0.0 amazonbank.online
@@ -59870,6 +59897,7 @@
 0.0.0.0 www.adobebr.online
 0.0.0.0 www.adobephonenumber.online
 0.0.0.0 www.aliexpress-cashback.online
+0.0.0.0 www.allegro-lokalniie.online
 0.0.0.0 www.amazon-delivery.online
 0.0.0.0 www.amazon-id.online
 0.0.0.0 www.amazonbank.online
@@ -59952,6 +59980,7 @@
 0.0.0.0 ing.inactividad.online
 0.0.0.0 www.infofpolska.online
 0.0.0.0 www.poczta.interia-pl.online
+0.0.0.0 www.demo.interlab.online
 0.0.0.0 www.investmentdoubler.online
 0.0.0.0 www.ios-applemap.online
 0.0.0.0 www.jobcentral.online
@@ -60260,6 +60289,7 @@
 0.0.0.0 bnb-token.org
 0.0.0.0 boombeachdiamant.org
 0.0.0.0 boschservisigolcuk.org
+0.0.0.0 boxdel.org
 0.0.0.0 breastwithoutspotng.org
 0.0.0.0 bubn.org
 0.0.0.0 buenasnuevashoy.org
@@ -61344,6 +61374,7 @@
 0.0.0.0 www.bluetribe.org
 0.0.0.0 www.bnb-token.org
 0.0.0.0 www.bocawoodscountryclub.org
+0.0.0.0 www.boxdel.org
 0.0.0.0 www.boxsec.org
 0.0.0.0 www.breastwithoutspotng.org
 0.0.0.0 www.btc-gift.org
@@ -68288,6 +68319,8 @@
 0.0.0.0 www.olx.pl-safeway.shop
 0.0.0.0 inpost.pl-sellorder.shop
 0.0.0.0 www.inpost.pl-sellorder.shop
+0.0.0.0 olx.plkonstosa.shop
+0.0.0.0 www.olx.plkonstosa.shop
 0.0.0.0 www.polska-oferla.shop
 0.0.0.0 www.polsko-oferta.shop
 0.0.0.0 www.zngood.shop
@@ -69383,6 +69416,8 @@
 0.0.0.0 www.dliugahistoriapolakkow.site
 0.0.0.0 olx.dostawa-161334260.site
 0.0.0.0 www.olx.dostawa-161334260.site
+0.0.0.0 olx.dostawa-1618338411.site
+0.0.0.0 www.olx.dostawa-1618338411.site
 0.0.0.0 www.olx.dostawa-1619283154.site
 0.0.0.0 www.olx.dostawa-1619288399.site
 0.0.0.0 olx.dostawa-1619355631.site
@@ -74882,6 +74917,8 @@
 0.0.0.0 www.olx.pl-soldorder.work
 0.0.0.0 inpost.pl-soldorders.work
 0.0.0.0 www.inpost.pl-soldorders.work
+0.0.0.0 olx.plkonstosa.work
+0.0.0.0 www.olx.plkonstosa.work
 0.0.0.0 inpost.polska-ofer1o.work
 0.0.0.0 olx.polska-ofer1o.work
 0.0.0.0 www.inpost.polska-ofer1o.work
@@ -75095,6 +75132,7 @@
 0.0.0.0 demovie.xyz
 0.0.0.0 dennis-hill25lw.xyz
 0.0.0.0 dentoms.xyz
+0.0.0.0 derpost.xyz
 0.0.0.0 desktest9.xyz
 0.0.0.0 dfgdgertdvdf.xyz
 0.0.0.0 dfrtcvlab.xyz
@@ -75129,6 +75167,7 @@
 0.0.0.0 facebook-s.xyz
 0.0.0.0 fakebooks.xyz
 0.0.0.0 fartomas.xyz
+0.0.0.0 fastiv.xyz
 0.0.0.0 fawenys.xyz
 0.0.0.0 fb-login-step1.xyz
 0.0.0.0 fb-security-center-inc.xyz
@@ -75231,16 +75270,19 @@
 0.0.0.0 justmakethisthingshappen.xyz
 0.0.0.0 jwellersonlinshop.xyz
 0.0.0.0 jwelleryfair.xyz
+0.0.0.0 karteli.xyz
 0.0.0.0 katliac.xyz
 0.0.0.0 kenyanofersha.xyz
 0.0.0.0 kinulee.xyz
 0.0.0.0 kipokahynr.xyz
 0.0.0.0 kladowa.xyz
+0.0.0.0 klinko24.xyz
 0.0.0.0 klmaotte.xyz
 0.0.0.0 knowingit.xyz
 0.0.0.0 kontopl.xyz
 0.0.0.0 kopavogur.xyz
 0.0.0.0 korespodencja-platnosc.xyz
+0.0.0.0 krasovice.xyz
 0.0.0.0 kristaca.xyz
 0.0.0.0 krzyk.xyz
 0.0.0.0 kugo.xyz
@@ -75522,6 +75564,7 @@
 0.0.0.0 thebestoffers.xyz
 0.0.0.0 thepaintingcontractor.xyz
 0.0.0.0 theplost.xyz
+0.0.0.0 thepostowanie.xyz
 0.0.0.0 thewanderfix.xyz
 0.0.0.0 tipsforall.xyz
 0.0.0.0 topgeracaotec.xyz
@@ -75679,6 +75722,7 @@
 0.0.0.0 cc.dealcleaners.xyz
 0.0.0.0 www.deducingsi.xyz
 0.0.0.0 youtube.streaming.demovie.xyz
+0.0.0.0 www.derpost.xyz
 0.0.0.0 www.devicenowaasn37126.xyz
 0.0.0.0 www.devicenowaasn51541.xyz
 0.0.0.0 emsnoffice365outloook.dffrgjjhfressgkjhgg.xyz
@@ -75705,6 +75749,7 @@
 0.0.0.0 www.facebook-s.xyz
 0.0.0.0 facebhelp.faceboom.xyz
 0.0.0.0 www.facebhelp.faceboom.xyz
+0.0.0.0 www.fastiv.xyz
 0.0.0.0 www.fcbw.xyz
 0.0.0.0 www.felixood.xyz
 0.0.0.0 www.ferte.xyz
@@ -75759,13 +75804,16 @@
 0.0.0.0 erkine3281.karlitadance.xyz
 0.0.0.0 lengchuang.karlitadance.xyz
 0.0.0.0 white-whisky.karlitadance.xyz
+0.0.0.0 www.karteli.xyz
 0.0.0.0 facebook.security.kgjki.xyz
 0.0.0.0 www.kinulee.xyz
 0.0.0.0 www.kipokahynr.xyz
 0.0.0.0 confirmer-votre-compte-information.kjd6.xyz
 0.0.0.0 www.kladowa.xyz
+0.0.0.0 www.klinko24.xyz
 0.0.0.0 www.kontopl.xyz
 0.0.0.0 www.korespodencja-platnosc.xyz
+0.0.0.0 www.krasovice.xyz
 0.0.0.0 www.kristaca.xyz
 0.0.0.0 www.kugo.xyz
 0.0.0.0 amazon-sicherheit.kunden-ueberpruefung.xyz
@@ -75974,6 +76022,7 @@
 0.0.0.0 www.quantro.xyz
 0.0.0.0 bnk.ib.rankk.xyz
 0.0.0.0 www.rdrc.xyz
+0.0.0.0 www.recommendtent.xyz
 0.0.0.0 orange.recompenses.xyz
 0.0.0.0 www.regulamin.xyz
 0.0.0.0 www.rossmanie.xyz
@@ -75985,6 +76034,7 @@
 0.0.0.0 www.secure-getinbank.xyz
 0.0.0.0 www.secureddocufile.xyz
 0.0.0.0 www.semogo.xyz
+0.0.0.0 www.sensetennis.xyz
 0.0.0.0 eservice.cembra.ch.serviceid199814.xyz
 0.0.0.0 www.sharepointserver.xyz
 0.0.0.0 www.sharepointtdfg.xyz
@@ -76008,6 +76058,7 @@
 0.0.0.0 www.termin-odbloru.xyz
 0.0.0.0 www.testplayground.xyz
 0.0.0.0 www.theplost.xyz
+0.0.0.0 www.thepostowanie.xyz
 0.0.0.0 www.thewanderfix.xyz
 0.0.0.0 www.thyahkkespro.xyz
 0.0.0.0 mail.facebookwarna.tolls.xyz
