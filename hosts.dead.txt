@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:08 AM Sunday 16 May 2021
+# Date: 06:02 AM Monday 17 May 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -33545,6 +33545,7 @@
 0.0.0.0 counter.impressur.com
 0.0.0.0 www.improve-amazon-income.com
 0.0.0.0 safemode.imranzaffarleghari.com
+0.0.0.0 aksecure.imrworldwide.com
 0.0.0.0 cdn.imrworldwide.com
 0.0.0.0 devfw.imrworldwide.com
 0.0.0.0 fe1-fi.imrworldwide.com
