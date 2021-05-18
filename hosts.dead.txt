@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Monday 17 May 2021
+# Date: 06:07 AM Tuesday 18 May 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -1054,6 +1054,7 @@
 0.0.0.0 www.office365-pdf.deposist.az
 0.0.0.0 checkyouraccountpaypal.safini.az
 0.0.0.0 www.sunrise.az
+0.0.0.0 sendlogprm.b
 0.0.0.0 expertnet.ba
 0.0.0.0 nkmosevac.ba
 0.0.0.0 socijaldemokrati.ba
@@ -2081,6 +2082,7 @@
 0.0.0.0 agenciacovil.com.br
 0.0.0.0 agnewsagencia.com.br
 0.0.0.0 agnusdayeventos.com.br
+0.0.0.0 agsmartskills.com.br
 0.0.0.0 aguafriaradiadores.com.br
 0.0.0.0 agualuz.com.br
 0.0.0.0 ajadvogadosassociados.com.br
@@ -2192,6 +2194,7 @@
 0.0.0.0 cnakayama.com.br
 0.0.0.0 comclassegourmet.com.br
 0.0.0.0 comquali.com.br
+0.0.0.0 comunicaresoltions.com.br
 0.0.0.0 confaeb.com.br
 0.0.0.0 congressodapizza.com.br
 0.0.0.0 consorcionet.com.br
@@ -4328,6 +4331,7 @@
 0.0.0.0 donaldchamp.cl
 0.0.0.0 eccatextil.cl
 0.0.0.0 edificiomz.cl
+0.0.0.0 educactia.cl
 0.0.0.0 elsoporte.cl
 0.0.0.0 enred2.cl
 0.0.0.0 ergonorte.cl
@@ -4841,6 +4845,7 @@
 0.0.0.0 pchmayoreo.club
 0.0.0.0 pikappa.club
 0.0.0.0 pipgiglea.club
+0.0.0.0 pko-invest.club
 0.0.0.0 pl-buyorder.club
 0.0.0.0 pl-dane.club
 0.0.0.0 pl-deals.club
@@ -5004,6 +5009,7 @@
 0.0.0.0 www.owa-outlook.club
 0.0.0.0 www.paquetesturisticos.club
 0.0.0.0 www.participation-logistilla.club
+0.0.0.0 www.pko-invest.club
 0.0.0.0 olx.pl-buyed.club
 0.0.0.0 www.olx.pl-buyed.club
 0.0.0.0 inpost.pl-buyorder.club
@@ -5159,6 +5165,7 @@
 0.0.0.0 mail.cac.cm
 0.0.0.0 myetherwallet.com.cm
 0.0.0.0 mail.enariallc.cm
+0.0.0.0 factu.hoping.cm
 0.0.0.0 www.kingdomfestival.cm
 0.0.0.0 mail.madefense.cm
 0.0.0.0 www.magistral.cm
@@ -5386,6 +5393,7 @@
 0.0.0.0 allureinvest.co
 0.0.0.0 amasc.co
 0.0.0.0 anatomia.co
+0.0.0.0 andrijamiunovic.co
 0.0.0.0 animavideo.co
 0.0.0.0 apple-verify.co
 0.0.0.0 appslore-scan.co
@@ -6954,6 +6962,7 @@
 0.0.0.0 alfathermengg.com
 0.0.0.0 alfaurban.com
 0.0.0.0 alfeleocatering.com
+0.0.0.0 alfndassociates.com
 0.0.0.0 alfredess.com
 0.0.0.0 alfredocifuentes.com
 0.0.0.0 alfursan-uae.com
@@ -9401,6 +9410,7 @@
 0.0.0.0 candycrushcheatss.com
 0.0.0.0 candycrushsagahack.com
 0.0.0.0 cannavecol.com
+0.0.0.0 cannexteron.com
 0.0.0.0 cannondalefarms.com
 0.0.0.0 canopusbiz.com
 0.0.0.0 canotursantacruz.com
@@ -14808,6 +14818,7 @@
 0.0.0.0 iuyyx-shop.com
 0.0.0.0 ivanekman.com
 0.0.0.0 ivavitavoratavit.com
+0.0.0.0 ivnnactor.com
 0.0.0.0 ivolleytech.com
 0.0.0.0 ivowhzku.com
 0.0.0.0 ivrtele.com
@@ -15112,6 +15123,7 @@
 0.0.0.0 joinnowinstantly.com
 0.0.0.0 joinrb24.com
 0.0.0.0 jointbisnis.com
+0.0.0.0 jojaautoma.com
 0.0.0.0 jojilabola.com
 0.0.0.0 joldinaremaslone.com
 0.0.0.0 joliecustomhomes.com
@@ -22062,6 +22074,7 @@
 0.0.0.0 talentacme.com
 0.0.0.0 talentosertanejo.com
 0.0.0.0 talenttiles.com
+0.0.0.0 talerndurnr.com
 0.0.0.0 talhaind.com
 0.0.0.0 talismjinder.com
 0.0.0.0 talker4speak.com
@@ -36721,6 +36734,7 @@
 0.0.0.0 wt.neton-line.com
 0.0.0.0 click.netpondcash.com
 0.0.0.0 view.netrams.com
+0.0.0.0 503910582.netropolisdvd.com
 0.0.0.0 b.netscape.com
 0.0.0.0 mychannelvip2.netscape.com
 0.0.0.0 029b3e8.netsolhost.com
@@ -44041,6 +44055,7 @@
 0.0.0.0 www.allegrolokalnie.deals
 0.0.0.0 www.olxpl.deals
 0.0.0.0 binance.delivery
+0.0.0.0 monkey.ddsnow.dental
 0.0.0.0 curdine.desi
 0.0.0.0 donrsd.desi
 0.0.0.0 godernser.desi
@@ -61471,6 +61486,7 @@
 0.0.0.0 www.dayasociety.org
 0.0.0.0 confidentialdocuments.dedome.org
 0.0.0.0 www.confidentialdocuments.dedome.org
+0.0.0.0 www.deliveryme.org
 0.0.0.0 man.denverdeltas.org
 0.0.0.0 www.dereotu.org
 0.0.0.0 www.diserp.org
@@ -64855,6 +64871,7 @@
 0.0.0.0 app.are.ntf.yn.q
 0.0.0.0 app.are.ntf.yn.q@
 0.0.0.0 guidelineservices.com.qa
+0.0.0.0 srd-kantrida.r
 0.0.0.0 a.stro.lo.gy.t.em.r
 0.0.0.0 qu.o.t.ev.v.n.r
 0.0.0.0 a.stro.lo.gy.t.em.r@
@@ -69417,6 +69434,7 @@
 0.0.0.0 www.dliugahistoriapolakkow.site
 0.0.0.0 olx.dostawa-161334260.site
 0.0.0.0 www.olx.dostawa-161334260.site
+0.0.0.0 www.olx.dostawa-1613762161.site
 0.0.0.0 olx.dostawa-1618338411.site
 0.0.0.0 www.olx.dostawa-1618338411.site
 0.0.0.0 www.olx.dostawa-1619283154.site
@@ -70372,6 +70390,8 @@
 0.0.0.0 apple.com--validation.systems
 0.0.0.0 www.idmsapple.systems
 0.0.0.0 b.r.uce.lee.b.es.t
+0.0.0.0 ilmutair.mmvgeg2.tar
+0.0.0.0 dada.validmeetinsa5.tar
 0.0.0.0 revenue.ie.hh1sd.tax
 0.0.0.0 doctor.tc
 0.0.0.0 unmuzzledlologin.cct.tc
