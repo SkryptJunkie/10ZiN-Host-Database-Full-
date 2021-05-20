@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Wednesday 19 May 2021
+# Date: 06:03 AM Thursday 20 May 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -2144,6 +2144,7 @@
 0.0.0.0 blansulconsorcios.com.br
 0.0.0.0 blococca.com.br
 0.0.0.0 blogveloz.com.br
+0.0.0.0 bnventosnaut.com.br
 0.0.0.0 boinobreeventos.com.br
 0.0.0.0 bomperfildecoracoes.com.br
 0.0.0.0 bonerepresentacoes.com.br
@@ -2645,6 +2646,7 @@
 0.0.0.0 studiowilliancarvalho.com.br
 0.0.0.0 sucatexdobrasil.com.br
 0.0.0.0 sucessofotoevideo.com.br
+0.0.0.0 sueclinica.com.br
 0.0.0.0 sulklimapelotas.com.br
 0.0.0.0 suncatcher.com.br
 0.0.0.0 superfanfm.com.br
@@ -46090,6 +46092,7 @@
 0.0.0.0 www.ldex.exchange
 0.0.0.0 www.switchee.exchange
 0.0.0.0 wotsuper3.exe
+0.0.0.0 dentmedicabodrum.com.sdkdiff.exe
 0.0.0.0 appleton.expert
 0.0.0.0 renamsocreton.expert
 0.0.0.0 serviceinfr.expert
@@ -48661,6 +48664,7 @@
 0.0.0.0 www.jtdeal.astonishinfotech.in
 0.0.0.0 www.whitehousecharitabletrust.astonishinfotech.in
 0.0.0.0 www.atewccindia.in
+0.0.0.0 smtp.awpracc.in
 0.0.0.0 images.axill.in
 0.0.0.0 www.ayyabuilders.in
 0.0.0.0 www.babastudioara.in
@@ -48815,6 +48819,7 @@
 0.0.0.0 roblox.com-cheat.in
 0.0.0.0 wizard101.com-cheat.in
 0.0.0.0 www.cometstar.in
+0.0.0.0 smtp.compracc.in
 0.0.0.0 www.consec.in
 0.0.0.0 realestate.cosmicgroup.in
 0.0.0.0 www.costacademy.in
@@ -62327,6 +62332,7 @@
 0.0.0.0 www.5thavenue.com.pk
 0.0.0.0 www.ardus.com.pk
 0.0.0.0 www.assetplus.com.pk
+0.0.0.0 keydrop.com.b4u.com.pk
 0.0.0.0 dintextile.dingroup.com.pk
 0.0.0.0 www.dintextile.dingroup.com.pk
 0.0.0.0 www.fmtraders.com.pk
