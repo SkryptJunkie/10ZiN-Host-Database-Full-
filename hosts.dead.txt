@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Saturday 22 May 2021
+# Date: 06:08 AM Sunday 23 May 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -9347,6 +9347,7 @@
 0.0.0.0 ca-fr-credit-agricole-particuliers.com
 0.0.0.0 ca201ee86b.com
 0.0.0.0 ca24-login.com
+0.0.0.0 ca24-logowanie.com
 0.0.0.0 ca24-online.com
 0.0.0.0 ca43588366c.com
 0.0.0.0 caalnt.com
@@ -14029,6 +14030,7 @@
 0.0.0.0 hunt-coin.com
 0.0.0.0 hunterbootspoland.com
 0.0.0.0 huntercena.com
+0.0.0.0 huntertanio.com
 0.0.0.0 huntmyn.com
 0.0.0.0 hurtelkablo.com
 0.0.0.0 hushaquarium.com
@@ -21823,6 +21825,8 @@
 0.0.0.0 superiorplayerprep.com
 0.0.0.0 superkidspraytherosary.com
 0.0.0.0 superlorbolt.com
+0.0.0.0 supermakler-pko-online.com
+0.0.0.0 supermakler-pko-secure.com
 0.0.0.0 supermtaboom.com
 0.0.0.0 supernet-santander.com
 0.0.0.0 superofertasexclusivas.com
@@ -28663,6 +28667,7 @@
 0.0.0.0 www.bit-ebay.com
 0.0.0.0 stats.bitban.com
 0.0.0.0 www.bitcoin-2-paypal.com
+0.0.0.0 www.bitcoineragroup.com
 0.0.0.0 www.bitcoineranew.com
 0.0.0.0 www.bitcoinerapro.com
 0.0.0.0 www.bitcoinforpaypal.com
@@ -29099,6 +29104,7 @@
 0.0.0.0 www.c3e8c79280e1f4de01c0dd1e99c2a35m.com
 0.0.0.0 sdc.ca.com
 0.0.0.0 www.ca24-login.com
+0.0.0.0 www.ca24-logowanie.com
 0.0.0.0 www.ca24-online.com
 0.0.0.0 idea.cabezonworks.com
 0.0.0.0 www.idea.cabezonworks.com
@@ -30662,6 +30668,7 @@
 0.0.0.0 cdn.downloaddabs.com
 0.0.0.0 mail.downloadfreefullmovie.com
 0.0.0.0 www.downloaditunesplusaacm4a.com
+0.0.0.0 www.downloadsfreefile.com
 0.0.0.0 www.dp-apple.com
 0.0.0.0 rentabien.dpconstruciones.com
 0.0.0.0 www.rentabien.dpconstruciones.com
@@ -32056,6 +32063,7 @@
 0.0.0.0 1.forgetstore.com
 0.0.0.0 www.forgetthepastandmoveyourlifeaheadofotherthings.com
 0.0.0.0 www.forgot-apple.com
+0.0.0.0 www.forlumineontor.com
 0.0.0.0 cdn-static.formisimo.com
 0.0.0.0 www.formove-escalonmed.com
 0.0.0.0 oascentral.forsythnews.com
@@ -33278,6 +33286,7 @@
 0.0.0.0 www.hunt-coin.com
 0.0.0.0 www.hunterbootspoland.com
 0.0.0.0 www.huntercena.com
+0.0.0.0 www.huntertanio.com
 0.0.0.0 img.ads.huntmad.com
 0.0.0.0 www.huntmyn.com
 0.0.0.0 www.hushaquarium.com
@@ -39529,6 +39538,7 @@
 0.0.0.0 oascentral.sfweekly.com
 0.0.0.0 davidd47.sg-host.com
 0.0.0.0 maxmedia.sgaonline.com
+0.0.0.0 www.sgb-pageoriginal-online.com
 0.0.0.0 www.sgconcerts.com
 0.0.0.0 crm.sgn.com
 0.0.0.0 bar.iphone.sgn.com
@@ -40342,6 +40352,8 @@
 0.0.0.0 guide.superhostdinneer.com
 0.0.0.0 www.guide.superhostdinneer.com
 0.0.0.0 cdn.superloofy.com
+0.0.0.0 www.supermakler-pko-online.com
+0.0.0.0 www.supermakler-pko-secure.com
 0.0.0.0 www.supermtaboom.com
 0.0.0.0 www.supernet-santander.com
 0.0.0.0 clicks.superpages.com
@@ -46587,6 +46599,8 @@
 0.0.0.0 www.gupsuhphw.fun
 0.0.0.0 allegro.lokallnie.fun
 0.0.0.0 www.allegro.lokallnie.fun
+0.0.0.0 allegro.lokalnie-dostawa.fun
+0.0.0.0 www.allegro.lokalnie-dostawa.fun
 0.0.0.0 www.millensbank.fun
 0.0.0.0 www.mordi.fun
 0.0.0.0 olx.pl.oferta-payment.fun
@@ -50041,6 +50055,7 @@
 0.0.0.0 parserworld.info
 0.0.0.0 passbookls.info
 0.0.0.0 pay04-olx.info
+0.0.0.0 pay21-olx.info
 0.0.0.0 pay462342.info
 0.0.0.0 paydaychristmas.info
 0.0.0.0 paymentpaypal.info
@@ -50470,6 +50485,7 @@
 0.0.0.0 www.accountspaypal.info
 0.0.0.0 track.addedmonetize.info
 0.0.0.0 amu.adduraddonhere.info
+0.0.0.0 www.admiredebt.info
 0.0.0.0 www.adobe-flash-pro-cs6-mac-serials.info
 0.0.0.0 www.adobeautomate.info
 0.0.0.0 www.adobeautomation.info
@@ -50635,6 +50651,8 @@
 0.0.0.0 scanner.best-protect.info
 0.0.0.0 www.get.bestdeal2060.info
 0.0.0.0 otpe.bestnewsworld.info
+0.0.0.0 www.bestoffer2021.info
+0.0.0.0 www.get.bestoffer2021.info
 0.0.0.0 dl.bestofupload.info
 0.0.0.0 www.betvietnam.info
 0.0.0.0 www.beverlys.info
@@ -51241,6 +51259,7 @@
 0.0.0.0 panel.panelpama.info
 0.0.0.0 www.paounesdortubamnocx.info
 0.0.0.0 www.pay04-olx.info
+0.0.0.0 www.pay21-olx.info
 0.0.0.0 www.paydaychristmas.info
 0.0.0.0 paysummarry.payemail-business.info
 0.0.0.0 www.olx.payment-otrymac.info
@@ -52640,6 +52659,7 @@
 0.0.0.0 www.top-prizes-now.life
 0.0.0.0 www.truemaleenchance1.life
 0.0.0.0 www.win-bigbonus-here.life
+0.0.0.0 www.win-extra-box.life
 0.0.0.0 www.win-prizes-rightnow1.life
 0.0.0.0 www.win-silverbox.life
 0.0.0.0 www.windofwin.life
@@ -53199,6 +53219,7 @@
 0.0.0.0 serviceinfr.me
 0.0.0.0 servomaster.me
 0.0.0.0 shafiul.me
+0.0.0.0 short1.me
 0.0.0.0 singpost-c.me
 0.0.0.0 skins-offer.me
 0.0.0.0 someapp.me
@@ -53303,6 +53324,7 @@
 0.0.0.0 assets.scan.me
 0.0.0.0 ssp.sellads.me
 0.0.0.0 www.shafiul.me
+0.0.0.0 www.short1.me
 0.0.0.0 www.myetherwallet.com.api.signmessage.me
 0.0.0.0 meu.original.com.br.siteapp.me
 0.0.0.0 js.socialsay.me
@@ -64398,6 +64420,7 @@
 0.0.0.0 vksystem-support.pro
 0.0.0.0 vulging.pro
 0.0.0.0 webtopia.pro
+0.0.0.0 worthyincome.pro
 0.0.0.0 wppilot.pro
 0.0.0.0 xmultiply.pro
 0.0.0.0 xtrades.pro
@@ -64461,6 +64484,7 @@
 0.0.0.0 www.hosting1965874.online.pro
 0.0.0.0 www.outlooksupport.pro
 0.0.0.0 www.pikabu.pro
+0.0.0.0 www.invp.pluniland.pro
 0.0.0.0 www.pomocnapozyczka.pro
 0.0.0.0 www.prezenty.pro
 0.0.0.0 www.crypto-genius.privatecatalog.pro
@@ -64481,6 +64505,7 @@
 0.0.0.0 www.marketplace-shop-trade-items.vehicles244.pro
 0.0.0.0 facebook.com.marketplace-trade-items.vehicles244.pro
 0.0.0.0 www.facebook.com.marketplace-trade-items.vehicles244.pro
+0.0.0.0 www.worthyincome.pro
 0.0.0.0 www.xmultiply.pro
 0.0.0.0 airdrops.promo
 0.0.0.0 bluzelle.promo
@@ -68336,6 +68361,8 @@
 0.0.0.0 www.pl-dostawa.shop
 0.0.0.0 www.inpost.pl-dostawa.shop
 0.0.0.0 www.poczta.pl-dostawa.shop
+0.0.0.0 inpost.pl-givesale.shop
+0.0.0.0 www.inpost.pl-givesale.shop
 0.0.0.0 olx.pl-konto.shop
 0.0.0.0 www.olx.pl-konto.shop
 0.0.0.0 inpost.pl-kontos-oferta.shop
@@ -69449,6 +69476,8 @@
 0.0.0.0 www.olx.dostawa-1613762161.site
 0.0.0.0 olx.dostawa-1618338411.site
 0.0.0.0 www.olx.dostawa-1618338411.site
+0.0.0.0 olx.dostawa-1618864121.site
+0.0.0.0 www.olx.dostawa-1618864121.site
 0.0.0.0 www.olx.dostawa-1619283154.site
 0.0.0.0 www.olx.dostawa-1619288399.site
 0.0.0.0 olx.dostawa-1619355631.site
@@ -69494,6 +69523,8 @@
 0.0.0.0 www.mob-olx.site
 0.0.0.0 www.mobileofferplace.site
 0.0.0.0 www.mofa-help.site
+0.0.0.0 olx-pl.moja-dostawa.site
+0.0.0.0 www.olx-pl.moja-dostawa.site
 0.0.0.0 www.mrcrypto.site
 0.0.0.0 www.myeherwallet.site
 0.0.0.0 www.myetherrwallet.site
@@ -75660,6 +75691,7 @@
 0.0.0.0 wx-xcx.xyz
 0.0.0.0 wydaniefaktypofaktach.xyz
 0.0.0.0 xactive.xyz
+0.0.0.0 xcena.xyz
 0.0.0.0 xherzog24pv.xyz
 0.0.0.0 xn--amazon-273eya6m7hsa2mi43a6cx8cu314cib9cor0b.xyz
 0.0.0.0 xn--amazon-2o4e9doisa5v1dr294d800b.xyz
@@ -76004,6 +76036,8 @@
 0.0.0.0 www.poczta.pl-makepays.xyz
 0.0.0.0 www.pl-payed.xyz
 0.0.0.0 www.pl-receive.xyz
+0.0.0.0 olx.pl-receivepays.xyz
+0.0.0.0 www.olx.pl-receivepays.xyz
 0.0.0.0 olx.pl-safebuy.xyz
 0.0.0.0 www.olx.pl-safebuy.xyz
 0.0.0.0 poczta.pl-safedeal.xyz
@@ -76131,6 +76165,7 @@
 0.0.0.0 www.wx-xcx.xyz
 0.0.0.0 www.wydaniefaktypofaktach.xyz
 0.0.0.0 secure.runescape.wz-com.xyz
+0.0.0.0 www.xcena.xyz
 0.0.0.0 www.xn---amazon-6q4f0a5dwgzftc6cyzc.xyz
 0.0.0.0 www.xn---amazon-6q4fjj7csk7c8d.xyz
 0.0.0.0 www.xn---amazon-qq4fqc4bxw1l.xyz
