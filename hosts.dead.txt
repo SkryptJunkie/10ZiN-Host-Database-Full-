@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Thursday 27 May 2021
+# Date: 06:02 AM Friday 28 May 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -53269,6 +53269,7 @@
 0.0.0.0 wwwht22.me
 0.0.0.0 xccx.me
 0.0.0.0 xtrak.me
+0.0.0.0 xuicy.me
 0.0.0.0 www.4ft.me
 0.0.0.0 srv2.admedit.me
 0.0.0.0 srv6.admedit.me
