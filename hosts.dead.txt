@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Sunday 30 May 2021
+# Date: 06:02 AM Monday 31 May 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -6168,6 +6168,7 @@
 0.0.0.0 51jczxw.com
 0.0.0.0 51mogui.com
 0.0.0.0 51netflix.com
+0.0.0.0 526f81c32d.com
 0.0.0.0 529e573b99.com
 0.0.0.0 54-ironbound-plowman.com
 0.0.0.0 542fe1b0002a.com
@@ -6285,6 +6286,7 @@
 0.0.0.0 7310e12f1b0.com
 0.0.0.0 7333account-appe.com
 0.0.0.0 736bdcef84.com
+0.0.0.0 73d2a62cc6e.com
 0.0.0.0 7533788.com
 0.0.0.0 755431a59e7.com
 0.0.0.0 75573deb31d61e.com
@@ -13103,6 +13105,7 @@
 0.0.0.0 globelineltd.com
 0.0.0.0 gloriostiles.com
 0.0.0.0 glotravelsng.com
+0.0.0.0 gloussuz.com
 0.0.0.0 glowtrawler.com
 0.0.0.0 glutationtuvida.com
 0.0.0.0 gmagictrk.com
