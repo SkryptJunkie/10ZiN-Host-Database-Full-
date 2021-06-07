@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Sunday 06 June 2021
+# Date: 06:02 AM Monday 07 June 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -4580,6 +4580,7 @@
 0.0.0.0 offerfactory.click
 0.0.0.0 offertunity.click
 0.0.0.0 pozyczka.click
+0.0.0.0 psoapeez.click
 0.0.0.0 trustedmacleaner.click
 0.0.0.0 univision.click
 0.0.0.0 uucxyfhvcoeyueknxs.click
@@ -6084,6 +6085,7 @@
 0.0.0.0 3c917200d3.com
 0.0.0.0 3ce166a7dda.com
 0.0.0.0 3cnce854.com
+0.0.0.0 3d287090587.com
 0.0.0.0 3d5a4a45d559.com
 0.0.0.0 3d668b10b54e.com
 0.0.0.0 3de3a133cf5.com
@@ -6184,6 +6186,7 @@
 0.0.0.0 552239b90400b7.com
 0.0.0.0 55e593878c2d47.com
 0.0.0.0 55ebf493c42.com
+0.0.0.0 5654c2679f.com
 0.0.0.0 567bbl.com
 0.0.0.0 57473b6b571.com
 0.0.0.0 575f4e87970f177969fe.com
