@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:15 AM Tuesday 08 June 2021
+# Date: 06:02 AM Wednesday 09 June 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -3397,6 +3397,7 @@
 0.0.0.0 www.castanheiras.tur.br
 0.0.0.0 www.lesteeuropeu.tur.br
 0.0.0.0 www.pousadavistaalegre.tur.br
+0.0.0.0 suoadadosanjos.com.dnd.bre
 0.0.0.0 sberbank.broker
 0.0.0.0 www.sberbank.broker
 0.0.0.0 udumbaratoursntreks.bt
@@ -5772,6 +5773,7 @@
 0.0.0.0 08a14e37bb.com
 0.0.0.0 08b72e4833486d.com
 0.0.0.0 093qpeuqpmz6ebfa.com
+0.0.0.0 0956c71915d46.com
 0.0.0.0 09cb25a307.com
 0.0.0.0 0a225c134735c.com
 0.0.0.0 0a6efd24b565c.com
@@ -5857,6 +5859,7 @@
 0.0.0.0 1d0d0d7a2ee.com
 0.0.0.0 1d5fce9c23.com
 0.0.0.0 1dropboxx.com
+0.0.0.0 1e4762066b467.com
 0.0.0.0 1f10898ba83eab.com
 0.0.0.0 1f2f1472af32.com
 0.0.0.0 1f2fbfdb08772f.com
@@ -6077,6 +6080,7 @@
 0.0.0.0 3878896c72ed218.com
 0.0.0.0 395e27cfc83ea88f.com
 0.0.0.0 397e15d6124.com
+0.0.0.0 39b2b5bfd192.com
 0.0.0.0 39c023edce.com
 0.0.0.0 3abcc69ab8c.com
 0.0.0.0 3abd17850c2.com
@@ -6183,6 +6187,7 @@
 0.0.0.0 529e573b99.com
 0.0.0.0 54-ironbound-plowman.com
 0.0.0.0 542fe1b0002a.com
+0.0.0.0 54cf6e72635.com
 0.0.0.0 551525cb44.com
 0.0.0.0 551f044b1a3f4ef.com
 0.0.0.0 552239b90400b7.com
@@ -6391,6 +6396,7 @@
 0.0.0.0 8b5a31f63acbeb2d1d88.com
 0.0.0.0 8c4cab5d072.com
 0.0.0.0 8c535773f89c8.com
+0.0.0.0 8d14bc8f8321.com
 0.0.0.0 8d9d548d35.com
 0.0.0.0 8e26ad24b3.com
 0.0.0.0 8e7494a66210.com
@@ -11364,6 +11370,7 @@
 0.0.0.0 e5f06193a7.com
 0.0.0.0 e6047cde66.com
 0.0.0.0 e69e1360c7.com
+0.0.0.0 e6c7819817.com
 0.0.0.0 e6d7b3e5d9f.com
 0.0.0.0 e739acf90a.com
 0.0.0.0 e746f6279559c.com
@@ -12001,6 +12008,7 @@
 0.0.0.0 f97f1e91da5e2.com
 0.0.0.0 fa06e75c16.com
 0.0.0.0 fa165246ee.com
+0.0.0.0 fa4e528d090.com
 0.0.0.0 fabgemsandjewels.com
 0.0.0.0 faboshine.com
 0.0.0.0 faca-se-ouvir.com
@@ -43373,6 +43381,7 @@
 0.0.0.0 cd8iw9mh.cricket
 0.0.0.0 pornhubs.cricket
 0.0.0.0 www.pornhubs.cricket
+0.0.0.0 airefriodehonduras.ct6l8
 0.0.0.0 affiliate.cx
 0.0.0.0 ethcompetition.cx
 0.0.0.0 ethpoolcompet.cx
@@ -57041,6 +57050,7 @@
 0.0.0.0 ads.centerstage.net
 0.0.0.0 mds.centrport.net
 0.0.0.0 www.centrum-agd.net
+0.0.0.0 aspilosel1ifh0aia.cf1ifh0s1ifh0erver3.net
 0.0.0.0 oascentral.charleston.net
 0.0.0.0 www.chatinstagram.net
 0.0.0.0 www.cheap-louboutinshoesusa.net
@@ -69614,6 +69624,8 @@
 0.0.0.0 track.ballerft.site
 0.0.0.0 www.bankmillennium.site
 0.0.0.0 evgeniilitvinovsite.bback.site
+0.0.0.0 main.bgsr.site
+0.0.0.0 report.bgsr.site
 0.0.0.0 www.bigroom.site
 0.0.0.0 www.binance-testnet.site
 0.0.0.0 descontos-dia-dos-namorados.com.br-selecao-brasileira.site
