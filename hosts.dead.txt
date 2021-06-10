@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Wednesday 09 June 2021
+# Date: 06:02 AM Thursday 10 June 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -30622,6 +30622,7 @@
 0.0.0.0 digdug.divxnetworks.com
 0.0.0.0 www.divyanki.com
 0.0.0.0 www.diwaniya-sa.com
+0.0.0.0 satsigma.diwanvoyage.com
 0.0.0.0 www.djmuzikal.com
 0.0.0.0 www.djo1hoop.com
 0.0.0.0 www.djugoogs.com
