@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Thursday 10 June 2021
+# Date: 06:02 AM Friday 11 June 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -4785,6 +4785,7 @@
 0.0.0.0 digyepnag.club
 0.0.0.0 domainsystemname.club
 0.0.0.0 doopcrib.club
+0.0.0.0 downl0ads9.club
 0.0.0.0 duzoprobzmianyzycia.club
 0.0.0.0 einloggen-konto-erstellen.club
 0.0.0.0 elon-gift.club
@@ -36035,6 +36036,8 @@
 0.0.0.0 www.geofence.sys.miui.com
 0.0.0.0 www.tracking.miui.com
 0.0.0.0 www.fcanr.tracking.miui.com
+0.0.0.0 mw3.miwebdding.com
+0.0.0.0 taliaymarlene420.miwebdding.com
 0.0.0.0 www.mixbarato.com
 0.0.0.0 adserve.mizzenmedia.com
 0.0.0.0 track.mjmfreightsolutions.com
@@ -68562,6 +68565,7 @@
 0.0.0.0 aanmaj.site
 0.0.0.0 abwhta.site
 0.0.0.0 accountinc.site
+0.0.0.0 activate4uwindows.site
 0.0.0.0 acwzwa.site
 0.0.0.0 adbcmc.site
 0.0.0.0 adffkt.site
