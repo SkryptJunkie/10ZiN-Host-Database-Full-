@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:33 AM Sunday 13 June 2021
+# Date: 08:13 AM Monday 14 June 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -6154,6 +6154,7 @@
 0.0.0.0 4anfm.com
 0.0.0.0 4b9d824b273.com
 0.0.0.0 4becef1fe953.com
+0.0.0.0 4bf5755a252.com
 0.0.0.0 4bfhd.com
 0.0.0.0 4dc9170788e.com
 0.0.0.0 4ded47cc011c1.com
@@ -6320,6 +6321,7 @@
 0.0.0.0 7a228575ea8f.com
 0.0.0.0 7a418ea5bc199.com
 0.0.0.0 7b3b96c01d798f.com
+0.0.0.0 7b68ffd499.com
 0.0.0.0 7c4cdf61056.com
 0.0.0.0 7c5162f3211.com
 0.0.0.0 7cnbcnews.com
