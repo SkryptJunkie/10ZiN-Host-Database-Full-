@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 08:13 AM Monday 14 June 2021
+# Date: 06:02 AM Tuesday 15 June 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -2525,6 +2525,7 @@
 0.0.0.0 opafestas.com.br
 0.0.0.0 orcamentar.com.br
 0.0.0.0 oriundibrasil.com.br
+0.0.0.0 ortopedicaiguassu.com.br
 0.0.0.0 ourletter.com.br
 0.0.0.0 ourogessorp.com.br
 0.0.0.0 ouropretologistica.com.br
@@ -6479,6 +6480,7 @@
 0.0.0.0 a920bf7a549.com
 0.0.0.0 a948848111.com
 0.0.0.0 a94bcec8bb.com
+0.0.0.0 a976f8591ec.com
 0.0.0.0 aa08daf7e13b6345e09e92f771507fa5f4.com
 0.0.0.0 aa14ab57a3339c4064bd9ae6fad7495b5f.com
 0.0.0.0 aa625d84f1587749c1ab011d6f269f7d64.com
