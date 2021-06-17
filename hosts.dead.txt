@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Wednesday 16 June 2021
+# Date: 06:24 AM Thursday 17 June 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -25342,6 +25342,7 @@
 0.0.0.0 www.123-stream.com
 0.0.0.0 www.123-watch.com
 0.0.0.0 oascentral.123greetings.com
+0.0.0.0 www.videa.123mopie.com
 0.0.0.0 www.123netflixpro.com
 0.0.0.0 www.123netflixs.com
 0.0.0.0 www.123specialgifts.com
@@ -37081,6 +37082,7 @@
 0.0.0.0 www.nsnews24x7.com
 0.0.0.0 www.nsnhyderabad.com
 0.0.0.0 www.nsoatremanruralbank.com
+0.0.0.0 plausible.nspeaks.com
 0.0.0.0 behave.nualias.com
 0.0.0.0 month.nualias.com
 0.0.0.0 tracking.nuasti.com
@@ -37170,7 +37172,9 @@
 0.0.0.0 www.official-dropbox.com
 0.0.0.0 banners.officialauctions.com
 0.0.0.0 www.officialmonclershop.com
+0.0.0.0 www.officialonline-page.com
 0.0.0.0 www.officialonlineacademy.com
+0.0.0.0 www.officialpageonline-secure.com
 0.0.0.0 rotator.offpageads.com
 0.0.0.0 link.offre-courriel.com
 0.0.0.0 oas.offremedia.com
@@ -39507,6 +39511,7 @@
 0.0.0.0 ox-d.wikihow.servedbyopenx.com
 0.0.0.0 ox-d.wuv.servedbyopenx.com
 0.0.0.0 ox-d.zergnet.servedbyopenx.com
+0.0.0.0 www.assyoulike.servequake.com
 0.0.0.0 www.server-netflix.com
 0.0.0.0 www.backup2.serverclienti.com
 0.0.0.0 www.serveribmnet.com
@@ -44189,9 +44194,11 @@
 0.0.0.0 www.olx.pl.oferta-payment.design
 0.0.0.0 www.sberbank.design
 0.0.0.0 tailieu.dev
+0.0.0.0 caixabankapp.digital
 0.0.0.0 kurier-plata.digital
 0.0.0.0 usarmy.digital
 0.0.0.0 www.bb.digital
+0.0.0.0 www.caixabankapp.digital
 0.0.0.0 www.inpost.digital
 0.0.0.0 www.kurier-plata.digital
 0.0.0.0 freshers.luminescent.digital
@@ -47209,6 +47216,7 @@
 0.0.0.0 allegrolokalnie.gifts
 0.0.0.0 www.allegrolokalnie.gifts
 0.0.0.0 spacex.gives
+0.0.0.0 www.fup.gl
 0.0.0.0 perlin.global
 0.0.0.0 www.perlin.global
 0.0.0.0 swervenet.glu
@@ -50153,6 +50161,9 @@
 0.0.0.0 pay462342.info
 0.0.0.0 pay52-olx.info
 0.0.0.0 pay53-olx.info
+0.0.0.0 pay66-olx.info
+0.0.0.0 pay71-olx.info
+0.0.0.0 pay74-olx.info
 0.0.0.0 paydaychristmas.info
 0.0.0.0 paymentpaypal.info
 0.0.0.0 payorange.info
@@ -51359,6 +51370,9 @@
 0.0.0.0 www.pay21-olx.info
 0.0.0.0 www.pay52-olx.info
 0.0.0.0 www.pay53-olx.info
+0.0.0.0 www.pay66-olx.info
+0.0.0.0 www.pay71-olx.info
+0.0.0.0 www.pay74-olx.info
 0.0.0.0 www.paydaychristmas.info
 0.0.0.0 paysummarry.payemail-business.info
 0.0.0.0 www.olx.payment-otrymac.info
@@ -51423,8 +51437,11 @@
 0.0.0.0 ad.philipstreehouse.info
 0.0.0.0 www.phone-digital.info
 0.0.0.0 www.pkwjkbcgk.info
+0.0.0.0 www.olx.pl-getservice.info
 0.0.0.0 www.pl-id737962.info
 0.0.0.0 www.olx.pl-id73885935.info
+0.0.0.0 www.olx.pl-informacje.info
+0.0.0.0 www.olx.pl-panel.info
 0.0.0.0 www.olx.pl-portal.info
 0.0.0.0 www.pl-przelew.info
 0.0.0.0 www.olx.pl-sprzedaz.info
@@ -53005,6 +53022,10 @@
 0.0.0.0 particulier-credit-agricol.fr.id102.live
 0.0.0.0 www.inbox-verify.live
 0.0.0.0 www.ios-apple-login.live
+0.0.0.0 inpost.kurier-dostawa365.live
+0.0.0.0 olx.kurier-dostawa365.live
+0.0.0.0 www.inpost.kurier-dostawa365.live
+0.0.0.0 www.olx.kurier-dostawa365.live
 0.0.0.0 www.lifefordatings1.live
 0.0.0.0 www.lifefordatings14.live
 0.0.0.0 www.lifefordatings8.live
@@ -53850,6 +53871,7 @@
 0.0.0.0 aut.iemellisesi.ml
 0.0.0.0 www.aut.iemellisesi.ml
 0.0.0.0 www.imageprotect.ml
+0.0.0.0 www.ininnoetofe.ml
 0.0.0.0 www.jldldldl.ml
 0.0.0.0 www.kettingcarpet.ml
 0.0.0.0 www.lifestylex.ml
@@ -57108,9 +57130,11 @@
 0.0.0.0 directrev.cloudapp.net
 0.0.0.0 www.d12tfcfyap6494.cloudfront.net
 0.0.0.0 www.d1rme4jvs62tcn.cloudfront.net
+0.0.0.0 www.d1zy79iyrsz9gx.cloudfront.net
 0.0.0.0 www.d31rso87ipor4m.cloudfront.net
 0.0.0.0 www.d3v735z3cvlhwa.cloudfront.net
 0.0.0.0 www.d6sdrygslyc0g.cloudfront.net
+0.0.0.0 www.dgu9g3a2kzqx2.cloudfront.net
 0.0.0.0 www.cloudhot.net
 0.0.0.0 cache.adm.cnzz.net
 0.0.0.0 js.adm.cnzz.net
@@ -60032,6 +60056,7 @@
 0.0.0.0 tumandala.online
 0.0.0.0 tztxx.online
 0.0.0.0 uhuru.online
+0.0.0.0 update-accounts-id.online
 0.0.0.0 update-dta.online
 0.0.0.0 updateadobe.online
 0.0.0.0 uvosnews-info.online
@@ -60220,11 +60245,19 @@
 0.0.0.0 olx.pl-getpayment.online
 0.0.0.0 www.inpost.pl-getpayment.online
 0.0.0.0 www.olx.pl-getpayment.online
+0.0.0.0 olx.pl-getservice.online
+0.0.0.0 www.olx.pl-getservice.online
 0.0.0.0 olx.pl-id1615912803.online
 0.0.0.0 www.olx.pl-id1615912803.online
 0.0.0.0 www.olx.pl-id1616000302.online
+0.0.0.0 olx.pl-informacje.online
+0.0.0.0 www.olx.pl-informacje.online
 0.0.0.0 www.olx.pl-log.online
 0.0.0.0 www.pl-netflix.online
+0.0.0.0 olx.pl-panel.online
+0.0.0.0 www.olx.pl-panel.online
+0.0.0.0 olx.pl-srodki.online
+0.0.0.0 www.olx.pl-srodki.online
 0.0.0.0 www.platnosc-paczkomat.online
 0.0.0.0 www.plolx-oplata.online
 0.0.0.0 www.plynzpradem.online
@@ -60281,6 +60314,7 @@
 0.0.0.0 www.tumandala.online
 0.0.0.0 www.twojfilm.online
 0.0.0.0 www.tztxx.online
+0.0.0.0 www.update-accounts-id.online
 0.0.0.0 www.updateadobe.online
 0.0.0.0 www.vendasnetflix.online
 0.0.0.0 www.veryhotgirls.online
@@ -62521,6 +62555,7 @@
 0.0.0.0 imrankhan.web.pk
 0.0.0.0 www.imrankhan.web.pk
 0.0.0.0 1elt.pl
+0.0.0.0 24energylandia.pl
 0.0.0.0 997-policja.pl
 0.0.0.0 997-policyjka.pl
 0.0.0.0 997-policyjne.pl
@@ -62575,6 +62610,9 @@
 0.0.0.0 artd3sign.pl
 0.0.0.0 artom-dtp.pl
 0.0.0.0 artscala.pl
+0.0.0.0 artykul-polska24h.pl
+0.0.0.0 artykulpolska-24h.pl
+0.0.0.0 artykulpolska24h.pl
 0.0.0.0 as-chwilowka.pl
 0.0.0.0 ascispoland.pl
 0.0.0.0 ashashl-online.pl
@@ -62633,8 +62671,10 @@
 0.0.0.0 californiaclub.pl
 0.0.0.0 calvil.pl
 0.0.0.0 canadakurtka.pl
+0.0.0.0 catbutyshop.pl
 0.0.0.0 cda-bez-limitu.pl
 0.0.0.0 cechmikolow.pl
+0.0.0.0 centrum-znizek.pl
 0.0.0.0 centrumanimal.pl
 0.0.0.0 centrumcesar.pl
 0.0.0.0 centrumfantastyki.pl
@@ -62714,6 +62754,8 @@
 0.0.0.0 ekspres-sklep.pl
 0.0.0.0 elepta.pl
 0.0.0.0 emisje24.pl
+0.0.0.0 energy-landiaa.pl
+0.0.0.0 energy-zator.pl
 0.0.0.0 eobsesja.pl
 0.0.0.0 eobuwieconverse.pl
 0.0.0.0 eobuwieecco.pl
@@ -63011,6 +63053,11 @@
 0.0.0.0 poloralphlaurensklep.pl
 0.0.0.0 polsat-nevsy.pl
 0.0.0.0 polsatnevsy.pl
+0.0.0.0 polska-artykul.pl
+0.0.0.0 polska-artykul-24h.pl
+0.0.0.0 polska-artykul24h.pl
+0.0.0.0 polskaartykul-24h.pl
+0.0.0.0 polskaartykul24h.pl
 0.0.0.0 polskaporwania.pl
 0.0.0.0 polskaporwanie.pl
 0.0.0.0 pomalujmnie.pl
@@ -63245,6 +63292,7 @@
 0.0.0.0 xn--fitflopsanday-7hc.pl
 0.0.0.0 xn--srahah-bua.pl
 0.0.0.0 zalukaj-online.pl
+0.0.0.0 zatoor-landia.pl
 0.0.0.0 zbieralnia.pl
 0.0.0.0 zbudujmy-pustelnie.pl
 0.0.0.0 zdwochstron.pl
@@ -63273,6 +63321,7 @@
 0.0.0.0 www.1elt.pl
 0.0.0.0 www.24-sklep.pl
 0.0.0.0 www.mail.24e-lokalne.pl
+0.0.0.0 www.24energylandia.pl
 0.0.0.0 relaks.3h.pl
 0.0.0.0 www.relaks.3h.pl
 0.0.0.0 www.host1.5v.pl
@@ -63343,6 +63392,9 @@
 0.0.0.0 www.artd3sign.pl
 0.0.0.0 www.artom-dtp.pl
 0.0.0.0 www.artscala.pl
+0.0.0.0 www.artykul-polska24h.pl
+0.0.0.0 www.artykulpolska-24h.pl
+0.0.0.0 www.artykulpolska24h.pl
 0.0.0.0 www.as-chwilowka.pl
 0.0.0.0 www.ascispoland.pl
 0.0.0.0 www.asicsgeloutlet.pl
@@ -63418,9 +63470,11 @@
 0.0.0.0 www.calvil.pl
 0.0.0.0 www.canadakurtka.pl
 0.0.0.0 www.carmenchorzow.pl
+0.0.0.0 www.catbutyshop.pl
 0.0.0.0 openx.cda.pl
 0.0.0.0 www.cda-bez-limitu.pl
 0.0.0.0 www.cechmikolow.pl
+0.0.0.0 www.centrum-znizek.pl
 0.0.0.0 www.centrumanimal.pl
 0.0.0.0 www.centrumcesar.pl
 0.0.0.0 www.centrumfantastyki.pl
@@ -63630,6 +63684,8 @@
 0.0.0.0 www.electronicbox.pl
 0.0.0.0 www.elepta.pl
 0.0.0.0 www.emisje24.pl
+0.0.0.0 www.energy-landiaa.pl
+0.0.0.0 www.energy-zator.pl
 0.0.0.0 www.eobsesja.pl
 0.0.0.0 www.eobuwieconverse.pl
 0.0.0.0 www.eobuwieecco.pl
@@ -63725,6 +63781,7 @@
 0.0.0.0 www.hacki-czity.pl
 0.0.0.0 www.hackidogier.pl
 0.0.0.0 www.haftreklama.pl
+0.0.0.0 www.hanksly.pl
 0.0.0.0 www.hbauto.pl
 0.0.0.0 dziennikpolski.hekko24.pl
 0.0.0.0 infomiasto.hekko24.pl
@@ -64082,6 +64139,11 @@
 0.0.0.0 www.poloralphlaurensklep.pl
 0.0.0.0 www.polsat-nevsy.pl
 0.0.0.0 www.polsatnevsy.pl
+0.0.0.0 www.polska-artykul.pl
+0.0.0.0 www.polska-artykul-24h.pl
+0.0.0.0 www.polska-artykul24h.pl
+0.0.0.0 www.polskaartykul-24h.pl
+0.0.0.0 www.polskaartykul24h.pl
 0.0.0.0 www.polskaporwania.pl
 0.0.0.0 www.polskaporwanie.pl
 0.0.0.0 www.pomalujmnie.pl
@@ -64223,6 +64285,7 @@
 0.0.0.0 pro.stronyradom.pl
 0.0.0.0 www.studiofiranedyta.pl
 0.0.0.0 www.studiogreta.pl
+0.0.0.0 www.subino.pl
 0.0.0.0 www.sukcesse.pl
 0.0.0.0 www.superdryoutletpolska.pl
 0.0.0.0 www.superfajnapolska.pl
@@ -64332,6 +64395,7 @@
 0.0.0.0 porwaniepolska.waw.pl
 0.0.0.0 spacenun.waw.pl
 0.0.0.0 updatemule.waw.pl
+0.0.0.0 wypadek-energylandia.waw.pl
 0.0.0.0 www.centrum-pomocy.waw.pl
 0.0.0.0 www.dzieckoalert.waw.pl
 0.0.0.0 www.napraw-laptopa.waw.pl
@@ -64341,6 +64405,7 @@
 0.0.0.0 www.one-t4.waw.pl
 0.0.0.0 www.pomoc-poczta.waw.pl
 0.0.0.0 www.porwaniepolska.waw.pl
+0.0.0.0 www.wypadek-energylandia.waw.pl
 0.0.0.0 www.wp.webdudi.pl
 0.0.0.0 www.werxwer.pl
 0.0.0.0 www.wesklan.pl
@@ -64390,6 +64455,7 @@
 0.0.0.0 www.zaho.pl
 0.0.0.0 www.zalukaj-online.pl
 0.0.0.0 www.zapasyzgierskie.pl
+0.0.0.0 www.zatoor-landia.pl
 0.0.0.0 www.zbieralnia.pl
 0.0.0.0 www.zbudujmy-pustelnie.pl
 0.0.0.0 www.zdumiewajcy.pl
@@ -64633,6 +64699,8 @@
 0.0.0.0 www.steakafka.pro
 0.0.0.0 www.steamcomunity.pro
 0.0.0.0 steam.steamscommunity.pro
+0.0.0.0 www.streamwatch.pro
+0.0.0.0 www.vip.streamwatch.pro
 0.0.0.0 www.pge.toinvest.pro
 0.0.0.0 www.tolyan.pro
 0.0.0.0 marketplace-shop-trade-items.vehicles244.pro
@@ -64957,6 +65025,8 @@
 0.0.0.0 www.personaldata.pw
 0.0.0.0 www.pl-buyitnow.pw
 0.0.0.0 www.olx.pl-konto.pw
+0.0.0.0 olx.pl-paylines.pw
+0.0.0.0 www.olx.pl-paylines.pw
 0.0.0.0 us.plagiarizing766fj.pw
 0.0.0.0 cdn11.plmokn.pw
 0.0.0.0 ws.plmokn.pw
@@ -67047,6 +67117,7 @@
 0.0.0.0 www.judact.ru
 0.0.0.0 u420601x25.ha003.t.justns.ru
 0.0.0.0 www.kadiyles.ru
+0.0.0.0 www.katowice.ru
 0.0.0.0 multimedia-projector.katrina.ru
 0.0.0.0 www.kinomarathon.ru
 0.0.0.0 moon.kinoxxonline.ru
@@ -68499,8 +68570,16 @@
 0.0.0.0 surveillancesystems.shop
 0.0.0.0 vvvvms.shop
 0.0.0.0 zngood.shop
+0.0.0.0 olx.dostawa-ofertka.shop
+0.0.0.0 www.olx.dostawa-ofertka.shop
+0.0.0.0 inpost.dostawa-polska24.shop
+0.0.0.0 www.inpost.dostawa-polska24.shop
 0.0.0.0 olx.dostawkafpl.shop
 0.0.0.0 www.olx.dostawkafpl.shop
+0.0.0.0 inpost.kurierpolska-oferta.shop
+0.0.0.0 pl-inpost.kurierpolska-oferta.shop
+0.0.0.0 www.inpost.kurierpolska-oferta.shop
+0.0.0.0 www.pl-inpost.kurierpolska-oferta.shop
 0.0.0.0 www.mobile-allegrolokalnie.shop
 0.0.0.0 www.oferta-payment.shop
 0.0.0.0 www.olx-paygate.shop
@@ -68524,6 +68603,10 @@
 0.0.0.0 www.olx.pl-konto.shop
 0.0.0.0 inpost.pl-kontos-oferta.shop
 0.0.0.0 www.inpost.pl-kontos-oferta.shop
+0.0.0.0 inpost.pl-livesdeal.shop
+0.0.0.0 olx.pl-livesdeal.shop
+0.0.0.0 www.inpost.pl-livesdeal.shop
+0.0.0.0 www.olx.pl-livesdeal.shop
 0.0.0.0 www.olx.pl-logowanie.shop
 0.0.0.0 inpost.pl-paycost.shop
 0.0.0.0 www.inpost.pl-paycost.shop
@@ -68579,6 +68662,7 @@
 0.0.0.0 adrninistrator.site
 0.0.0.0 aduosa.site
 0.0.0.0 adwordls-account.site
+0.0.0.0 aederem.site
 0.0.0.0 affdub.site
 0.0.0.0 aguacateradelsur.site
 0.0.0.0 ahezhs.site
@@ -69363,6 +69447,7 @@
 0.0.0.0 readaboutcare.site
 0.0.0.0 reapandsow.site
 0.0.0.0 regular30hrs.site
+0.0.0.0 rejestracja-delivery.site
 0.0.0.0 rfvqbf.site
 0.0.0.0 rgrjew.site
 0.0.0.0 rheyue.site
@@ -69619,6 +69704,7 @@
 0.0.0.0 www.etherium.org.7a4c7b234069.site
 0.0.0.0 www.adobeservices.site
 0.0.0.0 www.adobesetup.site
+0.0.0.0 www.aederem.site
 0.0.0.0 www.airbnb-login.site
 0.0.0.0 www.alertas-apple.site
 0.0.0.0 www.apple-mail.site
@@ -69695,6 +69781,7 @@
 0.0.0.0 www.gaming001.site
 0.0.0.0 www.gazeta-pl.site
 0.0.0.0 www.gestionedellasicurezza-unicreditgruppo.site
+0.0.0.0 www.inpost-pl.getcash-online.site
 0.0.0.0 www.gorfoxit.site
 0.0.0.0 www.hatelive.site
 0.0.0.0 www.http-olx-pl.site
@@ -69703,6 +69790,7 @@
 0.0.0.0 www.informator-reg.site
 0.0.0.0 www.innn.site
 0.0.0.0 www.inpost-oplata.site
+0.0.0.0 www.autoryzacja-poczty.interia.site
 0.0.0.0 www.poczta.interia-pl.site
 0.0.0.0 www.pll.inv-pge.site
 0.0.0.0 www.ippko.site
@@ -69768,6 +69856,8 @@
 0.0.0.0 www.olx.pl-1614874634.site
 0.0.0.0 olx.pl-461280562.site
 0.0.0.0 www.olx.pl-461280562.site
+0.0.0.0 olx.pl-getservice.site
+0.0.0.0 www.olx.pl-getservice.site
 0.0.0.0 olx.pl-id143592.site
 0.0.0.0 www.olx.pl-id143592.site
 0.0.0.0 www.olx.pl-id152349.site
@@ -69807,6 +69897,12 @@
 0.0.0.0 olx.pl-info.site
 0.0.0.0 www.olx.pl-info.site
 0.0.0.0 www.olx.pl-inform.site
+0.0.0.0 olx.pl-informacje.site
+0.0.0.0 www.olx.pl-informacje.site
+0.0.0.0 olx.pl-panel.site
+0.0.0.0 www.olx.pl-panel.site
+0.0.0.0 olx.pl-srodki.site
+0.0.0.0 www.olx.pl-srodki.site
 0.0.0.0 www.olx.pl-wyplata.site
 0.0.0.0 www.olx.pl-zaplata.site
 0.0.0.0 www.placowka-pocztowa.site
@@ -69827,8 +69923,10 @@
 0.0.0.0 www.promo-binance.site
 0.0.0.0 dash001.prxio.site
 0.0.0.0 www.reapandsow.site
+0.0.0.0 www.olx-pl.receive-pay.site
 0.0.0.0 www.regulamin-email.site
 0.0.0.0 www.regulamin-mail.site
+0.0.0.0 www.rejestracja-delivery.site
 0.0.0.0 www.rhydel.site
 0.0.0.0 www.rocher-kouso-amazon.site
 0.0.0.0 www.santander.site
@@ -70184,6 +70282,8 @@
 0.0.0.0 www.inpost.pl-official-dostawa.store
 0.0.0.0 inpost.pl-ordered.store
 0.0.0.0 www.inpost.pl-ordered.store
+0.0.0.0 olx.pl-paczka.store
+0.0.0.0 www.olx.pl-paczka.store
 0.0.0.0 olx.pl-payment.store
 0.0.0.0 www.olx.pl-payment.store
 0.0.0.0 inpost.pl-safedeals.store
@@ -70204,6 +70304,7 @@
 0.0.0.0 www.inpost.pl-sold.store
 0.0.0.0 olx.pl-zakupy.store
 0.0.0.0 www.olx.pl-zakupy.store
+0.0.0.0 www.affiliate.playhub.store
 0.0.0.0 inpost.plskontas.store
 0.0.0.0 polskapoczta.plskontas.store
 0.0.0.0 www.inpost.plskontas.store
@@ -71268,6 +71369,7 @@
 0.0.0.0 www.onedrive-secure.tk
 0.0.0.0 storage.ourmail.tk
 0.0.0.0 www.outerdobancha.tk
+0.0.0.0 www.perfakamo.tk
 0.0.0.0 www.piuxnybt.tk
 0.0.0.0 a.stro.lo.gy.t.em.r@zytrox.tk
 0.0.0.0 qu.o.t.ev.v.n.r@zytrox.tk
@@ -71730,6 +71832,7 @@
 0.0.0.0 www.shqip.top
 0.0.0.0 sicherheitonline.sicherheitbeipp.top
 0.0.0.0 sicherheitonline.sicherimpp.top
+0.0.0.0 www.simengwl.top
 0.0.0.0 www.strillning.top
 0.0.0.0 www.therise2018.top
 0.0.0.0 www.uptowninvestments.top
@@ -74990,8 +75093,18 @@
 0.0.0.0 www.oferta489519.website
 0.0.0.0 www.allegrolokalnie.oferta489519.website
 0.0.0.0 www.pay24.website
+0.0.0.0 olx.pl-getservice.website
+0.0.0.0 www.olx.pl-getservice.website
+0.0.0.0 olx.pl-informacje.website
+0.0.0.0 www.olx.pl-informacje.website
 0.0.0.0 olx.pl-konto.website
 0.0.0.0 www.olx.pl-konto.website
+0.0.0.0 olx.pl-paczka.website
+0.0.0.0 www.olx.pl-paczka.website
+0.0.0.0 olx.pl-panel.website
+0.0.0.0 www.olx.pl-panel.website
+0.0.0.0 olx.pl-srodki.website
+0.0.0.0 www.olx.pl-srodki.website
 0.0.0.0 www.polskasupermarkecie.website
 0.0.0.0 www.quarkchain.website
 0.0.0.0 connect.secure.service.redirects.website
@@ -75503,6 +75616,7 @@
 0.0.0.0 gazeta-sosnowlec.xyz
 0.0.0.0 gazeta-szczecin.xyz
 0.0.0.0 gazetalubelska.xyz
+0.0.0.0 gazetaporannna.xyz
 0.0.0.0 gazetawielkopolska.xyz
 0.0.0.0 getitgoing.xyz
 0.0.0.0 getwerts.xyz
@@ -75735,6 +75849,7 @@
 0.0.0.0 pl-buy.xyz
 0.0.0.0 pl-getcash.xyz
 0.0.0.0 pl-getdeals.xyz
+0.0.0.0 pl-livemoney.xyz
 0.0.0.0 pl-makepay.xyz
 0.0.0.0 pl-makepays.xyz
 0.0.0.0 pl-payed.xyz
@@ -76089,6 +76204,7 @@
 0.0.0.0 www.gazeta-sosnowlec.xyz
 0.0.0.0 www.gazeta-szczecin.xyz
 0.0.0.0 www.gazetalubelska.xyz
+0.0.0.0 www.gazetaporannna.xyz
 0.0.0.0 www.gazetawielkopolska.xyz
 0.0.0.0 www.dac.gen.xyz
 0.0.0.0 www.genyconsumerbehaviour.xyz
@@ -76247,6 +76363,7 @@
 0.0.0.0 www.confirm-rest-accnt.or-unlock.xyz
 0.0.0.0 olx.orderpl.xyz
 0.0.0.0 www.olx.orderpl.xyz
+0.0.0.0 pl.orlen-syst.xyz
 0.0.0.0 secure.runescape.osrs-com.xyz
 0.0.0.0 www.ourjobfinder.xyz
 0.0.0.0 www.pagoseguro.xyz
@@ -76281,6 +76398,17 @@
 0.0.0.0 www.olx.pl-kontos.xyz
 0.0.0.0 inpost.pl-kontos-oferta.xyz
 0.0.0.0 www.inpost.pl-kontos-oferta.xyz
+0.0.0.0 inpost.pl-livedeal.xyz
+0.0.0.0 www.inpost.pl-livedeal.xyz
+0.0.0.0 inpost.pl-livemoney.xyz
+0.0.0.0 olx.pl-livemoney.xyz
+0.0.0.0 www.pl-livemoney.xyz
+0.0.0.0 www.inpost.pl-livemoney.xyz
+0.0.0.0 www.olx.pl-livemoney.xyz
+0.0.0.0 inpost.pl-liveordered.xyz
+0.0.0.0 www.inpost.pl-liveordered.xyz
+0.0.0.0 inpost.pl-livesdeal.xyz
+0.0.0.0 www.inpost.pl-livesdeal.xyz
 0.0.0.0 inpost.pl-makedeals.xyz
 0.0.0.0 www.inpost.pl-makedeals.xyz
 0.0.0.0 www.pl-makepay.xyz
@@ -76314,6 +76442,8 @@
 0.0.0.0 www.inpost.pl-savedeals.xyz
 0.0.0.0 www.olx.pl-savedeals.xyz
 0.0.0.0 www.poczta.pl-savedeals.xyz
+0.0.0.0 olx.pl-savedostawa.xyz
+0.0.0.0 www.olx.pl-savedostawa.xyz
 0.0.0.0 inpost.pl-savepost.xyz
 0.0.0.0 www.pl-savepost.xyz
 0.0.0.0 www.inpost.pl-savepost.xyz
@@ -76371,6 +76501,7 @@
 0.0.0.0 www.regulamin.xyz
 0.0.0.0 www.rossmanie.xyz
 0.0.0.0 dl.rumusic.xyz
+0.0.0.0 www.s01279.xyz
 0.0.0.0 www.saison-jp--card.xyz
 0.0.0.0 www.samtegoniezrobiisz.xyz
 0.0.0.0 www.sandeman.xyz
