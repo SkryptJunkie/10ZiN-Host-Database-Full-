@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Saturday 19 June 2021
+# Date: 06:02 AM Sunday 20 June 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -4872,6 +4872,7 @@
 0.0.0.0 pl-safeordered.club
 0.0.0.0 pl-upowaznienie.club
 0.0.0.0 pl-wprowadz.club
+0.0.0.0 pleteded.club
 0.0.0.0 plpkobp.club
 0.0.0.0 polska-dostawka.club
 0.0.0.0 polska-oferla.club
@@ -11909,6 +11910,7 @@
 0.0.0.0 eveningofsparkles.com
 0.0.0.0 eventospattilandia.com
 0.0.0.0 everestmarc.com
+0.0.0.0 everestsoftrade.com
 0.0.0.0 evergreenmotoring.com
 0.0.0.0 every1prospers.com
 0.0.0.0 everydamnweekend.com
