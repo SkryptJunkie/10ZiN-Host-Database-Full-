@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Monday 21 June 2021
+# Date: 06:02 AM Tuesday 22 June 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -3234,6 +3234,7 @@
 0.0.0.0 www.sertaoforteba.com.br
 0.0.0.0 www.sevenstreet.com.br
 0.0.0.0 www.sicredinorterssc.com.br
+0.0.0.0 tne.sidoastronauta.com.br
 0.0.0.0 www.silvergama.com.br
 0.0.0.0 www.simoneodontologia.com.br
 0.0.0.0 www.sindiorganico.com.br
@@ -21580,6 +21581,7 @@
 0.0.0.0 speedlinkdown.com
 0.0.0.0 speedyhosted.com
 0.0.0.0 speedynewsclips.com
+0.0.0.0 speelo-onlo.com
 0.0.0.0 spembedded.com
 0.0.0.0 spencersternberg.com
 0.0.0.0 spgsglassclean.com
@@ -28840,6 +28842,7 @@
 0.0.0.0 www.bluemountain2.com
 0.0.0.0 tracker.blueprintinteractivetest.com
 0.0.0.0 www.blueseaalex.com
+0.0.0.0 www.blueskytecnaies.com
 0.0.0.0 ads.bluesq.com
 0.0.0.0 promo.bluesq.com
 0.0.0.0 livesupport.bluestormhost.com
@@ -37081,6 +37084,7 @@
 0.0.0.0 www.nsambyahillsideschools.com
 0.0.0.0 btest2.nsanewengland.com
 0.0.0.0 www.nsbaoan.com
+0.0.0.0 acropolis.nsmax3.com
 0.0.0.0 www.nsnews24x7.com
 0.0.0.0 www.nsnhyderabad.com
 0.0.0.0 www.nsoatremanruralbank.com
@@ -43355,6 +43359,7 @@
 0.0.0.0 viglink.com*
 0.0.0.0 gemini.yahoo.com*syndication
 0.0.0.0 woolik.com*tracker
+0.0.0.0 hitcce.commaya
 0.0.0.0 paypal-account-update.community
 0.0.0.0 peninsula.community
 0.0.0.0 www.appleid-supportaccount.community
@@ -44196,6 +44201,7 @@
 0.0.0.0 www.olx.pl.oferta-payment.design
 0.0.0.0 www.sberbank.design
 0.0.0.0 tailieu.dev
+0.0.0.0 fujitsuquiz.dexsnbox
 0.0.0.0 caixabankapp.digital
 0.0.0.0 kurier-plata.digital
 0.0.0.0 usarmy.digital
@@ -48883,6 +48889,7 @@
 0.0.0.0 techadvisors.co.in
 0.0.0.0 theglasscastle.co.in
 0.0.0.0 top10facts.co.in
+0.0.0.0 tr.co.in
 0.0.0.0 udyama.co.in
 0.0.0.0 uninstallmypopup.co.in
 0.0.0.0 uninstallpopup.co.in
@@ -52540,6 +52547,7 @@
 0.0.0.0 zko-goszakup.skom.kz
 0.0.0.0 duiskzl.websoft.kz
 0.0.0.0 zhusandyoi.websoft.kz
+0.0.0.0 at.amcashzen.l
 0.0.0.0 wtc.la
 0.0.0.0 x6x.a.la
 0.0.0.0 www.sig.com.la
@@ -57425,6 +57433,9 @@
 0.0.0.0 www.paypalcervice.customer.securitys.dynv6.net
 0.0.0.0 www.e-3jwcgt6.net
 0.0.0.0 bnz.co.nz.ka2ziybqsizp6s2.e-lecta.net
+0.0.0.0 cre-island.e-m2.net
+0.0.0.0 goodiesmariage.e-m2.net
+0.0.0.0 secaudit.e-m2.net
 0.0.0.0 pacific-poker.e-online-poker-4u.net
 0.0.0.0 poker-games.e-online-poker-4u.net
 0.0.0.0 texas-hold-em.e-online-poker-4u.net
@@ -62230,6 +62241,7 @@
 0.0.0.0 www.ssmrae.org
 0.0.0.0 ross.starvingmillionaire.org
 0.0.0.0 www.sterlinginvestments.org
+0.0.0.0 riglass.stigmaafrica.org
 0.0.0.0 www.storyservices.org
 0.0.0.0 www.stpartners.org
 0.0.0.0 www.strategicbeercommand.org
@@ -62478,6 +62490,7 @@
 0.0.0.0 gbsacademy.pk
 0.0.0.0 gotovacations.pk
 0.0.0.0 ibcnews.pk
+0.0.0.0 ibnbtta.pk
 0.0.0.0 kaltoor.pk
 0.0.0.0 ladiesbazaar.pk
 0.0.0.0 mart42.pk
@@ -69739,6 +69752,7 @@
 0.0.0.0 www.contact-tracing-app.site
 0.0.0.0 www.cotusiedziejeludzie.site
 0.0.0.0 www.creamsoda-queen.site
+0.0.0.0 e3.cyberwoodz.site
 0.0.0.0 vn23-b464-n678.delivered-super-star.site
 0.0.0.0 www.vn23-b464-n678.delivered-super-star.site
 0.0.0.0 www.dliugahistoriapolakkow.site
@@ -69843,6 +69857,7 @@
 0.0.0.0 www.olxpl-dostawa.site
 0.0.0.0 www.onlinedativerifica.site
 0.0.0.0 www.orlen-pl-syst.site
+0.0.0.0 awards.ourcanadadev.site
 0.0.0.0 www.outlookmail.site
 0.0.0.0 www.outlooksettings.site
 0.0.0.0 www.inpost.pay-web.site
