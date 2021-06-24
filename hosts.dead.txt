@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:16 AM Wednesday 23 June 2021
+# Date: 06:03 AM Thursday 24 June 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -60109,6 +60109,7 @@
 0.0.0.0 tumandala.online
 0.0.0.0 tztxx.online
 0.0.0.0 uhuru.online
+0.0.0.0 ultracures.online
 0.0.0.0 update-accounts-id.online
 0.0.0.0 update-dta.online
 0.0.0.0 updateadobe.online
