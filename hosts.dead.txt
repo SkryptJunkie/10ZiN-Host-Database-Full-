@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:03 AM Thursday 24 June 2021
+# Date: 06:03 AM Friday 25 June 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -25857,6 +25857,7 @@
 0.0.0.0 www.a7search.com
 0.0.0.0 www.a948848111.com
 0.0.0.0 ox-d.aa.com
+0.0.0.0 invoiceonline.aaawastudio.com
 0.0.0.0 www.aacc5900.com
 0.0.0.0 www.aadarshschool.com
 0.0.0.0 counter.aaddzz.com
@@ -59910,6 +59911,7 @@
 0.0.0.0 dailyreporter.online
 0.0.0.0 dfgdgertdvdf.online
 0.0.0.0 dijon.online
+0.0.0.0 doshare.online
 0.0.0.0 dostawaca24.online
 0.0.0.0 dota2-exchanger.online
 0.0.0.0 dota2traders.online
@@ -70318,6 +70320,7 @@
 0.0.0.0 caseopening.store
 0.0.0.0 cryptobubble.store
 0.0.0.0 csgobot.store
+0.0.0.0 epicgames-nitro.store
 0.0.0.0 erosbvw.store
 0.0.0.0 fmi-login.store
 0.0.0.0 free-amazon.store
@@ -76070,6 +76073,7 @@
 0.0.0.0 shiftitup.xyz
 0.0.0.0 sicherheitscenter-amz.xyz
 0.0.0.0 silvestersavingsblog.xyz
+0.0.0.0 simhisancak.xyz
 0.0.0.0 sledzenle-paczki.xyz
 0.0.0.0 sleemconmujlnilty.xyz
 0.0.0.0 sms-confirmation-wfb.xyz
