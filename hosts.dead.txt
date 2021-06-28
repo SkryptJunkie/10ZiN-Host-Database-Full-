@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Sunday 27 June 2021
+# Date: 06:02 AM Monday 28 June 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -24032,6 +24032,7 @@
 0.0.0.0 winaliteecuador.com
 0.0.0.0 winapexcoins.com
 0.0.0.0 winapplewatch.com
+0.0.0.0 wincnet.com
 0.0.0.0 wind-apartments.com
 0.0.0.0 windefenceinfo.com
 0.0.0.0 windoock.com
