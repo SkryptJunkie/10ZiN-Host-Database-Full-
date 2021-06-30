@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:05 AM Tuesday 29 June 2021
+# Date: 06:03 AM Wednesday 30 June 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -25881,6 +25881,7 @@
 0.0.0.0 www.abacorporationindia.com
 0.0.0.0 www.abaproweb.com
 0.0.0.0 data.abce-srbija.com
+0.0.0.0 www.abdellahsabri.com
 0.0.0.0 www.abdulazizandsons.com
 0.0.0.0 www.abdullohkhizazi.com
 0.0.0.0 www.abebagroup.com
@@ -31467,6 +31468,7 @@
 0.0.0.0 www.ewciakurier.com
 0.0.0.0 www.ewebsavvy.com
 0.0.0.0 alpax.ewsuvlcanotradingcowsuvrp.com
+0.0.0.0 analytics.example.com
 0.0.0.0 pgl.example.com
 0.0.0.0 www.exasharetab.com
 0.0.0.0 bankofamerica-verification.exaxol.com
@@ -70496,6 +70498,7 @@
 0.0.0.0 bambootea.store
 0.0.0.0 beatyscot.store
 0.0.0.0 caseopening.store
+0.0.0.0 comm-unity.store
 0.0.0.0 cryptobubble.store
 0.0.0.0 csgobot.store
 0.0.0.0 epicgames-nitro.store
