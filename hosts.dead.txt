@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:03 AM Wednesday 30 June 2021
+# Date: 06:03 AM Thursday 01 July 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -4922,6 +4922,7 @@
 0.0.0.0 thisisamericaanythingcanhappen.club
 0.0.0.0 toniejjesjtnonsens.club
 0.0.0.0 toniemusibycsen.club
+0.0.0.0 top3colagenos.club
 0.0.0.0 trywsxzsa3.club
 0.0.0.0 tylkodojdziedosiebie.club
 0.0.0.0 ujiankpp.club
@@ -5955,6 +5956,7 @@
 0.0.0.0 292f18b4e7b4.com
 0.0.0.0 29950a9556a0.com
 0.0.0.0 2a186ff2746.com
+0.0.0.0 2a23ccfa8e5.com
 0.0.0.0 2abca352f4.com
 0.0.0.0 2b2b84231908.com
 0.0.0.0 2b3500784cd.com
@@ -6441,6 +6443,7 @@
 0.0.0.0 9675a4161ce.com
 0.0.0.0 9767a959187.com
 0.0.0.0 995db2642d3d852b.com
+0.0.0.0 996883f7e5b69.com
 0.0.0.0 9999eth.com
 0.0.0.0 99count.com
 0.0.0.0 99e5da34520d.com
@@ -6483,6 +6486,7 @@
 0.0.0.0 a4mob.com
 0.0.0.0 a5e2773db8a5.com
 0.0.0.0 a624356910c.com
+0.0.0.0 a64602ff8b.com
 0.0.0.0 a69ee4fa50dc3.com
 0.0.0.0 a6fee1ae1cf4f5f542c1b1b149509aui.com
 0.0.0.0 a7b4bc0ebab.com
@@ -9417,6 +9421,7 @@
 0.0.0.0 c7dc5b8c6db.com
 0.0.0.0 c864eb6fcc8.com
 0.0.0.0 c8c528fd2b.com
+0.0.0.0 c9ddfabc84fd43.com
 0.0.0.0 ca-fr-credit-agricole-particuliers.com
 0.0.0.0 ca201ee86b.com
 0.0.0.0 ca24-login.com
@@ -10851,6 +10856,7 @@
 0.0.0.0 dbsbanklimited.com
 0.0.0.0 dc3c87c212.com
 0.0.0.0 dc9e1b75d8.com
+0.0.0.0 dcapartmentstt.com
 0.0.0.0 dcjhpaexcwtc.com
 0.0.0.0 dcxbmm.com
 0.0.0.0 dd699aa951e9.com
@@ -11401,6 +11407,7 @@
 0.0.0.0 e9e21762138.com
 0.0.0.0 e9mlrvy1.com
 0.0.0.0 ea-traffic-redirection.com
+0.0.0.0 ea3247160d34.com
 0.0.0.0 ea6d133f7ae.com
 0.0.0.0 eaa2a4d4c9372092f5856ad9085bd5e0.com
 0.0.0.0 eaccnetflix.com
@@ -25881,7 +25888,6 @@
 0.0.0.0 www.abacorporationindia.com
 0.0.0.0 www.abaproweb.com
 0.0.0.0 data.abce-srbija.com
-0.0.0.0 www.abdellahsabri.com
 0.0.0.0 www.abdulazizandsons.com
 0.0.0.0 www.abdullohkhizazi.com
 0.0.0.0 www.abebagroup.com
