@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:03 AM Thursday 01 July 2021
+# Date: 06:03 AM Friday 02 July 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -8759,6 +8759,7 @@
 0.0.0.0 bbuyirgucsbfwt.com
 0.0.0.0 bbv4-alertas.com
 0.0.0.0 bbxcou.com
+0.0.0.0 bc1b735fd9.com
 0.0.0.0 bc2391eb62.com
 0.0.0.0 bc5275dd50.com
 0.0.0.0 bc99433dd8.com
@@ -26967,6 +26968,7 @@
 0.0.0.0 www.amazon-web-student.com
 0.0.0.0 analytics-beacon-*.amazonaws.com
 0.0.0.0 www.ec2-18-133-158-255.eu-west-2.compute.amazonaws.com
+0.0.0.0 www.ec2-3-10-207-184.eu-west-2.compute.amazonaws.com
 0.0.0.0 www.ec2-3-8-146-77.eu-west-2.compute.amazonaws.com
 0.0.0.0 www.ec2-35-178-235-52.eu-west-2.compute.amazonaws.com
 0.0.0.0 vtnlog-*.elb.amazonaws.com
@@ -28889,6 +28891,7 @@
 0.0.0.0 www.boardstallrack.com
 0.0.0.0 www.bodhitreefabric.com
 0.0.0.0 www.bodorkos.com
+0.0.0.0 www.bodytech-emstrainer.com
 0.0.0.0 www.boersligallery.com
 0.0.0.0 www.bofa-onlineaccess.com
 0.0.0.0 secure.bofa-solvingproblem.com
@@ -41192,6 +41195,7 @@
 0.0.0.0 us-nj-e2.traffictradinghub.com
 0.0.0.0 www.trafficwebseo.com
 0.0.0.0 ad1.trafficx.com
+0.0.0.0 www.trafflds.com
 0.0.0.0 www.traffspot.com
 0.0.0.0 advert.trainingtools.com
 0.0.0.0 www.traktum.com
@@ -47929,6 +47933,8 @@
 0.0.0.0 www.everydayisawindingroad.icu
 0.0.0.0 www.fabulascortas3.icu
 0.0.0.0 www2.fasterupconcreteflash.icu
+0.0.0.0 inpost-pl-id805.fastexpress.icu
+0.0.0.0 www.inpost-pl-id805.fastexpress.icu
 0.0.0.0 www.fellinstore.icu
 0.0.0.0 www.fixfuturetype-restclicks.icu
 0.0.0.0 www.forwardmoniterreq.icu
@@ -48007,6 +48013,8 @@
 0.0.0.0 www.myetherwallet.com.root5.icu
 0.0.0.0 www2.savedealoriginalaflash.icu
 0.0.0.0 paypal.securevalidate.icu
+0.0.0.0 inpost.pl.service-secure.icu
+0.0.0.0 www.inpost.pl.service-secure.icu
 0.0.0.0 eservice.cembra.ch.serviceid199810.icu
 0.0.0.0 www2.setdealoriginalaflash.icu
 0.0.0.0 www2.settypesoftaflash.icu
@@ -57199,7 +57207,9 @@
 0.0.0.0 www.d15n68k9x054qg.cloudfront.net
 0.0.0.0 www.d182p0mo6pnsdg.cloudfront.net
 0.0.0.0 www.d19f6fxl5kn6k9.cloudfront.net
+0.0.0.0 www.d1dgm85un8b0i2.cloudfront.net
 0.0.0.0 www.d1eanoj6rae82v.cloudfront.net
+0.0.0.0 www.d1ebcea2la8r2w.cloudfront.net
 0.0.0.0 www.d1f0moag0nv89.cloudfront.net
 0.0.0.0 www.d1f5c02sm6dd74.cloudfront.net
 0.0.0.0 www.d1fdv4jgqr3t4d.cloudfront.net
@@ -57248,6 +57258,7 @@
 0.0.0.0 www.d2aspbz5jt96sv.cloudfront.net
 0.0.0.0 www.d2b0ml8rhb5fu3.cloudfront.net
 0.0.0.0 www.d2behij0yt2ox6.cloudfront.net
+0.0.0.0 www.d2bfkkdeshmesf.cloudfront.net
 0.0.0.0 www.d2c9vnwvkzlcmz.cloudfront.net
 0.0.0.0 www.d2dpni913sh8cs.cloudfront.net
 0.0.0.0 www.d2gztwgb14h1d.cloudfront.net
@@ -57295,6 +57306,8 @@
 0.0.0.0 www.d34tdjde2x12pd.cloudfront.net
 0.0.0.0 www.d34zwo5uunib6m.cloudfront.net
 0.0.0.0 www.d3513xcfpbcnht.cloudfront.net
+0.0.0.0 www.d36bok8k8k1n1l.cloudfront.net
+0.0.0.0 www.d36judyoxgl2zo.cloudfront.net
 0.0.0.0 www.d36nbgnuno71tn.cloudfront.net
 0.0.0.0 www.d38d6vjyuuw2sl.cloudfront.net
 0.0.0.0 www.d39rpvvlkl2oml.cloudfront.net
@@ -57341,6 +57354,7 @@
 0.0.0.0 www.dkrgrczpa4t2m.cloudfront.net
 0.0.0.0 www.dl483ndvtytqn.cloudfront.net
 0.0.0.0 www.dlng8kobucekv.cloudfront.net
+0.0.0.0 www.dlxbrg0zlr5eu.cloudfront.net
 0.0.0.0 www.dmqxrk27t97xo.cloudfront.net
 0.0.0.0 www.dob4gbfe6d9m8.cloudfront.net
 0.0.0.0 www.dpb8jxtsymi35.cloudfront.net
@@ -64632,6 +64646,8 @@
 0.0.0.0 www.vanspolskatanio.pl
 0.0.0.0 www.vansslipon.pl
 0.0.0.0 www.vapormaxtanio.pl
+0.0.0.0 eksdeeteapdq.vdl.pl
+0.0.0.0 www.eksdeeteapdq.vdl.pl
 0.0.0.0 gg.mob.vendimob.pl
 0.0.0.0 www.verkas.pl
 0.0.0.0 www.videoplex.pl
@@ -68845,6 +68861,14 @@
 0.0.0.0 www.inpost.dostawa-polska24.shop
 0.0.0.0 olx.dostawkafpl.shop
 0.0.0.0 www.olx.dostawkafpl.shop
+0.0.0.0 dpd-c.fastexpress.shop
+0.0.0.0 inpost-pl-id805.fastexpress.shop
+0.0.0.0 olx-d.fastexpress.shop
+0.0.0.0 olx-w.fastexpress.shop
+0.0.0.0 www.dpd-c.fastexpress.shop
+0.0.0.0 www.inpost-pl-id805.fastexpress.shop
+0.0.0.0 www.olx-d.fastexpress.shop
+0.0.0.0 www.olx-w.fastexpress.shop
 0.0.0.0 inpost.kurierpolska-oferta.shop
 0.0.0.0 pl-inpost.kurierpolska-oferta.shop
 0.0.0.0 www.inpost.kurierpolska-oferta.shop
@@ -70410,6 +70434,8 @@
 0.0.0.0 kclsikornbclnk.com-registers.space
 0.0.0.0 www.dlugosiieootymmowi.space
 0.0.0.0 www.dostawa-olx.space
+0.0.0.0 inpost-pl-id805.fastexpress.space
+0.0.0.0 www.inpost-pl-id805.fastexpress.space
 0.0.0.0 www.foreignme.space
 0.0.0.0 www.fromthenight.space
 0.0.0.0 www.gdamour.space
@@ -70462,6 +70488,7 @@
 0.0.0.0 www.lwomens.space
 0.0.0.0 www.mband.space
 0.0.0.0 www.milanovas.space
+0.0.0.0 www.mix-projects.space
 0.0.0.0 www.mloves.space
 0.0.0.0 www.morehotvibes.space
 0.0.0.0 www.morelovemessenger.space
@@ -75871,6 +75898,7 @@
 0.0.0.0 cr-mufg-card--jp.xyz
 0.0.0.0 cr-mufg-jp--card.xyz
 0.0.0.0 crooks-cooper24g.xyz
+0.0.0.0 cuse.xyz
 0.0.0.0 cw-233.xyz
 0.0.0.0 daddaairlines.xyz
 0.0.0.0 daecan.xyz
@@ -76054,6 +76082,7 @@
 0.0.0.0 lenstaste.xyz
 0.0.0.0 lippsz8821110z.xyz
 0.0.0.0 lithiumcheats.xyz
+0.0.0.0 lloto.xyz
 0.0.0.0 login-confirm.xyz
 0.0.0.0 login123.xyz
 0.0.0.0 login1235.xyz
@@ -76065,6 +76094,7 @@
 0.0.0.0 longxvisitorcenter.xyz
 0.0.0.0 lookatmyshop.xyz
 0.0.0.0 loutam.xyz
+0.0.0.0 lovare.xyz
 0.0.0.0 ltcpro.xyz
 0.0.0.0 luven.xyz
 0.0.0.0 m-facebook-com.xyz
@@ -76082,6 +76112,7 @@
 0.0.0.0 medium-airdrops.xyz
 0.0.0.0 member-neteller.xyz
 0.0.0.0 memedarka.xyz
+0.0.0.0 meotrego.xyz
 0.0.0.0 metalhubadf.xyz
 0.0.0.0 miccrosofionline.xyz
 0.0.0.0 microsoft-error2105.xyz
@@ -76492,6 +76523,7 @@
 0.0.0.0 www.consityr600.xyz
 0.0.0.0 cnc.cs9ting.xyz
 0.0.0.0 www.pucouueioduc.cucouuiodu.xyz
+0.0.0.0 www.cuse.xyz
 0.0.0.0 confirm.sms.code.customers-wfb.xyz
 0.0.0.0 www.dapolli.xyz
 0.0.0.0 www.darwintax.xyz
@@ -76604,6 +76636,7 @@
 0.0.0.0 www.kuponline859172.xyz
 0.0.0.0 www.lasda.xyz
 0.0.0.0 www.lenstaste.xyz
+0.0.0.0 www.lloto.xyz
 0.0.0.0 gov.uk.claim-tax-refund.loguk.xyz
 0.0.0.0 www.lokalnieaiiegro.xyz
 0.0.0.0 www.lokjhq.xyz
@@ -76613,12 +76646,14 @@
 0.0.0.0 www.eu.longxvisitorcenter.xyz
 0.0.0.0 www.lookatmyshop.xyz
 0.0.0.0 www.loutam.xyz
+0.0.0.0 www.lovare.xyz
 0.0.0.0 www.ltcpro.xyz
 0.0.0.0 www.machinesystem.xyz
 0.0.0.0 www.manager-paczek-pl.xyz
 0.0.0.0 www.manio.xyz
 0.0.0.0 www.masac.xyz
 0.0.0.0 ebay.com.errorpayment.mbachores.xyz
+0.0.0.0 www.meotrego.xyz
 0.0.0.0 www.millano.xyz
 0.0.0.0 www.minmin96.xyz
 0.0.0.0 www.models-choice.xyz
@@ -76916,6 +76951,7 @@
 0.0.0.0 www.verify-email.xyz
 0.0.0.0 www.versales.xyz
 0.0.0.0 1.versionday.xyz
+0.0.0.0 www.polska.viewclub.xyz
 0.0.0.0 www.vikmot.xyz
 0.0.0.0 www.viscofl.xyz
 0.0.0.0 eu.visitoronearthxrussellathletic.xyz
