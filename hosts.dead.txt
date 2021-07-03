@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:03 AM Friday 02 July 2021
+# Date: 06:03 AM Saturday 03 July 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -6099,6 +6099,7 @@
 0.0.0.0 397e15d6124.com
 0.0.0.0 39b2b5bfd192.com
 0.0.0.0 39c023edce.com
+0.0.0.0 3a20371bfb.com
 0.0.0.0 3abcc69ab8c.com
 0.0.0.0 3abd17850c2.com
 0.0.0.0 3arduino.com
@@ -47396,6 +47397,7 @@
 0.0.0.0 meadowviewof.gq
 0.0.0.0 microsofts.gq
 0.0.0.0 mirzapoor.gq
+0.0.0.0 mypanel2.gq
 0.0.0.0 mypassionfashion.gq
 0.0.0.0 nakugab.gq
 0.0.0.0 nathanstorez.gq
@@ -70683,6 +70685,7 @@
 0.0.0.0 givinggiftcards.stream
 0.0.0.0 humicgreen.stream
 0.0.0.0 ioserrormsg.stream
+0.0.0.0 liontx.stream
 0.0.0.0 meandyouasawinner.stream
 0.0.0.0 mv0129.stream
 0.0.0.0 myeasybitcoin.stream
