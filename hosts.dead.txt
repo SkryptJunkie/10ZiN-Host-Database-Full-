@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:03 AM Saturday 03 July 2021
+# Date: 06:02 AM Sunday 04 July 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -4857,6 +4857,7 @@
 0.0.0.0 nukiero.club
 0.0.0.0 nuwsxzsa33.club
 0.0.0.0 nytuilshop.club
+0.0.0.0 ofyouope.club
 0.0.0.0 olderwomenpartydress.club
 0.0.0.0 olxkonstosx.club
 0.0.0.0 owa-outlook.club
@@ -5954,6 +5955,7 @@
 0.0.0.0 28hf7513231-trader.com
 0.0.0.0 290e346061.com
 0.0.0.0 292f18b4e7b4.com
+0.0.0.0 293aca873d.com
 0.0.0.0 29950a9556a0.com
 0.0.0.0 2a186ff2746.com
 0.0.0.0 2a23ccfa8e5.com
@@ -9401,6 +9403,7 @@
 0.0.0.0 c-1us-webapps.com
 0.0.0.0 c029aa09b9f.com
 0.0.0.0 c04fdaaf623.com
+0.0.0.0 c07c9219c77.com
 0.0.0.0 c0eb07a7cf947.com
 0.0.0.0 c0f788d6814.com
 0.0.0.0 c1097a71d9f4a200b172968e40fbbbee.com
@@ -9688,6 +9691,7 @@
 0.0.0.0 cevixgencodasi.com
 0.0.0.0 cevwkduhwbuc.com
 0.0.0.0 ceyhundislioglu.com
+0.0.0.0 cf02dac18de9.com
 0.0.0.0 cf773cd73369.com
 0.0.0.0 cfalkenberg.com
 0.0.0.0 cfchaabo.com
@@ -12015,6 +12019,7 @@
 0.0.0.0 f1288404ece4.com
 0.0.0.0 f18ea5c9f46a.com
 0.0.0.0 f1legroup.com
+0.0.0.0 f2a63aed53.com
 0.0.0.0 f2b44414ad5.com
 0.0.0.0 f2phacks.com
 0.0.0.0 f378d3c6a1d.com
