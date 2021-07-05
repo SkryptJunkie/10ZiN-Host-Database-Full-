@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Sunday 04 July 2021
+# Date: 06:02 AM Monday 05 July 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -30258,6 +30258,7 @@
 0.0.0.0 www.cumhuriyetsurucukursu.com
 0.0.0.0 www.cupenalatrust.com
 0.0.0.0 www.cupomvip44.com
+0.0.0.0 www.currentlydating-location.com
 0.0.0.0 aplicativo-itaucard.curriculodeviagens.com
 0.0.0.0 app-itau.curriculodeviagens.com
 0.0.0.0 utm.cursormania.com
@@ -37994,6 +37995,9 @@
 0.0.0.0 www.pleasemarrymyex.com
 0.0.0.0 www.pleaseupdateapple.com
 0.0.0.0 www.pleasinghot-2date1.com
+0.0.0.0 www.pledland.com
+0.0.0.0 www.inv.pledland.com
+0.0.0.0 www.invp.pledland.com
 0.0.0.0 adserver.plhb.com
 0.0.0.0 www.plixeron.com
 0.0.0.0 ap.pllepleanom.com
@@ -47980,12 +47984,14 @@
 0.0.0.0 www.inpost.pl-easypaid.icu
 0.0.0.0 www.olx.pl-easypaid.icu
 0.0.0.0 www.poczta.pl-easypaid.icu
+0.0.0.0 www.olx.pl-express-delivery.icu
 0.0.0.0 olx.pl-getdeliveries.icu
 0.0.0.0 www.olx.pl-getdeliveries.icu
 0.0.0.0 olx.pl-getsells.icu
 0.0.0.0 www.olx.pl-getsells.icu
 0.0.0.0 olx.pl-gotorders.icu
 0.0.0.0 www.olx.pl-gotorders.icu
+0.0.0.0 www.inpost.pl-live-delivery.icu
 0.0.0.0 inpost.pl-makepays.icu
 0.0.0.0 www.inpost.pl-makepays.icu
 0.0.0.0 inpost.pl-payed.icu
@@ -51847,6 +51853,15 @@
 0.0.0.0 sale.canay.io
 0.0.0.0 www.cbldc.io
 0.0.0.0 www.circlemix.io
+0.0.0.0 www.egazeta-24ee.cleverapps.io
+0.0.0.0 www.egazeta-24ii.cleverapps.io
+0.0.0.0 www.egazeta-24ll.cleverapps.io
+0.0.0.0 www.gazeta-1.cleverapps.io
+0.0.0.0 www.gazeta-2.cleverapps.io
+0.0.0.0 www.gazeta-3.cleverapps.io
+0.0.0.0 www.gazeta-4.cleverapps.io
+0.0.0.0 www.gazeta-5.cleverapps.io
+0.0.0.0 www.gazeta-6.cleverapps.io
 0.0.0.0 www.gazeta-c24.cleverapps.io
 0.0.0.0 www.media-24n.cleverapps.io
 0.0.0.0 www.media24h.cleverapps.io
@@ -59992,6 +60007,7 @@
 0.0.0.0 auto-ricardo.ch-view.one
 0.0.0.0 www.jaxx.one
 0.0.0.0 www.my-apple.one
+0.0.0.0 www.inpost.pl.service-secure.one
 0.0.0.0 www.teliramsite.one
 0.0.0.0 4w6ylniamu6x7e3a.onion
 0.0.0.0 5frjkvw2w3wv6dnv.onion
