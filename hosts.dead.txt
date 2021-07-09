@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Thursday 08 July 2021
+# Date: 06:04 AM Friday 09 July 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -9623,6 +9623,7 @@
 0.0.0.0 cc2e81e8f9.com
 0.0.0.0 ccbfee1a0ae.com
 0.0.0.0 ccboce.com
+0.0.0.0 cce5931727a.com
 0.0.0.0 ccknifegiveaway.com
 0.0.0.0 cclicknbpypll.com
 0.0.0.0 ccragop.com
@@ -25931,6 +25932,7 @@
 0.0.0.0 sesion.mipaypal.ld75329825.acc-lockedverified.com
 0.0.0.0 www.sesion.mipaypal.ld75329825.acc-lockedverified.com
 0.0.0.0 secyres.app.cetinge.acc-nortices.com
+0.0.0.0 info.meyerandassocketing.access2dayhealth.com
 0.0.0.0 www.accessbnkonline.com
 0.0.0.0 i.bank.accessbnkonline.com
 0.0.0.0 www.qtrj-hl27.accessdomain.com
@@ -38217,6 +38219,7 @@
 0.0.0.0 www.privateofshorebn.com
 0.0.0.0 www.privateswissbarclays.com
 0.0.0.0 media.privatporevo.com
+0.0.0.0 smetrics.csmetrics.privilege.com
 0.0.0.0 www.prize-bigpond.com
 0.0.0.0 w.prize44.com
 0.0.0.0 join.pro-gaming-world.com
@@ -59971,6 +59974,7 @@
 0.0.0.0 www.cowsgomoo.co.nz
 0.0.0.0 new.digilab.co.nz
 0.0.0.0 stats.geekzone.co.nz
+0.0.0.0 stats.leafland.co.nz
 0.0.0.0 www.loosafe.co.nz
 0.0.0.0 particuliers.lcl-banque.mrindia.co.nz
 0.0.0.0 www.myetherwallet.co.nz
