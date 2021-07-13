@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Monday 12 July 2021
+# Date: 06:02 AM Tuesday 13 July 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -34693,6 +34693,7 @@
 0.0.0.0 www.koripaypal.com
 0.0.0.0 x.cb.kount.com
 0.0.0.0 coxal.kozow.com
+0.0.0.0 kudonet.kozow.com
 0.0.0.0 tvmesdeferias.kozow.com
 0.0.0.0 www.coxal.kozow.com
 0.0.0.0 www.kpiholdings.com
