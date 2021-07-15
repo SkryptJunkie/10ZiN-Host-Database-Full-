@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:05 AM Wednesday 14 July 2021
+# Date: 06:02 AM Thursday 15 July 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -5319,6 +5319,7 @@
 0.0.0.0 cialis-levitra-viagra.com.cn
 0.0.0.0 fengfengtiessp.com.cn
 0.0.0.0 gdrw4no.com.cn
+0.0.0.0 niphoenix.com.cn
 0.0.0.0 plolgki.com.cn
 0.0.0.0 ad.114.com.cn
 0.0.0.0 wap.6262.com.cn
@@ -5864,6 +5865,7 @@
 0.0.0.0 15cf13b2000029.com
 0.0.0.0 16ab95b4940.com
 0.0.0.0 173okwei.com
+0.0.0.0 177d6e9d28da.com
 0.0.0.0 177momo.com
 0.0.0.0 1800netflix.com
 0.0.0.0 1800verizon.com
@@ -9423,6 +9425,7 @@
 0.0.0.0 c4553e72604f.com
 0.0.0.0 c47eb0d9cf98.com
 0.0.0.0 c4a3ad3b50.com
+0.0.0.0 c4c9f684923.com
 0.0.0.0 c4ee4adf928.com
 0.0.0.0 c5943a5d7085.com
 0.0.0.0 c667628.com
@@ -11483,6 +11486,7 @@
 0.0.0.0 ebseedbd.com
 0.0.0.0 ec-miappelidsysintlsrvicio.com
 0.0.0.0 ec252f7027411.com
+0.0.0.0 ec432c8372.com
 0.0.0.0 ecaatasehir.com
 0.0.0.0 ecashxchange.com
 0.0.0.0 ecb55246ab.com
@@ -12025,6 +12029,7 @@
 0.0.0.0 f11440076c16.com
 0.0.0.0 f1288404ece4.com
 0.0.0.0 f18ea5c9f46a.com
+0.0.0.0 f18f6b715be20.com
 0.0.0.0 f1fcef21d6.com
 0.0.0.0 f1legroup.com
 0.0.0.0 f2a63aed53.com
@@ -19677,6 +19682,7 @@
 0.0.0.0 qingdaogamayhair.com
 0.0.0.0 qirnhdcywjnd.com
 0.0.0.0 qitwoxzibesak.com
+0.0.0.0 qixifangzhi.com
 0.0.0.0 qjblue.com
 0.0.0.0 qjqlnnunyelcpslr.com
 0.0.0.0 qjttowndvet.com
@@ -44295,6 +44301,7 @@
 0.0.0.0 www.zak.direct
 0.0.0.0 acc-contactinfo.directory
 0.0.0.0 www.acc-contactinfo.directory
+0.0.0.0 mail.safetydistributors.directory
 0.0.0.0 ascendoit.dk
 0.0.0.0 divina.dk
 0.0.0.0 freelancegroup.dk
@@ -52006,6 +52013,7 @@
 0.0.0.0 firoozejavaheri.ir
 0.0.0.0 fremd7.ir
 0.0.0.0 ghasrramsar.ir
+0.0.0.0 golfashop.ir
 0.0.0.0 hotgram.ir
 0.0.0.0 karoestekhdam.ir
 0.0.0.0 kubaba-tomo.ir
