@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Friday 16 July 2021
+# Date: 06:02 AM Saturday 17 July 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -26839,6 +26839,7 @@
 0.0.0.0 po.im.alisoft.com
 0.0.0.0 www.alisonpullen.com
 0.0.0.0 css.aliyun.com
+0.0.0.0 log.aliyuncs.com
 0.0.0.0 www.aljohigroup.com
 0.0.0.0 www.alkilanigroup.com
 0.0.0.0 www.all2wedding.com
