@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Saturday 17 July 2021
+# Date: 06:02 AM Sunday 18 July 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -5741,6 +5741,7 @@
 0.0.0.0 www.umeng.co
 0.0.0.0 amexx.verification-info.co
 0.0.0.0 www.amexx.verification-info.co
+0.0.0.0 sha1.videotrek.co
 0.0.0.0 ads.vs.co
 0.0.0.0 www.wallartz.co
 0.0.0.0 www.xiosdwuewey.co
