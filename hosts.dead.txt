@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:03 AM Monday 19 July 2021
+# Date: 06:02 AM Tuesday 20 July 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -5045,6 +5045,7 @@
 0.0.0.0 www.olx.olxkonstos.club
 0.0.0.0 www.olxkonstosx.club
 0.0.0.0 www.toy.onlinekid.club
+0.0.0.0 www.orlenencourage.club
 0.0.0.0 www.owa-outlook.club
 0.0.0.0 www.paquetesturisticos.club
 0.0.0.0 www.participation-logistilla.club
@@ -38990,6 +38991,7 @@
 0.0.0.0 www33.rtyszz.com
 0.0.0.0 www42.rtyszz.com
 0.0.0.0 www.steamcammunnity.ru.com
+0.0.0.0 www.streamcormnmunity.ru.com
 0.0.0.0 www.ru-amazon.com
 0.0.0.0 www.ru-apple.com
 0.0.0.0 www.olx-pl.ru-protect.com
@@ -40462,6 +40464,8 @@
 0.0.0.0 www.styles-edge.com
 0.0.0.0 www.stylestudiomanila.com
 0.0.0.0 www.suachuacameragiare.com
+0.0.0.0 www.shopcz.suaposales.com
+0.0.0.0 www.shopcz1.suaposales.com
 0.0.0.0 www.suasemanadescontoscasas.com
 0.0.0.0 www.subappscs-appleid112242.com
 0.0.0.0 authenticated.submitted-issued-invoice.com
@@ -75966,6 +75970,7 @@
 0.0.0.0 www.olx.polska-ofer1o.work
 0.0.0.0 olx.polska-oterfa.work
 0.0.0.0 www.olx.polska-oterfa.work
+0.0.0.0 www.inpost.pl.secure-service.work
 0.0.0.0 www.olx.pl-safe.service-secure.work
 0.0.0.0 www.virtualbox.work
 0.0.0.0 loxodo-analytics.ext.nile.works
