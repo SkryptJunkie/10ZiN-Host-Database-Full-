@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Tuesday 20 July 2021
+# Date: 06:02 AM Wednesday 21 July 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -13071,6 +13071,7 @@
 0.0.0.0 gethacksfree.com
 0.0.0.0 gethackz.com
 0.0.0.0 gethiredatboeing.com
+0.0.0.0 getlegadvisor.com
 0.0.0.0 getmail-support-apple.com
 0.0.0.0 getmmogold.com
 0.0.0.0 getmuchcash.com
@@ -47700,6 +47701,7 @@
 0.0.0.0 www.cookconnect.org.hk
 0.0.0.0 www.thejetbusiness.hk
 0.0.0.0 remon.hospital
+0.0.0.0 background-task.host
 0.0.0.0 eletrics.host
 0.0.0.0 giveavvay10000eth.host
 0.0.0.0 odbieram.host
