@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Thursday 22 July 2021
+# Date: 06:02 AM Friday 23 July 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -70042,6 +70042,7 @@
 0.0.0.0 screenpictures.site
 0.0.0.0 sdthuf.site
 0.0.0.0 securesupport619549129.site
+0.0.0.0 sendmehere.site
 0.0.0.0 service-apple.site
 0.0.0.0 serviziopaypalgruppo.site
 0.0.0.0 sexagogal.site
@@ -71811,6 +71812,7 @@
 0.0.0.0 mainkcnservdswserv.tk
 0.0.0.0 mainmainjfnmain.tk
 0.0.0.0 mainnchdnmainmainncj.tk
+0.0.0.0 marcos10pc.tk
 0.0.0.0 maureenfeibus.tk
 0.0.0.0 mbomall.tk
 0.0.0.0 mission-solidarite.tk
