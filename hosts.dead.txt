@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Sunday 25 July 2021
+# Date: 06:02 AM Monday 26 July 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -6236,6 +6236,7 @@
 0.0.0.0 59ce3f2bf1b3.com
 0.0.0.0 59ef0480b3fd.com
 0.0.0.0 59ef627aa2a.com
+0.0.0.0 5a8213c9766.com
 0.0.0.0 5ac9af9fc8f.com
 0.0.0.0 5accb38d350.com
 0.0.0.0 5b1cd20a44adf.com
@@ -6246,6 +6247,7 @@
 0.0.0.0 5cebdc16d51ea.com
 0.0.0.0 5cf240aa2ef.com
 0.0.0.0 5d1e656859.com
+0.0.0.0 5d86caa8a9fb.com
 0.0.0.0 5dfc1debab.com
 0.0.0.0 5e1fcb75b6d662d.com
 0.0.0.0 5eba117283784.com
@@ -10749,6 +10751,7 @@
 0.0.0.0 d2e27d40f9.com
 0.0.0.0 d2hit.com
 0.0.0.0 d2sweet.com
+0.0.0.0 d300c03728.com
 0.0.0.0 d3darkzone.com
 0.0.0.0 d3ff17fd7ab86.com
 0.0.0.0 d3sir3.com
@@ -76219,6 +76222,7 @@
 0.0.0.0 exawn.xyz
 0.0.0.0 expoturkish.xyz
 0.0.0.0 extensions-34.xyz
+0.0.0.0 extrafastip.xyz
 0.0.0.0 ezemuor.xyz
 0.0.0.0 facebook-marketplace-texas.xyz
 0.0.0.0 facebook-s.xyz
