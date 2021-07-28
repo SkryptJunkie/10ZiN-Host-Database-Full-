@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 08:02 PM Tuesday 27 July 2021
+# Date: 06:01 AM Wednesday 28 July 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -11,10 +11,6 @@
 ###
 
 
-0.0.0.0 huerty.*
-0.0.0.0 player-feedback*.glomex.*
-0.0.0.0 ad.kisstvshow.*
-0.0.0.0 collector.xhamster*.*
 0.0.0.0 eos.ac
 0.0.0.0 ap76rmx3.accountant
 0.0.0.0 apple.com-analysis-safety-antimalware-support.accountant

@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Alive)
-# Date: 08:02 PM Tuesday 27 July 2021
+# Date: 06:01 AM Wednesday 28 July 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.alive.txt
@@ -144,6 +144,7 @@
 0.0.0.0 url8196.mindrise.app
 0.0.0.0 distracted-babbage-7a44a8.netlify.app
 0.0.0.0 jolly-hypatia-573e73.netlify.app
+0.0.0.0 privacyfriendly.netlify.app
 0.0.0.0 u4803kjf03-955jkajfy5-n5892l56n-3576c5.netlify.app
 0.0.0.0 wizardly-brahmagupta-1302f2.netlify.app
 0.0.0.0 www.distracted-babbage-7a44a8.netlify.app
@@ -45371,6 +45372,7 @@
 0.0.0.0 e.imguol.com
 0.0.0.0 ads.imgur.com
 0.0.0.0 rt.imgur.com
+0.0.0.0 t.imgur.com
 0.0.0.0 www.imgurads.com
 0.0.0.0 www.imiclk.com
 0.0.0.0 analytic.imlive.com
@@ -52162,6 +52164,7 @@
 0.0.0.0 www.nationalsurveypanel.com
 0.0.0.0 ads.nationchannel.com
 0.0.0.0 proac.nationwide.com
+0.0.0.0 target.nationwide.com
 0.0.0.0 sdk.native123.com
 0.0.0.0 cpanel.nativeads.com
 0.0.0.0 exchange.nativeads.com
@@ -52838,6 +52841,7 @@
 0.0.0.0 www.nordic16.com
 0.0.0.0 ads.nordichardware.com
 0.0.0.0 1901.nordstrom.com
+0.0.0.0 sid.nordstrom.com
 0.0.0.0 offers.nordvpn.com
 0.0.0.0 go.noregon.com
 0.0.0.0 secure.norm0care.com
@@ -54880,6 +54884,7 @@
 0.0.0.0 www.playstatation.com
 0.0.0.0 metrics.aem.playstation.com
 0.0.0.0 smetrics.aem.playstation.com
+0.0.0.0 telemetry.api.playstation.com
 0.0.0.0 metrics.eu.playstation.com
 0.0.0.0 metrics.us.playstation.com
 0.0.0.0 smetrics.us.playstation.com
@@ -75230,6 +75235,7 @@
 0.0.0.0 engine.webgozar.ir
 0.0.0.0 www.webgozar.ir
 0.0.0.0 www.yadaksiklet.ir
+0.0.0.0 pixel.archive.is
 0.0.0.0 ads.magnetic.is
 0.0.0.0 32red.it
 0.0.0.0 5241.it
@@ -79876,6 +79882,7 @@
 0.0.0.0 astrsk.net
 0.0.0.0 at-o.net
 0.0.0.0 ataijeeg.net
+0.0.0.0 auchoons.net
 0.0.0.0 auctionads.net
 0.0.0.0 audicat.net
 0.0.0.0 audionewz.net
@@ -94077,6 +94084,7 @@
 0.0.0.0 zzz.onion.pet
 0.0.0.0 adsdot.ph
 0.0.0.0 admin.amspec.ph
+0.0.0.0 pixel.archive.ph
 0.0.0.0 company.com.ph
 0.0.0.0 engage.3mphilippines.com.ph
 0.0.0.0 adserver.ads.com.ph
@@ -106879,6 +106887,7 @@
 0.0.0.0 www.ants.vn
 0.0.0.0 t.d.ants.vn
 0.0.0.0 www.arcbox.vn
+0.0.0.0 pixel.archive.vn
 0.0.0.0 adsv2.autodaily.vn
 0.0.0.0 adv.autosurf.vn
 0.0.0.0 www.bangtuoc.vn
