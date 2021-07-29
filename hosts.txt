@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Full)
-# Date: 06:01 AM Wednesday 28 July 2021
+# Date: 06:01 AM Thursday 29 July 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.txt
@@ -7910,6 +7910,7 @@
 0.0.0.0 cashaa.co
 0.0.0.0 change-bank.co
 0.0.0.0 chiptionics.co
+0.0.0.0 cimg.co
 0.0.0.0 clarkssklep.co
 0.0.0.0 click2site.co
 0.0.0.0 clickcdn.co
@@ -22028,6 +22029,7 @@
 0.0.0.0 ldgcorp.com
 0.0.0.0 ldgvxuhg.com
 0.0.0.0 ldiscdnkbg.com
+0.0.0.0 ldnlyap.com
 0.0.0.0 ldt1duixoe.com
 0.0.0.0 ldutvi.com
 0.0.0.0 ldvatxaqcd.com
@@ -26319,6 +26321,7 @@
 0.0.0.0 prfctmney.com
 0.0.0.0 pri12mel.com
 0.0.0.0 pricebandit.com
+0.0.0.0 pricklydebt.com
 0.0.0.0 priiceline.com
 0.0.0.0 primaryads.com
 0.0.0.0 primaryhacks.com
@@ -44169,6 +44172,7 @@
 0.0.0.0 www.cookevegas.com
 0.0.0.0 app.cookieassistant.com
 0.0.0.0 info.cookiepro.com
+0.0.0.0 geoip.cookieyes.com
 0.0.0.0 ssa.cookingchanneltv.com
 0.0.0.0 www.cookingtiprewards.com
 0.0.0.0 www.cooknfit.com
@@ -46370,6 +46374,7 @@
 0.0.0.0 sp.delmarvanow.com
 0.0.0.0 sstats.deloitte.com
 0.0.0.0 metrics.delta.com
+0.0.0.0 pulse.delta.com
 0.0.0.0 smetrics.delta.com
 0.0.0.0 zc1.delta-boa.com
 0.0.0.0 www.delta-search.com
@@ -51081,6 +51086,7 @@
 0.0.0.0 search.gamefiesta.com
 0.0.0.0 www.gamefiesta.com
 0.0.0.0 tokensale.gamefllp.com
+0.0.0.0 pixelzirkus.gameforge.com
 0.0.0.0 sugar.gameforge.com
 0.0.0.0 ads.gameinformer.com
 0.0.0.0 www.gameinstallfiles.com
@@ -56291,6 +56297,7 @@
 0.0.0.0 yjpzqw.jackjones.com
 0.0.0.0 ablink.e.jackpocket.com
 0.0.0.0 ablink.m.jackpocket.com
+0.0.0.0 python.jacksellwood.com
 0.0.0.0 stats.jacksellwood.com
 0.0.0.0 smetrics.jackson.com
 0.0.0.0 ads.jacksonsun.com
@@ -66552,6 +66559,7 @@
 0.0.0.0 metricsishare.rediff.com
 0.0.0.0 shopmetric.rediff.com
 0.0.0.0 track.rediff.com
+0.0.0.0 usmetric.rediff.com
 0.0.0.0 metric.ind.rediff.com
 0.0.0.0 ishare.metric.rediff.com
 0.0.0.0 www.redirectedvisitors.com
@@ -68691,6 +68699,7 @@
 0.0.0.0 p.shure.com
 0.0.0.0 www.shuterc.com
 0.0.0.0 a.shutterfly.com
+0.0.0.0 beacon.shutterfly.com
 0.0.0.0 os.shutterfly.com
 0.0.0.0 ou.shutterfly.com
 0.0.0.0 trk.bc.shutterfly.com
@@ -70603,6 +70612,7 @@
 0.0.0.0 teteaffiche.stephanebillon.com
 0.0.0.0 www.stephens-laughlin.com
 0.0.0.0 ads.stephensmedia.com
+0.0.0.0 ssa.stepstone.com
 0.0.0.0 go.sterlitech.com
 0.0.0.0 www.stevemadenpolska.com
 0.0.0.0 sp.stevenspointjournal.com
@@ -88095,6 +88105,7 @@
 0.0.0.0 dmarkt.io
 0.0.0.0 dnsdelegation.io
 0.0.0.0 dsp.io
+0.0.0.0 e1e.io
 0.0.0.0 eagleapi.io
 0.0.0.0 ebz.io
 0.0.0.0 elherdelta.io
@@ -94134,6 +94145,7 @@
 0.0.0.0 olx.kontopl.monster
 0.0.0.0 www.olx.kontopl.monster
 0.0.0.0 www.statesbox.monster
+0.0.0.0 cxt.ms
 0.0.0.0 in.appcenter.ms
 0.0.0.0 www.clarity.ms
 0.0.0.0 goat.codeofar.ms
@@ -94752,6 +94764,7 @@
 0.0.0.0 aujaujoa.net
 0.0.0.0 aulteeby.net
 0.0.0.0 aurdeert.net
+0.0.0.0 auriro.net
 0.0.0.0 ausoafab.net
 0.0.0.0 auteboon.net
 0.0.0.0 autolikefb.net

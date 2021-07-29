@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:01 AM Wednesday 28 July 2021
+# Date: 06:01 AM Thursday 29 July 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -14815,6 +14815,7 @@
 0.0.0.0 csdrop.monster
 0.0.0.0 www.csdrop.monster
 0.0.0.0 www.statesbox.monster
+0.0.0.0 cxt.ms
 0.0.0.0 s.cxt.ms
 0.0.0.0 www3.ddns.ms
 0.0.0.0 iusacell-movil.com.mx
