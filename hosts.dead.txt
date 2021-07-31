@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Friday 30 July 2021
+# Date: 06:01 AM Saturday 31 July 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -2704,6 +2704,7 @@
 0.0.0.0 betscsgoplay.com
 0.0.0.0 betterbatteryapps.com
 0.0.0.0 bf3h.com
+0.0.0.0 bfbfb2fe17.com
 0.0.0.0 bfhredeemcodes.com
 0.0.0.0 bgkpol.com
 0.0.0.0 bhclicks.com
@@ -3392,6 +3393,7 @@
 0.0.0.0 e-steamwallet.com
 0.0.0.0 e-worldhacks.com
 0.0.0.0 e1bl1t39c4.com
+0.0.0.0 e3845ad4643.com
 0.0.0.0 e8934fbbed0495.com
 0.0.0.0 eads-adserving.com
 0.0.0.0 eagamevoice.com
