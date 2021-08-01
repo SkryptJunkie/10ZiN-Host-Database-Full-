@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Full)
-# Date: 06:01 AM Saturday 31 July 2021
+# Date: 06:01 AM Sunday 01 August 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.txt
@@ -9152,6 +9152,7 @@
 0.0.0.0 4xporn.com
 0.0.0.0 4youcom.com
 0.0.0.0 500969adcf7ae838.com
+0.0.0.0 507a5a9594.com
 0.0.0.0 508ec56533e3937e.com
 0.0.0.0 50cents.com
 0.0.0.0 50centstreetkingimmortal.com
@@ -12187,6 +12188,7 @@
 0.0.0.0 bbocajxn.com
 0.0.0.0 bbom2b434493.com
 0.0.0.0 bbwgames.com
+0.0.0.0 bcdnfk.com
 0.0.0.0 bce97f29c40fc40.com
 0.0.0.0 bcentral.com
 0.0.0.0 bcfabscdt.com
@@ -13035,6 +13037,7 @@
 0.0.0.0 brooksrunningpolska.com
 0.0.0.0 brookswyprzedaz.com
 0.0.0.0 broomboxmain.com
+0.0.0.0 brothcorewearisome.com
 0.0.0.0 brotherhoodminims.com
 0.0.0.0 brotherselectricco.com
 0.0.0.0 browser-message.com
@@ -13666,6 +13669,7 @@
 0.0.0.0 cf-getfile.com
 0.0.0.0 cfatceaikgxdhv.com
 0.0.0.0 cfcloudcdn.com
+0.0.0.0 cfeucdn.com
 0.0.0.0 cfgr1.com
 0.0.0.0 cfgr2.com
 0.0.0.0 cfts1tifqr.com
@@ -15255,6 +15259,7 @@
 0.0.0.0 curiosityprobablyarbitrary.com
 0.0.0.0 curlsrare.com
 0.0.0.0 currantmedia.com
+0.0.0.0 currentlyclash.com
 0.0.0.0 currentlydating-location.com
 0.0.0.0 curriculture.com
 0.0.0.0 curse-talker.com
@@ -15722,6 +15727,7 @@
 0.0.0.0 detachedbates.com
 0.0.0.0 detailedglue.com
 0.0.0.0 detailedgovernment.com
+0.0.0.0 detailextentprevail.com
 0.0.0.0 detailyesgrip.com
 0.0.0.0 detectdiscovery.com
 0.0.0.0 detecteddesigningspirited.com
@@ -15930,6 +15936,7 @@
 0.0.0.0 distressedsensesmanage.com
 0.0.0.0 distributeoldfashionedrung.com
 0.0.0.0 districtbaloneywhiskers.com
+0.0.0.0 districtprovocativeforceful.com
 0.0.0.0 dit-dit-dot.com
 0.0.0.0 ditdotsol.com
 0.0.0.0 ditookry.com
@@ -16217,6 +16224,7 @@
 0.0.0.0 downloadultimatehacker.com
 0.0.0.0 downloadwho.com
 0.0.0.0 downloadxcheat.com
+0.0.0.0 downtonpudic.com
 0.0.0.0 downupfiles.com
 0.0.0.0 dozubatan.com
 0.0.0.0 dpallyihgtgu.com
@@ -17923,6 +17931,7 @@
 0.0.0.0 fixproteinnotch.com
 0.0.0.0 fixshort.com
 0.0.0.0 fizzix.com
+0.0.0.0 fjbatbqiwpxydg.com
 0.0.0.0 fjioh.com
 0.0.0.0 fkbwtoopwg.com
 0.0.0.0 fkedup.com
@@ -18946,6 +18955,7 @@
 0.0.0.0 garciaestelles.com
 0.0.0.0 gard4mass.com
 0.0.0.0 gardoult.com
+0.0.0.0 gardourd.com
 0.0.0.0 garmincommexpress.com
 0.0.0.0 garminsmapupdate.com
 0.0.0.0 garristo.com
@@ -19363,6 +19373,7 @@
 0.0.0.0 gobusinessloan.com
 0.0.0.0 gocarosel.com
 0.0.0.0 gocarrot.com
+0.0.0.0 gocdnbwt.com
 0.0.0.0 goclick.com
 0.0.0.0 godatingsnow.com
 0.0.0.0 goddessrig.com
@@ -19709,6 +19720,7 @@
 0.0.0.0 gurucheats.com
 0.0.0.0 gurugiftcards.com
 0.0.0.0 gusfinishedsue.com
+0.0.0.0 gussame.com
 0.0.0.0 gutfdaizu.com
 0.0.0.0 gutsfidelity.com
 0.0.0.0 guvivqlbh.com
@@ -20447,6 +20459,7 @@
 0.0.0.0 hoosorie.com
 0.0.0.0 hootersavour.com
 0.0.0.0 hopdata.com
+0.0.0.0 hopefullyadults.com
 0.0.0.0 hopefulserversnecklace.com
 0.0.0.0 hopeorganconstructive.com
 0.0.0.0 hopilos.com
@@ -21629,6 +21642,7 @@
 0.0.0.0 jonasahalockup.com
 0.0.0.0 jonathanleger.com
 0.0.0.0 jonpoor.com
+0.0.0.0 jonquilpapered.com
 0.0.0.0 joobuste.com
 0.0.0.0 joodoush.com
 0.0.0.0 joophesh.com
@@ -22901,6 +22915,7 @@
 0.0.0.0 mannernotchnewly.com
 0.0.0.0 mannesoth.com
 0.0.0.0 manslaughteradministrationalarm.com
+0.0.0.0 manualcasketlousy.com
 0.0.0.0 manuelu.com
 0.0.0.0 manygoodnews.com
 0.0.0.0 mapcrayonmiss.com
@@ -23278,6 +23293,7 @@
 0.0.0.0 meowpushnot.com
 0.0.0.0 meproductive.com
 0.0.0.0 mepuzz.com
+0.0.0.0 meratsignons.com
 0.0.0.0 merchant.com
 0.0.0.0 merchenta.com
 0.0.0.0 mercuras.com
@@ -23538,6 +23554,7 @@
 0.0.0.0 mktrkr.com
 0.0.0.0 ml0z14azlflr.com
 0.0.0.0 ml314.com
+0.0.0.0 mlexvlcjcjshp.com
 0.0.0.0 mlnadvertising.com
 0.0.0.0 mlntracker.com
 0.0.0.0 mlscmevlspljh.com
@@ -23751,6 +23768,7 @@
 0.0.0.0 morenewmedia.com
 0.0.0.0 morenorubio.com
 0.0.0.0 moreover.com
+0.0.0.0 moresmanomin.com
 0.0.0.0 morguecountryportray.com
 0.0.0.0 moritava.com
 0.0.0.0 morningsophisticatedcenter.com
@@ -24834,6 +24852,7 @@
 0.0.0.0 nqrkzcd7ixwr.com
 0.0.0.0 nqslmtuswqdz.com
 0.0.0.0 nqtxk.com
+0.0.0.0 nquhxlfbuis.com
 0.0.0.0 nrelate.com
 0.0.0.0 nrelievedbrand.com
 0.0.0.0 nrrxxpvgtf.com
@@ -25904,6 +25923,7 @@
 0.0.0.0 pharmacyrxone.com
 0.0.0.0 pharougn.com
 0.0.0.0 phasdesign.com
+0.0.0.0 phasecolony.com
 0.0.0.0 phastoag.com
 0.0.0.0 pheasantcardboardcohort.com
 0.0.0.0 phee1oci.com
@@ -26899,6 +26919,7 @@
 0.0.0.0 pv4u.com
 0.0.0.0 pvclouds.com
 0.0.0.0 pvcndecvyb.com
+0.0.0.0 pvipgaj.com
 0.0.0.0 pvptwhhkfmog.com
 0.0.0.0 pwdplz.com
 0.0.0.0 pwptibeetbf.com
@@ -29551,6 +29572,7 @@
 0.0.0.0 strefa-medycyny-naturalnej.com
 0.0.0.0 stremanp.com
 0.0.0.0 strengthletterhotline.com
+0.0.0.0 strenuoustarget.com
 0.0.0.0 stressbureaucracyneighbour.com
 0.0.0.0 stressfulpyjamas.com
 0.0.0.0 stretchingcognitioncommission.com
@@ -29635,6 +29657,7 @@
 0.0.0.0 sukhumvithomes.com
 0.0.0.0 sulkybutter.com
 0.0.0.0 sulphursceneryhenceforward.com
+0.0.0.0 sultancolicin.com
 0.0.0.0 sultrycommiserate.com
 0.0.0.0 summarylimitedaccspypl.com
 0.0.0.0 summerhamster.com
@@ -30260,6 +30283,7 @@
 0.0.0.0 thinkupfront.com
 0.0.0.0 thinlaptoprewards.com
 0.0.0.0 thinnerlessenfounded.com
+0.0.0.0 thiptumuce.com
 0.0.0.0 third-tracking.com
 0.0.0.0 thirdrespect.com
 0.0.0.0 thirstytwig.com
@@ -30882,6 +30906,7 @@
 0.0.0.0 trmnsite.com
 0.0.0.0 trodpigbays.com
 0.0.0.0 tron-labs.com
+0.0.0.0 troncomelets.com
 0.0.0.0 tropiccritics.com
 0.0.0.0 trothko.com
 0.0.0.0 troublescompared.com
@@ -31496,6 +31521,7 @@
 0.0.0.0 vcommission.com
 0.0.0.0 vcpcvmfnocsfay.com
 0.0.0.0 vdhu.com
+0.0.0.0 vdkejkyztas.com
 0.0.0.0 vdopia.com
 0.0.0.0 vebadu.com
 0.0.0.0 veclaim.com
@@ -34292,6 +34318,7 @@
 0.0.0.0 b.a2gw.com
 0.0.0.0 affiliates.a2hosting.com
 0.0.0.0 www.a2sex.com
+0.0.0.0 video-ads.a2z.com
 0.0.0.0 notify.bugsnag.appstore.a2z.com
 0.0.0.0 analytics.console.aws.a2z.com
 0.0.0.0 pr.analytics.console.aws.a2z.com
@@ -54879,6 +54906,7 @@
 0.0.0.0 pcbutts1.software.informer.com
 0.0.0.0 www.informereng.com
 0.0.0.0 qz.informs.com
+0.0.0.0 pixel.inforsea.com
 0.0.0.0 ad.infoseek.com
 0.0.0.0 www.ad.infoseek.com
 0.0.0.0 ads.infospace.com
@@ -78563,6 +78591,7 @@
 0.0.0.0 zapads.zapak.com
 0.0.0.0 ad2.zapmedya.com
 0.0.0.0 www.zappbrannigan.com
+0.0.0.0 amethyst.zappos.com
 0.0.0.0 track.zappos.com
 0.0.0.0 track.zapromotions.com
 0.0.0.0 www.zapunited.com
@@ -112206,6 +112235,7 @@
 0.0.0.0 www.whipcrack.org
 0.0.0.0 go.whitehousehistory.org
 0.0.0.0 fish.whitney.org
+0.0.0.0 intake-analytics.wikimedia.org
 0.0.0.0 go.wildmontana.org
 0.0.0.0 www.windpl.org
 0.0.0.0 www.workfromhome.org
@@ -129195,6 +129225,7 @@
 0.0.0.0 floraltaperiez.xyz
 0.0.0.0 flowwiththetide.xyz
 0.0.0.0 fmax.xyz
+0.0.0.0 fracs.xyz
 0.0.0.0 frapko.xyz
 0.0.0.0 freeclashofclansresourcesgenerators.xyz
 0.0.0.0 freegiftvip.xyz
