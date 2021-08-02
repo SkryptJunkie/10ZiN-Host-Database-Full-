@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:01 AM Sunday 01 August 2021
+# Date: 06:01 AM Monday 02 August 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -2808,6 +2808,7 @@
 0.0.0.0 byzantiumfork.com
 0.0.0.0 bzupload.com
 0.0.0.0 c2path.com
+0.0.0.0 c9f1b98644.com
 0.0.0.0 ca24-login.com
 0.0.0.0 ca24-logowanie.com
 0.0.0.0 ca24-online.com

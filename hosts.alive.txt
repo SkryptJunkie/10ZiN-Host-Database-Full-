@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Alive)
-# Date: 06:01 AM Sunday 01 August 2021
+# Date: 06:01 AM Monday 02 August 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.alive.txt
@@ -1639,6 +1639,7 @@
 0.0.0.0 hyipbrowser.biz
 0.0.0.0 i-games.biz
 0.0.0.0 ihackz.biz
+0.0.0.0 ingpercent.biz
 0.0.0.0 istat.biz
 0.0.0.0 job4pals.biz
 0.0.0.0 kingwithm.biz
@@ -9315,6 +9316,7 @@
 0.0.0.0 b8af8878e9a9565.com
 0.0.0.0 b8cf0fd3179ef.com
 0.0.0.0 b8pfulzbyj7h.com
+0.0.0.0 b91vip.com
 0.0.0.0 b936c5932623f.com
 0.0.0.0 b97beb2fed1c4f.com
 0.0.0.0 b9ba73f1cd9b6.com
@@ -13087,6 +13089,7 @@
 0.0.0.0 e94a941778d.com
 0.0.0.0 e9976b21f1b2775b.com
 0.0.0.0 e9c1khhwn4uf.com
+0.0.0.0 e9d1f13c08d.com
 0.0.0.0 ea1abaf867.com
 0.0.0.0 ea6353e47e0ab3f78.com
 0.0.0.0 ea978ca12bb65.com
@@ -15083,6 +15086,7 @@
 0.0.0.0 genmonet.com
 0.0.0.0 genorithm.com
 0.0.0.0 genuinealiaspuzzled.com
+0.0.0.0 genuinesubqueries.com
 0.0.0.0 genuschaseslowly.com
 0.0.0.0 geoads.com
 0.0.0.0 geoadserver.com
@@ -20918,6 +20922,7 @@
 0.0.0.0 phasdesign.com
 0.0.0.0 phasecolony.com
 0.0.0.0 phastoag.com
+0.0.0.0 phaudree.com
 0.0.0.0 pheasantcardboardcohort.com
 0.0.0.0 phee1oci.com
 0.0.0.0 pheedo.com
@@ -20979,6 +20984,7 @@
 0.0.0.0 pignuwoa.com
 0.0.0.0 pigtisetdilqsi.com
 0.0.0.0 pigtre.com
+0.0.0.0 pikeletkiyi.com
 0.0.0.0 pillowagecredulous.com
 0.0.0.0 pillscash.com
 0.0.0.0 pillsmoney.com
@@ -21163,6 +21169,7 @@
 0.0.0.0 poemsdeucewee.com
 0.0.0.0 poemsproduced.com
 0.0.0.0 poetryhonourable.com
+0.0.0.0 poeupvcvruuizk.com
 0.0.0.0 pohs2oom.com
 0.0.0.0 poifinsegg.com
 0.0.0.0 poignantcover.com
@@ -22600,6 +22607,7 @@
 0.0.0.0 ryke4peep.com
 0.0.0.0 rynotnfdekb.com
 0.0.0.0 ryquhezrbhfp.com
+0.0.0.0 rzbkusrz.com
 0.0.0.0 rzhcdnsl.com
 0.0.0.0 rzypgzojdan.com
 0.0.0.0 s-e-arch.com
@@ -25305,6 +25313,7 @@
 0.0.0.0 txcmjo.com
 0.0.0.0 txtimpact.com
 0.0.0.0 txyhadai.com
+0.0.0.0 tygafso.com
 0.0.0.0 tylko-dla-ciebie.com
 0.0.0.0 tynt.com
 0.0.0.0 typhonwave.com
@@ -25829,6 +25838,7 @@
 0.0.0.0 vikingtrck.com
 0.0.0.0 vilagfigyelo.com
 0.0.0.0 vilari.com
+0.0.0.0 viliaff.com
 0.0.0.0 villageeatable.com
 0.0.0.0 villalecchi.com
 0.0.0.0 villamarand.com
@@ -26730,6 +26740,7 @@
 0.0.0.0 xoassxowovsrk.com
 0.0.0.0 xoflgafl.com
 0.0.0.0 xokikdassjjhrn.com
+0.0.0.0 xopcdnhjf.com
 0.0.0.0 xoredi.com
 0.0.0.0 xouzmvlt.com
 0.0.0.0 xovq5nemr.com
@@ -31979,6 +31990,7 @@
 0.0.0.0 adserv.arrow.com
 0.0.0.0 connection.arrow.com
 0.0.0.0 stats.ars4real.com
+0.0.0.0 fpa-cdn.arstechnica.com
 0.0.0.0 stats2.arstechnica.com
 0.0.0.0 atrack.art.com
 0.0.0.0 www.art-offer.com
@@ -48566,6 +48578,7 @@
 0.0.0.0 innovation.leeind.com
 0.0.0.0 clickthru.lefbc.com
 0.0.0.0 secure.left5lock.com
+0.0.0.0 ama.leftwarning.com
 0.0.0.0 lwozzk.legacy.com
 0.0.0.0 media2.legacy.com
 0.0.0.0 adserver.legacy-network.com
@@ -53912,6 +53925,7 @@
 0.0.0.0 www.os-downloads.com
 0.0.0.0 consent.api.osano.com
 0.0.0.0 tesla.oscaro.com
+0.0.0.0 wt.oscaro.com
 0.0.0.0 ads.osdn.com
 0.0.0.0 ads2.osdn.com
 0.0.0.0 fmads.osdn.com
@@ -63623,6 +63637,7 @@
 0.0.0.0 x.vindicosuite.com
 0.0.0.0 x2.vindicosuite.com
 0.0.0.0 www.vinyljazzrecords.com
+0.0.0.0 e.viously.com
 0.0.0.0 mar.vip.com
 0.0.0.0 www.vip-dates-herenow3.com
 0.0.0.0 www.vip-datingfield.com
@@ -68465,6 +68480,7 @@
 0.0.0.0 tbmgyz.centerparcs.de
 0.0.0.0 www.champrank.de
 0.0.0.0 cmp.channelpartner.de
+0.0.0.0 cmp2.channelpartner.de
 0.0.0.0 ymcvxo.check24.de
 0.0.0.0 dv.chemie.de
 0.0.0.0 ad-js.chip.de
@@ -68582,6 +68598,7 @@
 0.0.0.0 jdgtgb.duden.de
 0.0.0.0 www.dutty.de
 0.0.0.0 mit.dws.de
+0.0.0.0 track.dws.de
 0.0.0.0 ad.dyntracker.de
 0.0.0.0 saa.dyson.de
 0.0.0.0 www.e-tracker.de
@@ -68970,6 +68987,7 @@
 0.0.0.0 aa.norisbank.de
 0.0.0.0 metrics.notebooksbilliger.de
 0.0.0.0 orsmfg.notino.de
+0.0.0.0 track.noz.de
 0.0.0.0 trk.nuernberger.de
 0.0.0.0 srv.nwave.de
 0.0.0.0 info.o2business.de
@@ -68991,6 +69009,7 @@
 0.0.0.0 www.opendownload.de
 0.0.0.0 www.openload.de
 0.0.0.0 stats.opoloo.de
+0.0.0.0 as.otto.de
 0.0.0.0 orbidder.otto.de
 0.0.0.0 pxc.otto.de
 0.0.0.0 te.otto.de
@@ -80304,6 +80323,7 @@
 0.0.0.0 blueconic.net
 0.0.0.0 bn5x.net
 0.0.0.0 boaphaps.net
+0.0.0.0 bochugho.net
 0.0.0.0 bongdadem.net
 0.0.0.0 book-mark.net
 0.0.0.0 boom-drop.net
@@ -87583,6 +87603,7 @@
 0.0.0.0 ads.home.net
 0.0.0.0 stats.homestead.net
 0.0.0.0 tc.hometogo.net
+0.0.0.0 tc2.hometogo.net
 0.0.0.0 ad.horvitznewspapers.net
 0.0.0.0 ad6.horvitznewspapers.net
 0.0.0.0 www.hostedfiles.net
@@ -103763,6 +103784,7 @@
 0.0.0.0 fixsirrod.site
 0.0.0.0 fortnitechat.site
 0.0.0.0 francilianisiez.site
+0.0.0.0 frap.site
 0.0.0.0 galatests.site
 0.0.0.0 gaming001.site
 0.0.0.0 gardendeur.site
@@ -105450,6 +105472,7 @@
 0.0.0.0 p78lld1s.top
 0.0.0.0 pednorthe.top
 0.0.0.0 pennisdising.top
+0.0.0.0 perienfcefot.top
 0.0.0.0 pervas.top
 0.0.0.0 petitelady.top
 0.0.0.0 pinkypants.top
@@ -105592,6 +105615,7 @@
 0.0.0.0 www.ogrodek.top
 0.0.0.0 www.olx-dostawa792.top
 0.0.0.0 www.online-dating.top
+0.0.0.0 weapfuh.originalriver-tone.top
 0.0.0.0 a.overlay.top
 0.0.0.0 www.pinkypants.top
 0.0.0.0 www.pl-dostawa.top
