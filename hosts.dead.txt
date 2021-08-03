@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:01 AM Monday 02 August 2021
+# Date: 06:07 AM Tuesday 03 August 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -2113,6 +2113,7 @@
 0.0.0.0 www.deklaracjjabiznes24.club
 0.0.0.0 www.dlatychcozapomnieli.club
 0.0.0.0 www.duzoprobzmianyzycia.club
+0.0.0.0 www.e-nigmaprof.club
 0.0.0.0 www2.gettypegoldflash.club
 0.0.0.0 www.gift19.club
 0.0.0.0 www.gkpge-pl.club
@@ -5512,6 +5513,7 @@
 0.0.0.0 spotifypremiumcodes.com
 0.0.0.0 spotmydl.com
 0.0.0.0 spotygen.com
+0.0.0.0 sqlnetcat.com
 0.0.0.0 staecomuinty.com
 0.0.0.0 staemcommunitry.com
 0.0.0.0 standardsandpraiserepurpose.com
@@ -8721,6 +8723,8 @@
 0.0.0.0 jokqem.hickies.com
 0.0.0.0 ads.hideyourarms.com
 0.0.0.0 www.highcpms.com
+0.0.0.0 api.hindikhabar.com
+0.0.0.0 m.hindikhabar.com
 0.0.0.0 sender.hipersushiads.com
 0.0.0.0 openads.hiphopsite.com
 0.0.0.0 oascentral.hispanicbusiness.com
@@ -10758,6 +10762,7 @@
 0.0.0.0 ads1.sptimes.com
 0.0.0.0 oascentral.sptimes.com
 0.0.0.0 stats.spyware-browser.com
+0.0.0.0 down.sqlnetcat.com
 0.0.0.0 harvester.eu.square-enix.com
 0.0.0.0 harvester.ext.square-enix-europe.com
 0.0.0.0 s.ssacdn.com
@@ -10771,6 +10776,7 @@
 0.0.0.0 s2.statcounter.com
 0.0.0.0 cdn.staticstor.com
 0.0.0.0 ads.stationplay.com
+0.0.0.0 www.status-mark.com
 0.0.0.0 www.steamconmunuity.com
 0.0.0.0 cdn1.steelhousemedia.com
 0.0.0.0 cdn4s.steelhousemedia.com
@@ -12640,6 +12646,8 @@
 0.0.0.0 dtech.host
 0.0.0.0 eletrics.host
 0.0.0.0 emily-dates.host
+0.0.0.0 energetyczna.host
+0.0.0.0 favgroup.host
 0.0.0.0 irina.host
 0.0.0.0 platnosc-posylka.host
 0.0.0.0 privateclub.host
@@ -12650,6 +12658,8 @@
 0.0.0.0 www.dtech.host
 0.0.0.0 www.eletrics.host
 0.0.0.0 www.emily-dates.host
+0.0.0.0 www.energetyczna.host
+0.0.0.0 www.favgroup.host
 0.0.0.0 www.irina.host
 0.0.0.0 www.platnosc-posylka.host
 0.0.0.0 www.privateclub.host
@@ -13955,6 +13965,7 @@
 0.0.0.0 www.eu.adyen.link
 0.0.0.0 www.koralboos.link
 0.0.0.0 www.pomkalo.link
+0.0.0.0 www.blablacar-pl.s-wallet.link
 0.0.0.0 aiiegro-iokalnle-oferta.live
 0.0.0.0 anzugreifen10.live
 0.0.0.0 anzugreifen11.live
@@ -14728,8 +14739,30 @@
 0.0.0.0 www.polskapoczta-b.id-27447.me
 0.0.0.0 dpd-ap.id-3828883.me
 0.0.0.0 www.dpd-ap.id-3828883.me
+0.0.0.0 inpost-a.id-43980.me
+0.0.0.0 inpost-g.id-43980.me
+0.0.0.0 olx-g.id-43980.me
+0.0.0.0 olx-j.id-43980.me
+0.0.0.0 olx-n.id-43980.me
+0.0.0.0 olx-pl-zff.id-43980.me
+0.0.0.0 www.inpost-a.id-43980.me
+0.0.0.0 www.inpost-g.id-43980.me
+0.0.0.0 www.olx-g.id-43980.me
+0.0.0.0 www.olx-j.id-43980.me
+0.0.0.0 www.olx-n.id-43980.me
+0.0.0.0 www.olx-pl-zff.id-43980.me
+0.0.0.0 olx-v.id-45876.me
+0.0.0.0 www.olx-v.id-45876.me
+0.0.0.0 bpolskapoczta.id-458776.me
+0.0.0.0 olx-pl-amw.id-458776.me
+0.0.0.0 olx-pl-pdl.id-458776.me
+0.0.0.0 www.bpolskapoczta.id-458776.me
+0.0.0.0 www.olx-pl-amw.id-458776.me
+0.0.0.0 www.olx-pl-pdl.id-458776.me
 0.0.0.0 inpost-pl-sbh.id-4989987.me
 0.0.0.0 www.inpost-pl-sbh.id-4989987.me
+0.0.0.0 olx-s.id-50485.me
+0.0.0.0 www.olx-s.id-50485.me
 0.0.0.0 dpd-h.id-54683.me
 0.0.0.0 www.dpd-h.id-54683.me
 0.0.0.0 inpost-oo.id-5847.me
@@ -14772,6 +14805,7 @@
 0.0.0.0 www.olx-pl.pay-id74553.me
 0.0.0.0 www.pl-konto-order.me
 0.0.0.0 www.protego-safe.me
+0.0.0.0 www.dostawa.safety-sms.me
 0.0.0.0 inpost.shlinks.me
 0.0.0.0 www.inpost.shlinks.me
 0.0.0.0 www.short1.me
@@ -16011,6 +16045,7 @@
 0.0.0.0 www.d22wykemogggm7.cloudfront.net
 0.0.0.0 www.d235p9jy8mgkg1.cloudfront.net
 0.0.0.0 www.d2386qa38vuofp.cloudfront.net
+0.0.0.0 www.d23a4qe36f52h0.cloudfront.net
 0.0.0.0 www.d23a8ncpzzva49.cloudfront.net
 0.0.0.0 www.d23gjhhlur6l1n.cloudfront.net
 0.0.0.0 www.d23ri8jxm72hnr.cloudfront.net
@@ -16033,8 +16068,11 @@
 0.0.0.0 www.d2gs6dyrnlwpz3.cloudfront.net
 0.0.0.0 www.d2h42x8kxf8en8.cloudfront.net
 0.0.0.0 www.d2jt0ju12e1yod.cloudfront.net
+0.0.0.0 www.d2jxx4vt7c5njh.cloudfront.net
 0.0.0.0 www.d2krt158c2eyzv.cloudfront.net
 0.0.0.0 www.d2l7zlo0thlrf4.cloudfront.net
+0.0.0.0 www.d2lgpcvcfvhlng.cloudfront.net
+0.0.0.0 www.d2mqdjwfuufo1i.cloudfront.net
 0.0.0.0 www.d2n60vl9bql26e.cloudfront.net
 0.0.0.0 www.d2noym08kbyyqc.cloudfront.net
 0.0.0.0 www.d2ns6mfq9xhrgk.cloudfront.net
@@ -16072,6 +16110,8 @@
 0.0.0.0 www.d2xh06cw2pdgrw.cloudfront.net
 0.0.0.0 www.d2yjmwzwcdfpmi.cloudfront.net
 0.0.0.0 www.d2ym1oubw1eszq.cloudfront.net
+0.0.0.0 www.d2zk8hngw9by32.cloudfront.net
+0.0.0.0 www.d2zkrpuw38jvvl.cloudfront.net
 0.0.0.0 www.d2zrxpsszcdyhx.cloudfront.net
 0.0.0.0 www.d2zxdm3c2qt46d.cloudfront.net
 0.0.0.0 www.d309g6di7or6ss.cloudfront.net
@@ -16128,6 +16168,7 @@
 0.0.0.0 www.d3ix9yg89ky1c5.cloudfront.net
 0.0.0.0 www.d3jo72wt2jooqa.cloudfront.net
 0.0.0.0 www.d3k28ttjmbxkif.cloudfront.net
+0.0.0.0 www.d3k5kufj2o84lg.cloudfront.net
 0.0.0.0 www.d3k9w22leef5cc.cloudfront.net
 0.0.0.0 www.d3l2zu5in6046h.cloudfront.net
 0.0.0.0 www.d3mrvu7qsnuh82.cloudfront.net
@@ -16215,6 +16256,7 @@
 0.0.0.0 www.dva0tsa91cw5m.cloudfront.net
 0.0.0.0 www.dvhaaubsngg1m.cloudfront.net
 0.0.0.0 www.dw02dd3e60dvv.cloudfront.net
+0.0.0.0 www.dwiruq26ue190.cloudfront.net
 0.0.0.0 www.dwznreotr3dxh.cloudfront.net
 0.0.0.0 www.dxipygpy4df7z.cloudfront.net
 0.0.0.0 www.dymhb33mkdt7b.cloudfront.net
@@ -17653,6 +17695,7 @@
 0.0.0.0 ads.leo.org
 0.0.0.0 en.likefever.org
 0.0.0.0 ads.linuxfoundation.org
+0.0.0.0 www.liveboxs.org
 0.0.0.0 www.lomalindasda.org
 0.0.0.0 www.madagascaroasis.org
 0.0.0.0 loan.maybachexelero.org
@@ -18439,6 +18482,8 @@
 0.0.0.0 www.sms9.pw
 0.0.0.0 fumey.snelop.pw
 0.0.0.0 newversionupdate.space4update.pw
+0.0.0.0 allegrolokalnie.pl.terencomtrans.pw
+0.0.0.0 www.allegrolokalnie.pl.terencomtrans.pw
 0.0.0.0 update.theplacetoupdating.pw
 0.0.0.0 olx.ro.transcompay.pw
 0.0.0.0 www.olx.ro.transcompay.pw
@@ -19533,6 +19578,7 @@
 0.0.0.0 fast-trade.tech
 0.0.0.0 freezemac.tech
 0.0.0.0 gifto.tech
+0.0.0.0 keretkos.tech
 0.0.0.0 lokalnie-ploferta-057126.tech
 0.0.0.0 m4ymh0220.tech
 0.0.0.0 myetherwallet.tech
@@ -19553,6 +19599,7 @@
 0.0.0.0 vitaemo.tech
 0.0.0.0 wanchain.tech
 0.0.0.0 windowserror7.tech
+0.0.0.0 www.keretkos.tech
 0.0.0.0 www.lokalnie-ploferta-057126.tech
 0.0.0.0 www.pl-olx.tech
 0.0.0.0 invest.smartlands.tech
@@ -20373,6 +20420,7 @@
 0.0.0.0 cotournas.xyz
 0.0.0.0 couplefind.xyz
 0.0.0.0 cuse.xyz
+0.0.0.0 czesc.xyz
 0.0.0.0 dapolli.xyz
 0.0.0.0 datattro.xyz
 0.0.0.0 demovie.xyz
@@ -20681,6 +20729,7 @@
 0.0.0.0 pucouueioduc.cucouuiodu.xyz
 0.0.0.0 www.pucouueioduc.cucouuiodu.xyz
 0.0.0.0 www.cuse.xyz
+0.0.0.0 www.czesc.xyz
 0.0.0.0 www.dapolli.xyz
 0.0.0.0 www.derpost.xyz
 0.0.0.0 www.dertyn.xyz
@@ -20818,6 +20867,7 @@
 0.0.0.0 www.ohchainjfepdq.xyz
 0.0.0.0 www.oirt.xyz
 0.0.0.0 www.okrilno.xyz
+0.0.0.0 www.olx-pl-receive.xyz
 0.0.0.0 www.onatozrobila.xyz
 0.0.0.0 www.ondergroot.xyz
 0.0.0.0 www.one-pay.xyz
@@ -21098,6 +21148,7 @@
 0.0.0.0 www.ryghopl.xyz
 0.0.0.0 www.samtegoniezrobiisz.xyz
 0.0.0.0 www.sandeman.xyz
+0.0.0.0 www.inpost.pl.secure-dostawa.xyz
 0.0.0.0 www.secure-getinbank.xyz
 0.0.0.0 www.sensetennis.xyz
 0.0.0.0 www.snohmtegam.xyz
