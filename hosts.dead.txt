@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:07 AM Tuesday 03 August 2021
+# Date: 06:01 AM Wednesday 04 August 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -2033,6 +2033,7 @@
 0.0.0.0 amountant.club
 0.0.0.0 andbaybay.club
 0.0.0.0 armaimapt.club
+0.0.0.0 arnockglen.club
 0.0.0.0 ashallaim.club
 0.0.0.0 atictrementint.club
 0.0.0.0 battleoftheprizes.club
@@ -2407,6 +2408,8 @@
 0.0.0.0 72-news.com
 0.0.0.0 72hdownload.com
 0.0.0.0 72impala.com
+0.0.0.0 77167c0d349.com
+0.0.0.0 7a43baddecf2.com
 0.0.0.0 7b7by5utoney.com
 0.0.0.0 7cnbcnews.com
 0.0.0.0 7come11casino.com
@@ -3522,6 +3525,7 @@
 0.0.0.0 ezuploaded.com
 0.0.0.0 f2phacks.com
 0.0.0.0 f71bxwn500lj.com
+0.0.0.0 f789bdc43e.com
 0.0.0.0 f8316b45436f.com
 0.0.0.0 faboshine.com
 0.0.0.0 face-nemzedek.com
