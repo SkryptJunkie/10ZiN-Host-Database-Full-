@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Full)
-# Date: 06:01 AM Wednesday 04 August 2021
+# Date: 06:01 AM Thursday 05 August 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.txt
@@ -1903,6 +1903,7 @@
 0.0.0.0 eaboutvth.biz
 0.0.0.0 earningmo.biz
 0.0.0.0 easyflirt-partners.biz
+0.0.0.0 ellenince.biz
 0.0.0.0 ermitteedi.biz
 0.0.0.0 ero-advertising.biz
 0.0.0.0 eroadvertising.biz
@@ -2026,6 +2027,7 @@
 0.0.0.0 news20.biz
 0.0.0.0 nitytolearnan.biz
 0.0.0.0 nsurethatthe.biz
+0.0.0.0 ntiveandi.biz
 0.0.0.0 ofreadingand.biz
 0.0.0.0 ogrodek.biz
 0.0.0.0 ogrodzik.biz
@@ -9037,6 +9039,7 @@
 0.0.0.0 2b43cb6a34a.com
 0.0.0.0 2b815136jjjv.com
 0.0.0.0 2bbb379103988619ef.com
+0.0.0.0 2bc2456a2b.com
 0.0.0.0 2bdde500c34.com
 0.0.0.0 2bluemountain.com
 0.0.0.0 2c0dad36bdb9eb859f0.com
@@ -10889,6 +10892,7 @@
 0.0.0.0 afftrack001.com
 0.0.0.0 afftrackinglinks.com
 0.0.0.0 afftrackr.com
+0.0.0.0 affvantage.com
 0.0.0.0 afghanthrow.com
 0.0.0.0 afgr1.com
 0.0.0.0 afgr10.com
@@ -12255,6 +12259,7 @@
 0.0.0.0 bannerweb.com
 0.0.0.0 banstex.com
 0.0.0.0 banstockseldest.com
+0.0.0.0 bantgoau.com
 0.0.0.0 banvar.com
 0.0.0.0 baptismwitnesseddisobedience.com
 0.0.0.0 baqcpdctexlwgp.com
@@ -12798,6 +12803,7 @@
 0.0.0.0 bizrate.com
 0.0.0.0 bizzclick.com
 0.0.0.0 bj04.com
+0.0.0.0 bjakku.com
 0.0.0.0 bjwxwgsittsf.com
 0.0.0.0 bkandpl.com
 0.0.0.0 bkembwdgujzp.com
@@ -12936,6 +12942,7 @@
 0.0.0.0 bmw-330d.com
 0.0.0.0 bmwzdfrra.com
 0.0.0.0 bn-allorbank.com
+0.0.0.0 bnbxwdkxccxfsn.com
 0.0.0.0 bncoposta.com
 0.0.0.0 bnewsb.com
 0.0.0.0 bnex.com
@@ -13252,6 +13259,7 @@
 0.0.0.0 bttrack.com
 0.0.0.0 btttag.com
 0.0.0.0 bttvrqazwnjfl.com
+0.0.0.0 btzgadfn.com
 0.0.0.0 bubblyalibiappear.com
 0.0.0.0 buburuzka.com
 0.0.0.0 bucketbean.com
@@ -14028,6 +14036,7 @@
 0.0.0.0 childselect.com
 0.0.0.0 chiliadv.com
 0.0.0.0 chilyregistrycleaner.com
+0.0.0.0 chimaerason.com
 0.0.0.0 chin-adnetwork.com
 0.0.0.0 china-netwave.com
 0.0.0.0 chinacobweb.com
@@ -14754,6 +14763,7 @@
 0.0.0.0 consciencebarrowcash.com
 0.0.0.0 consciencevenomous.com
 0.0.0.0 consciouschairs.com
+0.0.0.0 consciouscheese.com
 0.0.0.0 consciousdirt.com
 0.0.0.0 consensad.com
 0.0.0.0 consentedconscientious.com
@@ -15551,6 +15561,7 @@
 0.0.0.0 dadspms.com
 0.0.0.0 dadspmz.com
 0.0.0.0 daffaite.com
+0.0.0.0 dafoljqjmlopaf.com
 0.0.0.0 dafthulksyams.com
 0.0.0.0 dafunia.com
 0.0.0.0 dai-stablecoin.com
@@ -16770,6 +16781,7 @@
 0.0.0.0 edesign-agency.com
 0.0.0.0 edfsqfaeenij.com
 0.0.0.0 edfuyyweyz.com
+0.0.0.0 edgeadulthoodblessed.com
 0.0.0.0 edgeimpregnable.com
 0.0.0.0 edgeio.com
 0.0.0.0 edgevertise.com
@@ -18930,6 +18942,7 @@
 0.0.0.0 gainregister.com
 0.0.0.0 gaitdrummerauto.com
 0.0.0.0 gaitheed.com
+0.0.0.0 gaitoath.com
 0.0.0.0 gaja79.com
 0.0.0.0 galacticmenueasier.com
 0.0.0.0 galampgab.com
@@ -20549,6 +20562,7 @@
 0.0.0.0 hjklf.com
 0.0.0.0 hjlas.com
 0.0.0.0 hjmagamal.com
+0.0.0.0 hkbrrwxnijhnfg.com
 0.0.0.0 hkhotpewfxr.com
 0.0.0.0 hkoroalxgsnu.com
 0.0.0.0 hkoxlirf.com
@@ -23284,6 +23298,7 @@
 0.0.0.0 mcagbtdcwklf.com
 0.0.0.0 mcdgifts.com
 0.0.0.0 mcdlks.com
+0.0.0.0 mcdncoiw.com
 0.0.0.0 mcdnmv.com
 0.0.0.0 mcfreepremium.com
 0.0.0.0 mcityadslink.com
@@ -24030,6 +24045,7 @@
 0.0.0.0 moviemblo.com
 0.0.0.0 moviemediahub.com
 0.0.0.0 moviemediaz.com
+0.0.0.0 moviemutilate.com
 0.0.0.0 movieoi.com
 0.0.0.0 movieozy.com
 0.0.0.0 moviepickup.com
@@ -25598,6 +25614,7 @@
 0.0.0.0 otherlevels.com
 0.0.0.0 otherossettlement.com
 0.0.0.0 otherprofit.com
+0.0.0.0 otisephie.com
 0.0.0.0 otlffresod.com
 0.0.0.0 otmsrv.com
 0.0.0.0 otnolabttmup.com
@@ -25695,6 +25712,7 @@
 0.0.0.0 ozkaltd.com
 0.0.0.0 ozogame.com
 0.0.0.0 ozongees.com
+0.0.0.0 oztdgacxmf.com
 0.0.0.0 oztpeloyj.com
 0.0.0.0 ozwjhdler.com
 0.0.0.0 ozyawn.com
@@ -28105,6 +28123,7 @@
 0.0.0.0 rynotnfdekb.com
 0.0.0.0 ryquhezrbhfp.com
 0.0.0.0 rythmxchange.com
+0.0.0.0 ryyhwgyy.com
 0.0.0.0 ryynoljdarrw.com
 0.0.0.0 rzbkusrz.com
 0.0.0.0 rzhcdnsl.com
@@ -29462,6 +29481,7 @@
 0.0.0.0 spotfolder.com
 0.0.0.0 spotifyferfree.com
 0.0.0.0 spotifypremiumcodes.com
+0.0.0.0 spotlessstamp.com
 0.0.0.0 spotlessweb.com
 0.0.0.0 spotmydl.com
 0.0.0.0 spotofspawn.com
@@ -31267,6 +31287,8 @@
 0.0.0.0 twinadsrv.com
 0.0.0.0 twindiversity.com
 0.0.0.0 twinplan.com
+0.0.0.0 twinrdsrv.com
+0.0.0.0 twinsoflave.com
 0.0.0.0 twinwalnutthy.com
 0.0.0.0 twirlskins.com
 0.0.0.0 twitchloot.com
@@ -31651,6 +31673,7 @@
 0.0.0.0 ustxsntseyhwsx.com
 0.0.0.0 usuallycrummy.com
 0.0.0.0 usupload.com
+0.0.0.0 uswtcdnqbm.com
 0.0.0.0 uszaodwya.com
 0.0.0.0 utairway.com
 0.0.0.0 utilitiespridesweat.com
@@ -32069,6 +32092,7 @@
 0.0.0.0 vstaner.com
 0.0.0.0 vsteepo.com
 0.0.0.0 vstet.com
+0.0.0.0 vstop3.com
 0.0.0.0 vstrk.com
 0.0.0.0 vstzen.com
 0.0.0.0 vsu2jbpvgx3m.com
@@ -32137,6 +32161,7 @@
 0.0.0.0 waisheph.com
 0.0.0.0 waistcoataskeddone.com
 0.0.0.0 waistcoatfast.com
+0.0.0.0 waistcoathearing.com
 0.0.0.0 wait8hurl.com
 0.0.0.0 waitinghypotheticallysoot.com
 0.0.0.0 waldenfarms.com
@@ -32671,6 +32696,7 @@
 0.0.0.0 writtenlistened.com
 0.0.0.0 writtenorbithalfbaked.com
 0.0.0.0 wroteadministercurve.com
+0.0.0.0 wrqmkayidop.com
 0.0.0.0 wryfinger.com
 0.0.0.0 wsjlbbqemr23.com
 0.0.0.0 wsknjebphx.com
@@ -33193,6 +33219,7 @@
 0.0.0.0 xxxadu.com
 0.0.0.0 xxxconnect.com
 0.0.0.0 xxxcounter.com
+0.0.0.0 xxxjmp.com
 0.0.0.0 xxxmyself.com
 0.0.0.0 xxxreactor.com
 0.0.0.0 xxxrevpushclcdu.com
@@ -33476,6 +33503,7 @@
 0.0.0.0 ypreferred.com
 0.0.0.0 ypuxlzxa.com
 0.0.0.0 ypwpzgld.com
+0.0.0.0 ypymsisnwv.com
 0.0.0.0 yqeuu.com
 0.0.0.0 yqezqofkb1nnmz.com
 0.0.0.0 yr9n47004g.com
@@ -48667,6 +48695,7 @@
 0.0.0.0 ads.ebay.com
 0.0.0.0 banners.ebay.com
 0.0.0.0 epnt.ebay.com
+0.0.0.0 pulsar.ebay.com
 0.0.0.0 stats.ebay.com
 0.0.0.0 l.deals.ebay.com
 0.0.0.0 go.ebaypn.ebay.com
@@ -58376,6 +58405,7 @@
 0.0.0.0 v3.stat.ku6.com
 0.0.0.0 gug.ku6cdn.com
 0.0.0.0 d1.kuai8.com
+0.0.0.0 pv.kuaizhan.com
 0.0.0.0 photo360.kubooking.com
 0.0.0.0 eagle.kudzu.com
 0.0.0.0 www.kuguopush.com
@@ -68940,6 +68970,7 @@
 0.0.0.0 go.sandcreekpostandbeam.com
 0.0.0.0 banners.sandralatina.com
 0.0.0.0 sslsc.sanitas.com
+0.0.0.0 cstats.sankakucomplex.com
 0.0.0.0 img2.sankakustatic.com
 0.0.0.0 info.sankyo-chem.com
 0.0.0.0 sstats.sanmar.com
@@ -86275,6 +86306,7 @@
 0.0.0.0 uinoringho.fun
 0.0.0.0 uiteligularly.fun
 0.0.0.0 ursegreatm.fun
+0.0.0.0 ustingpres.fun
 0.0.0.0 utoyoufio.fun
 0.0.0.0 uyguowgq.fun
 0.0.0.0 videosubsi.fun
@@ -88356,6 +88388,7 @@
 0.0.0.0 evertherenous.info
 0.0.0.0 exchancetaur.info
 0.0.0.0 exity.info
+0.0.0.0 experianmatch.info
 0.0.0.0 exualpaignp.info
 0.0.0.0 eztnezdmeg.info
 0.0.0.0 facebookpasswordhacks.info
@@ -103552,6 +103585,7 @@
 0.0.0.0 dmuwshlrslrqn.cloudfront.net
 0.0.0.0 dmyvao51x5jfs.cloudfront.net
 0.0.0.0 dn34cbtcv9mef.cloudfront.net
+0.0.0.0 dn3nmb5yt1ysw.cloudfront.net
 0.0.0.0 dn3uy6cx65ujf.cloudfront.net
 0.0.0.0 dn3y71tq7jf07.cloudfront.net
 0.0.0.0 dn577w7w8p16u.cloudfront.net
@@ -103656,6 +103690,7 @@
 0.0.0.0 dz2fz0bgyq9tn.cloudfront.net
 0.0.0.0 dz4mflgeqsbgf.cloudfront.net
 0.0.0.0 dz8owdqayujb8.cloudfront.net
+0.0.0.0 dzbrr144kh0m6.cloudfront.net
 0.0.0.0 dzqiq5qkuyda9.cloudfront.net
 0.0.0.0 dzupi9b81okew.cloudfront.net
 0.0.0.0 dzzavzp9iptuv.cloudfront.net
@@ -131505,6 +131540,7 @@
 0.0.0.0 next-channel.xyz
 0.0.0.0 niedovviarypolska.xyz
 0.0.0.0 ninjavpn.xyz
+0.0.0.0 nlop.xyz
 0.0.0.0 noteks.xyz
 0.0.0.0 notionnalisent.xyz
 0.0.0.0 nowapoczta.xyz
