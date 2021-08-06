@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Full)
-# Date: 06:01 AM Thursday 05 August 2021
+# Date: 06:01 AM Friday 06 August 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.txt
@@ -11491,6 +11491,7 @@
 0.0.0.0 annonymizer.com
 0.0.0.0 announcedvillainvaluable.com
 0.0.0.0 annoyedairport.com
+0.0.0.0 annoyingacoustics.com
 0.0.0.0 annuaire-autosurf.com
 0.0.0.0 annualconsumersurvey.com
 0.0.0.0 anomaloustradingmerciful.com
@@ -13433,6 +13434,7 @@
 0.0.0.0 bytecenter.com
 0.0.0.0 byvngx98ssphwzkrrtsjhnbyz5zss81dxygxvlqd05.com
 0.0.0.0 byzantiumfork.com
+0.0.0.0 bzrmxfxu.com
 0.0.0.0 bzupload.com
 0.0.0.0 c-c-c-inc.com
 0.0.0.0 c-col.com
@@ -20408,6 +20410,7 @@
 0.0.0.0 hentaicounter.com
 0.0.0.0 hentaidatabase.com
 0.0.0.0 heraldintimidatestipulate.com
+0.0.0.0 heratheacle.com
 0.0.0.0 herb2warn.com
 0.0.0.0 herb7calk.com
 0.0.0.0 herbalaffiliateprogram.com
@@ -27675,6 +27678,7 @@
 0.0.0.0 remainfascinatedhappy.com
 0.0.0.0 remarketingpixel.com
 0.0.0.0 remekcikkek.com
+0.0.0.0 reminews.com
 0.0.0.0 remoteeloise.com
 0.0.0.0 remotrk.com
 0.0.0.0 removearrest.com
@@ -32526,6 +32530,7 @@
 0.0.0.0 windows8activator.com
 0.0.0.0 windows8activatordownload.com
 0.0.0.0 windscreenregimepros.com
+0.0.0.0 windsplay.com
 0.0.0.0 winfreestuff.com
 0.0.0.0 winfreetoday.com
 0.0.0.0 wingads.com
@@ -67373,6 +67378,7 @@
 0.0.0.0 rs2.qq.com
 0.0.0.0 scdown.qq.com
 0.0.0.0 show-msgch.qq.com
+0.0.0.0 sngmta.qq.com
 0.0.0.0 ta.qq.com
 0.0.0.0 tajs.qq.com
 0.0.0.0 tcss.qq.com
@@ -67422,6 +67428,7 @@
 0.0.0.0 ssl.msdk.qq.com
 0.0.0.0 a.ssl.msdk.qq.com
 0.0.0.0 img.ssl.msdk.qq.com
+0.0.0.0 monitor.music.qq.com
 0.0.0.0 s.pcmgr.qq.com
 0.0.0.0 statistic.qzone.qq.com
 0.0.0.0 pagespeed.report.qq.com
@@ -67437,6 +67444,7 @@
 0.0.0.0 misc.wcd.qq.com
 0.0.0.0 j.wit.qq.com
 0.0.0.0 log.wtlogin.qq.com
+0.0.0.0 stat.y.qq.com
 0.0.0.0 www.qq886.com
 0.0.0.0 track.msadcenter.qru.com
 0.0.0.0 t.qservz.com
@@ -73315,6 +73323,7 @@
 0.0.0.0 www.tencent.com
 0.0.0.0 p.tencentmind.com
 0.0.0.0 www.tencentmind.com
+0.0.0.0 adstats.tencentmusic.com
 0.0.0.0 go.tendatta.com
 0.0.0.0 asset-0.tenderapp.com
 0.0.0.0 asset-1.tenderapp.com
@@ -76652,6 +76661,7 @@
 0.0.0.0 smetrics.walgreens.com
 0.0.0.0 explore.walkerdunlop.com
 0.0.0.0 ads.walkiberia.com
+0.0.0.0 ec.walkme.com
 0.0.0.0 go.walkme.com
 0.0.0.0 marketing.walkme.com
 0.0.0.0 ks.walkq.com
@@ -78824,6 +78834,7 @@
 0.0.0.0 track.ad.xiaomi.com
 0.0.0.0 zeus.ad.xiaomi.com
 0.0.0.0 test.e.ad.xiaomi.com
+0.0.0.0 tracker.ai.xiaomi.com
 0.0.0.0 sgp.o2o.api.xiaomi.com
 0.0.0.0 api.d.xiaomi.com
 0.0.0.0 data.mistat.india.xiaomi.com
@@ -85077,6 +85088,7 @@
 0.0.0.0 ssa.eurosport.fi
 0.0.0.0 sstats.fishersci.fi
 0.0.0.0 insight.fonecta.fi
+0.0.0.0 stats.fonecta.fi
 0.0.0.0 xkddvf.gigantti.fi
 0.0.0.0 gcwubi.happypancake.fi
 0.0.0.0 smetrics.henkivakuutuskuntoon.fi
@@ -107171,6 +107183,7 @@
 0.0.0.0 redherring.ngadcenter.net
 0.0.0.0 static.ngbn.net
 0.0.0.0 www.ngbn.net
+0.0.0.0 cdn-rum.ngenix.net
 0.0.0.0 tms-st.cdn.ngenix.net
 0.0.0.0 www.nguen.net
 0.0.0.0 ads.nhadatmoi.net
@@ -123427,6 +123440,7 @@
 0.0.0.0 iljdyu.orteka.ru
 0.0.0.0 ad.oyy.ru
 0.0.0.0 hkqrpk.ozon.ru
+0.0.0.0 xapi.ozon.ru
 0.0.0.0 stats-*.p2pnow.ru
 0.0.0.0 repvwz.panchemodan.ru
 0.0.0.0 pewyz.paraplandv.ru
