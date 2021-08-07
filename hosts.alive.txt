@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Alive)
-# Date: 06:01 AM Friday 06 August 2021
+# Date: 06:01 AM Saturday 07 August 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.alive.txt
@@ -7242,6 +7242,7 @@
 0.0.0.0 9nta.com
 0.0.0.0 9stoneinvestments.com
 0.0.0.0 9thien.com
+0.0.0.0 9v58v.com
 0.0.0.0 a-a-access.com
 0.0.0.0 a-ads.com
 0.0.0.0 a-c-engine.com
@@ -8630,6 +8631,7 @@
 0.0.0.0 alivehacks.com
 0.0.0.0 alivelocal.com
 0.0.0.0 aljassarengineering.com
+0.0.0.0 alkypeewit.com
 0.0.0.0 all-best-prize2020.com
 0.0.0.0 all-best-prizes2020.com
 0.0.0.0 all-dating-secrets.com
@@ -60229,6 +60231,7 @@
 0.0.0.0 m.softsharks.com
 0.0.0.0 ads.softure.com
 0.0.0.0 storage.softure.com
+0.0.0.0 track.software-codes.com
 0.0.0.0 app.software-phile.com
 0.0.0.0 errornuker.software-phile.com
 0.0.0.0 regclean.software-phile.com
