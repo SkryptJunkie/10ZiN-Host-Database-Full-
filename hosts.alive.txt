@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Alive)
-# Date: 06:01 AM Sunday 08 August 2021
+# Date: 06:01 AM Monday 09 August 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.alive.txt
@@ -5964,6 +5964,7 @@
 0.0.0.0 recusticks.co
 0.0.0.0 reimburs.co
 0.0.0.0 replainy.co
+0.0.0.0 rifec.co
 0.0.0.0 riotpointsgenerator.co
 0.0.0.0 rockabox.co
 0.0.0.0 royalmaii.co
@@ -24165,6 +24166,7 @@
 0.0.0.0 stearncormmunity.com
 0.0.0.0 steawcomnunity.com
 0.0.0.0 steaxcommunity.com
+0.0.0.0 steelbitepro24.com
 0.0.0.0 steelhouse.com
 0.0.0.0 steelhousemedia.com
 0.0.0.0 steepto.com
@@ -31084,6 +31086,7 @@
 0.0.0.0 tk.airfrance.com
 0.0.0.0 go.airinnovations.com
 0.0.0.0 zlawih.airlifestore.com
+0.0.0.0 landingairquality.airlite.com
 0.0.0.0 click.airmalta-mail.com
 0.0.0.0 www.airnetinfotech.com
 0.0.0.0 www.airpb.com
@@ -64063,8 +64066,10 @@
 0.0.0.0 ads1.ucweb.com
 0.0.0.0 adtrack.ucweb.com
 0.0.0.0 down2.ucweb.com
+0.0.0.0 gjapplog.ucweb.com
 0.0.0.0 gjtrack.ucweb.com
 0.0.0.0 insight.ucweb.com
+0.0.0.0 logssug.ucweb.com
 0.0.0.0 puds.ucweb.com
 0.0.0.0 uc.ucweb.com
 0.0.0.0 ucus.ucweb.com
@@ -64073,6 +64078,7 @@
 0.0.0.0 sdkupgrade.insight.ucweb.com
 0.0.0.0 wap.tj.ucweb.com
 0.0.0.0 instory-log.ucnews.ucweb.com
+0.0.0.0 attr.union.ucweb.com
 0.0.0.0 click.union.ucweb.com
 0.0.0.0 slot.union.ucweb.com
 0.0.0.0 page-events-ustats.udemy.com
