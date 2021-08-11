@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Full)
-# Date: 06:09 AM Tuesday 10 August 2021
+# Date: 06:01 AM Wednesday 11 August 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.txt
@@ -2129,7 +2129,9 @@
 0.0.0.0 rantsbroug.biz
 0.0.0.0 readheadstick.biz
 0.0.0.0 redads.biz
+0.0.0.0 reedthatm.biz
 0.0.0.0 reefaquarium.biz
+0.0.0.0 reialsoha.biz
 0.0.0.0 resvgeeid.biz
 0.0.0.0 reversed.biz
 0.0.0.0 riencesco.biz
@@ -2187,6 +2189,7 @@
 0.0.0.0 unnok.biz
 0.0.0.0 unrealcommander.biz
 0.0.0.0 uploaders.biz
+0.0.0.0 veanumb.biz
 0.0.0.0 venotrouble.biz
 0.0.0.0 videojuh.biz
 0.0.0.0 viphacks.biz
@@ -9269,6 +9272,7 @@
 0.0.0.0 33across.com
 0.0.0.0 33ae985c0ea917.com
 0.0.0.0 341073be6e9db7d2.com
+0.0.0.0 348wd7etbann.com
 0.0.0.0 34baedd2d0b9.com
 0.0.0.0 34c2f22e9503ace.com
 0.0.0.0 34j.com
@@ -12547,6 +12551,7 @@
 0.0.0.0 bcmediagroup.com
 0.0.0.0 bcuuipewdz.com
 0.0.0.0 bcvutcks.com
+0.0.0.0 bcxamyjtnzuf.com
 0.0.0.0 bd1617dbbc28f.com
 0.0.0.0 bd202457b.com
 0.0.0.0 bde3d.com
@@ -16135,6 +16140,7 @@
 0.0.0.0 detailedgovernment.com
 0.0.0.0 detailextentprevail.com
 0.0.0.0 detailyesgrip.com
+0.0.0.0 detdtmkwcl.com
 0.0.0.0 detectdiscovery.com
 0.0.0.0 detecteddesigningspirited.com
 0.0.0.0 detectivesrecoilatmospheric.com
@@ -25759,6 +25765,7 @@
 0.0.0.0 online-easydate1.com
 0.0.0.0 online-office365.com
 0.0.0.0 online-olx.com
+0.0.0.0 online-protection-now.com
 0.0.0.0 online-securesite-official.com
 0.0.0.0 online-tvstream.com
 0.0.0.0 online143.com
@@ -27888,6 +27895,7 @@
 0.0.0.0 reauthenticator.com
 0.0.0.0 rebelsubway.com
 0.0.0.0 rebevengwas.com
+0.0.0.0 rebikuny.com
 0.0.0.0 rebiraert.com
 0.0.0.0 rebrandsoftware.com
 0.0.0.0 rebuildcroakdeployment.com
@@ -28347,6 +28355,7 @@
 0.0.0.0 rotabol.com
 0.0.0.0 rotdubboy.com
 0.0.0.0 rote8mino.com
+0.0.0.0 rotfrigilityfrigility.com
 0.0.0.0 rotumal.com
 0.0.0.0 roughroll.com
 0.0.0.0 roulediana.com
@@ -29944,6 +29953,7 @@
 0.0.0.0 stainspun.com
 0.0.0.0 stairgames.com
 0.0.0.0 staitchu.com
+0.0.0.0 staixemo.com
 0.0.0.0 stakingscrew.com
 0.0.0.0 stakingslope.com
 0.0.0.0 stalesummer.com
@@ -30536,6 +30546,7 @@
 0.0.0.0 taifouwo.com
 0.0.0.0 taijiwhi.com
 0.0.0.0 tailsweep.com
+0.0.0.0 taisowhu.com
 0.0.0.0 take-prizes-now2.com
 0.0.0.0 takehacks.com
 0.0.0.0 takeprofitsystem.com
@@ -87396,6 +87407,7 @@
 0.0.0.0 aogvfoiqoiwue.fun
 0.0.0.0 appareint.fun
 0.0.0.0 articismstre.fun
+0.0.0.0 arysignificc.fun
 0.0.0.0 astancerta.fun
 0.0.0.0 astertour.fun
 0.0.0.0 atoescruffy.fun
@@ -95037,6 +95049,7 @@
 0.0.0.0 korespodencja-online.link
 0.0.0.0 kurierowo.link
 0.0.0.0 myetherwallet.link
+0.0.0.0 nauchegy.link
 0.0.0.0 oconner.link
 0.0.0.0 olx-oferta.link
 0.0.0.0 olx-paygate.link
@@ -105016,6 +105029,7 @@
 0.0.0.0 d3aa1sw778dmn7.cloudfront.net
 0.0.0.0 d3ahinqqx1dy5v.cloudfront.net
 0.0.0.0 d3aiy6aqoa3ykz.cloudfront.net
+0.0.0.0 d3al52d8cojds7.cloudfront.net
 0.0.0.0 d3alqb8vzo7fun.cloudfront.net
 0.0.0.0 d3anogn3pbtk4v.cloudfront.net
 0.0.0.0 d3aq14vri881or.cloudfront.net
@@ -107850,6 +107864,7 @@
 0.0.0.0 www.filmy-seriale.net
 0.0.0.0 www.financexbt.net
 0.0.0.0 www.finantiko.net
+0.0.0.0 geoip.finanzen.net
 0.0.0.0 tracking.finanzen.net
 0.0.0.0 ciszhp.finanzfrage.net
 0.0.0.0 www.findppc.net
@@ -128451,6 +128466,7 @@
 0.0.0.0 postanowcossobie24.space
 0.0.0.0 praktycznejestwszzystko.space
 0.0.0.0 premium-offers.space
+0.0.0.0 pringed.space
 0.0.0.0 protector-web.space
 0.0.0.0 pushup.space
 0.0.0.0 rcentratiumd.space
@@ -133740,6 +133756,7 @@
 0.0.0.0 advnet.xyz
 0.0.0.0 advserver.xyz
 0.0.0.0 afekiryj.xyz
+0.0.0.0 agcm.xyz
 0.0.0.0 agni3.xyz
 0.0.0.0 aidomination.xyz
 0.0.0.0 aiegro-lokainle.xyz

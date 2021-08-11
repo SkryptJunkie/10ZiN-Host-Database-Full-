@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:09 AM Tuesday 10 August 2021
+# Date: 06:01 AM Wednesday 11 August 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -13985,6 +13985,7 @@
 0.0.0.0 www.youronline-profits2.life
 0.0.0.0 koralboos.link
 0.0.0.0 myetherwallet.link
+0.0.0.0 nauchegy.link
 0.0.0.0 pomkalo.link
 0.0.0.0 www.eu.adyen.link
 0.0.0.0 www.koralboos.link
