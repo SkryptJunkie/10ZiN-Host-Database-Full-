@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Alive)
-# Date: 06:01 AM Wednesday 11 August 2021
+# Date: 06:01 AM Thursday 12 August 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.alive.txt
@@ -1746,6 +1746,7 @@
 0.0.0.0 earningmo.biz
 0.0.0.0 easyflirt-partners.biz
 0.0.0.0 ellenince.biz
+0.0.0.0 eofgreatid.biz
 0.0.0.0 ermitteedi.biz
 0.0.0.0 ero-advertising.biz
 0.0.0.0 eroadvertising.biz
@@ -6662,6 +6663,7 @@
 0.0.0.0 16482f75cb.com
 0.0.0.0 165a7c15380874ef3.com
 0.0.0.0 166f.com
+0.0.0.0 171a60540b.com
 0.0.0.0 1740f665a91b68.com
 0.0.0.0 1770a379d2.com
 0.0.0.0 1784tli497ys.com
@@ -9805,6 +9807,7 @@
 0.0.0.0 bannertesting.com
 0.0.0.0 bannerware.com
 0.0.0.0 bannerweb.com
+0.0.0.0 banofusa.com
 0.0.0.0 banroads.com
 0.0.0.0 banstex.com
 0.0.0.0 banstockseldest.com
@@ -15294,6 +15297,7 @@
 0.0.0.0 gadspmz.com
 0.0.0.0 gaftaums.com
 0.0.0.0 gagacon.com
+0.0.0.0 gaghygienetheir.com
 0.0.0.0 gagpetwet.com
 0.0.0.0 gagwithholdoutsider.com
 0.0.0.0 gaietybeautify.com
@@ -15647,6 +15651,7 @@
 0.0.0.0 giftsformysubs.com
 0.0.0.0 gifttracker.com
 0.0.0.0 gigaonclick.com
+0.0.0.0 giglucrative.com
 0.0.0.0 gigya.com
 0.0.0.0 gilvision.com
 0.0.0.0 gimpybedderump.com
@@ -15702,6 +15707,7 @@
 0.0.0.0 glispa.com
 0.0.0.0 glitchez.com
 0.0.0.0 glitteringcourageous.com
+0.0.0.0 glixaing.com
 0.0.0.0 glo-glo-oom.com
 0.0.0.0 gloarowu.com
 0.0.0.0 gloatdiagnosis.com
@@ -16821,6 +16827,7 @@
 0.0.0.0 hunter-details.com
 0.0.0.0 hunterbootspl.com
 0.0.0.0 hunterstyle24.com
+0.0.0.0 hurdlewantingfalcon.com
 0.0.0.0 hurllotion.com
 0.0.0.0 hurricanedigitalmedia.com
 0.0.0.0 hurricaneprotection.com
@@ -17558,6 +17565,7 @@
 0.0.0.0 jarproducercane.com
 0.0.0.0 jarsquatter.com
 0.0.0.0 jarvispopsu.com
+0.0.0.0 jashautchord.com
 0.0.0.0 jasmin.com
 0.0.0.0 jasmin-cams-live.com
 0.0.0.0 jatxt.com
@@ -18655,6 +18663,7 @@
 0.0.0.0 lpko-biznes-logovnanie.com
 0.0.0.0 lpko-biznes-pl.com
 0.0.0.0 lpuhcdnyejf.com
+0.0.0.0 lqcqhkgoer.com
 0.0.0.0 lqeevjgkjjwi.com
 0.0.0.0 ls-droid.com
 0.0.0.0 lsassoc.com
@@ -22052,6 +22061,7 @@
 0.0.0.0 projectwonderful.com
 0.0.0.0 prolapseman.com
 0.0.0.0 promisingjournalist.com
+0.0.0.0 promisingsquall.com
 0.0.0.0 promo4partners.com
 0.0.0.0 promobenef.com
 0.0.0.0 promocja-dla-ciebie.com
@@ -23366,6 +23376,7 @@
 0.0.0.0 scientiamobile.com
 0.0.0.0 scientifichoaxfutile.com
 0.0.0.0 scintillatingscissors.com
+0.0.0.0 scintillatingsilver.com
 0.0.0.0 scintillatingspace.com
 0.0.0.0 sconvtrk.com
 0.0.0.0 scoobyads.com
@@ -23830,6 +23841,7 @@
 0.0.0.0 siegemeg.com
 0.0.0.0 sielsmaats.com
 0.0.0.0 sierraclumsy.com
+0.0.0.0 sieveinterposed.com
 0.0.0.0 sifuglie.com
 0.0.0.0 sightjutfar.com
 0.0.0.0 signalayer.com
@@ -26648,6 +26660,7 @@
 0.0.0.0 vstet.com
 0.0.0.0 vstop3.com
 0.0.0.0 vstrot.com
+0.0.0.0 vstwow.com
 0.0.0.0 vstzen.com
 0.0.0.0 vsu2jbpvgx3m.com
 0.0.0.0 vsvihsib.com
@@ -26959,6 +26972,7 @@
 0.0.0.0 whouledu.com
 0.0.0.0 whozuxoko.com
 0.0.0.0 whs82908.com
+0.0.0.0 whsepelmrnz.com
 0.0.0.0 whughesh.com
 0.0.0.0 whusebsu.com
 0.0.0.0 whydowork.com
@@ -77715,6 +77729,7 @@
 0.0.0.0 coinzilla.io
 0.0.0.0 concert.io
 0.0.0.0 connectad.io
+0.0.0.0 connectier.io
 0.0.0.0 cosmi.io
 0.0.0.0 curvefi.io
 0.0.0.0 dable.io
@@ -77991,6 +78006,7 @@
 0.0.0.0 aem-collector.daumkakao.io
 0.0.0.0 www.davor.io
 0.0.0.0 gullfoss.deepsource.io
+0.0.0.0 pubsrv.devhints.io
 0.0.0.0 stats-factory.digitregroup.io
 0.0.0.0 cdn.dimml.io
 0.0.0.0 cdn.districtm.io
@@ -81550,6 +81566,7 @@
 0.0.0.0 www.listentome8.live
 0.0.0.0 www.listentome9.live
 0.0.0.0 www.lpkobiznes.live
+0.0.0.0 www.luckycrush.live
 0.0.0.0 inpost.moferta.live
 0.0.0.0 olx.moferta.live
 0.0.0.0 www.inpost.moferta.live
@@ -82834,6 +82851,7 @@
 0.0.0.0 rail.moe
 0.0.0.0 www.olx.moe
 0.0.0.0 d.skk.moe
+0.0.0.0 umami.wakarimasen.moe
 0.0.0.0 cmoney.money
 0.0.0.0 cs-money.money
 0.0.0.0 csgolounge.money
@@ -83431,6 +83449,7 @@
 0.0.0.0 auteboon.net
 0.0.0.0 autolikefb.net
 0.0.0.0 automoc.net
+0.0.0.0 autsaubs.net
 0.0.0.0 avazudsp.net
 0.0.0.0 avazutracking.net
 0.0.0.0 avres.net
@@ -84912,6 +84931,7 @@
 0.0.0.0 stickfile.net
 0.0.0.0 stimtavy.net
 0.0.0.0 stizoaph.net
+0.0.0.0 stoakrig.net
 0.0.0.0 stoashou.net
 0.0.0.0 stonseeb.net
 0.0.0.0 stootsou.net
@@ -113222,6 +113242,7 @@
 0.0.0.0 grandesalmacenesenlineas.xyz
 0.0.0.0 grandfathertriangle.xyz
 0.0.0.0 grools.xyz
+0.0.0.0 gtrd.xyz
 0.0.0.0 hackforyou.xyz
 0.0.0.0 harponnerons.xyz
 0.0.0.0 harston.xyz
