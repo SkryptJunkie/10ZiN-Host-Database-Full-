@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:01 AM Thursday 12 August 2021
+# Date: 06:01 AM Friday 13 August 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -2384,6 +2384,7 @@
 0.0.0.0 24hwebsex.com
 0.0.0.0 24onlinetradingcapitals.com
 0.0.0.0 2622766fe5be.com
+0.0.0.0 2a34919c07.com
 0.0.0.0 2bluemountain.com
 0.0.0.0 2shocking4you.com
 0.0.0.0 35hacks.com
@@ -2427,6 +2428,7 @@
 0.0.0.0 94uyvwwh.com
 0.0.0.0 96660970b05417.com
 0.0.0.0 970ztqtss4.com
+0.0.0.0 9a67bd5b1f091.com
 0.0.0.0 9h7n8.com
 0.0.0.0 a-nagy-alku.com
 0.0.0.0 a3yqjsrczwwp.com
@@ -2817,6 +2819,7 @@
 0.0.0.0 buzzcpm.com
 0.0.0.0 byzantiumfork.com
 0.0.0.0 bzupload.com
+0.0.0.0 c2280b9a3b4c.com
 0.0.0.0 c2path.com
 0.0.0.0 c9f1b98644.com
 0.0.0.0 ca24-login.com
@@ -3615,6 +3618,7 @@
 0.0.0.0 feaecebook.com
 0.0.0.0 feedbackcensus.com
 0.0.0.0 ferrpictak.com
+0.0.0.0 ff3ac0a1c99.com
 0.0.0.0 fiberdump.com
 0.0.0.0 fifa-14-coin-generator.com
 0.0.0.0 fifa13pointsfree.com

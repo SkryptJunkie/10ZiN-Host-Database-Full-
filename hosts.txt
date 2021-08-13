@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Full)
-# Date: 06:01 AM Thursday 12 August 2021
+# Date: 06:01 AM Friday 13 August 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.txt
@@ -1965,6 +1965,7 @@
 0.0.0.0 dragoncitycheat.biz
 0.0.0.0 eaboutvth.biz
 0.0.0.0 earningmo.biz
+0.0.0.0 easforcom.biz
 0.0.0.0 easyflirt-partners.biz
 0.0.0.0 ellenince.biz
 0.0.0.0 eofgreatid.biz
@@ -5207,6 +5208,7 @@
 0.0.0.0 gunyangseamus.cam
 0.0.0.0 hipfowlzeal.cam
 0.0.0.0 ilink.cam
+0.0.0.0 illicitdandily.cam
 0.0.0.0 kerriastiff.cam
 0.0.0.0 kontospl.cam
 0.0.0.0 leanerbivouac.cam
@@ -5312,6 +5314,7 @@
 0.0.0.0 dosveggietotem.casa
 0.0.0.0 fistcartyped.casa
 0.0.0.0 gramsoakton.casa
+0.0.0.0 hairdosslitter.casa
 0.0.0.0 hechcandled.casa
 0.0.0.0 helpeachother422.casa
 0.0.0.0 helpishere577.casa
@@ -6292,6 +6295,7 @@
 0.0.0.0 test-adblock.tgc.cloud
 0.0.0.0 crane.trescolori.cloud
 0.0.0.0 pages.vuzion.cloud
+0.0.0.0 31768.club
 0.0.0.0 69i.club
 0.0.0.0 69v.club
 0.0.0.0 abeforeign.club
@@ -9189,12 +9193,14 @@
 0.0.0.0 26554a376a71735.com
 0.0.0.0 270inc.com
 0.0.0.0 271395.com
+0.0.0.0 27ceb2d5631623.com
 0.0.0.0 27x.com
 0.0.0.0 2894c9d5b32.com
 0.0.0.0 289931.com
 0.0.0.0 29ae58661b9c7178.com
 0.0.0.0 29d65cebb82ef9f.com
 0.0.0.0 2a12be6140880286.com
+0.0.0.0 2a34919c07.com
 0.0.0.0 2asian.com
 0.0.0.0 2automatyczny-dozownik-mydla-pl.com
 0.0.0.0 2b43cb6a34a.com
@@ -9803,6 +9809,7 @@
 0.0.0.0 99noivas.com
 0.0.0.0 99x.com
 0.0.0.0 9a24a1b3dcd5f4.com
+0.0.0.0 9a67bd5b1f091.com
 0.0.0.0 9aaeea3094d8.com
 0.0.0.0 9ad16721d9d5c56.com
 0.0.0.0 9ae7c9ffe8509b0.com
@@ -11515,6 +11522,7 @@
 0.0.0.0 amazongiftvouchers.com
 0.0.0.0 amber3graph.com
 0.0.0.0 ambient-platform.com
+0.0.0.0 ambientaboveboard.com
 0.0.0.0 ambientdsp.com
 0.0.0.0 ambiguousquilt.com
 0.0.0.0 ambitiousagreement.com
@@ -11655,6 +11663,7 @@
 0.0.0.0 animalrank.com
 0.0.0.0 animaltoplist.com
 0.0.0.0 animatedgif.com
+0.0.0.0 animatedpopular.com
 0.0.0.0 animationfullmovie.com
 0.0.0.0 animationinfinity.com
 0.0.0.0 animi2.com
@@ -11892,6 +11901,7 @@
 0.0.0.0 apture.com
 0.0.0.0 apvdr.com
 0.0.0.0 apyohotayvc.com
+0.0.0.0 aqdkehbez.com
 0.0.0.0 aqedsw4.com
 0.0.0.0 aqjdigkqvmakz.com
 0.0.0.0 aqknmbh198dn.com
@@ -12015,6 +12025,7 @@
 0.0.0.0 askfmhackfinder.com
 0.0.0.0 asklots.com
 0.0.0.0 aslaprason.com
+0.0.0.0 asmodeusfields.com
 0.0.0.0 asoulrox.com
 0.0.0.0 asparagusmeaninglessyearly.com
 0.0.0.0 aspenholding.com
@@ -12129,6 +12140,7 @@
 0.0.0.0 automotive-offer.com
 0.0.0.0 automotive-rewardpath.com
 0.0.0.0 autonations.com
+0.0.0.0 autopsyglossy.com
 0.0.0.0 autoreflex.com
 0.0.0.0 autoresdecomic.com
 0.0.0.0 autosurfpro.com
@@ -12178,6 +12190,7 @@
 0.0.0.0 avuvldbc.com
 0.0.0.0 avwcupyzbccer.com
 0.0.0.0 awaitcola.com
+0.0.0.0 awaitssnerp.com
 0.0.0.0 awakebird.com
 0.0.0.0 awakeexterior.com
 0.0.0.0 awardpodstab.com
@@ -12471,6 +12484,7 @@
 0.0.0.0 bargainingpeacock.com
 0.0.0.0 bargainingrip.com
 0.0.0.0 barkodsolutions.com
+0.0.0.0 barnabaslinger.com
 0.0.0.0 baronmathematics.com
 0.0.0.0 baronskins.com
 0.0.0.0 barracagiordano.com
@@ -13663,6 +13677,7 @@
 0.0.0.0 c10ed2b8b417880.com
 0.0.0.0 c15fb199d1ea.com
 0.0.0.0 c1exchange.com
+0.0.0.0 c2280b9a3b4c.com
 0.0.0.0 c2path.com
 0.0.0.0 c3onlinemarketing.com
 0.0.0.0 c43a3cd8f99413891.com
@@ -13763,6 +13778,7 @@
 0.0.0.0 campaigntracking01.com
 0.0.0.0 campanja.com
 0.0.0.0 camperpolskasklep.com
+0.0.0.0 campjupiterjul.com
 0.0.0.0 camplacecash.com
 0.0.0.0 camprime.com
 0.0.0.0 camsitecash.com
@@ -14225,6 +14241,7 @@
 0.0.0.0 cheerfulrange.com
 0.0.0.0 cheerysequelhoax.com
 0.0.0.0 cheese-forest.com
+0.0.0.0 cheetieaha.com
 0.0.0.0 chefeladlevi.com
 0.0.0.0 chekaksam.com
 0.0.0.0 cheksoam.com
@@ -14265,6 +14282,7 @@
 0.0.0.0 chinitnam.com
 0.0.0.0 chinsnakes.com
 0.0.0.0 chinyeatoy.com
+0.0.0.0 chioneflake.com
 0.0.0.0 chip-skins.com
 0.0.0.0 chip2gift.com
 0.0.0.0 chipleader.com
@@ -14832,6 +14850,7 @@
 0.0.0.0 collection-day.com
 0.0.0.0 collective.com
 0.0.0.0 collective-media.com
+0.0.0.0 collectorearnammonia.com
 0.0.0.0 collectrom.com
 0.0.0.0 collectrum.com
 0.0.0.0 colliersads.com
@@ -15362,6 +15381,7 @@
 0.0.0.0 crocodilemounted.com
 0.0.0.0 crocopop.com
 0.0.0.0 crocspolandsklep.com
+0.0.0.0 crookedcareers.com
 0.0.0.0 crossingstatedsideway.com
 0.0.0.0 crossrider.com
 0.0.0.0 crowd1.com
@@ -16216,6 +16236,7 @@
 0.0.0.0 dieorhack.com
 0.0.0.0 dieuduong247.com
 0.0.0.0 differept.com
+0.0.0.0 difficultydilapidationsodium.com
 0.0.0.0 digadser.com
 0.0.0.0 digestiontub.com
 0.0.0.0 digi-net.com
@@ -17893,6 +17914,7 @@
 0.0.0.0 fast-route.com
 0.0.0.0 fastadvert.com
 0.0.0.0 fastclick.com
+0.0.0.0 fastcontentdelivery.com
 0.0.0.0 fastcounter.com
 0.0.0.0 fastdld.com
 0.0.0.0 fastdln.com
@@ -18024,6 +18046,7 @@
 0.0.0.0 fearlessmigrantstate.com
 0.0.0.0 fearpeaceoversight.com
 0.0.0.0 fearsomeclients.com
+0.0.0.0 feastoffortuna.com
 0.0.0.0 febadu.com
 0.0.0.0 febjroxjgzx.com
 0.0.0.0 fecebook.com
@@ -18073,11 +18096,13 @@
 0.0.0.0 festivaldelicious.com
 0.0.0.0 festivaleradicate.com
 0.0.0.0 festivalwalletmuggy.com
+0.0.0.0 festusthedrag.com
 0.0.0.0 fetchinstalmenttraffic.com
 0.0.0.0 fethungi.com
 0.0.0.0 feverhappyjack.com
 0.0.0.0 fevertube.com
 0.0.0.0 fewrfie.com
+0.0.0.0 ff3ac0a1c99.com
 0.0.0.0 ff5bd8d9f8df.com
 0.0.0.0 ffa-hosting.com
 0.0.0.0 ffhwzaenzoue.com
@@ -19412,6 +19437,7 @@
 0.0.0.0 gard4mass.com
 0.0.0.0 gardoult.com
 0.0.0.0 gardourd.com
+0.0.0.0 garglesoon.com
 0.0.0.0 garmincommexpress.com
 0.0.0.0 garminsmapupdate.com
 0.0.0.0 garristo.com
@@ -20098,6 +20124,7 @@
 0.0.0.0 gripvortex.com
 0.0.0.0 gritchuw.com
 0.0.0.0 groackam.com
+0.0.0.0 groinmonsieur.com
 0.0.0.0 groms-dat.com
 0.0.0.0 groomaffections.com
 0.0.0.0 grooptie.com
@@ -20554,6 +20581,7 @@
 0.0.0.0 hardyconflict.com
 0.0.0.0 hardydisplayedprawn.com
 0.0.0.0 haremwhipshook.com
+0.0.0.0 haribdathesea.com
 0.0.0.0 harlot-patrol.com
 0.0.0.0 harlsmums.com
 0.0.0.0 harm6stop.com
@@ -21174,6 +21202,7 @@
 0.0.0.0 hygromycin-b-50mg-ml-solution.com
 0.0.0.0 hyinlegvghul.com
 0.0.0.0 hyjxtz.com
+0.0.0.0 hynteroforion.com
 0.0.0.0 hypapa.com
 0.0.0.0 hyperlinksecure.com
 0.0.0.0 hypermall.com
@@ -21390,6 +21419,7 @@
 0.0.0.0 ilohfbiph.com
 0.0.0.0 iloopmobile.com
 0.0.0.0 ilovecheating.com
+0.0.0.0 ilovemakingpics.com
 0.0.0.0 ilovemobi.com
 0.0.0.0 ilrafrica.com
 0.0.0.0 ilusors.com
@@ -21540,6 +21570,7 @@
 0.0.0.0 inextricableaveragefourteenth.com
 0.0.0.0 inextricablescope.com
 0.0.0.0 inezsport.com
+0.0.0.0 infesthazardous.com
 0.0.0.0 infinite-ads.com
 0.0.0.0 infinite-hacks.com
 0.0.0.0 infiniteriotpoints.com
@@ -22191,6 +22222,7 @@
 0.0.0.0 jua05myfbe.com
 0.0.0.0 jubsouth.com
 0.0.0.0 judgementinvincible.com
+0.0.0.0 judjetheminos.com
 0.0.0.0 juggrounds.com
 0.0.0.0 juggsday.com
 0.0.0.0 juiceadv.com
@@ -22298,6 +22330,7 @@
 0.0.0.0 kataprius.com
 0.0.0.0 katecrochetvanity.com
 0.0.0.0 katia-paliotti.com
+0.0.0.0 katoptristhemirr.com
 0.0.0.0 katurars.com
 0.0.0.0 kaurroot.com
 0.0.0.0 kayakm.com
@@ -22527,6 +22560,7 @@
 0.0.0.0 krishnapowers.com
 0.0.0.0 krkursist.com
 0.0.0.0 kronosgo.com
+0.0.0.0 kronosspell.com
 0.0.0.0 krouekal.com
 0.0.0.0 ksado.com
 0.0.0.0 ksaikeerthi.com
@@ -22544,6 +22578,7 @@
 0.0.0.0 kuikdelivery.com
 0.0.0.0 kukury2hf8nd09.com
 0.0.0.0 kulkerbolda.com
+0.0.0.0 kuloffer.com
 0.0.0.0 kuludelo.com
 0.0.0.0 kumteerg.com
 0.0.0.0 kurier-paczka.com
@@ -23516,6 +23551,7 @@
 0.0.0.0 marketsource.com
 0.0.0.0 marketspace.com
 0.0.0.0 marketsurveys.com
+0.0.0.0 markofathenaluk.com
 0.0.0.0 markskernelrecorder.com
 0.0.0.0 marmotpolskas.com
 0.0.0.0 maroonspider.com
@@ -23746,6 +23782,7 @@
 0.0.0.0 medleyads.com
 0.0.0.0 medsearch007.com
 0.0.0.0 medtecchina.com
+0.0.0.0 medusasglance.com
 0.0.0.0 medyanetads.com
 0.0.0.0 medycyna-naturalna24.com
 0.0.0.0 meediabuy.com
@@ -25250,6 +25287,7 @@
 0.0.0.0 night-contactsstore1.com
 0.0.0.0 night-dirtydreams.com
 0.0.0.0 night-timedate.com
+0.0.0.0 nightfallinquiredune.com
 0.0.0.0 nightmareadministerwatch.com
 0.0.0.0 niholaev.com
 0.0.0.0 nikewarszawa.com
@@ -25928,6 +25966,7 @@
 0.0.0.0 orelnew.com
 0.0.0.0 oreware.com
 0.0.0.0 organic-harmony.com
+0.0.0.0 organicflametail.com
 0.0.0.0 organicmediasolution.com
 0.0.0.0 organogold.com
 0.0.0.0 orgdotcom.com
@@ -26028,6 +26067,7 @@
 0.0.0.0 ovhomes.com
 0.0.0.0 ovicase.com
 0.0.0.0 ovident.com
+0.0.0.0 oviparaatalan.com
 0.0.0.0 ovlliiwtxgjlz.com
 0.0.0.0 owbihynrz.com
 0.0.0.0 owebanalytics.com
@@ -26374,6 +26414,7 @@
 0.0.0.0 peethobo.com
 0.0.0.0 peeticadd.com
 0.0.0.0 peevopoy.com
+0.0.0.0 pegablackjal.com
 0.0.0.0 pegasoweb.com
 0.0.0.0 pegasuson.com
 0.0.0.0 pegasuswebco.com
@@ -26791,6 +26832,7 @@
 0.0.0.0 plusbatterypower.com
 0.0.0.0 plusbiznesu.com
 0.0.0.0 plusiidi.com
+0.0.0.0 plutothejewel.com
 0.0.0.0 plxtejszb.com
 0.0.0.0 plytanagrillapl.com
 0.0.0.0 plywoodenchant.com
@@ -27689,6 +27731,7 @@
 0.0.0.0 quinstreet.com
 0.0.0.0 quisma.com
 0.0.0.0 quitebrace.com
+0.0.0.0 quitelyhabitat.com
 0.0.0.0 quiveringminusterminal.com
 0.0.0.0 quizlookup.com
 0.0.0.0 quiztoolbox.com
@@ -28113,6 +28156,7 @@
 0.0.0.0 responsiveads.com
 0.0.0.0 restartad.com
 0.0.0.0 restaurantechezdaniel.com
+0.0.0.0 restisbench.com
 0.0.0.0 restlessringer.com
 0.0.0.0 restore-payp.com
 0.0.0.0 restore-pc.com
@@ -28700,6 +28744,7 @@
 0.0.0.0 scientiamobile.com
 0.0.0.0 scientifichoaxfutile.com
 0.0.0.0 scifimovies4u.com
+0.0.0.0 scillathemons.com
 0.0.0.0 scintillatingscissors.com
 0.0.0.0 scintillatingsilver.com
 0.0.0.0 scintillatingspace.com
@@ -30302,6 +30347,7 @@
 0.0.0.0 sugarcurtain.com
 0.0.0.0 sugh8yami.com
 0.0.0.0 sugoicounter.com
+0.0.0.0 suhalyxi.com
 0.0.0.0 suitsoon.com
 0.0.0.0 suivhub4.com
 0.0.0.0 suivhub5.com
@@ -31818,6 +31864,7 @@
 0.0.0.0 ufow9xfashbm.com
 0.0.0.0 ufpcdn.com
 0.0.0.0 ufuuwfdwsayls.com
+0.0.0.0 ufvyywlrgpgpyl.com
 0.0.0.0 ufwpwt.com
 0.0.0.0 ugdhsrhcq.com
 0.0.0.0 uggpl.com
@@ -32932,6 +32979,7 @@
 0.0.0.0 wincleaner.com
 0.0.0.0 wincleanerpro.com
 0.0.0.0 windcomtechnologies.com
+0.0.0.0 windofaeolus.com
 0.0.0.0 window1.com
 0.0.0.0 windowmentaria.com
 0.0.0.0 windows-afx-update.com
@@ -34081,6 +34129,7 @@
 0.0.0.0 zeroredirect8.com
 0.0.0.0 zeroredirect9.com
 0.0.0.0 zestawnaprawczy-do-wgniecen.com
+0.0.0.0 zetadeo.com
 0.0.0.0 zetamm.com
 0.0.0.0 zetatrk.com
 0.0.0.0 zetreview.com
@@ -47762,6 +47811,7 @@
 0.0.0.0 marketing.davidcbaker.com
 0.0.0.0 stats.davidlms.com
 0.0.0.0 tiglon.davidroessli.com
+0.0.0.0 get.davincisgold.com
 0.0.0.0 link.davison.com
 0.0.0.0 comunicaciones.davivienda.com
 0.0.0.0 secure.dawn3host.com
@@ -66225,6 +66275,7 @@
 0.0.0.0 oms.pappai.com
 0.0.0.0 omscoc.pappai.com
 0.0.0.0 sts.papyrs.com
+0.0.0.0 get.paradise8.com
 0.0.0.0 metrics.parallels.com
 0.0.0.0 registration.parallels.com
 0.0.0.0 update.parallels.com
@@ -74827,6 +74878,7 @@
 0.0.0.0 marketing.thisiscleveland.com
 0.0.0.0 ads.audio.thisisdax.com
 0.0.0.0 insights.thisisgrow.com
+0.0.0.0 get.thisisvegas.com
 0.0.0.0 email.thislife.com
 0.0.0.0 banners.thiswillshockyou.com
 0.0.0.0 swordtail.thocstock.com
@@ -87691,6 +87743,7 @@
 0.0.0.0 movbmog.ga
 0.0.0.0 oiuoiup-71.ga
 0.0.0.0 onerror.ga
+0.0.0.0 redirecionador.ga
 0.0.0.0 redlini.ga
 0.0.0.0 registrycertificates.ga
 0.0.0.0 selfieshop.ga
@@ -90248,6 +90301,7 @@
 0.0.0.0 pulsbifznonesu.info
 0.0.0.0 pulsbihzdnmnesu.info
 0.0.0.0 pwwghcyzsn.info
+0.0.0.0 q20jqurls0y7gk8.info
 0.0.0.0 qcontentdelivery.info
 0.0.0.0 rainbowisp.info
 0.0.0.0 ransparleddorob.info
@@ -98859,6 +98913,7 @@
 0.0.0.0 dsnr.net
 0.0.0.0 dt001.net
 0.0.0.0 dt07.net
+0.0.0.0 dualeotruyen.net
 0.0.0.0 duba.net
 0.0.0.0 duhochid.net
 0.0.0.0 dvaminusodin.net
@@ -100677,6 +100732,7 @@
 0.0.0.0 vod-box.net
 0.0.0.0 voipnewswire.net
 0.0.0.0 vongquaymienphi.net
+0.0.0.0 vooshagy.net
 0.0.0.0 vouhecem.net
 0.0.0.0 vounaipu.net
 0.0.0.0 vpn4test.net
@@ -105142,6 +105198,7 @@
 0.0.0.0 d3iz8haa18y3x4.cloudfront.net
 0.0.0.0 d3j1weegxvu8ns.cloudfront.net
 0.0.0.0 d3j3yrurxcqogk.cloudfront.net
+0.0.0.0 d3j7esvm4tntxq.cloudfront.net
 0.0.0.0 d3j9pc7yhichi7.cloudfront.net
 0.0.0.0 d3jcjsor8fnmka.cloudfront.net
 0.0.0.0 d3jdrqwt8yggac.cloudfront.net
@@ -127741,6 +127798,7 @@
 0.0.0.0 www.cotamsiestaloo.site
 0.0.0.0 www.cotusiedziejeludzie.site
 0.0.0.0 www.creamsoda-queen.site
+0.0.0.0 get.cryptobrowser.site
 0.0.0.0 www.czytanie.site
 0.0.0.0 www.decathlon-pl.site
 0.0.0.0 www.delivery-pl-olx.site
@@ -129455,6 +129513,7 @@
 0.0.0.0 doesok.top
 0.0.0.0 dokauzob.top
 0.0.0.0 dolodos.top
+0.0.0.0 domeleco.top
 0.0.0.0 dostawajaros.top
 0.0.0.0 dostawyjaros.top
 0.0.0.0 dquanticw.top
@@ -133735,6 +133794,7 @@
 0.0.0.0 adult.yellow-pages.ws
 0.0.0.0 www.zalukaj.ws
 0.0.0.0 api.zanox.ws
+0.0.0.0 adsrv.wtf
 0.0.0.0 dsp.wtf
 0.0.0.0 pushup.wtf
 0.0.0.0 upload2.bbox.wtf
