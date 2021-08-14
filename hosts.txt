@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Full)
-# Date: 06:01 AM Friday 13 August 2021
+# Date: 06:01 AM Saturday 14 August 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.txt
@@ -1985,6 +1985,7 @@
 0.0.0.0 gameison.biz
 0.0.0.0 geturbobit.biz
 0.0.0.0 glassgrip.biz
+0.0.0.0 gmediarelati.biz
 0.0.0.0 go.biz
 0.0.0.0 go8news.biz
 0.0.0.0 greenrecru.biz
@@ -2102,6 +2103,7 @@
 0.0.0.0 olx-paycore.biz
 0.0.0.0 omedcam.biz
 0.0.0.0 omgfiles.biz
+0.0.0.0 onsandam.biz
 0.0.0.0 order-safe.biz
 0.0.0.0 order-secure.biz
 0.0.0.0 orkonavariet.biz
@@ -8854,6 +8856,7 @@
 0.0.0.0 032439.com
 0.0.0.0 039ad0897e6da.com
 0.0.0.0 03ed9035a0801f.com
+0.0.0.0 041400ad701.com
 0.0.0.0 048d36793b8.com
 0.0.0.0 050y9lhe8p.com
 0.0.0.0 059e025e7484.com
@@ -10052,6 +10055,7 @@
 0.0.0.0 account-identifiant.com
 0.0.0.0 accountgiveaway.com
 0.0.0.0 accounthackers.com
+0.0.0.0 accusationloop.com
 0.0.0.0 accuserveadsystem.com
 0.0.0.0 acdcdn.com
 0.0.0.0 acdgte.com
@@ -10118,6 +10122,7 @@
 0.0.0.0 activeboard.com
 0.0.0.0 activebuddy.com
 0.0.0.0 activehacks.com
+0.0.0.0 activeoffbracelet.com
 0.0.0.0 activesecurityshield.com
 0.0.0.0 activexmediaobject.com
 0.0.0.0 activexupdate.com
@@ -12239,6 +12244,7 @@
 0.0.0.0 axiomaticalley.com
 0.0.0.0 axonix.com
 0.0.0.0 axsrv.com
+0.0.0.0 ayahtyros.com
 0.0.0.0 ayalapma.com
 0.0.0.0 aylarl.com
 0.0.0.0 aynachatsrv.com
@@ -12469,6 +12475,7 @@
 0.0.0.0 banstex.com
 0.0.0.0 banstockseldest.com
 0.0.0.0 bantgoau.com
+0.0.0.0 banusatoday.com
 0.0.0.0 banvar.com
 0.0.0.0 baptismwitnesseddisobedience.com
 0.0.0.0 baqcpdctexlwgp.com
@@ -12806,6 +12813,7 @@
 0.0.0.0 betjeyxf.com
 0.0.0.0 betokendolous.com
 0.0.0.0 betonpolite.com
+0.0.0.0 betotodilea.com
 0.0.0.0 betpromo247.com
 0.0.0.0 betrad.com
 0.0.0.0 betrayedgeoffrey.com
@@ -14983,6 +14991,7 @@
 0.0.0.0 conflictwhatcrew.com
 0.0.0.0 confoundcoinghosts.com
 0.0.0.0 confrontationproximity.com
+0.0.0.0 congestdiscreditwithdrew.com
 0.0.0.0 congestit.com
 0.0.0.0 congressaffrayghosts.com
 0.0.0.0 coniomi.com
@@ -15256,6 +15265,7 @@
 0.0.0.0 cqcounter.com
 0.0.0.0 cqlupb.com
 0.0.0.0 cqsdjxf.com
+0.0.0.0 cqxgtafgnc.com
 0.0.0.0 cqyirsc.com
 0.0.0.0 cr-toptom.com
 0.0.0.0 crabbychin.com
@@ -16096,6 +16106,7 @@
 0.0.0.0 delshikandco.com
 0.0.0.0 delta-promotion-usa.com
 0.0.0.0 deltago.com
+0.0.0.0 deltoidviragin.com
 0.0.0.0 deludesobbingdeliberately.com
 0.0.0.0 deluxecheat.com
 0.0.0.0 deluxesave.com
@@ -17087,6 +17098,7 @@
 0.0.0.0 ef867a1be4f83922.com
 0.0.0.0 efd3b86a5fbddda.com
 0.0.0.0 efeatasoy.com
+0.0.0.0 effacerevealing.com
 0.0.0.0 effectivebrand.com
 0.0.0.0 effectivedisplayformat.com
 0.0.0.0 effectivemeasure.com
@@ -18077,6 +18089,7 @@
 0.0.0.0 fejezet.com
 0.0.0.0 fejla.com
 0.0.0.0 felicitysupermarketmounted.com
+0.0.0.0 felinessynonym.com
 0.0.0.0 feljack.com
 0.0.0.0 femeedia.com
 0.0.0.0 femininefurrow.com
@@ -18631,6 +18644,7 @@
 0.0.0.0 foxhax.com
 0.0.0.0 foxrevenue.com
 0.0.0.0 foxypp.com
+0.0.0.0 foyvizvujsor.com
 0.0.0.0 fpcclicks.com
 0.0.0.0 fpctraffic.com
 0.0.0.0 fpctraffic2.com
@@ -19745,9 +19759,11 @@
 0.0.0.0 gladiatorbugs.com
 0.0.0.0 gladiol9us10.com
 0.0.0.0 glam.com
+0.0.0.0 glamourgreek.com
 0.0.0.0 glandtest.com
 0.0.0.0 glareart.com
 0.0.0.0 glaresling.com
+0.0.0.0 glasselderly.com
 0.0.0.0 glassmilheart.com
 0.0.0.0 glasswoollen.com
 0.0.0.0 glauvoob.com
@@ -20672,6 +20688,7 @@
 0.0.0.0 hearme.com
 0.0.0.0 hearstnp.com
 0.0.0.0 heartbrokendilapidation.com
+0.0.0.0 heartbrokenscallion.com
 0.0.0.0 hearthcoronation.com
 0.0.0.0 hearthstone-beta.com
 0.0.0.0 hearthstone-beta-key.com
@@ -21731,6 +21748,7 @@
 0.0.0.0 intendalinetang.com
 0.0.0.0 intendspatteremerald.com
 0.0.0.0 intentanalysis.com
+0.0.0.0 intentlyrecreate.com
 0.0.0.0 inter-trading-service.com
 0.0.0.0 inter1ads.com
 0.0.0.0 intera-x.com
@@ -21958,6 +21976,7 @@
 0.0.0.0 itunesgenerator.com
 0.0.0.0 itunesgiftcardsgenerator.com
 0.0.0.0 itunesvouchergiveaway.com
+0.0.0.0 itweepinbelltor.com
 0.0.0.0 itwititer.com
 0.0.0.0 iulianus-mon.com
 0.0.0.0 iunlockiphone5hq.com
@@ -22036,6 +22055,7 @@
 0.0.0.0 jatxt.com
 0.0.0.0 jatywana.com
 0.0.0.0 jaugloup.com
+0.0.0.0 jaumevie.com
 0.0.0.0 javascriptobfuscator.com
 0.0.0.0 jawsfixture.com
 0.0.0.0 jaxxenpro.com
@@ -23008,6 +23028,7 @@
 0.0.0.0 litebackup.com
 0.0.0.0 litec-fr.com
 0.0.0.0 litefreedom.com
+0.0.0.0 literallythreatengloves.com
 0.0.0.0 litiumo.com
 0.0.0.0 litocen.com
 0.0.0.0 litoren.com
@@ -23523,6 +23544,7 @@
 0.0.0.0 markedcrayon.com
 0.0.0.0 markedpail.com
 0.0.0.0 markergot.com
+0.0.0.0 markerviascales.com
 0.0.0.0 market-buster.com
 0.0.0.0 marketaff.com
 0.0.0.0 marketbanker.com
@@ -23560,6 +23582,7 @@
 0.0.0.0 marshydespotdestroyer.com
 0.0.0.0 marshyviolin.com
 0.0.0.0 marsofficials.com
+0.0.0.0 marspearelct.com
 0.0.0.0 martenswyprzedaz.com
 0.0.0.0 martiniadnetwork.com
 0.0.0.0 marvel-avengers-alliance-hacks.com
@@ -24278,6 +24301,7 @@
 0.0.0.0 mollyperpetualpimple.com
 0.0.0.0 moltensuchos.com
 0.0.0.0 momdanwillingness.com
+0.0.0.0 momentexperimentsqueen.com
 0.0.0.0 momentumviable.com
 0.0.0.0 momoxxio.com
 0.0.0.0 mon-com-01.com
@@ -24530,6 +24554,7 @@
 0.0.0.0 muchotrust.com
 0.0.0.0 mudfall.com
 0.0.0.0 muffinyourself.com
+0.0.0.0 muffledgleeful.com
 0.0.0.0 mugaskems.com
 0.0.0.0 mugleafly.com
 0.0.0.0 mugpothop.com
@@ -24974,6 +24999,7 @@
 0.0.0.0 nativewpsh.com
 0.0.0.0 naturahirek.com
 0.0.0.0 naturainmente.com
+0.0.0.0 naturalbid.com
 0.0.0.0 naughtyadserve.com
 0.0.0.0 naughtybuddyswoop.com
 0.0.0.0 navaltophes.com
@@ -25040,6 +25066,7 @@
 0.0.0.0 neesupee.com
 0.0.0.0 neevateb.com
 0.0.0.0 neewoapi.com
+0.0.0.0 negativescarcelyrooms.com
 0.0.0.0 negolist.com
 0.0.0.0 negyuk.com
 0.0.0.0 neictryziiogg.com
@@ -25536,6 +25563,7 @@
 0.0.0.0 oagnatch.com
 0.0.0.0 oampitsa.com
 0.0.0.0 oamtrk.com
+0.0.0.0 oaphawhi.com
 0.0.0.0 oaqjwapqdho.com
 0.0.0.0 oardilin.com
 0.0.0.0 oarvfvntktnoto.com
@@ -26202,6 +26230,7 @@
 0.0.0.0 pailridarm.com
 0.0.0.0 paime.com
 0.0.0.0 painfullyneattide.com
+0.0.0.0 painmidsummer.com
 0.0.0.0 painsko.com
 0.0.0.0 paintavoidwitty.com
 0.0.0.0 pakcircles.com
@@ -26462,6 +26491,7 @@
 0.0.0.0 perfect-hottiest1.com
 0.0.0.0 perfectaudience.com
 0.0.0.0 perfectfreedomcut.com
+0.0.0.0 perfectplanned.com
 0.0.0.0 perfiliate.com
 0.0.0.0 performanceadexchange.com
 0.0.0.0 performancehorizon.com
@@ -26584,6 +26614,7 @@
 0.0.0.0 photographiccreche.com
 0.0.0.0 photographpan.com
 0.0.0.0 photos-ic.com
+0.0.0.0 phoviheca.com
 0.0.0.0 phpancake.com
 0.0.0.0 phpbbex.com
 0.0.0.0 phsism.com
@@ -27123,6 +27154,7 @@
 0.0.0.0 preparedjuxtapose.com
 0.0.0.0 preparedtennismissionary.com
 0.0.0.0 preparesecretary.com
+0.0.0.0 prepayproceedingsground.com
 0.0.0.0 prepenseprepensecubicoperating.com
 0.0.0.0 prepenseprepensedefiance.com
 0.0.0.0 present4free.com
@@ -27223,6 +27255,7 @@
 0.0.0.0 professhave.com
 0.0.0.0 professionallycloudlessbarber.com
 0.0.0.0 proffigurufast.com
+0.0.0.0 profi-para.com
 0.0.0.0 proficientinflectionaluminium.com
 0.0.0.0 profilesterility.com
 0.0.0.0 profitablecpmnetwork.com
@@ -28262,6 +28295,7 @@
 0.0.0.0 riddexpl1.com
 0.0.0.0 ridedownloads.com
 0.0.0.0 ridepush.com
+0.0.0.0 riderfabric.com
 0.0.0.0 ridethesisfrankly.com
 0.0.0.0 ridferbad.com
 0.0.0.0 ridgesledge.com
@@ -29551,6 +29585,7 @@
 0.0.0.0 slipperyextremelyvast.com
 0.0.0.0 slipperysack.com
 0.0.0.0 sloeri.com
+0.0.0.0 sloganmiser.com
 0.0.0.0 sloi1.com
 0.0.0.0 slomcomnty.com
 0.0.0.0 slomgvyfd.com
@@ -29742,6 +29777,7 @@
 0.0.0.0 solitudepeeves.com
 0.0.0.0 solny-inhalator-pl.com
 0.0.0.0 solocpm.com
+0.0.0.0 soloistbailedboyfriend.com
 0.0.0.0 soloistforcefulvarious.com
 0.0.0.0 sololockscoin.com
 0.0.0.0 solucoesead.com
@@ -29971,7 +30007,9 @@
 0.0.0.0 sqpgncbm.com
 0.0.0.0 squallcircuit.com
 0.0.0.0 squawcubesfry.com
+0.0.0.0 squeezedobscene.com
 0.0.0.0 squeezedthoughtfully.com
+0.0.0.0 squeezemicrowave.com
 0.0.0.0 squirrelhands.com
 0.0.0.0 squirrelhissedintake.com
 0.0.0.0 srigbxxv.com
@@ -30184,6 +30222,7 @@
 0.0.0.0 stepmotherillegaldepressing.com
 0.0.0.0 stepnation.com
 0.0.0.0 stepplane.com
+0.0.0.0 steroidparentconstruct.com
 0.0.0.0 steroidtypesconviction.com
 0.0.0.0 stevemadenpolska.com
 0.0.0.0 stewlinedull.com
@@ -30416,6 +30455,7 @@
 0.0.0.0 support-ip.com
 0.0.0.0 support-win1230.com
 0.0.0.0 supportiveimpassableevasion.com
+0.0.0.0 supportstew.com
 0.0.0.0 supragame.com
 0.0.0.0 supremeadserver.com
 0.0.0.0 supremeadsonline.com
@@ -31858,6 +31898,7 @@
 0.0.0.0 ueuerea.com
 0.0.0.0 ueuodgnrhb.com
 0.0.0.0 ufc-streams.com
+0.0.0.0 ufeaqyzn.com
 0.0.0.0 ufinkln.com
 0.0.0.0 ufmmtncv.com
 0.0.0.0 ufoukolt.com
@@ -31943,6 +31984,7 @@
 0.0.0.0 unableincludingrow.com
 0.0.0.0 unacceptableclevercapable.com
 0.0.0.0 unarmedindustry.com
+0.0.0.0 unattractivefrigilityfrigility.com
 0.0.0.0 unclebillswv.com
 0.0.0.0 unclechunk.com
 0.0.0.0 unclemaidenprecise.com
@@ -32900,6 +32942,7 @@
 0.0.0.0 whereapps.com
 0.0.0.0 whereascredentialsurmise.com
 0.0.0.0 whereasplaid.com
+0.0.0.0 whexamipta.com
 0.0.0.0 whiceega.com
 0.0.0.0 whimsoplynx.com
 0.0.0.0 whippedfreezerbegun.com
@@ -33297,6 +33340,7 @@
 0.0.0.0 xadcentral.com
 0.0.0.0 xadsmart.com
 0.0.0.0 xamak10.com
+0.0.0.0 xamaptapsu.com
 0.0.0.0 xameleonads.com
 0.0.0.0 xandygiveaway.com
 0.0.0.0 xapads.com
@@ -34189,6 +34233,7 @@
 0.0.0.0 zmedia.com
 0.0.0.0 zmnkduay.com
 0.0.0.0 zmskins.com
+0.0.0.0 zmuphhlienv.com
 0.0.0.0 zmxncb5.com
 0.0.0.0 znaptag.com
 0.0.0.0 znznrccyrcr.com
@@ -56429,6 +56474,7 @@
 0.0.0.0 uaid-linkage.imrworldwide.com
 0.0.0.0 www.imrworldwide.com
 0.0.0.0 euwidget.imshopping.com
+0.0.0.0 widget.imshopping.com
 0.0.0.0 metrics.imvu.com
 0.0.0.0 x.imwx.com
 0.0.0.0 go.in-situ.com
@@ -71224,6 +71270,7 @@
 0.0.0.0 omniture.shopstyle.com
 0.0.0.0 qllxvh.shopstyle.com
 0.0.0.0 tracking.shopstyle.com
+0.0.0.0 widget.shopstyle.com
 0.0.0.0 www.shoptosaveenergy.com
 0.0.0.0 smetrics.shoptruespirit.com
 0.0.0.0 ablink.help.shopwell.com
@@ -87570,6 +87617,7 @@
 0.0.0.0 odbierz.fun
 0.0.0.0 oesfriences.fun
 0.0.0.0 oisugfoiwuhowe.fun
+0.0.0.0 olourseskit.fun
 0.0.0.0 olxpln.fun
 0.0.0.0 omisingcur.fun
 0.0.0.0 onarydarlie.fun
@@ -87610,6 +87658,7 @@
 0.0.0.0 ssionsupre.fun
 0.0.0.0 stainless.fun
 0.0.0.0 standnizati.fun
+0.0.0.0 teestuarted.fun
 0.0.0.0 tegiccurlish.fun
 0.0.0.0 teratedent.fun
 0.0.0.0 termin-odbioru.fun
@@ -99736,6 +99785,7 @@
 0.0.0.0 mediawhirl.net
 0.0.0.0 medical-aid.net
 0.0.0.0 meehaina.net
+0.0.0.0 meephais.net
 0.0.0.0 meerihoh.net
 0.0.0.0 meetrics.net
 0.0.0.0 meezauch.net
@@ -100380,6 +100430,7 @@
 0.0.0.0 sharezips.net
 0.0.0.0 shark-case.net
 0.0.0.0 sharkcase.net
+0.0.0.0 shaujoxu.net
 0.0.0.0 shauthou.net
 0.0.0.0 sheenaup.net
 0.0.0.0 shepeekr.net
@@ -133870,6 +133921,7 @@
 0.0.0.0 anynewdomain.xyz
 0.0.0.0 aplcolutions.xyz
 0.0.0.0 apps-cloud.xyz
+0.0.0.0 aprick.xyz
 0.0.0.0 archivendrons.xyz
 0.0.0.0 aresboot.xyz
 0.0.0.0 arnt.xyz
@@ -134303,6 +134355,7 @@
 0.0.0.0 odbieram.xyz
 0.0.0.0 odbieram24.xyz
 0.0.0.0 odblerz-przesyike.xyz
+0.0.0.0 oetn.xyz
 0.0.0.0 oferta000123.xyz
 0.0.0.0 oferta000657.xyz
 0.0.0.0 oferta020202.xyz

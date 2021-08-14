@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:01 AM Friday 13 August 2021
+# Date: 06:01 AM Saturday 14 August 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -8989,6 +8989,7 @@
 0.0.0.0 server-za.imrworldwide.com
 0.0.0.0 survey1-au.imrworldwide.com
 0.0.0.0 www.imrworldwide.com
+0.0.0.0 widget.imshopping.com
 0.0.0.0 ads.inagist.com
 0.0.0.0 www.download.inboxace.com
 0.0.0.0 www.incentive-scene.com
