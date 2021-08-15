@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Alive)
-# Date: 06:01 AM Saturday 14 August 2021
+# Date: 06:01 AM Sunday 15 August 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.alive.txt
@@ -1752,6 +1752,7 @@
 0.0.0.0 ero-advertising.biz
 0.0.0.0 eroadvertising.biz
 0.0.0.0 etheopportu.biz
+0.0.0.0 excitedyou.biz
 0.0.0.0 feernews.biz
 0.0.0.0 freegayporn.biz
 0.0.0.0 freehacks.biz
@@ -1890,6 +1891,7 @@
 0.0.0.0 resvgeeid.biz
 0.0.0.0 reversed.biz
 0.0.0.0 riencesco.biz
+0.0.0.0 rinterestinb.biz
 0.0.0.0 riousstylegui.biz
 0.0.0.0 ro2.biz
 0.0.0.0 roia.biz
@@ -10590,6 +10592,7 @@
 0.0.0.0 bravelywade.com
 0.0.0.0 bravenet.com
 0.0.0.0 bravospots.com
+0.0.0.0 brayerspenta.com
 0.0.0.0 brazendistil.com
 0.0.0.0 brazenserialsociety.com
 0.0.0.0 brdmin.com
@@ -12604,6 +12607,7 @@
 0.0.0.0 danangluxury.com
 0.0.0.0 danban.com
 0.0.0.0 dancemistake.com
+0.0.0.0 dandelionbypasstestimony.com
 0.0.0.0 dangerinsignificantinvent.com
 0.0.0.0 dangerprickly.com
 0.0.0.0 danmeneldur.com
@@ -13225,6 +13229,7 @@
 0.0.0.0 doomna.com
 0.0.0.0 doorgen.com
 0.0.0.0 doormanb.com
+0.0.0.0 dopansearor.com
 0.0.0.0 dopoczdh.com
 0.0.0.0 dorimnews.com
 0.0.0.0 dormyawape.com
@@ -13526,6 +13531,7 @@
 0.0.0.0 e7e776c1a8bf677.com
 0.0.0.0 e85440ec98f04725.com
 0.0.0.0 e94a941778d.com
+0.0.0.0 e9590c90a8.com
 0.0.0.0 e9976b21f1b2775b.com
 0.0.0.0 e9c1khhwn4uf.com
 0.0.0.0 e9d1f13c08d.com
@@ -17065,6 +17071,7 @@
 0.0.0.0 ijsprocode.com
 0.0.0.0 ijwtkojhc.com
 0.0.0.0 ikakiti.com
+0.0.0.0 ikcyxcbqmoptk.com
 0.0.0.0 ikizhavuz.com
 0.0.0.0 ikohs.com
 0.0.0.0 ikunselt.com
@@ -20653,6 +20660,7 @@
 0.0.0.0 ob1trk.com
 0.0.0.0 obadatrendy.com
 0.0.0.0 obahet.com
+0.0.0.0 obashwmzrfofi.com
 0.0.0.0 obaukads.com
 0.0.0.0 obeysatman.com
 0.0.0.0 obeyter.com
@@ -20738,6 +20746,7 @@
 0.0.0.0 ogaqgazu.com
 0.0.0.0 ogicatius.com
 0.0.0.0 ognybevu.com
+0.0.0.0 ogqcuudzsuukds.com
 0.0.0.0 ograuwih.com
 0.0.0.0 ogrodek150.com
 0.0.0.0 ogskle.com
@@ -21864,6 +21873,7 @@
 0.0.0.0 pophahwot.com
 0.0.0.0 popinads.com
 0.0.0.0 poplarmakessouls.com
+0.0.0.0 popmog.com
 0.0.0.0 popmyads.com
 0.0.0.0 popmycash.com
 0.0.0.0 poponclick.com
@@ -21962,6 +21972,7 @@
 0.0.0.0 praceline.com
 0.0.0.0 practicableperiodicabrupt.com
 0.0.0.0 practisecolander.com
+0.0.0.0 praiserevision.com
 0.0.0.0 praleczki.com
 0.0.0.0 prankmechanics.com
 0.0.0.0 praterswhally.com
@@ -22124,6 +22135,7 @@
 0.0.0.0 profitsitesbiz.com
 0.0.0.0 profitzone.com
 0.0.0.0 prognosiscontradictbody.com
+0.0.0.0 prognosisshallowpliant.com
 0.0.0.0 programattik.com
 0.0.0.0 programminghonourable.com
 0.0.0.0 projectagoralibs.com
@@ -22437,6 +22449,7 @@
 0.0.0.0 qfolkbbij.com
 0.0.0.0 qfszmlxypcqqyb.com
 0.0.0.0 qfwjclpckrdehi.com
+0.0.0.0 qfzcwlvmhjgjmi.com
 0.0.0.0 qgamsa.com
 0.0.0.0 qgevavwyafjf.com
 0.0.0.0 qggypucwewn.com
@@ -22918,6 +22931,7 @@
 0.0.0.0 resonantbrush.com
 0.0.0.0 resonate.com
 0.0.0.0 resource-marketing.com
+0.0.0.0 respectfulcoal.com
 0.0.0.0 respirationcafeincomparable.com
 0.0.0.0 respirationghastly.com
 0.0.0.0 respiratorhair.com
@@ -24959,6 +24973,7 @@
 0.0.0.0 syndicpop.com
 0.0.0.0 syndopop.com
 0.0.0.0 synoviz.com
+0.0.0.0 synsads.com
 0.0.0.0 synthesissocietysplitting.com
 0.0.0.0 syrsple2se8nyu09.com
 0.0.0.0 syrupmagical.com
@@ -25989,6 +26004,7 @@
 0.0.0.0 turn.com
 0.0.0.0 turnstilerecruit.com
 0.0.0.0 turtlesootheongoing.com
+0.0.0.0 tushihymi.com
 0.0.0.0 tutvp.com
 0.0.0.0 tuxbpnne.com
 0.0.0.0 tuyennvtb.com
@@ -27240,6 +27256,7 @@
 0.0.0.0 worldoftankscheats.com
 0.0.0.0 worldprofitassociates.com
 0.0.0.0 worldsoftwaredownloads.com
+0.0.0.0 worldspromising.com
 0.0.0.0 worldtus.com
 0.0.0.0 worldwid-livedates.com
 0.0.0.0 worldwidedigitalads.com
@@ -37370,6 +37387,7 @@
 0.0.0.0 c.cliop.com
 0.0.0.0 www.cliop.com
 0.0.0.0 news.clipcanvas.com
+0.0.0.0 ad.clipcentric.com
 0.0.0.0 creatives.cliphunter.com
 0.0.0.0 geo.cliphunter.com
 0.0.0.0 h.cliphunter.com
@@ -40805,6 +40823,7 @@
 0.0.0.0 banners.dogfart.com
 0.0.0.0 a.doginhispen.com
 0.0.0.0 ad.dogpile.com
+0.0.0.0 partners.dogtime.com
 0.0.0.0 info.doigcorp.com
 0.0.0.0 www.dolanadserver.com
 0.0.0.0 go.dolby.com
@@ -55377,6 +55396,7 @@
 0.0.0.0 www.oddcast.com
 0.0.0.0 ads.oddschecker.com
 0.0.0.0 adserver.oddschecker.com
+0.0.0.0 widgets.oddschecker.com
 0.0.0.0 m.oem-cosmetic.com
 0.0.0.0 www.oemtop.com
 0.0.0.0 smetrics.oerproject.com
@@ -61174,6 +61194,7 @@
 0.0.0.0 go.smarterhq.com
 0.0.0.0 www2.smarterp.com
 0.0.0.0 www2.smartersecurity.com
+0.0.0.0 p.smartertravel.com
 0.0.0.0 sstats.smartertravel.com
 0.0.0.0 stats.smartertravel.com
 0.0.0.0 ads.smartfeedads.com
@@ -68453,6 +68474,7 @@
 0.0.0.0 www.wqmobile.com
 0.0.0.0 createwith.wrapbook.com
 0.0.0.0 www.wrightsmedia.com
+0.0.0.0 partners.wrike.com
 0.0.0.0 metrics.writersdigest.com
 0.0.0.0 www.writingassociates.com
 0.0.0.0 track.written.com
@@ -75244,6 +75266,7 @@
 0.0.0.0 banners.aris.ge
 0.0.0.0 links.boom.ge
 0.0.0.0 counter.top.ge
+0.0.0.0 azury.gg
 0.0.0.0 clean.gg
 0.0.0.0 pinion.gg
 0.0.0.0 pog.gg
@@ -77896,6 +77919,7 @@
 0.0.0.0 segmetrics.io
 0.0.0.0 simpleanalytics.io
 0.0.0.0 siteimproveanalytics.io
+0.0.0.0 sjpf.io
 0.0.0.0 skull-bets.io
 0.0.0.0 smart-traffik.io
 0.0.0.0 solarinvest.io
@@ -84748,6 +84772,7 @@
 0.0.0.0 pheedroh.net
 0.0.0.0 pheeghie.net
 0.0.0.0 pheepudo.net
+0.0.0.0 pheselta.net
 0.0.0.0 phicmune.net
 0.0.0.0 phoakrun.net
 0.0.0.0 phoaptee.net
@@ -85357,6 +85382,7 @@
 0.0.0.0 zisboombah.net
 0.0.0.0 ziyu.net
 0.0.0.0 zoagremo.net
+0.0.0.0 zoatoaps.net
 0.0.0.0 zoomfiles.net
 0.0.0.0 zouloafi.net
 0.0.0.0 zqtk.net
@@ -88574,6 +88600,7 @@
 0.0.0.0 d1w24oanovvxvg.cloudfront.net
 0.0.0.0 d1w370c0uot9pi.cloudfront.net
 0.0.0.0 d1w6zsw52mj5bj.cloudfront.net
+0.0.0.0 d1wa9546y9kg0n.cloudfront.net
 0.0.0.0 d1wce1bf5st3y6.cloudfront.net
 0.0.0.0 d1wi563t0137vz.cloudfront.net
 0.0.0.0 d1wirc5qsdb1y5.cloudfront.net
@@ -89294,6 +89321,7 @@
 0.0.0.0 d3r7h55ola878c.cloudfront.net
 0.0.0.0 d3rc53fczynhf3.cloudfront.net
 0.0.0.0 d3rmnwi2tssrfx.cloudfront.net
+0.0.0.0 d3rp5jatom3eyn.cloudfront.net
 0.0.0.0 d3rxqouo2bn71j.cloudfront.net
 0.0.0.0 d3rzloh6xv2xem.cloudfront.net
 0.0.0.0 d3s7ggfq1s6jlj.cloudfront.net
@@ -89413,6 +89441,7 @@
 0.0.0.0 dbd8zrlvot44b.cloudfront.net
 0.0.0.0 dbsi2ch5zzf08.cloudfront.net
 0.0.0.0 dbwdjzfb0dnja.cloudfront.net
+0.0.0.0 dc08i221b0n8a.cloudfront.net
 0.0.0.0 dc2wqs1oczvw2.cloudfront.net
 0.0.0.0 dc5k8fg5ioc8s.cloudfront.net
 0.0.0.0 dc5zdxob07xpk.cloudfront.net
@@ -89475,6 +89504,7 @@
 0.0.0.0 djiwx3msxvyqd.cloudfront.net
 0.0.0.0 djlf5xdlz7m8m.cloudfront.net
 0.0.0.0 djm080u34wfc5.cloudfront.net
+0.0.0.0 djnaivalj34ub.cloudfront.net
 0.0.0.0 djr4k68f8n55o.cloudfront.net
 0.0.0.0 djv99sxoqpv11.cloudfront.net
 0.0.0.0 djyhg855qj5k8.cloudfront.net
@@ -98349,6 +98379,7 @@
 0.0.0.0 www.scienceaaas.org
 0.0.0.0 metric.sciencemag.org
 0.0.0.0 metrics.sciencemag.org
+0.0.0.0 stats.screenresolution.org
 0.0.0.0 www.secdelivery.org
 0.0.0.0 www.securesignupoffers.org
 0.0.0.0 madas-ads.securest.org
@@ -108671,6 +108702,7 @@
 0.0.0.0 cennik-paczkl.space
 0.0.0.0 cennik-przesyllki.space
 0.0.0.0 chardsreme.space
+0.0.0.0 clotherinde.space
 0.0.0.0 councingcan.space
 0.0.0.0 cryptohouse.space
 0.0.0.0 datingnearby.space
@@ -109126,6 +109158,7 @@
 0.0.0.0 people-group.su
 0.0.0.0 rjefnpvdxrxgmnd.su
 0.0.0.0 safe-deliverry.su
+0.0.0.0 salebestever.su
 0.0.0.0 saleprice.su
 0.0.0.0 secure-safety.su
 0.0.0.0 shoptrustup.su
@@ -110710,6 +110743,7 @@
 0.0.0.0 a.autoexpress.co.uk
 0.0.0.0 metrics.autotrader.co.uk
 0.0.0.0 oas.autotrader.co.uk
+0.0.0.0 partners.autotrader.co.uk
 0.0.0.0 secureanalytics.avis.co.uk
 0.0.0.0 smetrics.aviva.co.uk
 0.0.0.0 metrics.babycentre.co.uk
@@ -113290,6 +113324,7 @@
 0.0.0.0 firstgame.xyz
 0.0.0.0 floraltaperiez.xyz
 0.0.0.0 flowwiththetide.xyz
+0.0.0.0 fluffer.xyz
 0.0.0.0 fmax.xyz
 0.0.0.0 fracs.xyz
 0.0.0.0 frapko.xyz
@@ -113348,6 +113383,7 @@
 0.0.0.0 gorkov.xyz
 0.0.0.0 grandesalmacenesenlineas.xyz
 0.0.0.0 grandfathertriangle.xyz
+0.0.0.0 greky.xyz
 0.0.0.0 grools.xyz
 0.0.0.0 gtrd.xyz
 0.0.0.0 hackforyou.xyz
