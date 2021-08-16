@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Full)
-# Date: 06:01 AM Sunday 15 August 2021
+# Date: 06:03 AM Monday 16 August 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.txt
@@ -1972,6 +1972,7 @@
 0.0.0.0 ermitteedi.biz
 0.0.0.0 ero-advertising.biz
 0.0.0.0 eroadvertising.biz
+0.0.0.0 eschoolchil.biz
 0.0.0.0 etheopportu.biz
 0.0.0.0 excitedyou.biz
 0.0.0.0 facebookhack.biz
@@ -5779,6 +5780,7 @@
 0.0.0.0 b.xyzgame.cc
 0.0.0.0 www.z0o.cc
 0.0.0.0 www.zalukaj.cc
+0.0.0.0 track.mp4.center
 0.0.0.0 asedlescige.cf
 0.0.0.0 buzzlace.cf
 0.0.0.0 cfasync.cf
@@ -9319,6 +9321,7 @@
 0.0.0.0 39dvd-999.com
 0.0.0.0 3a8c9b0ca405b5.com
 0.0.0.0 3ab171502b3.com
+0.0.0.0 3abfd3be7e.com
 0.0.0.0 3ac901bf5793b0fccff.com
 0.0.0.0 3angelsvideo.com
 0.0.0.0 3animalsex.com
@@ -12292,6 +12295,7 @@
 0.0.0.0 b2e92952aa6.com
 0.0.0.0 b2rhospitality.com
 0.0.0.0 b34rightym.com
+0.0.0.0 b39a23891510.com
 0.0.0.0 b3d.com
 0.0.0.0 b3ff2cfeb6f49e.com
 0.0.0.0 b3stcond1tions.com
@@ -12795,6 +12799,7 @@
 0.0.0.0 bestvirusremover2008.com
 0.0.0.0 bestwarezone.com
 0.0.0.0 bestwarezsites.com
+0.0.0.0 bestwebpillplace.com
 0.0.0.0 bestwifihacker.com
 0.0.0.0 bestwinexperience.com
 0.0.0.0 bestxxxclubforhookup3.com
@@ -13692,6 +13697,7 @@
 0.0.0.0 c2path.com
 0.0.0.0 c3onlinemarketing.com
 0.0.0.0 c43a3cd8f99413891.com
+0.0.0.0 c43dc32a8c0.com
 0.0.0.0 c4dl.com
 0.0.0.0 c4tracking01.com
 0.0.0.0 c50021876c67fd14.com
@@ -14129,6 +14135,7 @@
 0.0.0.0 chargeplatform.com
 0.0.0.0 charging-technology.com
 0.0.0.0 chargingsensationmetropolitan.com
+0.0.0.0 charitablepausing.com
 0.0.0.0 charmeddipware.com
 0.0.0.0 charmedno1.com
 0.0.0.0 charmflirt.com
@@ -16309,6 +16316,7 @@
 0.0.0.0 directivepub.com
 0.0.0.0 directleads.com
 0.0.0.0 directnavbt.com
+0.0.0.0 directnessrecycling.com
 0.0.0.0 directorym.com
 0.0.0.0 directpowerrewards.com
 0.0.0.0 directrecipes.com
@@ -16499,6 +16507,7 @@
 0.0.0.0 dogcustom-works.com
 0.0.0.0 dogpial.com
 0.0.0.0 dogwrite.com
+0.0.0.0 dohealforyou.com
 0.0.0.0 dohillright.com
 0.0.0.0 doingneedleworkdeep.com
 0.0.0.0 doityourselfbuilder.com
@@ -17513,6 +17522,7 @@
 0.0.0.0 etracker.com
 0.0.0.0 etracking-ppocztapolska.com
 0.0.0.0 etrecantformation.com
+0.0.0.0 ettilt.com
 0.0.0.0 etwxjufiijhk.com
 0.0.0.0 etym6cero.com
 0.0.0.0 etzhporcxprf.com
@@ -17628,6 +17638,7 @@
 0.0.0.0 exclusivegiftcards.com
 0.0.0.0 exclusiveinsiders.com
 0.0.0.0 exclusivenewhacks.com
+0.0.0.0 excuseparen.com
 0.0.0.0 exdynsrv.com
 0.0.0.0 exelate.com
 0.0.0.0 exelator.com
@@ -17844,6 +17855,7 @@
 0.0.0.0 facilitategovernor.com
 0.0.0.0 facilitategrandfather.com
 0.0.0.0 facpanel.com
+0.0.0.0 fadbell.com
 0.0.0.0 fadedauntrainy.com
 0.0.0.0 fadedprofit.com
 0.0.0.0 fadedsnow.com
@@ -18570,6 +18582,7 @@
 0.0.0.0 food-offer.com
 0.0.0.0 food-voucher.com
 0.0.0.0 foodandcot.com
+0.0.0.0 foodforpetffp.com
 0.0.0.0 foodieblogroll.com
 0.0.0.0 foodmixeroffer.com
 0.0.0.0 foodprogrammesdiscreet.com
@@ -18577,6 +18590,7 @@
 0.0.0.0 footar.com
 0.0.0.0 footballgamespot.com
 0.0.0.0 footnote.com
+0.0.0.0 footpetoo.com
 0.0.0.0 foowafoa.com
 0.0.0.0 fopushegi.com
 0.0.0.0 forbearcorrectinvolving.com
@@ -19889,6 +19903,7 @@
 0.0.0.0 godatingsnow.com
 0.0.0.0 goddessrig.com
 0.0.0.0 goddessvip.com
+0.0.0.0 godfulsiums.com
 0.0.0.0 godlikedrop.com
 0.0.0.0 godrix.com
 0.0.0.0 godsadvice.com
@@ -21917,6 +21932,7 @@
 0.0.0.0 irresponsibleclassplunge.com
 0.0.0.0 irritatebeing.com
 0.0.0.0 irritatecheaplyintrigue.com
+0.0.0.0 irritatehopper.com
 0.0.0.0 irs01.com
 0.0.0.0 irtyf.com
 0.0.0.0 irtyvhrthhya.com
@@ -23580,6 +23596,7 @@
 0.0.0.0 marketsource.com
 0.0.0.0 marketspace.com
 0.0.0.0 marketsurveys.com
+0.0.0.0 markmansonbooklst.com
 0.0.0.0 markofathenaluk.com
 0.0.0.0 markskernelrecorder.com
 0.0.0.0 marmotpolskas.com
@@ -26281,6 +26298,7 @@
 0.0.0.0 parchlusciousepoch.com
 0.0.0.0 parchmentwhale.com
 0.0.0.0 pardot.com
+0.0.0.0 parflushfeet.com
 0.0.0.0 paribas-biznesplanet-logowanie.com
 0.0.0.0 parkerhacks.com
 0.0.0.0 parkhiker.com
@@ -28072,6 +28090,7 @@
 0.0.0.0 refnippod.com
 0.0.0.0 reformexpectbeyond.com
 0.0.0.0 reformtomb.com
+0.0.0.0 refraintupaiid.com
 0.0.0.0 refreshscoundreltendon.com
 0.0.0.0 refuelinstitute.com
 0.0.0.0 regalappstechnology.com
@@ -28682,6 +28701,7 @@
 0.0.0.0 salomonpromocje.com
 0.0.0.0 salomopolska.com
 0.0.0.0 saltending.com
+0.0.0.0 saltinourhairtv.com
 0.0.0.0 salutationcheerlessdemote.com
 0.0.0.0 sam4m.com
 0.0.0.0 samaclub.com
@@ -30066,6 +30086,7 @@
 0.0.0.0 stakingscrew.com
 0.0.0.0 stakingslope.com
 0.0.0.0 stalesummer.com
+0.0.0.0 stalihuwi.com
 0.0.0.0 stamplive.com
 0.0.0.0 stampseizeidly.com
 0.0.0.0 stanbridgeestate.com
@@ -30596,6 +30617,7 @@
 0.0.0.0 syrupmagical.com
 0.0.0.0 syrvqblsaqcfmt.com
 0.0.0.0 systemchlodzeniamglapl.com
+0.0.0.0 systemleadb.com
 0.0.0.0 systweak.com
 0.0.0.0 syxcwxur.com
 0.0.0.0 syyycc.com
@@ -33095,6 +33117,7 @@
 0.0.0.0 wirelesseuropebalmy.com
 0.0.0.0 wirenth.com
 0.0.0.0 wisebanc.com
+0.0.0.0 wiseezab.com
 0.0.0.0 wisepops.com
 0.0.0.0 wisewire.com
 0.0.0.0 wishesconcierge.com
@@ -33856,6 +33879,7 @@
 0.0.0.0 ygzkedoxwhqlzp.com
 0.0.0.0 yhaxlxpuwl.com
 0.0.0.0 yhhbtavgpuo.com
+0.0.0.0 yhmceakev.com
 0.0.0.0 yieldads.com
 0.0.0.0 yieldadvert.com
 0.0.0.0 yieldbuild.com
@@ -33970,6 +33994,7 @@
 0.0.0.0 yourbest-profits3.com
 0.0.0.0 yourbestdating12.com
 0.0.0.0 yourbestdating13.com
+0.0.0.0 yourbestheal.com
 0.0.0.0 yourbigdating.com
 0.0.0.0 yourcamera4free.com
 0.0.0.0 yourcartoons.com
@@ -34238,6 +34263,7 @@
 0.0.0.0 zjkypuacaawx.com
 0.0.0.0 zjo0tjqpm1.com
 0.0.0.0 zjwwbznpcqhk.com
+0.0.0.0 zkbkcdhieqcoev.com
 0.0.0.0 zkqlyhwfn.com
 0.0.0.0 zlacraft.com
 0.0.0.0 zlfgedpuxrbpgm.com
@@ -79183,6 +79209,7 @@
 0.0.0.0 ad.webprovider.com
 0.0.0.0 www.webproworld.com
 0.0.0.0 www3.webpt.com
+0.0.0.0 analytics.webpushr.com
 0.0.0.0 secure.webresint.com
 0.0.0.0 go.webrewardstream.com
 0.0.0.0 web1.webrewardstream.com
@@ -95213,6 +95240,7 @@
 0.0.0.0 uroffer.link
 0.0.0.0 usemyreferral.link
 0.0.0.0 verlinkid.link
+0.0.0.0 wct.link
 0.0.0.0 www-plnsafedeal.link
 0.0.0.0 wysylkowo.link
 0.0.0.0 zaplac-teraz.link
@@ -99854,6 +99882,7 @@
 0.0.0.0 mobizme.net
 0.0.0.0 mobperads.net
 0.0.0.0 mobrand.net
+0.0.0.0 mobshark.net
 0.0.0.0 mocmubse.net
 0.0.0.0 modernhacks.net
 0.0.0.0 modifiedgames.net
@@ -100831,6 +100860,7 @@
 0.0.0.0 watchingthat.net
 0.0.0.0 waugeboa.net
 0.0.0.0 waugique.net
+0.0.0.0 wauthaik.net
 0.0.0.0 wautoosa.net
 0.0.0.0 wcfbc.net
 0.0.0.0 wcmcs.net
@@ -123589,6 +123619,7 @@
 0.0.0.0 ntralpenedhy.pro
 0.0.0.0 officultpolicit.pro
 0.0.0.0 ohbayersbur.pro
+0.0.0.0 olineman.pro
 0.0.0.0 olx-dostawa.pro
 0.0.0.0 olx-paysera.pro
 0.0.0.0 olx-pl.pro
@@ -128590,6 +128621,7 @@
 0.0.0.0 payservice.space
 0.0.0.0 payu.space
 0.0.0.0 pcon.space
+0.0.0.0 pendscoul.space
 0.0.0.0 pgeoffer.space
 0.0.0.0 planujswojezycieibiznes.space
 0.0.0.0 platnosc-paczkomat.space
@@ -128907,6 +128939,7 @@
 0.0.0.0 1y8v7s.store
 0.0.0.0 3i0wrsa.store
 0.0.0.0 amazingthings2020.store
+0.0.0.0 apkbundle.store
 0.0.0.0 asterlo.store
 0.0.0.0 b85allecev.store
 0.0.0.0 bulux.store
@@ -129650,6 +129683,7 @@
 0.0.0.0 finitiesstaffec.top
 0.0.0.0 firrectly.top
 0.0.0.0 fitoffer.top
+0.0.0.0 friendstringpose.top
 0.0.0.0 fztmn.top
 0.0.0.0 galaxydrop.top
 0.0.0.0 geffortyser.top
@@ -129873,6 +129907,7 @@
 0.0.0.0 tescellowin.top
 0.0.0.0 tfatalonepres.top
 0.0.0.0 thirgoad.top
+0.0.0.0 threewent-shore.top
 0.0.0.0 tificanaccou.top
 0.0.0.0 tistianmaga.top
 0.0.0.0 tlvmw.top
@@ -134118,6 +134153,7 @@
 0.0.0.0 exmovie.xyz
 0.0.0.0 extrafastip.xyz
 0.0.0.0 extragenerators.xyz
+0.0.0.0 fagold.xyz
 0.0.0.0 faino.xyz
 0.0.0.0 faizabeauty.xyz
 0.0.0.0 fastiv.xyz

@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:01 AM Sunday 15 August 2021
+# Date: 06:03 AM Monday 16 August 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -2388,6 +2388,7 @@
 0.0.0.0 2bluemountain.com
 0.0.0.0 2shocking4you.com
 0.0.0.0 35hacks.com
+0.0.0.0 3abfd3be7e.com
 0.0.0.0 3cd99930e27056f89.com
 0.0.0.0 3cnce854.com
 0.0.0.0 3dsemulatorfree.com
@@ -2647,6 +2648,7 @@
 0.0.0.0 azongift.com
 0.0.0.0 b1b951f817beba948.com
 0.0.0.0 b34rightym.com
+0.0.0.0 b39a23891510.com
 0.0.0.0 ba7d8f30fba.com
 0.0.0.0 backupfilesserver.com
 0.0.0.0 bagusholidays.com
@@ -2821,6 +2823,7 @@
 0.0.0.0 bzupload.com
 0.0.0.0 c2280b9a3b4c.com
 0.0.0.0 c2path.com
+0.0.0.0 c43dc32a8c0.com
 0.0.0.0 c9f1b98644.com
 0.0.0.0 ca24-login.com
 0.0.0.0 ca24-logowanie.com
@@ -18652,6 +18655,7 @@
 0.0.0.0 linknext.pro
 0.0.0.0 mingle-case.pro
 0.0.0.0 minglecase.pro
+0.0.0.0 olineman.pro
 0.0.0.0 opskins.pro
 0.0.0.0 privatix.pro
 0.0.0.0 realapp.pro
