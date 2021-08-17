@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:03 AM Monday 16 August 2021
+# Date: 06:03 AM Tuesday 17 August 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -4367,6 +4367,7 @@
 0.0.0.0 img-saving.com
 0.0.0.0 img-screnshot.com
 0.0.0.0 img4click.com
+0.0.0.0 imglt.com
 0.0.0.0 immediadement-arretez-ezhez-identfcie-jasdasd1233-9057.com
 0.0.0.0 impressionaffiliate.com
 0.0.0.0 impressionlead.com
@@ -5133,6 +5134,7 @@
 0.0.0.0 powrrledger.com
 0.0.0.0 ppcheats.com
 0.0.0.0 pr5dir.com
+0.0.0.0 practively.com
 0.0.0.0 prano-pl.com
 0.0.0.0 predatorgamesforyou.com
 0.0.0.0 preligions.com
@@ -9518,6 +9520,7 @@
 0.0.0.0 utils.mediageneral.com
 0.0.0.0 www.newsyintera24.medianewsonline.com
 0.0.0.0 creative.medianexusnetwork.com
+0.0.0.0 iframe.mediaplazza.com
 0.0.0.0 adfarm.mediaplex.com
 0.0.0.0 altfarm.mediaplex.com
 0.0.0.0 img.mediaplex.com
@@ -15428,6 +15431,7 @@
 0.0.0.0 pocztowa24.net
 0.0.0.0 pokecoins.net
 0.0.0.0 poollivetourhack.net
+0.0.0.0 popwin.net
 0.0.0.0 powermovies.net
 0.0.0.0 prefersurvey.net
 0.0.0.0 premiumhack.net
