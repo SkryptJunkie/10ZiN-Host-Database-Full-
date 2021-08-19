@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:09 AM Wednesday 18 August 2021
+# Date: 06:01 AM Thursday 19 August 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -2399,6 +2399,7 @@
 0.0.0.0 3cnce854.com
 0.0.0.0 3dsemulatorfree.com
 0.0.0.0 3dsprepaidcardcodegenerator.com
+0.0.0.0 3e7e8bc5d1.com
 0.0.0.0 3jmcwio.com
 0.0.0.0 411commerce.com
 0.0.0.0 411debtsolutions.com

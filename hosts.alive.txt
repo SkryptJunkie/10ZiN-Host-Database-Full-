@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Alive)
-# Date: 06:09 AM Wednesday 18 August 2021
+# Date: 06:01 AM Thursday 19 August 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.alive.txt
@@ -1242,6 +1242,7 @@
 0.0.0.0 belstat.be
 0.0.0.0 blackhat.be
 0.0.0.0 count.be
+0.0.0.0 cpng.be
 0.0.0.0 deal-courrier.be
 0.0.0.0 eliconstruct.be
 0.0.0.0 fashion-tube.be
@@ -1832,6 +1833,7 @@
 0.0.0.0 job4pals.biz
 0.0.0.0 kingwithm.biz
 0.0.0.0 kyoufortvl.biz
+0.0.0.0 ldliketouse.biz
 0.0.0.0 lemonparty.biz
 0.0.0.0 lib1.biz
 0.0.0.0 likethislist.biz
@@ -1882,6 +1884,7 @@
 0.0.0.0 mono9.biz
 0.0.0.0 mostaboutm.biz
 0.0.0.0 musicvideoz.biz
+0.0.0.0 myfineartde.biz
 0.0.0.0 n19.biz
 0.0.0.0 nceicurrently.biz
 0.0.0.0 nceinbutiwo.biz
@@ -3687,6 +3690,7 @@
 0.0.0.0 mp3red.cc
 0.0.0.0 myetherwallet.cc
 0.0.0.0 netflame.cc
+0.0.0.0 octopod.cc
 0.0.0.0 olx-deliver.cc
 0.0.0.0 olx-dostawa.cc
 0.0.0.0 olx-pl.cc
@@ -3709,6 +3713,7 @@
 0.0.0.0 snapcamsforum.cc
 0.0.0.0 teddygirls.cc
 0.0.0.0 tgram.cc
+0.0.0.0 tracepath.cc
 0.0.0.0 tradebot.cc
 0.0.0.0 traderking.cc
 0.0.0.0 uu.cc
@@ -4782,6 +4787,7 @@
 0.0.0.0 js-kods.club
 0.0.0.0 judaisydfs.club
 0.0.0.0 justickedukil.club
+0.0.0.0 kaminari.club
 0.0.0.0 kaprazatos.club
 0.0.0.0 kemperare.club
 0.0.0.0 kennetting.club
@@ -6825,6 +6831,7 @@
 0.0.0.0 153250f052d.com
 0.0.0.0 15666.com
 0.0.0.0 157ita684j.com
+0.0.0.0 15cacaospice63nhdk.com
 0.0.0.0 15fa37b45d.com
 0.0.0.0 163.com
 0.0.0.0 16482f75cb.com
@@ -7159,6 +7166,7 @@
 0.0.0.0 42297df5c090.com
 0.0.0.0 42837932b3d.com
 0.0.0.0 42a5d530ec972d8994.com
+0.0.0.0 42d61f012e27b36d53.com
 0.0.0.0 42eed1a0d9c129.com
 0.0.0.0 43137c93a82b0e81da.com
 0.0.0.0 43d6f284d10bfbbb3.com
@@ -10188,6 +10196,7 @@
 0.0.0.0 bellaveiskincare.com
 0.0.0.0 bellyfernfoster.com
 0.0.0.0 belstat.com
+0.0.0.0 beltudri.com
 0.0.0.0 beludicolor.com
 0.0.0.0 belwrite.com
 0.0.0.0 belyyeusy.com
@@ -10937,6 +10946,7 @@
 0.0.0.0 bttrack.com
 0.0.0.0 btttag.com
 0.0.0.0 bttvrqazwnjfl.com
+0.0.0.0 btvmvqoxh.com
 0.0.0.0 btzgadfn.com
 0.0.0.0 bubblecrowds.com
 0.0.0.0 bubblyalibiappear.com
@@ -11425,6 +11435,7 @@
 0.0.0.0 centerpointmedia.com
 0.0.0.0 centertrk.com
 0.0.0.0 centerwheelswildly.com
+0.0.0.0 centimetresnappeddock.com
 0.0.0.0 centiyo.com
 0.0.0.0 central-core-7.com
 0.0.0.0 centralad.com
@@ -12737,6 +12748,7 @@
 0.0.0.0 cutecushion.com
 0.0.0.0 cuterbond.com
 0.0.0.0 cutesaucepuppy.com
+0.0.0.0 cutestpotting.com
 0.0.0.0 cutestuf.com
 0.0.0.0 cuteturkey.com
 0.0.0.0 cutterbuck.com
@@ -13051,6 +13063,7 @@
 0.0.0.0 definitial.com
 0.0.0.0 defpush.com
 0.0.0.0 defyraspypuke.com
+0.0.0.0 degrtdqvaansd.com
 0.0.0.0 degryrubi.com
 0.0.0.0 dehacks.com
 0.0.0.0 dehtxweiq.com
@@ -13214,6 +13227,7 @@
 0.0.0.0 dibarbado.com
 0.0.0.0 dibsemey.com
 0.0.0.0 dichvuvesinhhanoi.com
+0.0.0.0 diclotrans.com
 0.0.0.0 didit.com
 0.0.0.0 didpuprat.com
 0.0.0.0 didtheyreadit.com
@@ -15849,6 +15863,7 @@
 0.0.0.0 generaldeviales.com
 0.0.0.0 generaldownload.com
 0.0.0.0 generalizationentertain.com
+0.0.0.0 generatecompassionphotocopy.com
 0.0.0.0 generatedough.com
 0.0.0.0 generategiftcard.com
 0.0.0.0 generateurdecodepsn.com
@@ -16729,6 +16744,7 @@
 0.0.0.0 haydayhack.com
 0.0.0.0 hayfatduh.com
 0.0.0.0 hayright.com
+0.0.0.0 hazelnutshighs.com
 0.0.0.0 hazy4cant.com
 0.0.0.0 hb-247.com
 0.0.0.0 hbfqcy.com
@@ -17423,6 +17439,7 @@
 0.0.0.0 illegaltrades.com
 0.0.0.0 illfatedsnail.com
 0.0.0.0 illnessspraydeference.com
+0.0.0.0 illustcutesy.com
 0.0.0.0 illustrationmanlypageant.com
 0.0.0.0 illustriousoatmeal.com
 0.0.0.0 ilohfbiph.com
@@ -18120,6 +18137,7 @@
 0.0.0.0 joredi.com
 0.0.0.0 joredii.com
 0.0.0.0 josephcalculatedsewer.com
+0.0.0.0 josephinealteration.com
 0.0.0.0 joshklekamp.com
 0.0.0.0 joubozie.com
 0.0.0.0 jougrevu.com
@@ -18332,6 +18350,7 @@
 0.0.0.0 kiddercreekdesigns.com
 0.0.0.0 kids-in-sandbox.com
 0.0.0.0 kidsangelcards.com
+0.0.0.0 kihoadoa.com
 0.0.0.0 kikmessengerforpcs.com
 0.0.0.0 killerparadehay.com
 0.0.0.0 killingwirelesshumiliation.com
@@ -19875,6 +19894,7 @@
 0.0.0.0 mitoteam.com
 0.0.0.0 miva.com
 0.0.0.0 mixadvert.com
+0.0.0.0 mixandfun.com
 0.0.0.0 mixedreading.com
 0.0.0.0 mixpanel.com
 0.0.0.0 mixpo.com
@@ -20051,6 +20071,7 @@
 0.0.0.0 monadplug.com
 0.0.0.0 monarchads.com
 0.0.0.0 monarchypainting.com
+0.0.0.0 monasterycashierrepellent.com
 0.0.0.0 monclerdown2014.com
 0.0.0.0 moncoerbb.com
 0.0.0.0 mondayunauthorized.com
@@ -21995,6 +22016,7 @@
 0.0.0.0 pgntcjglm.com
 0.0.0.0 pgpartner.com
 0.0.0.0 pgpckmsggjdm.com
+0.0.0.0 pgpsssijca.com
 0.0.0.0 pgpyce.com
 0.0.0.0 pgssl.com
 0.0.0.0 phacdochuabenh.com
@@ -22909,6 +22931,7 @@
 0.0.0.0 puuvpsveaskxzb.com
 0.0.0.0 puwpush.com
 0.0.0.0 puzzledchampagneaboninableaboninable.com
+0.0.0.0 puzzlementevolve.com
 0.0.0.0 pv4u.com
 0.0.0.0 pvclouds.com
 0.0.0.0 pvcndecvyb.com
@@ -24280,6 +24303,7 @@
 0.0.0.0 sexsponsors.com
 0.0.0.0 sexswap.com
 0.0.0.0 sextracker.com
+0.0.0.0 sextubeweb.com
 0.0.0.0 sexualpatterns1.com
 0.0.0.0 sexvipdatefind2.com
 0.0.0.0 sexviplocators3.com
@@ -24461,6 +24485,7 @@
 0.0.0.0 shubad2u8ba09.com
 0.0.0.0 shubadubadlskjfkf.com
 0.0.0.0 shufflewithdrawplanets.com
+0.0.0.0 shukriya90.com
 0.0.0.0 shunguts.com
 0.0.0.0 shuterc.com
 0.0.0.0 shweflix.com
@@ -24812,6 +24837,7 @@
 0.0.0.0 socksonclick.com
 0.0.0.0 socksorient.com
 0.0.0.0 soclock.com
+0.0.0.0 sodamash.com
 0.0.0.0 sofia-sstyle.com
 0.0.0.0 sofialys.com
 0.0.0.0 soflock.com
@@ -25381,6 +25407,7 @@
 0.0.0.0 sukausuka.com
 0.0.0.0 sukhumvithomes.com
 0.0.0.0 sulkybutter.com
+0.0.0.0 sulkycook.com
 0.0.0.0 sulphursceneryhenceforward.com
 0.0.0.0 sultancolicin.com
 0.0.0.0 sultrycommiserate.com
@@ -25969,6 +25996,7 @@
 0.0.0.0 thomastorch.com
 0.0.0.0 thompaur.com
 0.0.0.0 thongaspredo.com
+0.0.0.0 thongcivic.com
 0.0.0.0 thoorest.com
 0.0.0.0 thor-cpa.com
 0.0.0.0 thoroclean.com
@@ -26050,6 +26078,7 @@
 0.0.0.0 tipanddonation.com
 0.0.0.0 tipsurf.com
 0.0.0.0 tire1soak.com
+0.0.0.0 tirusoge.com
 0.0.0.0 tisls.com
 0.0.0.0 titan-gel-extra.com
 0.0.0.0 titanads1.com
@@ -27514,6 +27543,7 @@
 0.0.0.0 waynagmay.com
 0.0.0.0 waypresentsstud.com
 0.0.0.0 wbdds.com
+0.0.0.0 wbidr.com
 0.0.0.0 wcdny.com
 0.0.0.0 wcwigs.com
 0.0.0.0 wda.com
@@ -27900,6 +27930,7 @@
 0.0.0.0 woymebsi.com
 0.0.0.0 wp-stats.com
 0.0.0.0 wpad-home.com
+0.0.0.0 wpadmngr.com
 0.0.0.0 wpadsx.com
 0.0.0.0 wpnjrm.com
 0.0.0.0 wpnjs.com
@@ -28333,6 +28364,7 @@
 0.0.0.0 ylx-3.com
 0.0.0.0 ylx-4.com
 0.0.0.0 ymetrica1.com
+0.0.0.0 ymrseiueff.com
 0.0.0.0 ymtracking.com
 0.0.0.0 ymxpb.com
 0.0.0.0 ymzrrizntbhde.com
@@ -28693,6 +28725,7 @@
 0.0.0.0 zpujlrylfvk.com
 0.0.0.0 zpwqnicvzi.com
 0.0.0.0 zqibmiotpxfk.com
+0.0.0.0 zqlcdzvdexdrd.com
 0.0.0.0 zquotfuofx.com
 0.0.0.0 zqzuiomba.com
 0.0.0.0 zrav2wkbrs.com
@@ -33597,6 +33630,7 @@
 0.0.0.0 www.aowadczdfkcd4kl9dk.et.r.appspot.com
 0.0.0.0 amu-edu-pl.ew.r.appspot.com
 0.0.0.0 www.amu-edu-pl.ew.r.appspot.com
+0.0.0.0 cookie-guard-erdee.ey.r.appspot.com
 0.0.0.0 officebg90hy714pyq23h77ipw2pwf.ey.r.appspot.com
 0.0.0.0 www.officebg90hy714pyq23h77ipw2pwf.ey.r.appspot.com
 0.0.0.0 officexwednbbagmemzmlpepjxspud.nn.r.appspot.com
@@ -38336,6 +38370,8 @@
 0.0.0.0 mms.cnn.com
 0.0.0.0 sdc.cnn.com
 0.0.0.0 smetrics.cnn.com
+0.0.0.0 collector.cdp.cnn.com
+0.0.0.0 collector-dev.cdp-dev.cnn.com
 0.0.0.0 z.cdp-dev.cnn.com
 0.0.0.0 cnn.dyn.cnn.com
 0.0.0.0 tiads.sportsillustrated.cnn.com
@@ -65416,6 +65452,7 @@
 0.0.0.0 ads-sg.tiktok.com
 0.0.0.0 analytics.tiktok.com
 0.0.0.0 analytics-sg.tiktok.com
+0.0.0.0 mcs-va.tiktok.com
 0.0.0.0 mcs-va.tiktokv.com
 0.0.0.0 smetrics.tila.com
 0.0.0.0 stat.tildacdn.com
@@ -82969,6 +83006,7 @@
 0.0.0.0 www.zone4your-prizes.life
 0.0.0.0 app.link
 0.0.0.0 boxworktoardazana.link
+0.0.0.0 copysign.link
 0.0.0.0 discorcl.link
 0.0.0.0 dostawa-olx-pl.link
 0.0.0.0 energetyczna.link
@@ -86478,6 +86516,7 @@
 0.0.0.0 nuggad.net
 0.0.0.0 oadaheba.net
 0.0.0.0 oadsouzi.net
+0.0.0.0 oaftaijo.net
 0.0.0.0 oanimsen.net
 0.0.0.0 oapseele.net
 0.0.0.0 oceango.net
@@ -86853,6 +86892,7 @@
 0.0.0.0 shexawhy.net
 0.0.0.0 shikroux.net
 0.0.0.0 shinedns.net
+0.0.0.0 shoagooy.net
 0.0.0.0 shodroph.net
 0.0.0.0 shoppingminds.net
 0.0.0.0 shostobs.net
@@ -87199,6 +87239,7 @@
 0.0.0.0 wptag.net
 0.0.0.0 wt-eu02.net
 0.0.0.0 wtfvid.net
+0.0.0.0 wubsauth.net
 0.0.0.0 wudr.net
 0.0.0.0 wunderloop.net
 0.0.0.0 www4search.net
@@ -98392,6 +98433,7 @@
 0.0.0.0 client-getin.online
 0.0.0.0 codeopensource.online
 0.0.0.0 countilde.online
+0.0.0.0 cpa-optimizer.online
 0.0.0.0 cryartarm.online
 0.0.0.0 cutescale.online
 0.0.0.0 czasnazmianywzyciu.online
@@ -98590,6 +98632,8 @@
 0.0.0.0 wazneesprawy.online
 0.0.0.0 waznesprawy.online
 0.0.0.0 waznesprawywpolscee.online
+0.0.0.0 wbidder.online
+0.0.0.0 wboptim.online
 0.0.0.0 wczorajszagazeta.online
 0.0.0.0 weekend24.online
 0.0.0.0 wiadomoscipolskie.online
@@ -98603,6 +98647,7 @@
 0.0.0.0 wszystkowiem.online
 0.0.0.0 www-olxpl.online
 0.0.0.0 wzordonassladowania.online
+0.0.0.0 xml-api.online
 0.0.0.0 yfivoqeh.online
 0.0.0.0 yourpayment.online
 0.0.0.0 yviletet.online
@@ -111481,6 +111526,7 @@
 0.0.0.0 niewidziialeswszysstkiego.space
 0.0.0.0 nofreezingmac.space
 0.0.0.0 nowaformullabizznesu24.space
+0.0.0.0 nsideservie.space
 0.0.0.0 ntsperimepr.space
 0.0.0.0 odichaly.space
 0.0.0.0 odzawszewiedziales.space
@@ -111560,6 +111606,7 @@
 0.0.0.0 warumbistdusoarm.space
 0.0.0.0 waznesprawypolakkow.space
 0.0.0.0 webma.space
+0.0.0.0 wedliminat.space
 0.0.0.0 wieszzemozzesz.space
 0.0.0.0 wplata-paczkomat-24.space
 0.0.0.0 wsparcie-pl.space
@@ -112148,6 +112195,7 @@
 0.0.0.0 return.to
 0.0.0.0 tanie.to
 0.0.0.0 tracking.to
+0.0.0.0 trailers.to
 0.0.0.0 vpnlist.to
 0.0.0.0 younglust.to
 0.0.0.0 d.5.to
@@ -112268,6 +112316,7 @@
 0.0.0.0 cdn-server.top
 0.0.0.0 cepractliq.top
 0.0.0.0 chaserwit.top
+0.0.0.0 christmasporn.top
 0.0.0.0 ciendsbusi.top
 0.0.0.0 cieopennisd.top
 0.0.0.0 cietypostcoa.top
@@ -116089,6 +116138,7 @@
 0.0.0.0 ductritran.xyz
 0.0.0.0 duft-punk.xyz
 0.0.0.0 dupiwipo.xyz
+0.0.0.0 dupx.xyz
 0.0.0.0 dziennik-bytom.xyz
 0.0.0.0 dziennik-inf.xyz
 0.0.0.0 dzisiejszaczestochowa.xyz
@@ -116485,6 +116535,7 @@
 0.0.0.0 sledzenle-paczki.xyz
 0.0.0.0 sms-safe.xyz
 0.0.0.0 snowdayonline.xyz
+0.0.0.0 soxg.xyz
 0.0.0.0 sportstreams.xyz
 0.0.0.0 sprawdzam-dalej.xyz
 0.0.0.0 sprzeadazonilne.xyz
