@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Full)
-# Date: 06:01 AM Sunday 22 August 2021
+# Date: 06:01 AM Monday 23 August 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.txt
@@ -2015,6 +2015,7 @@
 0.0.0.0 adturtle.biz
 0.0.0.0 adultcomix.biz
 0.0.0.0 advbox.biz
+0.0.0.0 akeasignifica.biz
 0.0.0.0 albumphotopro.biz
 0.0.0.0 allcontents.biz
 0.0.0.0 allegrolokalnie.biz
@@ -2133,6 +2134,7 @@
 0.0.0.0 impressionperformance.biz
 0.0.0.0 inclusivetrading.biz
 0.0.0.0 ingpercent.biz
+0.0.0.0 isingefforta.biz
 0.0.0.0 istat.biz
 0.0.0.0 job4pals.biz
 0.0.0.0 kingwithm.biz
@@ -2223,7 +2225,9 @@
 0.0.0.0 nitytolearnan.biz
 0.0.0.0 nkwintenc.biz
 0.0.0.0 nsurethatthe.biz
+0.0.0.0 ntcontributio.biz
 0.0.0.0 ntiveandi.biz
+0.0.0.0 ntothefundra.biz
 0.0.0.0 ofreadingand.biz
 0.0.0.0 ogrodek.biz
 0.0.0.0 ogrodzik.biz
@@ -12467,6 +12471,7 @@
 0.0.0.0 apromoweb.com
 0.0.0.0 aproxtrack2.com
 0.0.0.0 apsalar.com
+0.0.0.0 aptimorph.com
 0.0.0.0 apture.com
 0.0.0.0 apvdr.com
 0.0.0.0 apyohotayvc.com
@@ -15507,6 +15512,7 @@
 0.0.0.0 cnbnews.com
 0.0.0.0 cnej4912jks.com
 0.0.0.0 cnnnew.com
+0.0.0.0 cnolhzguwnfgk.com
 0.0.0.0 cnomy.com
 0.0.0.0 cnt-tm-1.com
 0.0.0.0 cntmc.com
@@ -16162,6 +16168,7 @@
 0.0.0.0 criminalcase-cheats.com
 0.0.0.0 criminalcasegamehack.com
 0.0.0.0 crimson-koalas.com
+0.0.0.0 crisdomson.com
 0.0.0.0 crispads.com
 0.0.0.0 crispadvertising.com
 0.0.0.0 crispmedia.com
@@ -16559,6 +16566,7 @@
 0.0.0.0 cyppolice.com
 0.0.0.0 cytrkxfzkxrjv.com
 0.0.0.0 cytron.com
+0.0.0.0 cyulewkqz.com
 0.0.0.0 cyzdyiccpwx.com
 0.0.0.0 cyzyyv.com
 0.0.0.0 czechose.com
@@ -16635,6 +16643,7 @@
 0.0.0.0 daily-adulthookup.com
 0.0.0.0 daily-saver.com
 0.0.0.0 daily-traffic.com
+0.0.0.0 dailydistanceparallel.com
 0.0.0.0 dailyhacknew.com
 0.0.0.0 dailyinterventioncongestion.com
 0.0.0.0 dailynewstonight.com
@@ -16649,6 +16658,7 @@
 0.0.0.0 dalsari.com
 0.0.0.0 daltondescendent.com
 0.0.0.0 dama-office.com
+0.0.0.0 damageddistance.com
 0.0.0.0 damavandkuh.com
 0.0.0.0 damdoor.com
 0.0.0.0 damsoloist.com
@@ -16668,6 +16678,7 @@
 0.0.0.0 danzabucks.com
 0.0.0.0 danzhallfes.com
 0.0.0.0 daoyoudao.com
+0.0.0.0 dapperfloor.com
 0.0.0.0 darakht.com
 0.0.0.0 darapage.com
 0.0.0.0 darbulhaqq.com
@@ -17715,6 +17726,7 @@
 0.0.0.0 dvucdnv.com
 0.0.0.0 dvwvqeddi.com
 0.0.0.0 dwclick.com
+0.0.0.0 dwepmhhyigfb.com
 0.0.0.0 dwin2.com
 0.0.0.0 dwnld24.com
 0.0.0.0 dwtroouhdh.com
@@ -17885,6 +17897,7 @@
 0.0.0.0 ebdr3.com
 0.0.0.0 ebertandroeper.com
 0.0.0.0 ebetoni.com
+0.0.0.0 ebjvkekktns.com
 0.0.0.0 eblastengine.com
 0.0.0.0 eblsfzgvoep.com
 0.0.0.0 ebocornac.com
@@ -20470,6 +20483,7 @@
 0.0.0.0 gbwess.com
 0.0.0.0 gccraze.com
 0.0.0.0 gcdnsl.com
+0.0.0.0 gcdpqbdyaivpys.com
 0.0.0.0 gcesab.com
 0.0.0.0 gcginternational.com
 0.0.0.0 gchgao.com
@@ -23152,6 +23166,7 @@
 0.0.0.0 iwyphlxfuufeos.com
 0.0.0.0 ixcris.com
 0.0.0.0 ixhparehw.com
+0.0.0.0 iyfnz.com
 0.0.0.0 iyfnzgb.com
 0.0.0.0 iyoureye.com
 0.0.0.0 izzzovhvisnxgy.com
@@ -23262,6 +23277,7 @@
 0.0.0.0 jestmonths.com
 0.0.0.0 jetplayz.com
 0.0.0.0 jetsowilk.com
+0.0.0.0 jettrujole.com
 0.0.0.0 jeufax.com
 0.0.0.0 jeuhack.com
 0.0.0.0 jeunesseglobal.com
@@ -23285,6 +23301,7 @@
 0.0.0.0 jggqgavrqkudu.com
 0.0.0.0 jhayesconsulting.com
 0.0.0.0 jhhlhneavuo.com
+0.0.0.0 jhtwiolgjeons.com
 0.0.0.0 jibonerareknamtaka.com
 0.0.0.0 jicmutse.com
 0.0.0.0 jigdigtry.com
@@ -23958,6 +23975,7 @@
 0.0.0.0 layshyjar.com
 0.0.0.0 lazy-gamers.com
 0.0.0.0 lazy8krti.com
+0.0.0.0 lazyovertime.com
 0.0.0.0 lbaetmvw.com
 0.0.0.0 lbgchljyhjmev.com
 0.0.0.0 lbwcdnjpy.com
@@ -24615,6 +24633,7 @@
 0.0.0.0 lytkarino.com
 0.0.0.0 lzdtetwgfyt.com
 0.0.0.0 lzjl.com
+0.0.0.0 lzqicpumq.com
 0.0.0.0 lzrikate.com
 0.0.0.0 m-arata.com
 0.0.0.0 m-resume.com
@@ -33985,6 +34004,7 @@
 0.0.0.0 unrestchat.com
 0.0.0.0 unrulymedia.com
 0.0.0.0 unrulyrotate.com
+0.0.0.0 unsaferairn.com
 0.0.0.0 unseen2020.com
 0.0.0.0 unskilledsqueakjunk.com
 0.0.0.0 unsubscribeinhere.com
@@ -34502,6 +34522,7 @@
 0.0.0.0 vml-127.com
 0.0.0.0 vmmpxl.com
 0.0.0.0 vmraahnmspzy.com
+0.0.0.0 vmuid.com
 0.0.0.0 vn6e8w2w92.com
 0.0.0.0 vnacdnryl.com
 0.0.0.0 vnbugnmwq.com
@@ -34646,6 +34667,7 @@
 0.0.0.0 waframedia5.com
 0.0.0.0 waframedia8.com
 0.0.0.0 wagecarriage.com
+0.0.0.0 wagedsoutane.com
 0.0.0.0 wagerestrictedrebuild.com
 0.0.0.0 wagerjoint.com
 0.0.0.0 wagershare.com
@@ -35830,6 +35852,7 @@
 0.0.0.0 yas-jr.com
 0.0.0.0 yashi.com
 0.0.0.0 yasmwesikz.com
+0.0.0.0 yatbzuwo.com
 0.0.0.0 yauhbgfc.com
 0.0.0.0 yautube.com
 0.0.0.0 yavteam.com
@@ -35939,6 +35962,7 @@
 0.0.0.0 yolaile.com
 0.0.0.0 yoliworld.com
 0.0.0.0 yonderplanner.com
+0.0.0.0 yonderprodigy.com
 0.0.0.0 yonhelioliskor.com
 0.0.0.0 yoomanies.com
 0.0.0.0 yootube.com
@@ -73178,6 +73202,8 @@
 0.0.0.0 get.rubyroyal.com
 0.0.0.0 img.ruclicks.com
 0.0.0.0 www.ruclicks.com
+0.0.0.0 api.rudderlabs.com
+0.0.0.0 sanity-dataplane.rudderstack.com
 0.0.0.0 ads.rude.com
 0.0.0.0 banners.rude.com
 0.0.0.0 banners.content.rude.com
@@ -75412,6 +75438,7 @@
 0.0.0.0 cdn.socialbakers.com
 0.0.0.0 suite.socialbakers.com
 0.0.0.0 suite-builder.socialbakers.com
+0.0.0.0 hanaana.socialblade.com
 0.0.0.0 media.socialblue.com
 0.0.0.0 www.media.socialblue.com
 0.0.0.0 more.socialflow.com
@@ -119250,6 +119277,7 @@
 0.0.0.0 good-business.online
 0.0.0.0 got-money.online
 0.0.0.0 greatcustomer.online
+0.0.0.0 greeandjo.online
 0.0.0.0 h1z1trade.online
 0.0.0.0 hackig.online
 0.0.0.0 hallaert.online
