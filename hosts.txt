@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Full)
-# Date: 06:01 AM Monday 23 August 2021
+# Date: 06:01 AM Tuesday 24 August 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.txt
@@ -2205,6 +2205,7 @@
 0.0.0.0 nayaka.biz
 0.0.0.0 nceicurrently.biz
 0.0.0.0 nceinbutiwo.biz
+0.0.0.0 ndiampartic.biz
 0.0.0.0 nditlookslike.biz
 0.0.0.0 net00.biz
 0.0.0.0 net02.biz
@@ -2222,6 +2223,7 @@
 0.0.0.0 news17.biz
 0.0.0.0 news19.biz
 0.0.0.0 news20.biz
+0.0.0.0 ngacorporat.biz
 0.0.0.0 nitytolearnan.biz
 0.0.0.0 nkwintenc.biz
 0.0.0.0 nsurethatthe.biz
@@ -2305,6 +2307,7 @@
 0.0.0.0 stsoftware.biz
 0.0.0.0 szaszlyk.biz
 0.0.0.0 tangerinenet.biz
+0.0.0.0 tedinexplori.biz
 0.0.0.0 textads.biz
 0.0.0.0 tgptraffic.biz
 0.0.0.0 thatitgivesm.biz
@@ -2331,6 +2334,7 @@
 0.0.0.0 trampoliny.biz
 0.0.0.0 ttoyourteam.biz
 0.0.0.0 ubjectsandie.biz
+0.0.0.0 ularlyinteres.biz
 0.0.0.0 ulcknow.biz
 0.0.0.0 unnok.biz
 0.0.0.0 unrealcommander.biz
@@ -5459,6 +5463,7 @@
 0.0.0.0 m-olx.cam
 0.0.0.0 mangelobsolden.cam
 0.0.0.0 marateathe.cam
+0.0.0.0 marezzocorke.cam
 0.0.0.0 matswhyask.cam
 0.0.0.0 merituckia.cam
 0.0.0.0 myetherwallet.cam
@@ -5469,6 +5474,7 @@
 0.0.0.0 outrushfetor.cam
 0.0.0.0 pekaao.cam
 0.0.0.0 pepnerdmime.cam
+0.0.0.0 pupulodsects.cam
 0.0.0.0 reknitgude.cam
 0.0.0.0 roostsflewcat.cam
 0.0.0.0 rottilderum.cam
@@ -12590,6 +12596,7 @@
 0.0.0.0 ashhgo.com
 0.0.0.0 ashlynnbrookevideos.com
 0.0.0.0 ashoping.com
+0.0.0.0 ashoupsu.com
 0.0.0.0 ashtraysophomore.com
 0.0.0.0 asiafriendfinder.com
 0.0.0.0 asiangfsex.com
@@ -13080,6 +13087,7 @@
 0.0.0.0 banstex.com
 0.0.0.0 banstockseldest.com
 0.0.0.0 bantgoau.com
+0.0.0.0 bantomind.com
 0.0.0.0 bantrmind.com
 0.0.0.0 banusatoday.com
 0.0.0.0 banvar.com
@@ -13275,6 +13283,7 @@
 0.0.0.0 benignrescuemistletoe.com
 0.0.0.0 benimreklam.com
 0.0.0.0 benn8bord.com
+0.0.0.0 benoopto.com
 0.0.0.0 bentdownload.com
 0.0.0.0 bentyluses.com
 0.0.0.0 beonixom.com
@@ -13916,6 +13925,7 @@
 0.0.0.0 bookhacks.com
 0.0.0.0 booking-tables.com
 0.0.0.0 bookingfreeze.com
+0.0.0.0 booklstfree.com
 0.0.0.0 bookmarksync.com
 0.0.0.0 bookmtpo.com
 0.0.0.0 bookproplus.com
@@ -14650,6 +14660,7 @@
 0.0.0.0 cattleredduh.com
 0.0.0.0 catwenbat.com
 0.0.0.0 catwrite.com
+0.0.0.0 cauntercanulae.com
 0.0.0.0 causecherry.com
 0.0.0.0 cavewaxmalt.com
 0.0.0.0 cavotel.com
@@ -14819,6 +14830,7 @@
 0.0.0.0 chainwalladsy.com
 0.0.0.0 chairscrack.com
 0.0.0.0 chaiseviscountsturgeon.com
+0.0.0.0 chaissoo.com
 0.0.0.0 challengedeprave.com
 0.0.0.0 challhawseholer.com
 0.0.0.0 championsklep.com
@@ -16533,6 +16545,7 @@
 0.0.0.0 cxdgl.com
 0.0.0.0 cxdigitalmedia.com
 0.0.0.0 cxense.com
+0.0.0.0 cxkivjsorpburb.com
 0.0.0.0 cyan92010.com
 0.0.0.0 cyber-cheat.com
 0.0.0.0 cyber-incentives.com
@@ -17614,6 +17627,7 @@
 0.0.0.0 dreamvip.com
 0.0.0.0 dreamwoman-finder1.com
 0.0.0.0 dressedincidentchildbirth.com
+0.0.0.0 driddleurease.com
 0.0.0.0 drinkmy.com
 0.0.0.0 drivecleaner.com
 0.0.0.0 drivelinemedia.com
@@ -17831,6 +17845,7 @@
 0.0.0.0 eagamevoice.com
 0.0.0.0 eagerlydenote.com
 0.0.0.0 eagernessrationalize.com
+0.0.0.0 eagwwgdzmioeod.com
 0.0.0.0 eailczoszdrz.com
 0.0.0.0 eajmp.com
 0.0.0.0 ealeo.com
@@ -19002,6 +19017,7 @@
 0.0.0.0 fearsomeclients.com
 0.0.0.0 feastoffortuna.com
 0.0.0.0 feat-talent.com
+0.0.0.0 featwombknockout.com
 0.0.0.0 febadu.com
 0.0.0.0 febjroxjgzx.com
 0.0.0.0 fecebook.com
@@ -19359,6 +19375,7 @@
 0.0.0.0 fitbxtqgneq.com
 0.0.0.0 fitcenterz.com
 0.0.0.0 fitchciapara.com
+0.0.0.0 fitenanews.com
 0.0.0.0 fitflopspolska.com
 0.0.0.0 fitfulrigorous.com
 0.0.0.0 fitness-for-ever.com
@@ -21009,6 +21026,7 @@
 0.0.0.0 gooool.com
 0.0.0.0 goooooooooogle.com
 0.0.0.0 goorle.com
+0.0.0.0 goostist.com
 0.0.0.0 gootung.com
 0.0.0.0 goovgle.com
 0.0.0.0 gopeds.com
@@ -21302,6 +21320,7 @@
 0.0.0.0 gxymlqcnu.com
 0.0.0.0 gyccdnydir.com
 0.0.0.0 gyegalekb.com
+0.0.0.0 gyfumobo.com
 0.0.0.0 gyhtpgzvo.com
 0.0.0.0 gynvqipvmcv.com
 0.0.0.0 gyswad.com
@@ -26975,6 +26994,7 @@
 0.0.0.0 nvysyzemuvac.com
 0.0.0.0 nw-rail-03.com
 0.0.0.0 nwliko.com
+0.0.0.0 nwpctbgbyqu.com
 0.0.0.0 nwqlxtlfi.com
 0.0.0.0 nxcount.com
 0.0.0.0 nxcxithvcoeh.com
@@ -26993,6 +27013,7 @@
 0.0.0.0 nyphtrue.com
 0.0.0.0 nysubwayoffer.com
 0.0.0.0 nyyed.com
+0.0.0.0 nyztgyuuts.com
 0.0.0.0 nzaza.com
 0.0.0.0 nzbnjdukgaco.com
 0.0.0.0 nzhfk.com
@@ -32790,6 +32811,7 @@
 0.0.0.0 thebest-dating-here.com
 0.0.0.0 thebest-dating4u.com
 0.0.0.0 thebestdeting1.com
+0.0.0.0 thebestfortech.com
 0.0.0.0 thebestgame2020.com
 0.0.0.0 thebesthack24.com
 0.0.0.0 thebestnew-stuff.com
@@ -32823,6 +32845,7 @@
 0.0.0.0 thedesertship.com
 0.0.0.0 thediscoveryrun.com
 0.0.0.0 thefastpush.com
+0.0.0.0 thefootpetso.com
 0.0.0.0 thefortunatenutrition.com
 0.0.0.0 thefreeiphoneunlock.com
 0.0.0.0 theft4me.com
@@ -34602,6 +34625,7 @@
 0.0.0.0 vstaner.com
 0.0.0.0 vsteepo.com
 0.0.0.0 vstet.com
+0.0.0.0 vstonev.com
 0.0.0.0 vstop3.com
 0.0.0.0 vstreev.com
 0.0.0.0 vstrk.com
@@ -34971,6 +34995,7 @@
 0.0.0.0 whereismybonus.com
 0.0.0.0 whereismyhand.com
 0.0.0.0 whereisthehat.com
+0.0.0.0 wheripsupi.com
 0.0.0.0 whexamipta.com
 0.0.0.0 whiceega.com
 0.0.0.0 whimsoplynx.com
@@ -35396,6 +35421,7 @@
 0.0.0.0 xamaptapsu.com
 0.0.0.0 xameleonads.com
 0.0.0.0 xandygiveaway.com
+0.0.0.0 xaokiotravel.com
 0.0.0.0 xapads.com
 0.0.0.0 xaxis.com
 0.0.0.0 xaxoro.com
@@ -35929,6 +35955,7 @@
 0.0.0.0 yjaobumyovp.com
 0.0.0.0 yjnqrbfnocy.com
 0.0.0.0 yjyjnolllezo.com
+0.0.0.0 ykcoijcfpzda.com
 0.0.0.0 ykrssqaufg.com
 0.0.0.0 yldbt.com
 0.0.0.0 ylem222.com
@@ -36077,6 +36104,7 @@
 0.0.0.0 yourglobaldating.com
 0.0.0.0 yourgreatestsmartphone.com
 0.0.0.0 yourhandytips.com
+0.0.0.0 yourhealmyheal.com
 0.0.0.0 yourhitstats.com
 0.0.0.0 yourhoney-dreamgirl3.com
 0.0.0.0 yourhot-casualdating1.com
@@ -36296,6 +36324,7 @@
 0.0.0.0 ziffdavisinternet.com
 0.0.0.0 zifjgjddpy.com
 0.0.0.0 zijaipse.com
+0.0.0.0 zikroarg.com
 0.0.0.0 zilliaq.com
 0.0.0.0 zim-zim-zam.com
 0.0.0.0 zina-boutique.com
@@ -46264,6 +46293,7 @@
 0.0.0.0 www.ccswpsvc.com
 0.0.0.0 a.cctv.com
 0.0.0.0 ad.cctv.com
+0.0.0.0 p.data.cctv.com
 0.0.0.0 go.cdata.com
 0.0.0.0 www.cdctny.com
 0.0.0.0 mdws.cdcu.com
@@ -102607,6 +102637,7 @@
 0.0.0.0 bezpieczny-zakup.name
 0.0.0.0 byu.name
 0.0.0.0 cromo.name
+0.0.0.0 cuculf.name
 0.0.0.0 dendrito.name
 0.0.0.0 diablo.name
 0.0.0.0 directpaper.name
@@ -103014,6 +103045,7 @@
 0.0.0.0 agp-one.net
 0.0.0.0 agt.net
 0.0.0.0 agukalty.net
+0.0.0.0 agurgeed.net
 0.0.0.0 ahealthieryou.net
 0.0.0.0 ai.net
 0.0.0.0 ailrouno.net
@@ -104493,6 +104525,7 @@
 0.0.0.0 marketo.net
 0.0.0.0 marvelwarofheroeshack.net
 0.0.0.0 matchaix.net
+0.0.0.0 mauchopt.net
 0.0.0.0 mauzobou.net
 0.0.0.0 mavq.net
 0.0.0.0 maximiser.net
@@ -139847,6 +139880,7 @@
 0.0.0.0 n-ad.work
 0.0.0.0 naswiecie.work
 0.0.0.0 nofreezingmac.work
+0.0.0.0 nudercodaclot.work
 0.0.0.0 olx-offerta.work
 0.0.0.0 olxp-getpay.work
 0.0.0.0 olxpgetpay.work
