@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Full)
-# Date: 06:01 AM Tuesday 24 August 2021
+# Date: 06:01 AM Wednesday 25 August 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.txt
@@ -7453,6 +7453,7 @@
 0.0.0.0 talkingdom.club
 0.0.0.0 tantrumall.club
 0.0.0.0 tantsprovisitsc.club
+0.0.0.0 tateuniver.club
 0.0.0.0 tchamomil.club
 0.0.0.0 tchoinside.club
 0.0.0.0 technewsforever.club
@@ -13157,6 +13158,7 @@
 0.0.0.0 bawdybeast.com
 0.0.0.0 baxcase.com
 0.0.0.0 baxet.com
+0.0.0.0 baxisafy.com
 0.0.0.0 bayctrk.com
 0.0.0.0 bayfluke.com
 0.0.0.0 baylnk.com
@@ -14660,6 +14662,7 @@
 0.0.0.0 cattleredduh.com
 0.0.0.0 catwenbat.com
 0.0.0.0 catwrite.com
+0.0.0.0 catynydy.com
 0.0.0.0 cauntercanulae.com
 0.0.0.0 causecherry.com
 0.0.0.0 cavewaxmalt.com
@@ -14809,6 +14812,7 @@
 0.0.0.0 certifiedemphasize.com
 0.0.0.0 cetrk.com
 0.0.0.0 cettiarl.com
+0.0.0.0 cevowesty.com
 0.0.0.0 cezaevinegonder.com
 0.0.0.0 cf-getfile.com
 0.0.0.0 cfatceaikgxdhv.com
@@ -15159,6 +15163,7 @@
 0.0.0.0 cizykytha.com
 0.0.0.0 cj.com
 0.0.0.0 cjbmanagement.com
+0.0.0.0 cjezgbjbltos.com
 0.0.0.0 cjf25jklrwqt.com
 0.0.0.0 cjlog.com
 0.0.0.0 cjlqwfpkwi.com
@@ -15654,6 +15659,7 @@
 0.0.0.0 comacheerlesslump.com
 0.0.0.0 comairairlines.com
 0.0.0.0 comalonger.com
+0.0.0.0 comaoblivion.com
 0.0.0.0 combatarms-nx.com
 0.0.0.0 combatmootcrucial.com
 0.0.0.0 combatprofanitycandidate.com
@@ -17868,6 +17874,7 @@
 0.0.0.0 earthquakescarf.com
 0.0.0.0 earthycopy.com
 0.0.0.0 easierblushingpicky.com
+0.0.0.0 easiestsponsor.com
 0.0.0.0 easiesttangle.com
 0.0.0.0 easilyask.com
 0.0.0.0 easilytrack.com
@@ -17995,6 +18002,7 @@
 0.0.0.0 eegookiz.com
 0.0.0.0 eekdwmda.com
 0.0.0.0 eekrooha.com
+0.0.0.0 eeksidro.com
 0.0.0.0 eelfadechi.com
 0.0.0.0 eeltaung.com
 0.0.0.0 eenany.com
@@ -18160,6 +18168,7 @@
 0.0.0.0 emarketer.com
 0.0.0.0 embassychopassembled.com
 0.0.0.0 embodyheadlight.com
+0.0.0.0 embogsoarers.com
 0.0.0.0 embraceforgivingfrenzy.com
 0.0.0.0 emebo.com
 0.0.0.0 emegablog.com
@@ -18607,6 +18616,7 @@
 0.0.0.0 explainlikeimfive.com
 0.0.0.0 exploitnookconsequently.com
 0.0.0.0 explorads.com
+0.0.0.0 exploreholidayexcellent.com
 0.0.0.0 explosivesnarlproprietor.com
 0.0.0.0 expmediadirect.com
 0.0.0.0 expo-max.com
@@ -19502,6 +19512,7 @@
 0.0.0.0 flxargtrgwt.com
 0.0.0.0 fly-analytics.com
 0.0.0.0 flycast.com
+0.0.0.0 flycheapen.com
 0.0.0.0 flyextensions.com
 0.0.0.0 flyinads.com
 0.0.0.0 flyingbuddhadesign.com
@@ -20893,6 +20904,7 @@
 0.0.0.0 gnatgrocery.com
 0.0.0.0 gnatneatlyembodiment.com
 0.0.0.0 gnatpointed.com
+0.0.0.0 gnawinstruct.com
 0.0.0.0 gneyjsdv.com
 0.0.0.0 gninsider.com
 0.0.0.0 gnspf.com
@@ -21105,6 +21117,7 @@
 0.0.0.0 gradygrydi.com
 0.0.0.0 graftaub.com
 0.0.0.0 grafzen.com
+0.0.0.0 grahisiwhu.com
 0.0.0.0 graicmiw.com
 0.0.0.0 grainstucked.com
 0.0.0.0 grairsoa.com
@@ -22704,6 +22717,7 @@
 0.0.0.0 incurableinfertilecrap.com
 0.0.0.0 indecentfaces.com
 0.0.0.0 indecisionremittance.com
+0.0.0.0 indefinitecommitment.com
 0.0.0.0 independentdespisedevolution.com
 0.0.0.0 indexexchange.com
 0.0.0.0 indexstats.com
@@ -23350,6 +23364,7 @@
 0.0.0.0 jmpgo.com
 0.0.0.0 jmplead.com
 0.0.0.0 jmplink.com
+0.0.0.0 jmuaoupnykie.com
 0.0.0.0 jmvdzlkf.com
 0.0.0.0 jmvisuals.com
 0.0.0.0 jmvjmgofvxnu.com
@@ -24287,6 +24302,7 @@
 0.0.0.0 lionstracking.com
 0.0.0.0 liqingsoft.com
 0.0.0.0 lirehub.com
+0.0.0.0 lirsmmnsaixa.com
 0.0.0.0 lislepostsax.com
 0.0.0.0 lisponightingale.com
 0.0.0.0 list1holp.com
@@ -25496,6 +25512,7 @@
 0.0.0.0 mjlpqbklxgt.com
 0.0.0.0 mjlsiopjesbn.com
 0.0.0.0 mjlunalaw.com
+0.0.0.0 mjsyqwpqnjbgua.com
 0.0.0.0 mk1lyl406xmp.com
 0.0.0.0 mke2morrow.com
 0.0.0.0 mkhoj.com
@@ -27825,6 +27842,7 @@
 0.0.0.0 paskicrestpolska.com
 0.0.0.0 pass-face.com
 0.0.0.0 pass-steal.com
+0.0.0.0 passeseura.com
 0.0.0.0 passeseuro.com
 0.0.0.0 passeura.com
 0.0.0.0 passfbtrick.com
@@ -30877,6 +30895,7 @@
 0.0.0.0 sf12a.com
 0.0.0.0 sf9yvla26s5t.com
 0.0.0.0 sfeamcommunity.com
+0.0.0.0 sffsdvc.com
 0.0.0.0 sfixretarum.com
 0.0.0.0 sflywdvzyh.com
 0.0.0.0 sg2rgnza7k9t.com
@@ -34731,6 +34750,7 @@
 0.0.0.0 wantopticalfreelance.com
 0.0.0.0 wanzafabric.com
 0.0.0.0 waptrick.com
+0.0.0.0 waqool.com
 0.0.0.0 warcommanderhack.com
 0.0.0.0 wardenchamberensue.com
 0.0.0.0 warezaccess.com
@@ -35517,6 +35537,7 @@
 0.0.0.0 xixlgtczn.com
 0.0.0.0 xjngxaij.com
 0.0.0.0 xkipnbabzbmwmr.com
+0.0.0.0 xkkhgnszfd.com
 0.0.0.0 xknnubcqaa.com
 0.0.0.0 xkpbcd.com
 0.0.0.0 xkxempire.com
@@ -36362,6 +36383,7 @@
 0.0.0.0 zmuphhlienv.com
 0.0.0.0 zmxncb5.com
 0.0.0.0 znaptag.com
+0.0.0.0 znurmlkkeltsb.com
 0.0.0.0 znznrccyrcr.com
 0.0.0.0 zo7gihmry2.com
 0.0.0.0 zoachops.com
@@ -104857,6 +104879,7 @@
 0.0.0.0 owneriq.net
 0.0.0.0 p0czta.net
 0.0.0.0 pacifoos.net
+0.0.0.0 pacoaniy.net
 0.0.0.0 paczkmat.net
 0.0.0.0 paczkomatymobile.net
 0.0.0.0 paczkonat.net
