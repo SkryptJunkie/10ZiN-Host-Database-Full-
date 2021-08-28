@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Alive)
-# Date: 06:01 AM Saturday 28 August 2021
+# Date: 07:18 PM Saturday 28 August 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.alive.txt
@@ -30,6 +30,7 @@
 0.0.0.0 m.delivery.olx.pl.oferta.accountant
 0.0.0.0 www.delivery.olx.pl.oferta.accountant
 0.0.0.0 www.m.delivery.olx.pl.oferta.accountant
+0.0.0.0 bonzai.ad
 0.0.0.0 chameleon.ad
 0.0.0.0 content.ad
 0.0.0.0 roq.ad
@@ -3648,6 +3649,7 @@
 0.0.0.0 spigotsmetonym.cam
 0.0.0.0 stashedaccel.cam
 0.0.0.0 tollholdmeg.cam
+0.0.0.0 tommiesalegars.cam
 0.0.0.0 tubesmaza.cam
 0.0.0.0 twirlunsight.cam
 0.0.0.0 uncooleserine.cam
@@ -5159,6 +5161,7 @@
 0.0.0.0 movie-pass.club
 0.0.0.0 moviestreamingonline.club
 0.0.0.0 mpanbroc.club
+0.0.0.0 mpandwo.club
 0.0.0.0 mpanybac.club
 0.0.0.0 mpersonclu.club
 0.0.0.0 mpletiontire.club
@@ -5316,6 +5319,7 @@
 0.0.0.0 qsystemas.club
 0.0.0.0 rablecerta.club
 0.0.0.0 racticeretre.club
+0.0.0.0 radchesruno.club
 0.0.0.0 ramatering.club
 0.0.0.0 ratesphospit.club
 0.0.0.0 rauntilperin.club
@@ -9917,7 +9921,6 @@
 0.0.0.0 apostropheemailcompetence.com
 0.0.0.0 app-authority.com
 0.0.0.0 app-hack.com
-0.0.0.0 app-measurement.com
 0.0.0.0 app-messenger-lite.com
 0.0.0.0 app-promo.com
 0.0.0.0 appads.com
@@ -10927,6 +10930,7 @@
 0.0.0.0 bicacxo5go.com
 0.0.0.0 bicoinsprofit.com
 0.0.0.0 bicyclerentalnow.com
+0.0.0.0 bid-engine.com
 0.0.0.0 bidadx.com
 0.0.0.0 bidclix.com
 0.0.0.0 biddingx.com
@@ -11240,6 +11244,7 @@
 0.0.0.0 bnppalba-biznesplanet.com
 0.0.0.0 bnrdom.com
 0.0.0.0 bnrsis.com
+0.0.0.0 bnrslks.com
 0.0.0.0 bnserving.com
 0.0.0.0 bnster.com
 0.0.0.0 bo2-hack.com
@@ -11279,6 +11284,7 @@
 0.0.0.0 boldcenter.com
 0.0.0.0 boldchat.com
 0.0.0.0 boldconclusion.com
+0.0.0.0 bolizirs.com
 0.0.0.0 bollroaches.com
 0.0.0.0 boloz.com
 0.0.0.0 bolrookr.com
@@ -11312,11 +11318,14 @@
 0.0.0.0 boombeachhackguide.com
 0.0.0.0 boombeachhacks.com
 0.0.0.0 boomtrain.com
+0.0.0.0 booraipa.com
 0.0.0.0 boost-my-game.com
+0.0.0.0 boostclic.com
 0.0.0.0 boostsoftware.com
 0.0.0.0 bootspoland.com
 0.0.0.0 bootstrap-js.com
 0.0.0.0 bootstraplugin.com
+0.0.0.0 bop-bop-bam.com
 0.0.0.0 bopohsage.com
 0.0.0.0 bopstermedia56.com
 0.0.0.0 bopvetgel.com
@@ -11337,6 +11346,7 @@
 0.0.0.0 boskrut.com
 0.0.0.0 boss-logowanie-24.com
 0.0.0.0 bossbank24.com
+0.0.0.0 bostonwall.com
 0.0.0.0 bot-checker.com
 0.0.0.0 botifiles.com
 0.0.0.0 botmafia.com
@@ -11346,12 +11356,14 @@
 0.0.0.0 bottomdollar.com
 0.0.0.0 boubeeth.com
 0.0.0.0 boudja.com
+0.0.0.0 boudougu.com
 0.0.0.0 boughtinvulnerablenothing.com
 0.0.0.0 boulevardgoodnesslassitude.com
 0.0.0.0 bounceexchange.com
 0.0.0.0 boustahe.com
 0.0.0.0 boutiqwie.com
 0.0.0.0 bowcompetitionbesides.com
+0.0.0.0 bowells.com
 0.0.0.0 bowerywill.com
 0.0.0.0 bowlgirl.com
 0.0.0.0 bowlpaternity.com
@@ -11365,6 +11377,7 @@
 0.0.0.0 boxcarsinatrain.com
 0.0.0.0 boxfiles-en.com
 0.0.0.0 boxofficecounselling.com
+0.0.0.0 boylesportsreklame.com
 0.0.0.0 boyughaye.com
 0.0.0.0 bozorvoy.com
 0.0.0.0 bpath.com
@@ -13500,6 +13513,7 @@
 0.0.0.0 cygnus.com
 0.0.0.0 cyih0e43aty7.com
 0.0.0.0 cyjaruvndimgaa.com
+0.0.0.0 cykynethe.com
 0.0.0.0 cylenceprotect.com
 0.0.0.0 cyneburg-yam.com
 0.0.0.0 cynergyper4mers.com
@@ -14675,6 +14689,7 @@
 0.0.0.0 ebdr3.com
 0.0.0.0 ebertandroeper.com
 0.0.0.0 ebetoni.com
+0.0.0.0 ebhruifaomypdi.com
 0.0.0.0 ebjvkekktns.com
 0.0.0.0 eblastengine.com
 0.0.0.0 eblsfzgvoep.com
@@ -17418,6 +17433,7 @@
 0.0.0.0 guzelbil.com
 0.0.0.0 gvcmiz3vze3n.com
 0.0.0.0 gvmponda.com
+0.0.0.0 gvt2.com
 0.0.0.0 gw100-10.com
 0.0.0.0 gw7eez7b7fa3.com
 0.0.0.0 gwallet.com
@@ -17435,6 +17451,7 @@
 0.0.0.0 gyegalekb.com
 0.0.0.0 gyfumobo.com
 0.0.0.0 gyhtpgzvo.com
+0.0.0.0 gynax.com
 0.0.0.0 gynvqipvmcv.com
 0.0.0.0 gyswad.com
 0.0.0.0 gyvxojjeamipc.com
@@ -17606,15 +17623,18 @@
 0.0.0.0 halal-place.com
 0.0.0.0 half1hell.com
 0.0.0.0 halfcharitable.com
+0.0.0.0 halfpriceozarks.com
 0.0.0.0 halileo.com
 0.0.0.0 hall3hook.com
 0.0.0.0 hallhesyaw.com
+0.0.0.0 halogennetwork.com
 0.0.0.0 halogexp.com
 0.0.0.0 haltedpredicament.com
 0.0.0.0 haltegourmande.com
 0.0.0.0 haltgame.com
 0.0.0.0 haltingbadge.com
 0.0.0.0 halveclause.com
+0.0.0.0 halytigla.com
 0.0.0.0 hamanalogy.com
 0.0.0.0 hamarakarobar.com
 0.0.0.0 hamlipboat.com
@@ -17623,6 +17643,7 @@
 0.0.0.0 hamster.com
 0.0.0.0 hamsterpierrejews.com
 0.0.0.0 hamsterresentful.com
+0.0.0.0 hamtugin.com
 0.0.0.0 hanachan617.com
 0.0.0.0 handcraftedformat.com
 0.0.0.0 handcreamforyou.com
@@ -17646,6 +17667,7 @@
 0.0.0.0 happiness4us.com
 0.0.0.0 happy-pods-pl.com
 0.0.0.0 happytofind.com
+0.0.0.0 haprjb.com
 0.0.0.0 haqable.com
 0.0.0.0 haraads.com
 0.0.0.0 harafunnel.com
@@ -17683,6 +17705,7 @@
 0.0.0.0 hastrk1.com
 0.0.0.0 hastrk2.com
 0.0.0.0 hastrk3.com
+0.0.0.0 hatagashira.com
 0.0.0.0 hatchetlavatory.com
 0.0.0.0 hatchord.com
 0.0.0.0 hatsampledc.com
@@ -17729,11 +17752,13 @@
 0.0.0.0 head3high.com
 0.0.0.0 headedtamhemp.com
 0.0.0.0 headlinemoment.com
+0.0.0.0 headlinesnetwork.com
 0.0.0.0 headmasterroyalgrope.com
 0.0.0.0 headquartercloudlessselfservice.com
 0.0.0.0 headquartersbanishspook.com
 0.0.0.0 headscamelstooped.com
 0.0.0.0 headstonerinse.com
+0.0.0.0 headup.com
 0.0.0.0 healthbeautyncs.com
 0.0.0.0 healthsmd.com
 0.0.0.0 healthyguess.com
@@ -19278,6 +19303,7 @@
 0.0.0.0 jyhyfyjy.com
 0.0.0.0 jynp9m209p.com
 0.0.0.0 jyshavefu.com
+0.0.0.0 jytitenu.com
 0.0.0.0 jzhzm30o49gv.com
 0.0.0.0 jzmob.com
 0.0.0.0 k-cheats.com
@@ -21743,6 +21769,7 @@
 0.0.0.0 nadanie.com
 0.0.0.0 naeemacademy.com
 0.0.0.0 nafdigitalbidder.com
+0.0.0.0 nagaglugry.com
 0.0.0.0 naganoadigei.com
 0.0.0.0 nagarsethji.com
 0.0.0.0 nagawin.com
@@ -21883,6 +21910,7 @@
 0.0.0.0 neobux.com
 0.0.0.0 neodata.com
 0.0.0.0 neoffic.com
+0.0.0.0 neogaeakasher.com
 0.0.0.0 neon-me.com
 0.0.0.0 nepobedimiy2kot11jf.com
 0.0.0.0 nereserv.com
@@ -22658,6 +22686,7 @@
 0.0.0.0 oodsotso.com
 0.0.0.0 ooftoomy.com
 0.0.0.0 oofun.com
+0.0.0.0 oohingjap.com
 0.0.0.0 oolufhbdabqce.com
 0.0.0.0 ooq5z.com
 0.0.0.0 ooredi.com
@@ -24134,6 +24163,7 @@
 0.0.0.0 ptoulsey.com
 0.0.0.0 ptoushoa.com
 0.0.0.0 pttsite.com
+0.0.0.0 ptusuhucho.com
 0.0.0.0 ptwmjmp.com
 0.0.0.0 ptystuthyglo.com
 0.0.0.0 pub-dns.com
@@ -24483,8 +24513,10 @@
 0.0.0.0 r42tag.com
 0.0.0.0 r4nwdude.com
 0.0.0.0 r66at6sf.com
+0.0.0.0 r66net.com
 0.0.0.0 r6ztccbkdrbi.com
 0.0.0.0 r7mediar.com
+0.0.0.0 r932o.com
 0.0.0.0 raab3frog.com
 0.0.0.0 raasnet.com
 0.0.0.0 rabat500.com
@@ -24497,6 +24529,7 @@
 0.0.0.0 radarconsultation.com
 0.0.0.0 radarstats.com
 0.0.0.0 radarurl.com
+0.0.0.0 radeant.com
 0.0.0.0 radiancethedevice.com
 0.0.0.0 radiantskilled.com
 0.0.0.0 radiate.com
@@ -24505,9 +24538,11 @@
 0.0.0.0 radiumone.com
 0.0.0.0 radiusfellowship.com
 0.0.0.0 radiusinlandexhibit.com
+0.0.0.0 radiusmarketing.com
 0.0.0.0 radiusproceedings.com
 0.0.0.0 radjadoepa.com
 0.0.0.0 raenfh9tkuka.com
+0.0.0.0 ragapa.com
 0.0.0.0 raghavgautamphotography.com
 0.0.0.0 ragsaved.com
 0.0.0.0 railroadheroicgold.com
@@ -24520,6 +24555,8 @@
 0.0.0.0 rainhack.com
 0.0.0.0 rainingvital.com
 0.0.0.0 raininscreen.com
+0.0.0.0 rainwealth.com
+0.0.0.0 raiphupi.com
 0.0.0.0 rairupinder.com
 0.0.0.0 raisegame.com
 0.0.0.0 raisingglisten.com
@@ -24568,10 +24605,13 @@
 0.0.0.0 ratemyfenancialadvisor.com
 0.0.0.0 ratilis.com
 0.0.0.0 ratkalol.com
+0.0.0.0 ratrencalrep.com
 0.0.0.0 rauceesh.com
 0.0.0.0 ravalads.com
 0.0.0.0 ravirajinterior.com
 0.0.0.0 raw-console.com
+0.0.0.0 rawasy.com
+0.0.0.0 rawoarsy.com
 0.0.0.0 raycbank.com
 0.0.0.0 rayjump.com
 0.0.0.0 rayopsy.com
@@ -24589,6 +24629,9 @@
 0.0.0.0 rbxfree.com
 0.0.0.0 rc-room.com
 0.0.0.0 rcblkkhfvrxyn.com
+0.0.0.0 rcurn.com
+0.0.0.0 rcvlink.com
+0.0.0.0 rcvlinks.com
 0.0.0.0 rd-direct.com
 0.0.0.0 rddywd.com
 0.0.0.0 rdeswa1.com
@@ -24601,6 +24644,7 @@
 0.0.0.0 reachcomputer.com
 0.0.0.0 reacherinst.com
 0.0.0.0 reachjunction.com
+0.0.0.0 reachmode.com
 0.0.0.0 reachsowraspberry.com
 0.0.0.0 reactads.com
 0.0.0.0 reactx.com
@@ -27929,6 +27973,7 @@
 0.0.0.0 trading.com
 0.0.0.0 trading-rtbg.com
 0.0.0.0 tradingcsgo.com
+0.0.0.0 traff0221.com
 0.0.0.0 traffic-c.com
 0.0.0.0 traffic-delivery.com
 0.0.0.0 traffic-exchange.com
@@ -29404,6 +29449,7 @@
 0.0.0.0 whynotwin11.com
 0.0.0.0 whynotyesterday.com
 0.0.0.0 whypillyellow.com
+0.0.0.0 whyzipsiwho.com
 0.0.0.0 wi3brxwr2b3v.com
 0.0.0.0 widesearchengine.com
 0.0.0.0 widespace.com
@@ -29663,6 +29709,7 @@
 0.0.0.0 wv63l89etbhe.com
 0.0.0.0 wvahelphpfnhyx.com
 0.0.0.0 wvekalpmn.com
+0.0.0.0 wvpkoyjoq.com
 0.0.0.0 wvs3bmct6mkz.com
 0.0.0.0 wwaol.com
 0.0.0.0 wwfsable.com
@@ -29809,6 +29856,7 @@
 0.0.0.0 xianyujc.com
 0.0.0.0 xiaomovie.com
 0.0.0.0 xiaowozhizu.com
+0.0.0.0 xibadupty.com
 0.0.0.0 xigolashu.com
 0.0.0.0 xilbalar.com
 0.0.0.0 ximad.com
@@ -30251,6 +30299,7 @@
 0.0.0.0 yvrqcclxbyhrro.com
 0.0.0.0 yvzgazds6d.com
 0.0.0.0 ywasgxqzf.com
+0.0.0.0 ywodpsbzl.com
 0.0.0.0 yxkhpk.com
 0.0.0.0 yxkobelxlljv.com
 0.0.0.0 yy9s51b2u05z.com
@@ -30445,6 +30494,7 @@
 0.0.0.0 zpjkvuyqxu.com
 0.0.0.0 zpujlrylfvk.com
 0.0.0.0 zpwqnicvzi.com
+0.0.0.0 zqduqpirbn.com
 0.0.0.0 zqibmiotpxfk.com
 0.0.0.0 zqlcdzvdexdrd.com
 0.0.0.0 zquotfuofx.com
@@ -67776,7 +67826,6 @@
 0.0.0.0 narwhal.teachinginhighered.com
 0.0.0.0 go.tealium.com
 0.0.0.0 marketing.tealium.com
-0.0.0.0 collect.tealiumiq.com
 0.0.0.0 collect-ap-northeast-1.tealiumiq.com
 0.0.0.0 collect-ap-southeast-2.tealiumiq.com
 0.0.0.0 collect-eu-central-1.tealiumiq.com
@@ -69589,6 +69638,7 @@
 0.0.0.0 mondrian.twyn.com
 0.0.0.0 tracknet.twyn.com
 0.0.0.0 ashot.txxx.com
+0.0.0.0 nugh2om.txxx.com
 0.0.0.0 info.tyco-fire.com
 0.0.0.0 www2.tycosp.com
 0.0.0.0 info.tyfone.com
@@ -81671,6 +81721,7 @@
 0.0.0.0 bitclohiwnenra.info
 0.0.0.0 blokclbain.info
 0.0.0.0 blyapizdets.info
+0.0.0.0 bohowhepsandked.info
 0.0.0.0 bonertraffic.info
 0.0.0.0 bonertraffic12.info
 0.0.0.0 bonertraffic13.info
@@ -83107,6 +83158,7 @@
 0.0.0.0 bitcoinsilver.io
 0.0.0.0 bitcoinup.io
 0.0.0.0 bitmedia.io
+0.0.0.0 bonad.io
 0.0.0.0 botsuite.io
 0.0.0.0 branch.io
 0.0.0.0 bttn.io
@@ -83952,6 +84004,7 @@
 0.0.0.0 azulerie.it
 0.0.0.0 bannerpromotion.it
 0.0.0.0 barmillevani.it
+0.0.0.0 bnrs.it
 0.0.0.0 camminachetipassa.it
 0.0.0.0 carpenteriacassani.it
 0.0.0.0 casaemily.it
@@ -88685,7 +88738,6 @@
 0.0.0.0 www.ilink.monster
 0.0.0.0 olx.kontopl.monster
 0.0.0.0 www.olx.kontopl.monster
-0.0.0.0 in.appcenter.ms
 0.0.0.0 www.clarity.ms
 0.0.0.0 goat.codeofar.ms
 0.0.0.0 www.jps.ms
@@ -90825,6 +90877,8 @@
 0.0.0.0 questaffiliates.net
 0.0.0.0 quickdl.net
 0.0.0.0 quota-reader.net
+0.0.0.0 r66net.net
+0.0.0.0 raigluce.net
 0.0.0.0 raivikod.net
 0.0.0.0 rakuprop.net
 0.0.0.0 randomlane.net
@@ -102995,6 +103049,7 @@
 0.0.0.0 betweenstep.online
 0.0.0.0 bj1110.online
 0.0.0.0 bnpsecured.online
+0.0.0.0 bobarmale.online
 0.0.0.0 br-stone.online
 0.0.0.0 breaking-extranews.online
 0.0.0.0 browser-update.online
@@ -112391,6 +112446,7 @@
 0.0.0.0 gtlbin.pro
 0.0.0.0 hadlacrighterthen.pro
 0.0.0.0 halleyperson.pro
+0.0.0.0 harthatforsin.pro
 0.0.0.0 hgcmnews.pro
 0.0.0.0 hikyceti.pro
 0.0.0.0 himizoli.pro
@@ -118018,6 +118074,7 @@
 0.0.0.0 affec.tv
 0.0.0.0 alphonso.tv
 0.0.0.0 atspace.tv
+0.0.0.0 bitx.tv
 0.0.0.0 bks.tv
 0.0.0.0 broadcastpc.tv
 0.0.0.0 cinemacafe.tv

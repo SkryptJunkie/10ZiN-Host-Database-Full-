@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:01 AM Saturday 28 August 2021
+# Date: 07:18 PM Saturday 28 August 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -129,6 +129,7 @@
 0.0.0.0 counter.uq.edu.au
 0.0.0.0 b.turbo.az
 0.0.0.0 most.cob.net.ba
+0.0.0.0 bounce.bar
 0.0.0.0 datingfinder.bar
 0.0.0.0 kontospls.bar
 0.0.0.0 m-olx.bar
@@ -2867,6 +2868,7 @@
 0.0.0.0 boombeachtricks.com
 0.0.0.0 boombeachunlimited.com
 0.0.0.0 boostgamble.com
+0.0.0.0 boostshow.com
 0.0.0.0 boss-cheats-games.com
 0.0.0.0 bostonsubwayoffer.com
 0.0.0.0 botsdownload.com
