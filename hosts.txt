@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Full)
-# Date: 07:18 PM Saturday 28 August 2021
+# Date: 06:01 AM Sunday 29 August 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.txt
@@ -10821,6 +10821,7 @@
 0.0.0.0 activeboard.com
 0.0.0.0 activebuddy.com
 0.0.0.0 activehacks.com
+0.0.0.0 activemetering.com
 0.0.0.0 activeoffbracelet.com
 0.0.0.0 activesecurityshield.com
 0.0.0.0 activexmediaobject.com
@@ -16152,6 +16153,7 @@
 0.0.0.0 convertro.com
 0.0.0.0 convertwordtoexcel.com
 0.0.0.0 convincedsponsorshipenemy.com
+0.0.0.0 conviva.com
 0.0.0.0 conyak.com
 0.0.0.0 coocomall.com
 0.0.0.0 cookevegas.com
@@ -22577,6 +22579,7 @@
 0.0.0.0 hrsstrokecocoon.com
 0.0.0.0 hrtya.com
 0.0.0.0 hrtye.com
+0.0.0.0 hrzn-nxt.com
 0.0.0.0 hs-banner.com
 0.0.0.0 hs-sites.com
 0.0.0.0 hsb-canada.com
@@ -23013,6 +23016,7 @@
 0.0.0.0 imqrxkarp.com
 0.0.0.0 imrworldwide.com
 0.0.0.0 imstks.com
+0.0.0.0 imtwjwoasak.com
 0.0.0.0 imuweb.com
 0.0.0.0 imvu-credits-hack.com
 0.0.0.0 imvubuzz.com
@@ -31218,6 +31222,7 @@
 0.0.0.0 sefowaid.com
 0.0.0.0 sega-rom.com
 0.0.0.0 segment.com
+0.0.0.0 segmentapis.com
 0.0.0.0 seguro-ibercaja.com
 0.0.0.0 seitentipp.com
 0.0.0.0 seizedbraggingdeceptive.com
@@ -38252,6 +38257,7 @@
 0.0.0.0 www.activeindexer.com
 0.0.0.0 www3.activeinternational.com
 0.0.0.0 www.activemeter.com
+0.0.0.0 track.activemetering.com
 0.0.0.0 metrics.activenetwork.com
 0.0.0.0 smetrics.activenetwork.com
 0.0.0.0 go.activengage.com
@@ -41067,6 +41073,8 @@
 0.0.0.0 metrics.aetn.com
 0.0.0.0 smetrics.aetn.com
 0.0.0.0 strack.aetnafeds.com
+0.0.0.0 pulse.svod.aetnd.com
+0.0.0.0 insights.vip.aetnd.com
 0.0.0.0 sourcepoint-mms.aetv.com
 0.0.0.0 links.e.aetv.com
 0.0.0.0 links.em.aetv.com
@@ -41826,6 +41834,7 @@
 0.0.0.0 adsk-pnxproxy-prd-1753980530.us-east-1.elb.amazonaws.com
 0.0.0.0 analytics-collector-28944298.us-east-1.elb.amazonaws.com
 0.0.0.0 audience-164723144.us-east-1.elb.amazonaws.com
+0.0.0.0 detailed-ad-logger-load-balancer-561104410.us-east-1.elb.amazonaws.com
 0.0.0.0 engagement-bus-prod-713264365.us-east-1.elb.amazonaws.com
 0.0.0.0 log-collectors-73517960.us-east-1.elb.amazonaws.com
 0.0.0.0 lynx-prod-beacon-alb-498367235.us-east-1.elb.amazonaws.com
@@ -59391,6 +59400,7 @@
 0.0.0.0 hotel-marketing.hrs.com
 0.0.0.0 sosc.hrs.com
 0.0.0.0 c.hrzn-nxt.com
+0.0.0.0 hmi-hershey.hrzn-nxt.com
 0.0.0.0 js.hs-scripts.com
 0.0.0.0 info.hsabank.com
 0.0.0.0 insight.business.hsbc.com
@@ -63712,6 +63722,7 @@
 0.0.0.0 tracking.lg.com
 0.0.0.0 ad.lgappstv.com
 0.0.0.0 ibis.lgappstv.com
+0.0.0.0 us.ibs.lgappstv.com
 0.0.0.0 www2.lgcgroup.com
 0.0.0.0 information.lgcns.com
 0.0.0.0 etc.lghausysusa.com
@@ -74076,7 +74087,10 @@
 0.0.0.0 hits.roitracker.com
 0.0.0.0 www.roitracker.com
 0.0.0.0 logs.roku.com
+0.0.0.0 p.ads.roku.com
 0.0.0.0 info.advertising.roku.com
+0.0.0.0 austin.logs.roku.com
+0.0.0.0 scribe.logs.roku.com
 0.0.0.0 go.rolanddg.com
 0.0.0.0 go.rolanddga.com
 0.0.0.0 metrics.rolex.com
@@ -75051,6 +75065,7 @@
 0.0.0.0 profiles.segment.com
 0.0.0.0 www.segment.com
 0.0.0.0 whitelabel-apricot.xid.segment.com
+0.0.0.0 silver-fir.cd.segmentapis.com
 0.0.0.0 cdn.segmentify.com
 0.0.0.0 dce1.segmentify.com
 0.0.0.0 dcetr4.segmentify.com
@@ -82112,6 +82127,7 @@
 0.0.0.0 videos.video-loader.com
 0.0.0.0 ads.videoadex.com
 0.0.0.0 ads.videoadvertising.com
+0.0.0.0 b.videoamp.com
 0.0.0.0 go.videoamp.com
 0.0.0.0 u.videoamp.com
 0.0.0.0 ads.videoaxs.com
@@ -97637,6 +97653,7 @@
 0.0.0.0 impression-east.liftoff.io
 0.0.0.0 impression-europe.liftoff.io
 0.0.0.0 stats.liist.io
+0.0.0.0 18lus0524edvcif1pa0hruc0e.litix.io
 0.0.0.0 www.livejasmin.io
 0.0.0.0 cdn.lodeo.io
 0.0.0.0 cdns.lodeo.io
@@ -117650,6 +117667,7 @@
 0.0.0.0 trendmicrojp.d2.sc.omtrdc.net
 0.0.0.0 truevalue.d2.sc.omtrdc.net
 0.0.0.0 upc.d2.sc.omtrdc.net
+0.0.0.0 fox.com.ssl.d2.sc.omtrdc.net
 0.0.0.0 1und1internetag.d3.sc.omtrdc.net
 0.0.0.0 aviraoperations.d3.sc.omtrdc.net
 0.0.0.0 centricabritishgas.d3.sc.omtrdc.net
@@ -139026,6 +139044,7 @@
 0.0.0.0 girls-chat.tv
 0.0.0.0 hackearfacebook.tv
 0.0.0.0 hananokai.tv
+0.0.0.0 ispot.tv
 0.0.0.0 kinostok.tv
 0.0.0.0 kinovod.tv
 0.0.0.0 kost.tv
@@ -139037,6 +139056,7 @@
 0.0.0.0 nativeroll.tv
 0.0.0.0 oceanvueweb.tv
 0.0.0.0 openwire.tv
+0.0.0.0 ravm.tv
 0.0.0.0 scnet.tv
 0.0.0.0 smartstream.tv
 0.0.0.0 spotx.tv
@@ -139140,6 +139160,8 @@
 0.0.0.0 a.fuel.tv
 0.0.0.0 image.garss.tv
 0.0.0.0 s.glimesh.tv
+0.0.0.0 adlog.ifood.tv
+0.0.0.0 log.ifood.tv
 0.0.0.0 www.ipuss.tv
 0.0.0.0 api.iris.tv
 0.0.0.0 ovp.iris.tv
@@ -139187,6 +139209,8 @@
 0.0.0.0 analytics.pogo.tv
 0.0.0.0 sanalytics.pogo.tv
 0.0.0.0 m.pl.pornzone.tv
+0.0.0.0 display.ravm.tv
+0.0.0.0 hb-t5u9.raps.ravm.tv
 0.0.0.0 sanalytics.raze.tv
 0.0.0.0 metrics.redbull.tv
 0.0.0.0 log.ren.tv
