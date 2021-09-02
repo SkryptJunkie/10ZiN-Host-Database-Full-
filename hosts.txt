@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Full)
-# Date: 06:01 AM Wednesday 01 September 2021
+# Date: 06:01 AM Thursday 02 September 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.txt
@@ -26,6 +26,7 @@
 0.0.0.0 eos.ac
 0.0.0.0 link.ac
 0.0.0.0 olx-banking.ac
+0.0.0.0 ad.animehub.ac
 0.0.0.0 mxsvjc.hackers.ac
 0.0.0.0 stiau.iuc.ac
 0.0.0.0 www.link.ac
@@ -7138,6 +7139,7 @@
 0.0.0.0 estersparat.club
 0.0.0.0 esumptive.club
 0.0.0.0 etacontralmi.club
+0.0.0.0 ethamake.club
 0.0.0.0 etoyourco.club
 0.0.0.0 ettyjokilint.club
 0.0.0.0 euncoordi.club
@@ -7207,6 +7209,7 @@
 0.0.0.0 gueselambe.club
 0.0.0.0 halospring.club
 0.0.0.0 hampionsfu.club
+0.0.0.0 haracteris.club
 0.0.0.0 haractice.club
 0.0.0.0 hastikapubli.club
 0.0.0.0 haviouseulom.club
@@ -13439,6 +13442,7 @@
 0.0.0.0 bannerware.com
 0.0.0.0 bannerweb.com
 0.0.0.0 banofusa.com
+0.0.0.0 banonemind.com
 0.0.0.0 banroads.com
 0.0.0.0 banstex.com
 0.0.0.0 banstockseldest.com
@@ -14758,6 +14762,7 @@
 0.0.0.0 bwvnmbhuuhalr.com
 0.0.0.0 bxczchdxynw.com
 0.0.0.0 bxkxzjdjxeexi.com
+0.0.0.0 bxsfvqhzj.com
 0.0.0.0 byagadget.com
 0.0.0.0 bycixeba.com
 0.0.0.0 bydst.com
@@ -15218,6 +15223,7 @@
 0.0.0.0 certified-toolbar.com
 0.0.0.0 certifiedemphasize.com
 0.0.0.0 cesto2014.com
+0.0.0.0 cestoshagli.com
 0.0.0.0 cetrk.com
 0.0.0.0 cettiarl.com
 0.0.0.0 cevowesty.com
@@ -16601,6 +16607,7 @@
 0.0.0.0 crepgate.com
 0.0.0.0 crestfallenwall.com
 0.0.0.0 cretgate.com
+0.0.0.0 crewelkain.com
 0.0.0.0 crezyhost.com
 0.0.0.0 cribdare2no.com
 0.0.0.0 cribsectstux.com
@@ -17858,6 +17865,7 @@
 0.0.0.0 doncedyhall.com
 0.0.0.0 donecooler.com
 0.0.0.0 donefordeal.com
+0.0.0.0 donescaffold.com
 0.0.0.0 donghobinhminh.com
 0.0.0.0 donglogs.com
 0.0.0.0 dongnaitw.com
@@ -18468,6 +18476,7 @@
 0.0.0.0 efeatasoy.com
 0.0.0.0 effacerevealing.com
 0.0.0.0 effectivebrand.com
+0.0.0.0 effectivecpmgate.com
 0.0.0.0 effectivedisplayformat.com
 0.0.0.0 effectivemeasure.com
 0.0.0.0 effectiveperformancenetwork.com
@@ -19080,6 +19089,7 @@
 0.0.0.0 expiredsession.com
 0.0.0.0 expiringdate.com
 0.0.0.0 explainlikeimfive.com
+0.0.0.0 explanationrecognise.com
 0.0.0.0 exploitnookconsequently.com
 0.0.0.0 explorads.com
 0.0.0.0 exploreholidayexcellent.com
@@ -19907,6 +19917,7 @@
 0.0.0.0 flamefolder.com
 0.0.0.0 flamefolders.com
 0.0.0.0 flamehacks.com
+0.0.0.0 flameorganizer.com
 0.0.0.0 flametraumatic.com
 0.0.0.0 flanknursepublished.com
 0.0.0.0 flappy-bird-cheats.com
@@ -21171,6 +21182,7 @@
 0.0.0.0 gethacknow.com
 0.0.0.0 gethacksfree.com
 0.0.0.0 gethackz.com
+0.0.0.0 getiluda.com
 0.0.0.0 getimpressed.com
 0.0.0.0 getintent.com
 0.0.0.0 getiton.com
@@ -21266,6 +21278,7 @@
 0.0.0.0 giftsformysubs.com
 0.0.0.0 gifttracker.com
 0.0.0.0 giftvouchersfree.com
+0.0.0.0 gigacpmserv.com
 0.0.0.0 gigafileshare.com
 0.0.0.0 gigaonclick.com
 0.0.0.0 giglucrative.com
@@ -21321,6 +21334,7 @@
 0.0.0.0 glassmilheart.com
 0.0.0.0 glasstaken.com
 0.0.0.0 glasswoollen.com
+0.0.0.0 glathycapto.com
 0.0.0.0 glauvoob.com
 0.0.0.0 glazegha.com
 0.0.0.0 glazinc.com
@@ -22554,6 +22568,7 @@
 0.0.0.0 hocgeese.com
 0.0.0.0 hockeybruinsteamshop.com
 0.0.0.0 hockeymusclebanged.com
+0.0.0.0 hofofici.com
 0.0.0.0 hogan44.com
 0.0.0.0 hoganpolska.com
 0.0.0.0 hoistchart.com
@@ -24196,6 +24211,7 @@
 0.0.0.0 ketofitnessexpert.com
 0.0.0.0 ketofitpatches.com
 0.0.0.0 kevabila.com
+0.0.0.0 kewhexethe.com
 0.0.0.0 kewlrank.com
 0.0.0.0 keybinary.com
 0.0.0.0 keyboardinvolvedspacious.com
@@ -24764,6 +24780,7 @@
 0.0.0.0 lgpumcja.com
 0.0.0.0 lgse.com
 0.0.0.0 lgw500.com
+0.0.0.0 lhhrupisllmy.com
 0.0.0.0 lhljbgevp.com
 0.0.0.0 lhs-3844b.com
 0.0.0.0 li9t691864th.com
@@ -25144,6 +25161,7 @@
 0.0.0.0 loudlycorrect.com
 0.0.0.0 loudmatch.com
 0.0.0.0 louis-360.com
+0.0.0.0 louloapi.com
 0.0.0.0 lounge-bot.com
 0.0.0.0 loungebots.com
 0.0.0.0 loungepatientlyprogramme.com
@@ -27392,6 +27410,7 @@
 0.0.0.0 ngastatic.com
 0.0.0.0 ngbbpwyrv.com
 0.0.0.0 ngbmrybpdtt.com
+0.0.0.0 ngjquyzjgcrupz.com
 0.0.0.0 ngkawai.com
 0.0.0.0 ngudjtrdcfwwn.com
 0.0.0.0 ngumyydbupv.com
@@ -28208,6 +28227,7 @@
 0.0.0.0 otherlevels.com
 0.0.0.0 otherossettlement.com
 0.0.0.0 otherprofit.com
+0.0.0.0 othonnabusaos.com
 0.0.0.0 otisblackfacts.com
 0.0.0.0 otisephie.com
 0.0.0.0 otlffresod.com
@@ -28450,6 +28470,7 @@
 0.0.0.0 panelbreed.com
 0.0.0.0 panelhizmetleri.com
 0.0.0.0 panickycurtain.com
+0.0.0.0 panickypancake.com
 0.0.0.0 panicshaggy.com
 0.0.0.0 pantherfaucetchoked.com
 0.0.0.0 pantin87.com
@@ -32403,6 +32424,7 @@
 0.0.0.0 songsrsuper.com
 0.0.0.0 sonic-skins.com
 0.0.0.0 sonicjailbreak.com
+0.0.0.0 sonlessmagmata.com
 0.0.0.0 sonobi.com
 0.0.0.0 sonovivi.com
 0.0.0.0 sonsitself.com
@@ -32874,6 +32896,7 @@
 0.0.0.0 stinkcomedian.com
 0.0.0.0 stipulatecontinue.com
 0.0.0.0 stitchkidney.com
+0.0.0.0 stizoolr.com
 0.0.0.0 stjosephconventhighschool.com
 0.0.0.0 stnitro.com
 0.0.0.0 stoaksie.com
@@ -35186,6 +35209,7 @@
 0.0.0.0 velocitycdn.com
 0.0.0.0 velti.com
 0.0.0.0 velvetrattle.com
+0.0.0.0 vemtoala.com
 0.0.0.0 venchainfoundation.com
 0.0.0.0 vendigamus.com
 0.0.0.0 vendnibtemp.com
@@ -35504,6 +35528,7 @@
 0.0.0.0 vstreev.com
 0.0.0.0 vstrk.com
 0.0.0.0 vstrot.com
+0.0.0.0 vstsevenev.com
 0.0.0.0 vsttwov.com
 0.0.0.0 vstwow.com
 0.0.0.0 vstzen.com
@@ -37081,6 +37106,7 @@
 0.0.0.0 yuanant.com
 0.0.0.0 yudexjr.com
 0.0.0.0 yuhuads.com
+0.0.0.0 yuhvjuedhcu.com
 0.0.0.0 yuibo.com
 0.0.0.0 yuilop.com
 0.0.0.0 yume.com
@@ -106121,6 +106147,7 @@
 0.0.0.0 chartbeat.net
 0.0.0.0 chatandgames.net
 0.0.0.0 chauksoa.net
+0.0.0.0 chaussew.net
 0.0.0.0 cheap-ads.net
 0.0.0.0 cheapmotelz.net
 0.0.0.0 cheaptransporting.net
@@ -108198,6 +108225,7 @@
 0.0.0.0 sonicjailbreak.net
 0.0.0.0 sonnerie.net
 0.0.0.0 soofeest.net
+0.0.0.0 sotchoft.net
 0.0.0.0 space-skins.net
 0.0.0.0 specially4u.net
 0.0.0.0 specificclick.net
@@ -145315,8 +145343,10 @@
 0.0.0.0 polskawiiadomosc.xyz
 0.0.0.0 polskiemiasto.xyz
 0.0.0.0 pomoc-online24.xyz
+0.0.0.0 popclow.xyz
 0.0.0.0 popjs.xyz
 0.0.0.0 popnet.xyz
+0.0.0.0 popwad.xyz
 0.0.0.0 popwow.xyz
 0.0.0.0 porntranslation.xyz
 0.0.0.0 porowok.xyz
