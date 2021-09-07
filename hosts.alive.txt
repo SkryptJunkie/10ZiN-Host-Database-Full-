@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Alive)
-# Date: 08:36 AM Monday 06 September 2021
+# Date: 06:01 AM Tuesday 07 September 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.alive.txt
@@ -895,6 +895,7 @@
 0.0.0.0 smetrics.citibank.com.au
 0.0.0.0 email.clearscore.com.au
 0.0.0.0 test.cliniconnect.com.au
+0.0.0.0 intent.cmo.com.au
 0.0.0.0 om.cnet.com.au
 0.0.0.0 action.conservationvolunteers.com.au
 0.0.0.0 event-api.contactatonce.com.au
@@ -970,6 +971,7 @@
 0.0.0.0 go.goldbullionaustralia.com.au
 0.0.0.0 metrics.goldcoastbulletin.com.au
 0.0.0.0 smetrics.gomastercard.com.au
+0.0.0.0 intent.goodgearguide.com.au
 0.0.0.0 adservice.google.com.au
 0.0.0.0 metrics.gq.com.au
 0.0.0.0 info.gradability.com.au
@@ -999,6 +1001,7 @@
 0.0.0.0 abmail2.e.hungryjacks.com.au
 0.0.0.0 www2.icumulus.com.au
 0.0.0.0 demo.idg.com.au
+0.0.0.0 intent.pcworld.idg.com.au
 0.0.0.0 info.ielts.com.au
 0.0.0.0 info.infotrack.com.au
 0.0.0.0 elqtrk.intel.com.au
@@ -4781,6 +4784,7 @@
 0.0.0.0 pl-zobacz2020.cloud
 0.0.0.0 polinstart.cloud
 0.0.0.0 stpd.cloud
+0.0.0.0 valuad.cloud
 0.0.0.0 wanchain.cloud
 0.0.0.0 web-security.cloud
 0.0.0.0 zdalna-praca.cloud
@@ -5691,11 +5695,13 @@
 0.0.0.0 uistspregna.club
 0.0.0.0 ularsecono.club
 0.0.0.0 ulppreciat.club
+0.0.0.0 umebiggestern.club
 0.0.0.0 umehoars.club
 0.0.0.0 uncilsdegr.club
 0.0.0.0 undayblogg.club
 0.0.0.0 undedfracted.club
 0.0.0.0 unfairliam.club
+0.0.0.0 ungstlateriag.club
 0.0.0.0 unificfancin.club
 0.0.0.0 uniformer.club
 0.0.0.0 uniformery.club
@@ -6599,6 +6605,7 @@
 0.0.0.0 addash.co
 0.0.0.0 adeal4u.co
 0.0.0.0 adk2.co
+0.0.0.0 adnext.co
 0.0.0.0 adop.co
 0.0.0.0 adpxl.co
 0.0.0.0 ads-fb.co
@@ -15542,6 +15549,7 @@
 0.0.0.0 examinerprospectsbutton.com
 0.0.0.0 exasked.com
 0.0.0.0 excdnrdsu.com
+0.0.0.0 exceedinglydiscovered.com
 0.0.0.0 excellenceads.com
 0.0.0.0 excellenthacks.com
 0.0.0.0 exceltechguru.com
@@ -15573,6 +15581,7 @@
 0.0.0.0 exi8ef83z9.com
 0.0.0.0 exilum.com
 0.0.0.0 existingpass.com
+0.0.0.0 existsobey.com
 0.0.0.0 exit-ad.com
 0.0.0.0 exit76.com
 0.0.0.0 exitdevil.com
@@ -18253,6 +18262,7 @@
 0.0.0.0 hidebux.com
 0.0.0.0 hidupsoo.com
 0.0.0.0 hig.com
+0.0.0.0 higherdebateplume.com
 0.0.0.0 highfalutinroom.com
 0.0.0.0 highlandroadcoc.com
 0.0.0.0 highlightextrahydrogen.com
@@ -25853,6 +25863,7 @@
 0.0.0.0 russianhackers.com
 0.0.0.0 russiantwinksecrets.com
 0.0.0.0 rustgator.com
+0.0.0.0 rusticprice.com
 0.0.0.0 rustleobtainedflute.com
 0.0.0.0 rustyellow.com
 0.0.0.0 ruth8badb.com
@@ -27183,6 +27194,7 @@
 0.0.0.0 spotlessweb.com
 0.0.0.0 spotofspawn.com
 0.0.0.0 spotsetcpar.com
+0.0.0.0 spottednoise.com
 0.0.0.0 spottyfly.com
 0.0.0.0 spotxchange.com
 0.0.0.0 sprcoin.com
@@ -28697,6 +28709,7 @@
 0.0.0.0 transientdeteriorate.com
 0.0.0.0 transmittericilysunstroke.com
 0.0.0.0 transmitterremember.com
+0.0.0.0 trapasol.com
 0.0.0.0 trappdf.com
 0.0.0.0 trappist-1d.com
 0.0.0.0 trapsaminohut.com
@@ -28762,6 +28775,7 @@
 0.0.0.0 trendmd.com
 0.0.0.0 trendnews.com
 0.0.0.0 trendzstylish.com
+0.0.0.0 trenpyle.com
 0.0.0.0 trenu.com
 0.0.0.0 trfmxt.com
 0.0.0.0 trgdzkqsle.com
@@ -28782,9 +28796,11 @@
 0.0.0.0 tridentpercy.com
 0.0.0.0 triflelatch.com
 0.0.0.0 triflingbluffybluffy.com
+0.0.0.0 trigami.com
 0.0.0.0 triggerinstalls.com
 0.0.0.0 trikwindows.com
 0.0.0.0 trilns.com
+0.0.0.0 trimpur.com
 0.0.0.0 trimulianugraha.com
 0.0.0.0 tringotv.com
 0.0.0.0 trinityslantsummer.com
@@ -28806,8 +28822,10 @@
 0.0.0.0 trkinator.com
 0.0.0.0 trkingace.com
 0.0.0.0 trklnks.com
+0.0.0.0 trklvs.com
 0.0.0.0 trkn1.com
 0.0.0.0 trknths.com
+0.0.0.0 trkrdel.com
 0.0.0.0 trkrpoint.com
 0.0.0.0 trksrv44.com
 0.0.0.0 trksrv45.com
@@ -28820,6 +28838,7 @@
 0.0.0.0 trmnsite.com
 0.0.0.0 trmobc.com
 0.0.0.0 trodpigbays.com
+0.0.0.0 trombocrack.com
 0.0.0.0 troncomelets.com
 0.0.0.0 trothko.com
 0.0.0.0 troublescompared.com
@@ -28833,6 +28852,7 @@
 0.0.0.0 true-hacks.com
 0.0.0.0 true25.com
 0.0.0.0 true2file.com
+0.0.0.0 truefilen32.com
 0.0.0.0 truernewlywait.com
 0.0.0.0 truex.com
 0.0.0.0 trulytonic.com
@@ -28850,14 +28870,17 @@
 0.0.0.0 trustsignjapan.com
 0.0.0.0 trustsoft.com
 0.0.0.0 trusttastic.com
+0.0.0.0 trustyfine.com
 0.0.0.0 trvelocity.com
 0.0.0.0 trw12.com
 0.0.0.0 trwbkkxk.com
 0.0.0.0 trx625.com
+0.0.0.0 trymynewspirit.com
 0.0.0.0 tryplaybest.com
 0.0.0.0 trysprierratty.com
 0.0.0.0 trytipemo.com
 0.0.0.0 tryzens-analytics.com
+0.0.0.0 trzi30ic.com
 0.0.0.0 ts-shimada.com
 0.0.0.0 ts777.com
 0.0.0.0 tsakfk.com
@@ -28869,9 +28892,11 @@
 0.0.0.0 tsp2002.com
 0.0.0.0 tspops.com
 0.0.0.0 tst16infra.com
+0.0.0.0 tswmel.com
 0.0.0.0 tsyndicate.com
 0.0.0.0 tsztzjvpex.com
 0.0.0.0 ttgmjfgldgv9ed10.com
+0.0.0.0 ttinet.com
 0.0.0.0 ttlmodels.com
 0.0.0.0 ttnrd.com
 0.0.0.0 ttoc8ok.com
@@ -28881,6 +28906,7 @@
 0.0.0.0 ttwitter.com
 0.0.0.0 ttyvdilxsuorg.com
 0.0.0.0 ttzmedia.com
+0.0.0.0 tubberlo.com
 0.0.0.0 tubeanalporn.com
 0.0.0.0 tubecorp.com
 0.0.0.0 tubedspots.com
@@ -28909,6 +28935,7 @@
 0.0.0.0 turbanmixturephysician.com
 0.0.0.0 turbo-gto.com
 0.0.0.0 turboadv.com
+0.0.0.0 turbotraff.com
 0.0.0.0 turdgasm.com
 0.0.0.0 turkeynewsupdates.com
 0.0.0.0 turkeyrank.com
@@ -28917,6 +28944,8 @@
 0.0.0.0 turnstilerecruit.com
 0.0.0.0 turtlesootheongoing.com
 0.0.0.0 tushihymi.com
+0.0.0.0 tusno.com
+0.0.0.0 tut-64.com
 0.0.0.0 tutvp.com
 0.0.0.0 tuwhuthoru.com
 0.0.0.0 tuxbpnne.com
@@ -28930,10 +28959,12 @@
 0.0.0.0 tvlipevrj.com
 0.0.0.0 tvmtracker.com
 0.0.0.0 tvpage.com
+0.0.0.0 tvprocessing.com
 0.0.0.0 tvshowslist.com
 0.0.0.0 tvshowzonline.com
 0.0.0.0 tvundercover.com
 0.0.0.0 tweakingtricks.com
+0.0.0.0 tweard.com
 0.0.0.0 twentiesbarton.com
 0.0.0.0 twentieslegislation.com
 0.0.0.0 twentycustomimprovement.com
@@ -28943,11 +28974,13 @@
 0.0.0.0 twiktter.com
 0.0.0.0 twinadsrv.com
 0.0.0.0 twindiversity.com
+0.0.0.0 twinpinenetwork.com
 0.0.0.0 twinplan.com
 0.0.0.0 twinrdsrv.com
 0.0.0.0 twinsoflave.com
 0.0.0.0 twinwalnutthy.com
 0.0.0.0 twirlskins.com
+0.0.0.0 twistads.com
 0.0.0.0 twitfer.com
 0.0.0.0 twittad.com
 0.0.0.0 twittee.com
@@ -29085,6 +29118,7 @@
 0.0.0.0 ukgkugxpzqvqk.com
 0.0.0.0 ukslphcgs.com
 0.0.0.0 ukufan.com
+0.0.0.0 ukulelead.com
 0.0.0.0 ul8seok7w5al.com
 0.0.0.0 ulcerselfservice.com
 0.0.0.0 ulngtppm.com
@@ -29130,6 +29164,7 @@
 0.0.0.0 unclebillswv.com
 0.0.0.0 unclechunk.com
 0.0.0.0 unclemaidenprecise.com
+0.0.0.0 under2given.com
 0.0.0.0 undercoverbatch.com
 0.0.0.0 underdividedhowever.com
 0.0.0.0 underneathfirsthand.com
@@ -29167,11 +29202,13 @@
 0.0.0.0 unitedengineeringco.com
 0.0.0.0 unitedmedsshop.com
 0.0.0.0 unitedseo.com
+0.0.0.0 unitethecows.com
 0.0.0.0 unityhack.com
 0.0.0.0 universal-traffic.com
 0.0.0.0 universehacks.com
 0.0.0.0 universityhacker.com
 0.0.0.0 universityofhackers.com
+0.0.0.0 universityofinternetscience.com
 0.0.0.0 unixbroker.com
 0.0.0.0 unja1l.com
 0.0.0.0 unknowncarp.com
@@ -29186,6 +29223,7 @@
 0.0.0.0 unlockglory.com
 0.0.0.0 unlockhack.com
 0.0.0.0 unlockiosnow.com
+0.0.0.0 unlockr.com
 0.0.0.0 unlocksimphone.com
 0.0.0.0 unmillondeutilidades.com
 0.0.0.0 unmortalloose.com
@@ -29208,6 +29246,7 @@
 0.0.0.0 untidyquestion.com
 0.0.0.0 untiloutrage.com
 0.0.0.0 untruewring.com
+0.0.0.0 unumbonum.com
 0.0.0.0 unusualneighbor.com
 0.0.0.0 unusualtitle.com
 0.0.0.0 unwieldyhealth.com
@@ -29238,6 +29277,7 @@
 0.0.0.0 uploadwolf.com
 0.0.0.0 uporods.com
 0.0.0.0 uppyads.com
+0.0.0.0 uprimp.com
 0.0.0.0 uprisingdlcfree.com
 0.0.0.0 uproar.com
 0.0.0.0 uproductslive.com
@@ -29292,6 +29332,7 @@
 0.0.0.0 usabilitytools.com
 0.0.0.0 usabilla.com
 0.0.0.0 usadserver.com
+0.0.0.0 usairguw.com
 0.0.0.0 usapolice.com
 0.0.0.0 usapromotravel.com
 0.0.0.0 usarevenue.com
@@ -29306,9 +29347,11 @@
 0.0.0.0 usehacks.com
 0.0.0.0 usekahuna.com
 0.0.0.0 usemarketings.com
+0.0.0.0 usenetpassport.com
 0.0.0.0 user-paypal.com
 0.0.0.0 user-registration.com
 0.0.0.0 useracici.com
+0.0.0.0 usercash.com
 0.0.0.0 usercherishwheelchair.com
 0.0.0.0 userdive.com
 0.0.0.0 userfly.com
@@ -29328,6 +29371,7 @@
 0.0.0.0 ustxsntseyhwsx.com
 0.0.0.0 usuallycrummy.com
 0.0.0.0 usupload.com
+0.0.0.0 usurv.com
 0.0.0.0 uswtcdnqbm.com
 0.0.0.0 uszaodwya.com
 0.0.0.0 utairway.com
@@ -29336,6 +29380,7 @@
 0.0.0.0 utilizesailvehicle.com
 0.0.0.0 utl-1.com
 0.0.0.0 utmostsecond.com
+0.0.0.0 utokapa.com
 0.0.0.0 utopia-privacy.com
 0.0.0.0 utopiad.com
 0.0.0.0 utpgxaylxurhbc.com
@@ -29344,6 +29389,7 @@
 0.0.0.0 utteredhandicappedsomebody.com
 0.0.0.0 uttermosthobbies.com
 0.0.0.0 utteroccupied.com
+0.0.0.0 utubeconverter.com
 0.0.0.0 uuaajohul.com
 0.0.0.0 uubforbdc2om.com
 0.0.0.0 uuboos.com
@@ -29352,6 +29398,7 @@
 0.0.0.0 uulvtpbx.com
 0.0.0.0 uuribxuxsbdfof.com
 0.0.0.0 uuybnrimdyg.com
+0.0.0.0 uvertauh.com
 0.0.0.0 uvkdwmdcnwa.com
 0.0.0.0 uwdtibwk.com
 0.0.0.0 uwoaptee.com
@@ -29366,6 +29413,7 @@
 0.0.0.0 uzxkuwalnjp.com
 0.0.0.0 v-voice.com
 0.0.0.0 v-wrd.com
+0.0.0.0 v11media.com
 0.0.0.0 v1adserver.com
 0.0.0.0 v2cigs.com
 0.0.0.0 v2profit.com
@@ -29373,6 +29421,7 @@
 0.0.0.0 v4download.com
 0.0.0.0 v9-laserdetector-pl.com
 0.0.0.0 vacandym.com
+0.0.0.0 vacaneedasap.com
 0.0.0.0 vacwrite.com
 0.0.0.0 vaebard.com
 0.0.0.0 vafbmmsda.com
@@ -29413,6 +29462,7 @@
 0.0.0.0 vanscheers.com
 0.0.0.0 vansj.com
 0.0.0.0 vanspolskapl.com
+0.0.0.0 vapedia.com
 0.0.0.0 vapourgrievously.com
 0.0.0.0 vapsapypsa.com
 0.0.0.0 vardoli.com
@@ -29422,12 +29472,14 @@
 0.0.0.0 varietyofdisplayformats.com
 0.0.0.0 varietyregistrar.com
 0.0.0.0 variouscreativeformats.com
+0.0.0.0 vartoken.com
 0.0.0.0 varybailedascend.com
 0.0.0.0 varylioness.com
 0.0.0.0 vasanthkumar.com
 0.0.0.0 vassterboost.com
 0.0.0.0 vasstycom.com
 0.0.0.0 vastnesstechnology.com
+0.0.0.0 vastserved.com
 0.0.0.0 vastshmast.com
 0.0.0.0 vatlodesim.com
 0.0.0.0 vattingbalak.com
@@ -29438,8 +29490,10 @@
 0.0.0.0 vbapromo.com
 0.0.0.0 vbds84p3ct02.com
 0.0.0.0 vbpremia.com
+0.0.0.0 vbtrax.com
 0.0.0.0 vcdc.com
 0.0.0.0 vcdnc.com
+0.0.0.0 vcmedia.com
 0.0.0.0 vcmrlwcafliaa.com
 0.0.0.0 vcommission.com
 0.0.0.0 vcpcvmfnocsfay.com
@@ -49948,6 +50002,7 @@
 0.0.0.0 wlptux.habitaclia.com
 0.0.0.0 sadbmetrics.habitatsoft.com
 0.0.0.0 www.habulex.com
+0.0.0.0 metrics.hackerrank.com
 0.0.0.0 khgayc.hackers.com
 0.0.0.0 clashofclans.hackfbgames.com
 0.0.0.0 go.hacknotice.com
@@ -53650,6 +53705,7 @@
 0.0.0.0 go.itamarmedical.com
 0.0.0.0 ct.itbusinessedge.com
 0.0.0.0 www.itcompany.com
+0.0.0.0 collect.iteam-dress.com
 0.0.0.0 reseller.itechbrasil.com
 0.0.0.0 api.iterable.com
 0.0.0.0 assets.iterable.com
@@ -76892,6 +76948,7 @@
 0.0.0.0 megawerbung.de
 0.0.0.0 mlm.de
 0.0.0.0 money4exit.de
+0.0.0.0 movad.de
 0.0.0.0 mr-rank.de
 0.0.0.0 multicounter.de
 0.0.0.0 netcounter.de
@@ -76975,6 +77032,7 @@
 0.0.0.0 traffichome.de
 0.0.0.0 trcking4wdm.de
 0.0.0.0 ultimate-24.de
+0.0.0.0 unifini.de
 0.0.0.0 unser-en.de
 0.0.0.0 usemax.de
 0.0.0.0 valuneo.de
@@ -84052,10 +84110,12 @@
 0.0.0.0 u-ad.info
 0.0.0.0 uidebol.info
 0.0.0.0 uitabletublis.info
+0.0.0.0 ularunicalrep.info
 0.0.0.0 uluswozzel.info
 0.0.0.0 umbemonop.info
 0.0.0.0 unadvertising.info
 0.0.0.0 uncessoryel.info
+0.0.0.0 undrininvereb.info
 0.0.0.0 upads.info
 0.0.0.0 urchrevening.info
 0.0.0.0 urmilan.info
@@ -85059,6 +85119,7 @@
 0.0.0.0 api.publishers.adlive.io
 0.0.0.0 pub.admedia.io
 0.0.0.0 macro.adnami.io
+0.0.0.0 telemetry.adobe.io
 0.0.0.0 dy.adserve.io
 0.0.0.0 assets.adstage.io
 0.0.0.0 d.adx.io
@@ -90045,6 +90106,7 @@
 0.0.0.0 m32.media
 0.0.0.0 playstream.media
 0.0.0.0 popads.media
+0.0.0.0 underdog.media
 0.0.0.0 analytics.bale.media
 0.0.0.0 www.blablacar.media
 0.0.0.0 hb.go2speed.media
@@ -93213,6 +93275,7 @@
 0.0.0.0 tumri.net
 0.0.0.0 tunnelprotocol.net
 0.0.0.0 turbocap.net
+0.0.0.0 turbotraff.net
 0.0.0.0 tvjovem.net
 0.0.0.0 tvnowapp.net
 0.0.0.0 twithack.net
@@ -93243,9 +93306,12 @@
 0.0.0.0 updatedcharges.net
 0.0.0.0 updating-url.net
 0.0.0.0 uploadserver.net
+0.0.0.0 uprivaladserver.net
+0.0.0.0 upsaibou.net
 0.0.0.0 uptodatecontent.net
 0.0.0.0 url-redirect.net
 0.0.0.0 url2all.net
+0.0.0.0 urlads.net
 0.0.0.0 urlcash.net
 0.0.0.0 urlconfig.net
 0.0.0.0 urlconnection.net
@@ -93272,11 +93338,14 @@
 0.0.0.0 utoumine.net
 0.0.0.0 uuserv30.net
 0.0.0.0 vaingloryhack.net
+0.0.0.0 valueaffiliate.net
 0.0.0.0 valueclick.net
 0.0.0.0 vashoaft.net
 0.0.0.0 vdbunt.net
 0.0.0.0 veewakim.net
 0.0.0.0 veeya.net
+0.0.0.0 velmedia.net
+0.0.0.0 vempozah.net
 0.0.0.0 vfocus.net
 0.0.0.0 videobug.net
 0.0.0.0 videonews247.net
@@ -95747,6 +95816,7 @@
 0.0.0.0 sgphctileh-a.akamaihd.net
 0.0.0.0 spotxchange-a.akamaihd.net
 0.0.0.0 supersonicads-a.akamaihd.net
+0.0.0.0 tillertag-a.akamaihd.net
 0.0.0.0 uhytajrtpo-a.akamaihd.net
 0.0.0.0 zvsuhljiha-a.akamaihd.net
 0.0.0.0 cdn-guile.akamaized.net
@@ -97345,6 +97415,7 @@
 0.0.0.0 d2qv3dewj1x225.cloudfront.net
 0.0.0.0 d2qwomohab7aqa.cloudfront.net
 0.0.0.0 d2qz7ofajpstv5.cloudfront.net
+0.0.0.0 d2r1yp2w7bby2u.cloudfront.net
 0.0.0.0 d2r359adnh3sfn.cloudfront.net
 0.0.0.0 d2r39ro69q6g8t.cloudfront.net
 0.0.0.0 d2r3rw91i5z1w9.cloudfront.net
@@ -115108,6 +115179,7 @@
 0.0.0.0 titan-man.pro
 0.0.0.0 todhamilton.pro
 0.0.0.0 torsonercil.pro
+0.0.0.0 traviously.pro
 0.0.0.0 trourted.pro
 0.0.0.0 tstobkl.pro
 0.0.0.0 tujestimater.pro
@@ -120243,6 +120315,7 @@
 0.0.0.0 cfasync.tk
 0.0.0.0 claimbit.tk
 0.0.0.0 crackguru.tk
+0.0.0.0 creative-banana.tk
 0.0.0.0 dalsza-droga.tk
 0.0.0.0 default-pod.tk
 0.0.0.0 facebookweryfikacja.tk
@@ -124280,6 +124353,7 @@
 0.0.0.0 refpasrasw.world
 0.0.0.0 sms1.world
 0.0.0.0 thinkma.world
+0.0.0.0 usenet.world
 0.0.0.0 wastesshimssat.world
 0.0.0.0 workoutnow.world
 0.0.0.0 app.adjust.world
@@ -125274,6 +125348,7 @@
 0.0.0.0 up-eazy1.xyz
 0.0.0.0 usmiechnijsie.xyz
 0.0.0.0 uspd.xyz
+0.0.0.0 utillib.xyz
 0.0.0.0 uzozagug.xyz
 0.0.0.0 uzyskac-olx.xyz
 0.0.0.0 valonghost.xyz
