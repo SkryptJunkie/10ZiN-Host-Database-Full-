@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Alive)
-# Date: 06:04 AM Wednesday 08 September 2021
+# Date: 06:01 AM Thursday 09 September 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.alive.txt
@@ -9640,6 +9640,7 @@
 0.0.0.0 airportsys.com
 0.0.0.0 airpush.com
 0.0.0.0 airsoftgunbcm.com
+0.0.0.0 airsoubs.com
 0.0.0.0 airtan.com
 0.0.0.0 airycloth.com
 0.0.0.0 airydress.com
@@ -13949,6 +13950,7 @@
 0.0.0.0 dailynewstonight.com
 0.0.0.0 dailyxboxlivecodes.com
 0.0.0.0 daintyecstasyspleen.com
+0.0.0.0 daistoce.com
 0.0.0.0 daisyolsen.com
 0.0.0.0 dajungle.com
 0.0.0.0 dakic-ia-300.com
@@ -14569,6 +14571,7 @@
 0.0.0.0 do-global.com
 0.0.0.0 do-itonyour-own.com
 0.0.0.0 do-kuchni.com
+0.0.0.0 doagleeh.com
 0.0.0.0 doaseeph.com
 0.0.0.0 doathair.com
 0.0.0.0 dobbenetes.com
@@ -18404,6 +18407,7 @@
 0.0.0.0 hireproplus.com
 0.0.0.0 hirmadar.com
 0.0.0.0 hirzona24.com
+0.0.0.0 hisainog.com
 0.0.0.0 hiss3lark.com
 0.0.0.0 histats.com
 0.0.0.0 histojam.com
@@ -19800,6 +19804,7 @@
 0.0.0.0 jungroup.com
 0.0.0.0 junmediadirect.com
 0.0.0.0 junotherome.com
+0.0.0.0 jupaubsa.com
 0.0.0.0 jupozbjmq.com
 0.0.0.0 juridicacolombia.com
 0.0.0.0 juroudaw.com
@@ -21961,6 +21966,7 @@
 0.0.0.0 mostawesomeoffers.com
 0.0.0.0 mostcash.com
 0.0.0.0 motdgd.com
+0.0.0.0 motefiles.com
 0.0.0.0 motelil.com
 0.0.0.0 mothdiscussioncrest.com
 0.0.0.0 motherhoodenhanced.com
@@ -23664,6 +23670,7 @@
 0.0.0.0 painsko.com
 0.0.0.0 paintavoidwitty.com
 0.0.0.0 painting-walls.com
+0.0.0.0 paiptoaz.com
 0.0.0.0 pakcircles.com
 0.0.0.0 pakpolice.com
 0.0.0.0 palaciochico.com
@@ -24350,6 +24357,7 @@
 0.0.0.0 poolunbelievably.com
 0.0.0.0 poor5zero.com
 0.0.0.0 poorlydig.com
+0.0.0.0 poorlygarrisondistant.com
 0.0.0.0 poosoahe.com
 0.0.0.0 poosugap.com
 0.0.0.0 pop5sjhspear.com
@@ -24792,6 +24800,7 @@
 0.0.0.0 psnfreepoints.com
 0.0.0.0 psngratuit.com
 0.0.0.0 psnzone.com
+0.0.0.0 psoaemorella.com
 0.0.0.0 psoageeb.com
 0.0.0.0 psoaksoo.com
 0.0.0.0 psoomeeg.com
@@ -25789,6 +25798,7 @@
 0.0.0.0 riverhit.com
 0.0.0.0 rivermarketcyclery.com
 0.0.0.0 riverpush.com
+0.0.0.0 riziftoo.com
 0.0.0.0 rj2ro1x3j4ht.com
 0.0.0.0 rjhbcghmln.com
 0.0.0.0 rjltpektsuqsu.com
@@ -26446,6 +26456,7 @@
 0.0.0.0 septembership.com
 0.0.0.0 sequeceqouliede.com
 0.0.0.0 serconmp.com
+0.0.0.0 serdaive.com
 0.0.0.0 sericaasia.com
 0.0.0.0 seriouslylargestnewsletter.com
 0.0.0.0 seriy2sviter11o9.com
@@ -28517,6 +28528,7 @@
 0.0.0.0 togenron.com
 0.0.0.0 toggletools.com
 0.0.0.0 toglooman.com
+0.0.0.0 togoutso.com
 0.0.0.0 tohacks.com
 0.0.0.0 tok-dan-host.com
 0.0.0.0 tokenads.com
@@ -29949,6 +29961,7 @@
 0.0.0.0 vtlahjkbd.com
 0.0.0.0 vu-betredirect1.com
 0.0.0.0 vubihasdtbadiq.com
+0.0.0.0 vudoutch.com
 0.0.0.0 vuittonu.com
 0.0.0.0 vujhqcemrpqj.com
 0.0.0.0 vukhhjzd.com
@@ -31248,6 +31261,7 @@
 0.0.0.0 zapunited.com
 0.0.0.0 zarget.com
 0.0.0.0 zarobek4u.com
+0.0.0.0 zasheeca.com
 0.0.0.0 zathytycho.com
 0.0.0.0 zavrotfro.com
 0.0.0.0 zayac2volk11.com
@@ -45221,6 +45235,7 @@
 0.0.0.0 js.dmtry.com
 0.0.0.0 log.dmtry.com
 0.0.0.0 trk.dmwest.com
+0.0.0.0 go.dmzjmp.com
 0.0.0.0 info.dna-bkfs.com
 0.0.0.0 marketing.dnacenter.com
 0.0.0.0 stats.dnaindia.com
@@ -65494,6 +65509,7 @@
 0.0.0.0 go.rockhall.com
 0.0.0.0 www.rockingclicks.com
 0.0.0.0 lrjjly.rockler.com
+0.0.0.0 rps-uk.rockpapershotgun.com
 0.0.0.0 cme.rockpointe.com
 0.0.0.0 map.rockwellautomation.com
 0.0.0.0 www.roddyii.com
@@ -86004,6 +86020,7 @@
 0.0.0.0 fxtime.io
 0.0.0.0 galaks.io
 0.0.0.0 getwisdom.io
+0.0.0.0 glimr.io
 0.0.0.0 grnpower.io
 0.0.0.0 hellcase.io
 0.0.0.0 hide.io
@@ -92651,6 +92668,7 @@
 0.0.0.0 counciladvertising.net
 0.0.0.0 countrytrips.net
 0.0.0.0 couptoug.net
+0.0.0.0 couthosh.net
 0.0.0.0 cpaconvtrk.net
 0.0.0.0 cpd8.net
 0.0.0.0 cpmmedia.net
@@ -93112,6 +93130,7 @@
 0.0.0.0 grmtech.net
 0.0.0.0 groguzoo.net
 0.0.0.0 groogleh.net
+0.0.0.0 groosick.net
 0.0.0.0 growstart.net
 0.0.0.0 gruppoemotion.net
 0.0.0.0 gscontxt.net
@@ -93333,6 +93352,7 @@
 0.0.0.0 kolporter24.net
 0.0.0.0 konornik.net
 0.0.0.0 koutobey.net
+0.0.0.0 kouwheey.net
 0.0.0.0 kromtech.net
 0.0.0.0 krustev.net
 0.0.0.0 krxd.net
@@ -93396,6 +93416,7 @@
 0.0.0.0 livejasmincall.net
 0.0.0.0 livewell.net
 0.0.0.0 livewidget.net
+0.0.0.0 lizautie.net
 0.0.0.0 lkjy.net
 0.0.0.0 lnnpost.net
 0.0.0.0 lnpost.net
@@ -93453,6 +93474,7 @@
 0.0.0.0 marketo.net
 0.0.0.0 matchaix.net
 0.0.0.0 mauchopt.net
+0.0.0.0 maustoab.net
 0.0.0.0 mauzobou.net
 0.0.0.0 mavq.net
 0.0.0.0 maximiser.net
@@ -93661,6 +93683,7 @@
 0.0.0.0 onlygadgets.net
 0.0.0.0 onmarketer.net
 0.0.0.0 onmypc.net
+0.0.0.0 ooboulry.net
 0.0.0.0 oodsauns.net
 0.0.0.0 oogneenu.net
 0.0.0.0 opekoobs.net
@@ -93724,6 +93747,7 @@
 0.0.0.0 pastorhokage.net
 0.0.0.0 patchwork.net
 0.0.0.0 pattern-trader.net
+0.0.0.0 pauzajoo.net
 0.0.0.0 payones.net
 0.0.0.0 payorte.net
 0.0.0.0 paypie.net
@@ -93740,6 +93764,7 @@
 0.0.0.0 peopeyo.net
 0.0.0.0 perfectgirls.net
 0.0.0.0 performancevitality.net
+0.0.0.0 pertapie.net
 0.0.0.0 petchesa.net
 0.0.0.0 pey24pey.net
 0.0.0.0 peyblokady.net
@@ -93883,6 +93908,7 @@
 0.0.0.0 ps2bios.net
 0.0.0.0 ps3jailbreaktuts.net
 0.0.0.0 ps3portal.net
+0.0.0.0 psairurg.net
 0.0.0.0 psampabs.net
 0.0.0.0 psaukaux.net
 0.0.0.0 psaukrik.net
@@ -94144,6 +94170,7 @@
 0.0.0.0 sograuko.net
 0.0.0.0 sonnerie.net
 0.0.0.0 soofeest.net
+0.0.0.0 sortacki.net
 0.0.0.0 sotchoft.net
 0.0.0.0 specially4u.net
 0.0.0.0 specificclick.net
@@ -94178,6 +94205,7 @@
 0.0.0.0 stizoaph.net
 0.0.0.0 stoakrig.net
 0.0.0.0 stoashou.net
+0.0.0.0 stoneegn.net
 0.0.0.0 stonseeb.net
 0.0.0.0 stootsou.net
 0.0.0.0 storageseminar.net
