@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Alive)
-# Date: 06:01 AM Thursday 09 September 2021
+# Date: 06:01 AM Friday 10 September 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.alive.txt
@@ -12429,6 +12429,7 @@
 0.0.0.0 centrolinguisticorobert.com
 0.0.0.0 centrumofert.com
 0.0.0.0 centrumofert24.com
+0.0.0.0 centuriesactionperfectly.com
 0.0.0.0 centwrite.com
 0.0.0.0 cepailru.com
 0.0.0.0 ceporno.com
@@ -13257,6 +13258,7 @@
 0.0.0.0 concentratebeauabsolute.com
 0.0.0.0 concentrationminefield.com
 0.0.0.0 concernedcondition.com
+0.0.0.0 concludemealswednesday.com
 0.0.0.0 conclusivegifteddilate.com
 0.0.0.0 conclusivehunt.com
 0.0.0.0 concordhorace.com
@@ -15965,6 +15967,7 @@
 0.0.0.0 fatcatrewards.com
 0.0.0.0 fathuntsgall.com
 0.0.0.0 fatteno.com
+0.0.0.0 fattykettleinexpedient.com
 0.0.0.0 fattymadmanquestions.com
 0.0.0.0 faultycanvas.com
 0.0.0.0 faultyfowl.com
@@ -18184,6 +18187,7 @@
 0.0.0.0 hash-hash-tag.com
 0.0.0.0 hashresidency.com
 0.0.0.0 hasoffers.com
+0.0.0.0 hastejuggle.com
 0.0.0.0 hastilyantiterrorist.com
 0.0.0.0 hastrk1.com
 0.0.0.0 hastrk2.com
@@ -18475,6 +18479,7 @@
 0.0.0.0 hofofici.com
 0.0.0.0 hogan44.com
 0.0.0.0 hoganpolska.com
+0.0.0.0 hognoseabient.com
 0.0.0.0 hoistchart.com
 0.0.0.0 hokaoneshop.com
 0.0.0.0 hokapolska.com
@@ -18640,6 +18645,7 @@
 0.0.0.0 hpuvkfbww.com
 0.0.0.0 hpyjmp.com
 0.0.0.0 hpyrdr.com
+0.0.0.0 hpzdwnkb.com
 0.0.0.0 hq3x.com
 0.0.0.0 hqdrugs.com
 0.0.0.0 hqhacks.com
@@ -19484,6 +19490,7 @@
 0.0.0.0 itgiblean.com
 0.0.0.0 itgiftcards.com
 0.0.0.0 ithaibap.com
+0.0.0.0 itheatmora.com
 0.0.0.0 itheatmoran.com
 0.0.0.0 ithoahie.com
 0.0.0.0 itinerarymonarchy.com
@@ -20555,6 +20562,7 @@
 0.0.0.0 limetreenearly.com
 0.0.0.0 limitedfeature.com
 0.0.0.0 limkon.com
+0.0.0.0 limporaltourist.com
 0.0.0.0 linconpark.com
 0.0.0.0 line6agar.com
 0.0.0.0 lingeriebarren.com
@@ -22495,6 +22503,7 @@
 0.0.0.0 nctracking.com
 0.0.0.0 ncurqchw.com
 0.0.0.0 ndecpynmkwqjz.com
+0.0.0.0 ndejhe73jslaw093.com
 0.0.0.0 ndha4sding6gf.com
 0.0.0.0 ndihjiyeo.com
 0.0.0.0 ndikvccwz.com
@@ -24003,6 +24012,7 @@
 0.0.0.0 pgpsssijca.com
 0.0.0.0 pgpyce.com
 0.0.0.0 pgssl.com
+0.0.0.0 phabys.com
 0.0.0.0 phacdochuabenh.com
 0.0.0.0 phaignoo.com
 0.0.0.0 phamchilong.com
@@ -24093,6 +24103,7 @@
 0.0.0.0 pillsmoney.com
 0.0.0.0 pillsselect.com
 0.0.0.0 pilotaffiliate.com
+0.0.0.0 pimpoopo.com
 0.0.0.0 pimpout.com
 0.0.0.0 pimproll.com
 0.0.0.0 pin-odbioru.com
@@ -24582,6 +24593,7 @@
 0.0.0.0 prestoris.com
 0.0.0.0 presumablyclaimedlatest.com
 0.0.0.0 presumptuouspasswords.com
+0.0.0.0 presumptuousreciprocal.com
 0.0.0.0 pretencejailscore.com
 0.0.0.0 pretencemassage.com
 0.0.0.0 pretextexpertisedisappeared.com
@@ -24605,6 +24617,7 @@
 0.0.0.0 primebit.com
 0.0.0.0 primecaviar.com
 0.0.0.0 primevalcherries.com
+0.0.0.0 primevalsymphonymuttering.com
 0.0.0.0 primosearch.com
 0.0.0.0 primroseconstellationrapidly.com
 0.0.0.0 primusbelgium.com
@@ -24822,6 +24835,7 @@
 0.0.0.0 psychologywoman.com
 0.0.0.0 psydotcom.com
 0.0.0.0 psydyrony.com
+0.0.0.0 psygruptuly.com
 0.0.0.0 psytupuny.com
 0.0.0.0 pszsri.com
 0.0.0.0 pt21na.com
@@ -25612,6 +25626,7 @@
 0.0.0.0 reservehearingmissing.com
 0.0.0.0 reservoircourthouse.com
 0.0.0.0 reset-your-device.com
+0.0.0.0 residebroadly.com
 0.0.0.0 resistcorrectly.com
 0.0.0.0 resolutekey.com
 0.0.0.0 resolution-centre-id1212.com
@@ -26016,6 +26031,7 @@
 0.0.0.0 rzhcdnsl.com
 0.0.0.0 rzqctiudsvb.com
 0.0.0.0 rzypgzojdan.com
+0.0.0.0 s-adzone.com
 0.0.0.0 s-b-d-s-in.com
 0.0.0.0 s-e-arch.com
 0.0.0.0 s-mania.com
@@ -28400,6 +28416,7 @@
 0.0.0.0 tiapedia.com
 0.0.0.0 tibacta.com
 0.0.0.0 tibiaboards.com
+0.0.0.0 tibisigi.com
 0.0.0.0 tic-tic-bam.com
 0.0.0.0 tic-tic-toc.com
 0.0.0.0 ticfiles.com
@@ -30544,6 +30561,7 @@
 0.0.0.0 worthyadvertising.com
 0.0.0.0 woujoami.com
 0.0.0.0 woundedassurance.com
+0.0.0.0 wovazaix.com
 0.0.0.0 wowfollowers.com
 0.0.0.0 wowjogsot.com
 0.0.0.0 woymebsi.com
@@ -32373,6 +32391,7 @@
 0.0.0.0 www.ac-transfer.com
 0.0.0.0 info.acacompliancegroup.com
 0.0.0.0 go.academic-travel.com
+0.0.0.0 analytics.academy.com
 0.0.0.0 www.academy-bitcoin.com
 0.0.0.0 info.academynet.com
 0.0.0.0 info.academyxi.com
@@ -48223,6 +48242,7 @@
 0.0.0.0 ad2.firehousezone.com
 0.0.0.0 content.firemon.com
 0.0.0.0 go.firesecurityproducts.com
+0.0.0.0 analytics.firespring.com
 0.0.0.0 hub.firestonecompleteautocare.com
 0.0.0.0 go.firm-bond.com
 0.0.0.0 fiwinet.firmenwissen.com
@@ -89810,6 +89830,7 @@
 0.0.0.0 inpost.link
 0.0.0.0 jbvmix.link
 0.0.0.0 juklotire.link
+0.0.0.0 kingyonlendir.link
 0.0.0.0 korespodencja-online.link
 0.0.0.0 kurierowo.link
 0.0.0.0 oconner.link
@@ -91292,6 +91313,7 @@
 0.0.0.0 exercially.mobi
 0.0.0.0 inner-active.mobi
 0.0.0.0 jumpers.mobi
+0.0.0.0 kingads.mobi
 0.0.0.0 masture.mobi
 0.0.0.0 mclick.mobi
 0.0.0.0 meethotties.mobi
@@ -93084,6 +93106,7 @@
 0.0.0.0 glookroz.net
 0.0.0.0 glooliso.net
 0.0.0.0 gloophoa.net
+0.0.0.0 glootang.net
 0.0.0.0 gloumsee.net
 0.0.0.0 gloverzz.net
 0.0.0.0 gloyah.net
@@ -120960,6 +120983,7 @@
 0.0.0.0 orleninvest.space
 0.0.0.0 ornovosummer.space
 0.0.0.0 orvestinfo.space
+0.0.0.0 otheredan.space
 0.0.0.0 owsvolksk.space
 0.0.0.0 paysend.space
 0.0.0.0 payservice.space
@@ -125848,6 +125872,7 @@
 0.0.0.0 c0z.xyz
 0.0.0.0 caeiriolskiaopazertyiop.xyz
 0.0.0.0 cameronznxbas.xyz
+0.0.0.0 capultytrese.xyz
 0.0.0.0 ccsms.xyz
 0.0.0.0 cdnimages.xyz
 0.0.0.0 cdnmedia.xyz

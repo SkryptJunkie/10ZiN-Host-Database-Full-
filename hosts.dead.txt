@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:01 AM Thursday 09 September 2021
+# Date: 06:01 AM Friday 10 September 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -1946,6 +1946,7 @@
 0.0.0.0 olx-banking.cam
 0.0.0.0 olx-delivery.cam
 0.0.0.0 www.allegrolokalnie.cam
+0.0.0.0 collector.hamsterix.cam
 0.0.0.0 safe-pay.inpost.cam
 0.0.0.0 safe-service.inpost.cam
 0.0.0.0 www.safe-pay.inpost.cam
@@ -2625,6 +2626,7 @@
 0.0.0.0 aircovid19virus.com
 0.0.0.0 airlinesd.com
 0.0.0.0 airswaptoken.com
+0.0.0.0 aiwhebey.com
 0.0.0.0 ajanlom-magamat.com
 0.0.0.0 akibaol.com
 0.0.0.0 aktgw4u9z27l.com
