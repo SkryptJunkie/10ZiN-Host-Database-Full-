@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Alive)
-# Date: 06:01 AM Friday 10 September 2021
+# Date: 06:01 AM Saturday 11 September 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.alive.txt
@@ -1987,6 +1987,7 @@
 0.0.0.0 clickgate.biz
 0.0.0.0 clickgate08.biz
 0.0.0.0 clickjump.biz
+0.0.0.0 clickmatters.biz
 0.0.0.0 clickpush.biz
 0.0.0.0 cloudcoins.biz
 0.0.0.0 code-server.biz
@@ -57777,6 +57778,7 @@
 0.0.0.0 go2.mathworks.com
 0.0.0.0 metrics.mathworks.com
 0.0.0.0 smetrics.mathworks.com
+0.0.0.0 starget.mathworks.com
 0.0.0.0 tracking.mathworks.com
 0.0.0.0 metrics.matlab.com
 0.0.0.0 smetrics.matlab.com
@@ -68125,6 +68127,7 @@
 0.0.0.0 insights.sphera.com
 0.0.0.0 www.sphere.com
 0.0.0.0 a.spicetv.com
+0.0.0.0 gala.spiceworks.com
 0.0.0.0 gekko.spiceworks.com
 0.0.0.0 px.spiceworks.com
 0.0.0.0 track.spiceworks.com
@@ -120098,6 +120101,7 @@
 0.0.0.0 swoodlander.site
 0.0.0.0 symphoneupcom.site
 0.0.0.0 syphilohmmaging.site
+0.0.0.0 takiparkrb.site
 0.0.0.0 techexpert.site
 0.0.0.0 theapple.site
 0.0.0.0 therebinance.site
