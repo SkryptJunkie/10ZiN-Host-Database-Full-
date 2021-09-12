@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Alive)
-# Date: 06:01 AM Saturday 11 September 2021
+# Date: 06:01 AM Sunday 12 September 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.alive.txt
@@ -14920,6 +14920,7 @@
 0.0.0.0 dummyreopentypes.com
 0.0.0.0 dummywisdom.com
 0.0.0.0 dump4barn.com
+0.0.0.0 dumpersgoofed.com
 0.0.0.0 dunderaffiliates.com
 0.0.0.0 dunedisadvantagetentative.com
 0.0.0.0 dungeonavenge.com
@@ -18954,6 +18955,7 @@
 0.0.0.0 ihacksncodes.com
 0.0.0.0 ihefeiquanzi.com
 0.0.0.0 ihjtrncfoha.com
+0.0.0.0 ihogaetw.com
 0.0.0.0 ihydroflaskshop.com
 0.0.0.0 iicdn.com
 0.0.0.0 iicheewi.com
@@ -23247,6 +23249,7 @@
 0.0.0.0 onclicktop.com
 0.0.0.0 onclicktraffic.com
 0.0.0.0 onclkds.com
+0.0.0.0 onctus.com
 0.0.0.0 one-drive-ms.com
 0.0.0.0 one-drives.com
 0.0.0.0 one-time-offer.com
@@ -25677,6 +25680,7 @@
 0.0.0.0 revbigo.com
 0.0.0.0 revcatch.com
 0.0.0.0 revcontent.com
+0.0.0.0 revelationneighbourly.com
 0.0.0.0 revengemeantjackpot.com
 0.0.0.0 revenue.com
 0.0.0.0 revenuecpmnetwork.com
@@ -67836,6 +67840,7 @@
 0.0.0.0 3rd.t.sohu.com
 0.0.0.0 aty.tv.sohu.com
 0.0.0.0 atyt.tv.sohu.com
+0.0.0.0 tracker.tv.sohu.com
 0.0.0.0 count.vrs.sohu.com
 0.0.0.0 ad.soicos.com
 0.0.0.0 beacon.sojern.com
@@ -86134,6 +86139,7 @@
 0.0.0.0 api.publishers.adlive.io
 0.0.0.0 pub.admedia.io
 0.0.0.0 macro.adnami.io
+0.0.0.0 cc-api-data.adobe.io
 0.0.0.0 telemetry.adobe.io
 0.0.0.0 dy.adserve.io
 0.0.0.0 assets.adstage.io
@@ -97150,6 +97156,7 @@
 0.0.0.0 faktypolska7.b-cdn.net
 0.0.0.0 faktypolska8.b-cdn.net
 0.0.0.0 faktypolska9.b-cdn.net
+0.0.0.0 sunlightmetrics.b-cdn.net
 0.0.0.0 www.faktypolska1.b-cdn.net
 0.0.0.0 www.faktypolska10.b-cdn.net
 0.0.0.0 www.faktypolska11.b-cdn.net
@@ -117471,6 +117478,7 @@
 0.0.0.0 webteaser.ru
 0.0.0.0 wm-goldenclick.ru
 0.0.0.0 wmirk.ru
+0.0.0.0 wwpon365.ru
 0.0.0.0 ximupea.ru
 0.0.0.0 xsph.ru
 0.0.0.0 xuveiai.ru
@@ -126196,6 +126204,7 @@
 0.0.0.0 lowpox.xyz
 0.0.0.0 lublin24.xyz
 0.0.0.0 luminnotik.xyz
+0.0.0.0 lunagyja.xyz
 0.0.0.0 luqas.xyz
 0.0.0.0 lynsey.xyz
 0.0.0.0 makuzeko.xyz
