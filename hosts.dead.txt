@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:03 AM Monday 13 September 2021
+# Date: 06:01 AM Tuesday 14 September 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -10000,6 +10000,7 @@
 0.0.0.0 adds.misiamoiatdom.com
 0.0.0.0 collect.*.miui.com
 0.0.0.0 tracking.*.miui.com
+0.0.0.0 mp.huangye.miui.com
 0.0.0.0 ads.mixtraffic.com
 0.0.0.0 track.msadcenter.mkqa.com
 0.0.0.0 www.mktg-offer.com

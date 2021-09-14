@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Alive)
-# Date: 06:03 AM Monday 13 September 2021
+# Date: 06:01 AM Tuesday 14 September 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.alive.txt
@@ -10851,6 +10851,7 @@
 0.0.0.0 bandicamad.com
 0.0.0.0 bandicamas.com
 0.0.0.0 bandicamaw.com
+0.0.0.0 bandiedcsardas.com
 0.0.0.0 bandithacks.com
 0.0.0.0 banernas.com
 0.0.0.0 banfivmind.com
@@ -14461,6 +14462,7 @@
 0.0.0.0 digits.com
 0.0.0.0 digiturkabone.com
 0.0.0.0 digressremarkableconfide.com
+0.0.0.0 digresstrailfined.com
 0.0.0.0 diguver.com
 0.0.0.0 dihitt.com
 0.0.0.0 diitlm.com
@@ -14904,6 +14906,7 @@
 0.0.0.0 dramatic-challenge.com
 0.0.0.0 drapefabric.com
 0.0.0.0 drasticdifferentfoetus.com
+0.0.0.0 drasticdrama.com
 0.0.0.0 drasticmean.com
 0.0.0.0 drawbacksubdue.com
 0.0.0.0 drawnperink.com
@@ -15412,6 +15415,7 @@
 0.0.0.0 email-reflex.com
 0.0.0.0 emailretargeting.com
 0.0.0.0 emailserving.com
+0.0.0.0 emanog.com
 0.0.0.0 emaradental.com
 0.0.0.0 emarketer.com
 0.0.0.0 embassychopassembled.com
@@ -19808,6 +19812,7 @@
 0.0.0.0 jinghaoyy.com
 0.0.0.0 jinxexaminesketch.com
 0.0.0.0 jistaumt.com
+0.0.0.0 jisyzysy.com
 0.0.0.0 jivomtuz.com
 0.0.0.0 jivox.com
 0.0.0.0 jiwire.com
@@ -19832,6 +19837,7 @@
 0.0.0.0 jnctgldbxc.com
 0.0.0.0 jnffgawh.com
 0.0.0.0 jnxkfldio.com
+0.0.0.0 jnxm2.com
 0.0.0.0 joastous.com
 0.0.0.0 jobsyndicate.com
 0.0.0.0 jochiexpress.com
@@ -20198,6 +20204,7 @@
 0.0.0.0 klowns4phun.com
 0.0.0.0 klqyxeidr.com
 0.0.0.0 klsdee.com
+0.0.0.0 kmacon.com
 0.0.0.0 kmbyktnb.com
 0.0.0.0 kmeventsuae.com
 0.0.0.0 kmovuj.com
@@ -21583,6 +21590,7 @@
 0.0.0.0 meeweb.com
 0.0.0.0 mega-gry.com
 0.0.0.0 megabizvibes.com
+0.0.0.0 megadeliveryn.com
 0.0.0.0 megadirtyfiles.com
 0.0.0.0 megadownloder.com
 0.0.0.0 megafriends.com
@@ -25040,6 +25048,7 @@
 0.0.0.0 ptiftoud.com
 0.0.0.0 ptipsixo.com
 0.0.0.0 ptirgaux.com
+0.0.0.0 ptlwm.com
 0.0.0.0 ptoahaistais.com
 0.0.0.0 ptoangir.com
 0.0.0.0 ptobsagn.com
@@ -26174,6 +26183,7 @@
 0.0.0.0 ruletka-systemy.com
 0.0.0.0 rumandcoco.com
 0.0.0.0 rumble.com
+0.0.0.0 rumerrand.com
 0.0.0.0 run-germany.com
 0.0.0.0 run-syndicate.com
 0.0.0.0 runads.com
@@ -26213,6 +26223,7 @@
 0.0.0.0 rvkfiomrjn.com
 0.0.0.0 rvpadvertisingnetwork.com
 0.0.0.0 rvrpushserv.com
+0.0.0.0 rvrpushsrv.com
 0.0.0.0 rvwtpwmtnfj.com
 0.0.0.0 rwlfznyvivh.com
 0.0.0.0 rwn1sdb4xqa2.com
@@ -27346,6 +27357,7 @@
 0.0.0.0 sokitosa.com
 0.0.0.0 sokugifi.com
 0.0.0.0 solamor.com
+0.0.0.0 solanoswajang.com
 0.0.0.0 solapoka.com
 0.0.0.0 solarmosa.com
 0.0.0.0 solarna-fontanna-odgrodowa-pl.com
@@ -27766,6 +27778,7 @@
 0.0.0.0 stepplane.com
 0.0.0.0 steroidparentconstruct.com
 0.0.0.0 steroidtypesconviction.com
+0.0.0.0 stewhustysti.com
 0.0.0.0 stewlinedull.com
 0.0.0.0 stezuzeje.com
 0.0.0.0 stickssheep.com
@@ -29394,6 +29407,7 @@
 0.0.0.0 tygafso.com
 0.0.0.0 tyjawhesu.com
 0.0.0.0 tylko-dla-ciebie.com
+0.0.0.0 tynezozi.com
 0.0.0.0 tynt.com
 0.0.0.0 typhonwave.com
 0.0.0.0 typicalteeth.com
@@ -29489,6 +29503,7 @@
 0.0.0.0 ukcoffe.com
 0.0.0.0 ukfpgaeihxamg.com
 0.0.0.0 ukgkugxpzqvqk.com
+0.0.0.0 ukoffzeh.com
 0.0.0.0 ukslphcgs.com
 0.0.0.0 ukufan.com
 0.0.0.0 ukulelead.com
@@ -29726,6 +29741,7 @@
 0.0.0.0 usenetpassport.com
 0.0.0.0 user-paypal.com
 0.0.0.0 user-registration.com
+0.0.0.0 user-shield-check.com
 0.0.0.0 useracici.com
 0.0.0.0 usercash.com
 0.0.0.0 usercherishwheelchair.com
@@ -30366,6 +30382,7 @@
 0.0.0.0 wciivrou.com
 0.0.0.0 wcwigs.com
 0.0.0.0 wda.com
+0.0.0.0 wdanjsscqabsi.com
 0.0.0.0 wdfacustomtees.com
 0.0.0.0 wdm29.com
 0.0.0.0 wdvamhckdjr.com
@@ -30710,6 +30727,7 @@
 0.0.0.0 wjnyc.com
 0.0.0.0 wk4x5rdtoz2tn0.com
 0.0.0.0 wkcuhilbg.com
+0.0.0.0 wkfdymfxmyckr.com
 0.0.0.0 wkll7glfazgp.com
 0.0.0.0 wlapdczzpceb.com
 0.0.0.0 wlbcqvral.com
@@ -61744,6 +61762,7 @@
 0.0.0.0 ads.onecenter.com
 0.0.0.0 go.onecompath.com
 0.0.0.0 c1.onedmp.com
+0.0.0.0 image.mail.onedrive.com
 0.0.0.0 sstats.oneilglobaladvisors.com
 0.0.0.0 ads-au.onelouder.com
 0.0.0.0 advrts.onelouder.com
@@ -68372,6 +68391,7 @@
 0.0.0.0 go.spanglobalservices.com
 0.0.0.0 adserver.spankaway.com
 0.0.0.0 xoxo5-eng.spankbang.com
+0.0.0.0 xoxo6-eng.spankbang.com
 0.0.0.0 mbs.spankwirecams.com
 0.0.0.0 go.sparkcognition.com
 0.0.0.0 www.sparkimg.com
@@ -84719,6 +84739,7 @@
 0.0.0.0 bonertraffic.info
 0.0.0.0 bonertraffic12.info
 0.0.0.0 bonertraffic13.info
+0.0.0.0 bonertraffic14.info
 0.0.0.0 boogiesbiassed.info
 0.0.0.0 borderstroll.info
 0.0.0.0 boroskola.info
@@ -93454,6 +93475,7 @@
 0.0.0.0 eztnezdmeg.net
 0.0.0.0 faceraw.net
 0.0.0.0 facerooting.net
+0.0.0.0 factinform.net
 0.0.0.0 faigroas.net
 0.0.0.0 failmobile.net
 0.0.0.0 fakturowanie24.net
@@ -98792,6 +98814,7 @@
 0.0.0.0 d278x9hvw7q8iw.cloudfront.net
 0.0.0.0 d27a42tuxy5ura.cloudfront.net
 0.0.0.0 d27dwebkv4fy06.cloudfront.net
+0.0.0.0 d27gtglsu4f4y2.cloudfront.net
 0.0.0.0 d27j9bp3jt0g6p.cloudfront.net
 0.0.0.0 d27jt7xr4fq3e8.cloudfront.net
 0.0.0.0 d27jwue5iqnh6b.cloudfront.net
@@ -126853,6 +126876,7 @@
 0.0.0.0 faizabeauty.xyz
 0.0.0.0 fasdgas2e2e1.xyz
 0.0.0.0 fbbbx.xyz
+0.0.0.0 fdsgv.xyz
 0.0.0.0 ficusoid.xyz
 0.0.0.0 figent.xyz
 0.0.0.0 firon.xyz
