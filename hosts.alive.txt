@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Alive)
-# Date: 06:01 AM Tuesday 14 September 2021
+# Date: 06:01 AM Wednesday 15 September 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.alive.txt
@@ -3778,6 +3778,7 @@
 0.0.0.0 logger.yp.ca
 0.0.0.0 info.businesscentre.yp.ca
 0.0.0.0 smetrics.zehrs.ca
+0.0.0.0 anightsregalia.cam
 0.0.0.0 avickhoseman.cam
 0.0.0.0 badleasump.cam
 0.0.0.0 banesnorttat.cam
@@ -11406,6 +11407,7 @@
 0.0.0.0 birdbathmorning.com
 0.0.0.0 birgebeningunlugu.com
 0.0.0.0 birkin30.com
+0.0.0.0 birlerskababs.com
 0.0.0.0 biroads.com
 0.0.0.0 birthdiscipline.com
 0.0.0.0 bis-dic15.com
@@ -20096,6 +20098,7 @@
 0.0.0.0 ketofitnessexpert.com
 0.0.0.0 ketofitpatches.com
 0.0.0.0 ketoo.com
+0.0.0.0 kettinggiantry.com
 0.0.0.0 kevabila.com
 0.0.0.0 kewhexethe.com
 0.0.0.0 kewlrank.com
@@ -22305,6 +22308,7 @@
 0.0.0.0 muhseen.com
 0.0.0.0 mujap.com
 0.0.0.0 mujilora.com
+0.0.0.0 mujnmhmfhrubzq.com
 0.0.0.0 mukunth.com
 0.0.0.0 mulikit.com
 0.0.0.0 multileaguebookstore.com
@@ -22990,6 +22994,7 @@
 0.0.0.0 nochernskincare.com
 0.0.0.0 noclef.com
 0.0.0.0 nocter.com
+0.0.0.0 nodecrisp.com
 0.0.0.0 nodeschool.com
 0.0.0.0 nodiotel.com
 0.0.0.0 nodoubtcreations.com
@@ -24215,6 +24220,7 @@
 0.0.0.0 phekrimp.com
 0.0.0.0 phenomcrm.com
 0.0.0.0 phenomenonattorney.com
+0.0.0.0 phhitgjxsit.com
 0.0.0.0 phikunprogramming.com
 0.0.0.0 philacct.com
 0.0.0.0 philosophicalregardlesssetback.com
@@ -28148,6 +28154,7 @@
 0.0.0.0 systemleadb.com
 0.0.0.0 systemtrees.com
 0.0.0.0 systweak.com
+0.0.0.0 syteapi.com
 0.0.0.0 syxcwxur.com
 0.0.0.0 syyycc.com
 0.0.0.0 szalonenagrody.com
@@ -127701,6 +127708,7 @@
 0.0.0.0 ytymetuw.xyz
 0.0.0.0 yusta.xyz
 0.0.0.0 ywofuxyq.xyz
+0.0.0.0 zabanit.xyz
 0.0.0.0 zaplac-paczkomat24.xyz
 0.0.0.0 zapllac-teraz-inpost.xyz
 0.0.0.0 zceami.xyz
