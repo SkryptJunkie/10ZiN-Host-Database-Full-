@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Alive)
-# Date: 06:01 AM Wednesday 15 September 2021
+# Date: 06:01 AM Thursday 16 September 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.alive.txt
@@ -10215,6 +10215,7 @@
 0.0.0.0 anytraffic.com
 0.0.0.0 aobyp1una641o8.com
 0.0.0.0 aocular.com
+0.0.0.0 aonpnndg.com
 0.0.0.0 aoredi.com
 0.0.0.0 aoxcapitals.com
 0.0.0.0 aoxtrade.com
@@ -10400,6 +10401,7 @@
 0.0.0.0 arshgkcfdhgr.com
 0.0.0.0 arsoncanteenpicky.com
 0.0.0.0 arsonexchangefly.com
+0.0.0.0 arswabluchan.com
 0.0.0.0 art-offer.com
 0.0.0.0 artbyleesi.com
 0.0.0.0 artcomix.com
@@ -10836,6 +10838,7 @@
 0.0.0.0 balvalur.com
 0.0.0.0 ban1mid.com
 0.0.0.0 ban2mid.com
+0.0.0.0 ban3mid.com
 0.0.0.0 bananarepubic.com
 0.0.0.0 bananasimplicity.com
 0.0.0.0 bananastouching.com
@@ -11092,6 +11095,7 @@
 0.0.0.0 beludicolor.com
 0.0.0.0 belwrite.com
 0.0.0.0 belyyeusy.com
+0.0.0.0 bemachopor.com
 0.0.0.0 bemobpath.com
 0.0.0.0 bemobtrcks.com
 0.0.0.0 bemobtrk.com
@@ -11718,6 +11722,7 @@
 0.0.0.0 bootspoland.com
 0.0.0.0 bootstrap-js.com
 0.0.0.0 bootstraplugin.com
+0.0.0.0 bootsuserstruthful.com
 0.0.0.0 bop-bop-bam.com
 0.0.0.0 bopohsage.com
 0.0.0.0 bopstermedia56.com
@@ -12108,6 +12113,7 @@
 0.0.0.0 bxkxzjdjxeexi.com
 0.0.0.0 bxsfvqhzj.com
 0.0.0.0 byagadget.com
+0.0.0.0 byaronan.com
 0.0.0.0 bycixeba.com
 0.0.0.0 bydst.com
 0.0.0.0 byduthacho.com
@@ -12709,6 +12715,7 @@
 0.0.0.0 chioneflake.com
 0.0.0.0 chip2gift.com
 0.0.0.0 chipleader.com
+0.0.0.0 chipsuziby.com
 0.0.0.0 chirkacylal.com
 0.0.0.0 chitika.com
 0.0.0.0 chivalrouspeacockgreatly.com
@@ -13176,6 +13183,7 @@
 0.0.0.0 codezap.com
 0.0.0.0 codghostprestigehack.com
 0.0.0.0 coedmediagroup.com
+0.0.0.0 coenobeullucu.com
 0.0.0.0 coffeedeliverys.com
 0.0.0.0 coffeedesigningkindle.com
 0.0.0.0 coffemokko.com
@@ -15836,6 +15844,7 @@
 0.0.0.0 expresswebtraffic.com
 0.0.0.0 exrtbsrv.com
 0.0.0.0 extafiles.com
+0.0.0.0 extendedmoreimposter.com
 0.0.0.0 extengames.com
 0.0.0.0 extensiongames.com
 0.0.0.0 extensivevinylservices.com
@@ -18294,6 +18303,7 @@
 0.0.0.0 harlsmums.com
 0.0.0.0 harm6stop.com
 0.0.0.0 harmoniousstrandbulk.com
+0.0.0.0 harnesssuccessorspray.com
 0.0.0.0 harpiesong8.com
 0.0.0.0 harpospizzacolombo.com
 0.0.0.0 harrenmedia.com
@@ -18301,10 +18311,12 @@
 0.0.0.0 harry-thompson-pl.com
 0.0.0.0 harryticket.com
 0.0.0.0 hartaim.com
+0.0.0.0 hartalltunker.com
 0.0.0.0 hartim.com
 0.0.0.0 harvestadsdepot.com
 0.0.0.0 harvesttheory.com
 0.0.0.0 harwincellphonerepair.com
+0.0.0.0 hasdrs.com
 0.0.0.0 haseebkishadi.com
 0.0.0.0 hash-hash-tag.com
 0.0.0.0 hashresidency.com
@@ -19985,6 +19997,7 @@
 0.0.0.0 jwpltx.com
 0.0.0.0 jwt8e5vzc1.com
 0.0.0.0 jwvwak1a.com
+0.0.0.0 jxdqawzenrpw.com
 0.0.0.0 jxfkevszqqdb.com
 0.0.0.0 jxliu.com
 0.0.0.0 jxxcedyaazm.com
@@ -20131,6 +20144,7 @@
 0.0.0.0 khg97644rvbg.com
 0.0.0.0 khzbeucrltin.com
 0.0.0.0 kibblerkilldee.com
+0.0.0.0 kicasipto.com
 0.0.0.0 kickmovies.com
 0.0.0.0 kickplays.com
 0.0.0.0 kiddercreekdesigns.com
@@ -20782,7 +20796,9 @@
 0.0.0.0 litocen.com
 0.0.0.0 litoren.com
 0.0.0.0 litourge.com
+0.0.0.0 littercipher.com
 0.0.0.0 littleangelsearlylearning.com
+0.0.0.0 littlecdn.com
 0.0.0.0 littlefrogalarm.com
 0.0.0.0 liuresidences.com
 0.0.0.0 live-en.com
@@ -21693,6 +21709,7 @@
 0.0.0.0 methodcash.com
 0.0.0.0 methodslocal.com
 0.0.0.0 methuenrestaurantweek.com
+0.0.0.0 methupteshu.com
 0.0.0.0 metoda-poliglotow.com
 0.0.0.0 metosk.com
 0.0.0.0 metricfast.com
@@ -22668,6 +22685,7 @@
 0.0.0.0 ncdnunc.com
 0.0.0.0 nckjysyk.com
 0.0.0.0 nctracking.com
+0.0.0.0 nctylivpwhpby.com
 0.0.0.0 ncurqchw.com
 0.0.0.0 ndecpynmkwqjz.com
 0.0.0.0 ndejhe73jslaw093.com
@@ -23397,6 +23415,7 @@
 0.0.0.0 omise-go.com
 0.0.0.0 omisegotoken.com
 0.0.0.0 omitbailey.com
+0.0.0.0 omkaaqtwzvc.com
 0.0.0.0 omnaling.com
 0.0.0.0 omnicleaningservices.com
 0.0.0.0 omnijay.com
@@ -23449,6 +23468,7 @@
 0.0.0.0 onelnk.com
 0.0.0.0 onelouder.com
 0.0.0.0 onelovehacks.com
+0.0.0.0 onenag.com
 0.0.0.0 onenetworkdirect.com
 0.0.0.0 onepassnetwork.com
 0.0.0.0 onepstr.com
@@ -23567,6 +23587,7 @@
 0.0.0.0 oplata-payu.com
 0.0.0.0 oplwseln.com
 0.0.0.0 opmnstr.com
+0.0.0.0 opotey.com
 0.0.0.0 opoxv.com
 0.0.0.0 opportunemoney.com
 0.0.0.0 opportunity-tracking.com
@@ -24136,6 +24157,7 @@
 0.0.0.0 pergavelshot.com
 0.0.0.0 perhapscommabudge.com
 0.0.0.0 perigshfnon.com
+0.0.0.0 periljuicywary.com
 0.0.0.0 periodsalter.com
 0.0.0.0 perk0mean.com
 0.0.0.0 permalink-system.com
@@ -24884,6 +24906,7 @@
 0.0.0.0 profitrumour.com
 0.0.0.0 profitsitesbiz.com
 0.0.0.0 profitzone.com
+0.0.0.0 progmxs.com
 0.0.0.0 prognosiscontradictbody.com
 0.0.0.0 prognosisshallowpliant.com
 0.0.0.0 programattik.com
@@ -25688,6 +25711,7 @@
 0.0.0.0 reducedgulliblepeevish.com
 0.0.0.0 reducelant.com
 0.0.0.0 reducelnk.com
+0.0.0.0 reducingcommission.com
 0.0.0.0 redundancyphilosophicalwest.com
 0.0.0.0 reduxmedia.com
 0.0.0.0 reduxmediagroup.com
@@ -26456,6 +26480,7 @@
 0.0.0.0 sciencepowerbd.com
 0.0.0.0 scientiamobile.com
 0.0.0.0 scientifichoaxfutile.com
+0.0.0.0 scientificimmigration.com
 0.0.0.0 scillathemons.com
 0.0.0.0 scintillatingscissors.com
 0.0.0.0 scintillatingsilver.com
@@ -27784,9 +27809,11 @@
 0.0.0.0 stepplane.com
 0.0.0.0 steroidparentconstruct.com
 0.0.0.0 steroidtypesconviction.com
+0.0.0.0 stewclove.com
 0.0.0.0 stewhustysti.com
 0.0.0.0 stewlinedull.com
 0.0.0.0 stezuzeje.com
+0.0.0.0 sticixoju.com
 0.0.0.0 stickssheep.com
 0.0.0.0 stickyadstv.com
 0.0.0.0 stiffenpersevere.com
@@ -29622,6 +29649,7 @@
 0.0.0.0 unlockiosnow.com
 0.0.0.0 unlockr.com
 0.0.0.0 unlocksimphone.com
+0.0.0.0 unmetalised.com
 0.0.0.0 unmillondeutilidades.com
 0.0.0.0 unmortalloose.com
 0.0.0.0 unmovedfollycomb.com
@@ -29925,6 +29953,7 @@
 0.0.0.0 vendigamus.com
 0.0.0.0 vendnibtemp.com
 0.0.0.0 venetrigni.com
+0.0.0.0 venfioletadas.com
 0.0.0.0 venonita.com
 0.0.0.0 ventilatorvisitedgrain.com
 0.0.0.0 ventivmedia.com
@@ -31433,6 +31462,7 @@
 0.0.0.0 yourhoney-dreamgirl3.com
 0.0.0.0 youripad4free.com
 0.0.0.0 youripodtouch4free.com
+0.0.0.0 yourkadspunew.com
 0.0.0.0 yourlife-group.com
 0.0.0.0 yourlovelymans.com
 0.0.0.0 yourmediahq.com
@@ -83056,6 +83086,7 @@
 0.0.0.0 delivery.olx.oferta.fyi
 0.0.0.0 www.delivery.olx.oferta.fyi
 0.0.0.0 aperitifmans.ga
+0.0.0.0 belonnanotservice.ga
 0.0.0.0 besti.ga
 0.0.0.0 britgehanutvo.ga
 0.0.0.0 cfasync.ga
@@ -98240,6 +98271,7 @@
 0.0.0.0 d185a6gu8pu31w.cloudfront.net
 0.0.0.0 d187swsqhr3yxk.cloudfront.net
 0.0.0.0 d188elxamt3utn.cloudfront.net
+0.0.0.0 d188m5xxcpvuue.cloudfront.net
 0.0.0.0 d189rg7gxa6i7e.cloudfront.net
 0.0.0.0 d18a9fzbyapsw3.cloudfront.net
 0.0.0.0 d18c2mnk8xpfaf.cloudfront.net
@@ -105386,6 +105418,7 @@
 0.0.0.0 events.streamrail.net
 0.0.0.0 ssp.streamrail.net
 0.0.0.0 ssr.streamrail.net
+0.0.0.0 stats-bq.stylight.net
 0.0.0.0 api.subiz.net
 0.0.0.0 widget.subiz.net
 0.0.0.0 www.sublimemedia.net
@@ -109772,6 +109805,7 @@
 0.0.0.0 www.olxpl.org
 0.0.0.0 www.olxpoland.org
 0.0.0.0 thinktank.omfif.org
+0.0.0.0 plausible.omgapi.org
 0.0.0.0 go.omgprograms.org
 0.0.0.0 events.omrf.org
 0.0.0.0 antispyware.onlinedownloads.org
@@ -122490,6 +122524,7 @@
 0.0.0.0 thehairtransplantationturkey.tk
 0.0.0.0 tiendadebarrio.tk
 0.0.0.0 vipnome.tk
+0.0.0.0 welcoming-carpets.tk
 0.0.0.0 weryfikujemy.tk
 0.0.0.0 wieliczka-pl.tk
 0.0.0.0 wild-deneme123.tk
@@ -126797,6 +126832,7 @@
 0.0.0.0 cp2srvng.xyz
 0.0.0.0 craqueteriez.xyz
 0.0.0.0 creazionesitointernet.xyz
+0.0.0.0 cycalaky.xyz
 0.0.0.0 czestochowawsieci.xyz
 0.0.0.0 czyscimniedupa.xyz
 0.0.0.0 d99sure.xyz
@@ -127081,6 +127117,7 @@
 0.0.0.0 lightblog.xyz
 0.0.0.0 lili24.xyz
 0.0.0.0 liliane.xyz
+0.0.0.0 liminances.xyz
 0.0.0.0 limnigraphes.xyz
 0.0.0.0 linkdebrideur.xyz
 0.0.0.0 linkpaypl.xyz
@@ -127504,6 +127541,7 @@
 0.0.0.0 safe-olxpln.xyz
 0.0.0.0 sasedi.xyz
 0.0.0.0 sawron.xyz
+0.0.0.0 schargesee.xyz
 0.0.0.0 secure-bank-getin.xyz
 0.0.0.0 secure-service.xyz
 0.0.0.0 securegate.xyz
@@ -127541,6 +127579,7 @@
 0.0.0.0 stackoverflow.xyz
 0.0.0.0 storyeasy.xyz
 0.0.0.0 strategia-zasobw.xyz
+0.0.0.0 subpracted.xyz
 0.0.0.0 subsgifts.xyz
 0.0.0.0 sunwater.xyz
 0.0.0.0 superssh.xyz
