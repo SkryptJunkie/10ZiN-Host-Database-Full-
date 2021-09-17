@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Alive)
-# Date: 06:01 AM Thursday 16 September 2021
+# Date: 06:01 AM Friday 17 September 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.alive.txt
@@ -13118,6 +13118,7 @@
 0.0.0.0 clxrggmghevqfu.com
 0.0.0.0 cm-arquitetos.com
 0.0.0.0 cm-trk3.com
+0.0.0.0 cm-trk5.com
 0.0.0.0 cmail1.com
 0.0.0.0 cmail2.com
 0.0.0.0 cmail5.com
@@ -26769,6 +26770,7 @@
 0.0.0.0 sevodyne.com
 0.0.0.0 sewamobilboxbandung.com
 0.0.0.0 sewingdoubtlessperch.com
+0.0.0.0 sewingfibber.com
 0.0.0.0 sex-adultgames1.com
 0.0.0.0 sex-and-flirt.com
 0.0.0.0 sex-date-vipcontacts1.com

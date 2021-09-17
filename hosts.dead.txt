@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:01 AM Thursday 16 September 2021
+# Date: 06:01 AM Friday 17 September 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -2490,8 +2490,10 @@
 0.0.0.0 2a34919c07.com
 0.0.0.0 2bluemountain.com
 0.0.0.0 2shocking4you.com
+0.0.0.0 33dcd18457.com
 0.0.0.0 35hacks.com
 0.0.0.0 3abfd3be7e.com
+0.0.0.0 3c16e3cb652f1.com
 0.0.0.0 3cd99930e27056f89.com
 0.0.0.0 3cnce854.com
 0.0.0.0 3dsemulatorfree.com
@@ -2509,6 +2511,7 @@
 0.0.0.0 4ufiles.com
 0.0.0.0 50dollargiftcard.com
 0.0.0.0 50nuancesdegrey-lefilm-vf.com
+0.0.0.0 521e8140df2aa97.com
 0.0.0.0 5pr1sfzsl9.com
 0.0.0.0 5x5i5tj2u97w.com
 0.0.0.0 60pictures.com
@@ -2530,6 +2533,7 @@
 0.0.0.0 7softwaredreams.com
 0.0.0.0 7vws1j1j.com
 0.0.0.0 80pictures.com
+0.0.0.0 8a6a01a944feb8.com
 0.0.0.0 8cheat.com
 0.0.0.0 8d61ca09804.com
 0.0.0.0 920sbo17zn88.com
@@ -2539,6 +2543,7 @@
 0.0.0.0 9a67bd5b1f091.com
 0.0.0.0 9h7n8.com
 0.0.0.0 a-nagy-alku.com
+0.0.0.0 a387f0742c45.com
 0.0.0.0 a3yqjsrczwwp.com
 0.0.0.0 a4dtracker.com
 0.0.0.0 a4mt150303tl.com
@@ -3530,6 +3535,7 @@
 0.0.0.0 e3845ad4643.com
 0.0.0.0 e4f024c087.com
 0.0.0.0 e76f4baacb.com
+0.0.0.0 e820a3345b7.com
 0.0.0.0 e8934fbbed0495.com
 0.0.0.0 eads-adserving.com
 0.0.0.0 eagamevoice.com
