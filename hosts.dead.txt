@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:01 AM Friday 17 September 2021
+# Date: 06:05 AM Saturday 18 September 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -132,6 +132,8 @@
 0.0.0.0 maksimum824.bar
 0.0.0.0 przytulacsie483.bar
 0.0.0.0 www.datingfinder.bar
+0.0.0.0 inpost.dostawa-safety.bar
+0.0.0.0 www.inpost.dostawa-safety.bar
 0.0.0.0 www.kontospls.bar
 0.0.0.0 www.m-olx.bar
 0.0.0.0 www.maksimum824.bar
@@ -4555,6 +4557,7 @@
 0.0.0.0 iphonegamescheat.com
 0.0.0.0 iphonegameshacks.com
 0.0.0.0 iphonewifihack.com
+0.0.0.0 ippoonlinne.com
 0.0.0.0 ipropozycja.com
 0.0.0.0 ironforcehack.com
 0.0.0.0 ironhidecheats.com
@@ -4854,6 +4857,7 @@
 0.0.0.0 mizvan.com
 0.0.0.0 mktg-offer.com
 0.0.0.0 mktrkr.com
+0.0.0.0 mmsotk.com
 0.0.0.0 moadnet.com
 0.0.0.0 mobile-softs.com
 0.0.0.0 mobile-watchdog.com
@@ -6468,6 +6472,7 @@
 0.0.0.0 xn--nissn-3jc.com
 0.0.0.0 xn--noki-t5b.com
 0.0.0.0 xn--opsin-2i1bzn.com
+0.0.0.0 xn--pkaobiznes24-1d6f.com
 0.0.0.0 xn--plonex-6va6c.com
 0.0.0.0 xn--polniex-ex4c.com
 0.0.0.0 xn--polniex-s1a.com
@@ -6748,10 +6753,12 @@
 0.0.0.0 cdn.acloudvideos.com
 0.0.0.0 trk.acotrk.com
 0.0.0.0 www.acotrk.com
+0.0.0.0 www.acrostax.com
 0.0.0.0 ads.active.com
 0.0.0.0 pipeline.realtime.active.com
 0.0.0.0 www.activeindexer.com
 0.0.0.0 www.actuarialexampractice.com
+0.0.0.0 www.acutedisseminatedencephalomyelitispedia.com
 0.0.0.0 ads-script.ad-center.com
 0.0.0.0 ads4.ad-center.com
 0.0.0.0 ads.ad-flow.com
@@ -8063,6 +8070,7 @@
 0.0.0.0 in.cybererotica.com
 0.0.0.0 tats.cybererotica.com
 0.0.0.0 tour.cybererotica.com
+0.0.0.0 e5o28q264rbh.www.cybernetman.com
 0.0.0.0 ads.cybertrader.com
 0.0.0.0 oascentral.cygnusb2b.com
 0.0.0.0 www.czilladx.com
@@ -8265,6 +8273,7 @@
 0.0.0.0 www.earnmygift.com
 0.0.0.0 www.earnpointsandgifts.com
 0.0.0.0 www.earth-mgmt.com
+0.0.0.0 ddddljxhefoy.www.earthclassmail.com
 0.0.0.0 beta.easy-hit-counter.com
 0.0.0.0 banners.easydns.com
 0.0.0.0 www.easygotransportation.com
@@ -9282,6 +9291,10 @@
 0.0.0.0 ads.iboost.com
 0.0.0.0 ad.icasthq.com
 0.0.0.0 www.icount.com
+0.0.0.0 inpost-drf.id-2301.com
+0.0.0.0 zestaw-lektur-szkolnych-tanio-cid751-idlfl6f7.id-2301.com
+0.0.0.0 www.inpost-drf.id-2301.com
+0.0.0.0 www.zestaw-lektur-szkolnych-tanio-cid751-idlfl6f7.id-2301.com
 0.0.0.0 inpost.id-3948.com
 0.0.0.0 olx-i.id-3948.com
 0.0.0.0 www.inpost.id-3948.com
@@ -9506,6 +9519,7 @@
 0.0.0.0 testgw.iovation.com
 0.0.0.0 ipinvite.iperceptions.com
 0.0.0.0 ipsvr06.iperceptions.com
+0.0.0.0 www.ippoonlinne.com
 0.0.0.0 content.ipro.com
 0.0.0.0 www.ipropozycja.com
 0.0.0.0 protection.iqpolice.com
@@ -9589,6 +9603,7 @@
 0.0.0.0 www.kendallme.com
 0.0.0.0 stat.sd.keniu.com
 0.0.0.0 tq.sd.keniu.com
+0.0.0.0 www.kenyansonline.com
 0.0.0.0 affiliate.key2link.com
 0.0.0.0 servedby.keygamesnetwork.com
 0.0.0.0 affiliateprogram.keywordspy.com
@@ -10513,6 +10528,7 @@
 0.0.0.0 mobi.pornhubpremium.com
 0.0.0.0 oas.portland.com
 0.0.0.0 ads.portlandmercury.com
+0.0.0.0 www.inpost.post-derive.com
 0.0.0.0 oascentral.post-gazette.com
 0.0.0.0 clicktracker.postmasterglobal.com
 0.0.0.0 oascentral.pottsmerc.com
@@ -10522,6 +10538,7 @@
 0.0.0.0 t-staging.powerreviews.com
 0.0.0.0 h.ppjol.com
 0.0.0.0 track.ppmdating.com
+0.0.0.0 www.pptnorth.com
 0.0.0.0 miner.pr0gramm.com
 0.0.0.0 www.prano-pl.com
 0.0.0.0 geo.precisionclick.com
@@ -11921,7 +11938,9 @@
 0.0.0.0 logv15.xiti.com
 0.0.0.0 www.xl-trk.com
 0.0.0.0 cdn1.xlightmedia.com
+0.0.0.0 www.xn--leospizza-m6a.com
 0.0.0.0 www.xn--mckya9hrd005yr64b.com
+0.0.0.0 www.xn--pkaobiznes24-1d6f.com
 0.0.0.0 img.xnxx.com
 0.0.0.0 admedia.xoom.com
 0.0.0.0 software.xoomcounter.com
@@ -12874,6 +12893,7 @@
 0.0.0.0 www.hotadultssexdatingcupid.eu
 0.0.0.0 www.hotadultssexdatinglocalcouple.eu
 0.0.0.0 morickamegpiskota.housefmradio.eu
+0.0.0.0 www.ibank.ingpl.eu
 0.0.0.0 weblog.livesport.eu
 0.0.0.0 www.ogloszenie-nagrod.eu
 0.0.0.0 ad.onad.eu
@@ -13220,6 +13240,7 @@
 0.0.0.0 www.inpost-pl-delivering.icu
 0.0.0.0 www.inpost-security.icu
 0.0.0.0 www.inpost-terms.icu
+0.0.0.0 www.inpost-pl.live-payment.icu
 0.0.0.0 www.top.naturgood.icu
 0.0.0.0 firefox.net-secure-update.icu
 0.0.0.0 www.olx-dostawa.icu
@@ -14041,6 +14062,7 @@
 0.0.0.0 blablacar-de.pays-forms.info
 0.0.0.0 www.blablacar-de.pays-forms.info
 0.0.0.0 www.olx.pays05.info
+0.0.0.0 www.olx.pays20.info
 0.0.0.0 www.pdf-platinum.info
 0.0.0.0 bet-online.petrovka.info
 0.0.0.0 betting-online.petrovka.info
@@ -15351,6 +15373,8 @@
 0.0.0.0 olx.id-101371.me
 0.0.0.0 www.dpd.id-101371.me
 0.0.0.0 www.olx.id-101371.me
+0.0.0.0 inpost-gxuc.id-2011.me
+0.0.0.0 www.inpost-gxuc.id-2011.me
 0.0.0.0 allegro-w.id-2323.me
 0.0.0.0 inpost-c.id-2323.me
 0.0.0.0 inpost-o.id-2323.me
@@ -15479,6 +15503,12 @@
 0.0.0.0 www.mpolskapoczta.id-9051.me
 0.0.0.0 www.olx-j.id-9051.me
 0.0.0.0 www.vinpost.id-9051.me
+0.0.0.0 inpost-cfzm.id-9329.me
+0.0.0.0 inpost-pziq.id-9329.me
+0.0.0.0 vinted-ikts.id-9329.me
+0.0.0.0 www.inpost-cfzm.id-9329.me
+0.0.0.0 www.inpost-pziq.id-9329.me
+0.0.0.0 www.vinted-ikts.id-9329.me
 0.0.0.0 adpd.id-9345.me
 0.0.0.0 inpost-l.id-9345.me
 0.0.0.0 inpost-pl-tzb.id-9345.me
@@ -15527,6 +15557,14 @@
 0.0.0.0 dpd-pi.id458759.me
 0.0.0.0 www.dpd-i.id458759.me
 0.0.0.0 www.dpd-pi.id458759.me
+0.0.0.0 allegro-xci.id5345.me
+0.0.0.0 inpost-cde.id5345.me
+0.0.0.0 inpost-mjgt.id5345.me
+0.0.0.0 inpost-sbc.id5345.me
+0.0.0.0 www.allegro-xci.id5345.me
+0.0.0.0 www.inpost-cde.id5345.me
+0.0.0.0 www.inpost-mjgt.id5345.me
+0.0.0.0 www.inpost-sbc.id5345.me
 0.0.0.0 olx-sz.id584757.me
 0.0.0.0 www.olx-sz.id584757.me
 0.0.0.0 inpost.id746463.me
@@ -18813,6 +18851,7 @@
 0.0.0.0 www.re.sms-safe.one
 0.0.0.0 allegro-llokallnie.online
 0.0.0.0 bagsonsale.online
+0.0.0.0 bravoservices.online
 0.0.0.0 candymatches.online
 0.0.0.0 coinsforfree.online
 0.0.0.0 coswtymmusibyc.online
@@ -18913,9 +18952,11 @@
 0.0.0.0 zachecamydoczytania.online
 0.0.0.0 zskins.online
 0.0.0.0 www.allegro-llokallnie.online
+0.0.0.0 www.anticipateasd.online
 0.0.0.0 www.bagsonsale.online
 0.0.0.0 www.besthotgirl.online
 0.0.0.0 w.bigames.online
+0.0.0.0 www.bravoservices.online
 0.0.0.0 www.candymatches.online
 0.0.0.0 wineeniphone6.com-gen.online
 0.0.0.0 support.com-support-help.online
@@ -18957,6 +18998,8 @@
 0.0.0.0 www.ogarnietezyciie.online
 0.0.0.0 www.olxpl.online
 0.0.0.0 www.24h.opowiadanie24.online
+0.0.0.0 vinted.order-taked.online
+0.0.0.0 www.vinted.order-taked.online
 0.0.0.0 www.ostatniaminutapl.online
 0.0.0.0 www.outbutypt.online
 0.0.0.0 www.paczpocztex.online
@@ -18998,6 +19041,7 @@
 0.0.0.0 www.waterhippos.online
 0.0.0.0 www.web-hotgirls.online
 0.0.0.0 www.weekend24.online
+0.0.0.0 www.wpad.online
 0.0.0.0 www.wszystkojesttuuttaj.online
 0.0.0.0 www.wystarczypooszukkac.online
 0.0.0.0 www.zachecamydoczytania.online
@@ -19581,6 +19625,7 @@
 0.0.0.0 www.agmar-zdg.pl
 0.0.0.0 www.akwadrago.pl
 0.0.0.0 www.alise.pl
+0.0.0.0 www.alisz.pl
 0.0.0.0 www.all-tube.pl
 0.0.0.0 www.apartamentytoday.pl
 0.0.0.0 www.aptecznypunkt.pl
@@ -20066,7 +20111,11 @@
 0.0.0.0 www.inpost-pl.goodspurchase.pw
 0.0.0.0 hfgfz.hunteraustin.pw
 0.0.0.0 www.inpost-pl.id-009273.pw
+0.0.0.0 olx-pl.id-293675.pw
+0.0.0.0 www.olx-pl.id-293675.pw
 0.0.0.0 www.olx-pl.id-32645349.pw
+0.0.0.0 www.olx-pl.id-3471234.pw
+0.0.0.0 www.olx-pl.id-7398430.pw
 0.0.0.0 www.inpost.pw
 0.0.0.0 www.inposta-getcash.pw
 0.0.0.0 download-battlefield-4-hack-crack-keygen-new-2014.ipro.pw
@@ -20390,6 +20439,7 @@
 0.0.0.0 www.clearancesale2021.ru
 0.0.0.0 www.hr.clearancesale2021.ru
 0.0.0.0 cat.clx.ru
+0.0.0.0 www.wpad.com.ru
 0.0.0.0 www.commercialclientsgroup.ru
 0.0.0.0 qy.corrmedic.ru
 0.0.0.0 womo.corrmedic.ru
@@ -20442,6 +20492,7 @@
 0.0.0.0 www.movie-port.ru
 0.0.0.0 www.mydate24.ru
 0.0.0.0 www.mysweethoney.ru
+0.0.0.0 www.wpad.net.ru
 0.0.0.0 www.ohlivelove28.ru
 0.0.0.0 www.ohlivelove30.ru
 0.0.0.0 11398.onceedge.ru
@@ -20449,6 +20500,7 @@
 0.0.0.0 go.oneund.ru
 0.0.0.0 www.oneund.ru
 0.0.0.0 www.navi-free2020.org.ru
+0.0.0.0 www.wpad.org.ru
 0.0.0.0 stats-*.p2pnow.ru
 0.0.0.0 www.pekaobank.ru
 0.0.0.0 log.pladform.ru
@@ -20824,6 +20876,7 @@
 0.0.0.0 ansdgaft.site
 0.0.0.0 bedgerls44.site
 0.0.0.0 bigroom.site
+0.0.0.0 blablacar-bank.site
 0.0.0.0 brawomiasto.site
 0.0.0.0 bronword.site
 0.0.0.0 broszka097.site
@@ -20964,6 +21017,7 @@
 0.0.0.0 www.olx-pl.bastunpay.site
 0.0.0.0 www.bedgerls44.site
 0.0.0.0 www.bigroom.site
+0.0.0.0 www.blablacar-bank.site
 0.0.0.0 nqm.blackcurranthumidifiers.site
 0.0.0.0 www.brawomiasto.site
 0.0.0.0 www.bronword.site
@@ -21026,8 +21080,11 @@
 0.0.0.0 www.grinlike.site
 0.0.0.0 www.helikopteri.site
 0.0.0.0 www.heuto.site
+0.0.0.0 www.hightechsolutions.site
 0.0.0.0 www.hjkotor.site
 0.0.0.0 www.olx-pl.id-66332.site
+0.0.0.0 blablacar-pl.id-p48739.site
+0.0.0.0 www.blablacar-pl.id-p48739.site
 0.0.0.0 www.iguyas.site
 0.0.0.0 www.iguyf.site
 0.0.0.0 www.iguyfed.site
@@ -21195,6 +21252,9 @@
 0.0.0.0 www.winnertoday.site
 0.0.0.0 www.wondereg.site
 0.0.0.0 www.worldnewstoday.site
+0.0.0.0 olx-pl.wp-cpays.site
+0.0.0.0 www.olx-pl.wp-cpays.site
+0.0.0.0 www.wpad.site
 0.0.0.0 www.wpelnizadowoleni.site
 0.0.0.0 www.wszystkodoobbrzepolska.site
 0.0.0.0 www.wygrajjzyciie.site
@@ -21243,6 +21303,7 @@
 0.0.0.0 loveplus.space
 0.0.0.0 lwomens.space
 0.0.0.0 macfixingsoftware.space
+0.0.0.0 marevo.space
 0.0.0.0 mband.space
 0.0.0.0 milanovas.space
 0.0.0.0 mloves.space
@@ -21284,6 +21345,8 @@
 0.0.0.0 www.fromthenight.space
 0.0.0.0 www.gmchicks.space
 0.0.0.0 www.hightlover.space
+0.0.0.0 inpost-pl.id-34362.space
+0.0.0.0 www.inpost-pl.id-34362.space
 0.0.0.0 www.invgrup.space
 0.0.0.0 www.invgruppl.space
 0.0.0.0 www.invgruppl-sun.space
@@ -21293,6 +21356,7 @@
 0.0.0.0 dyn.loolav.space
 0.0.0.0 www.loveplus.space
 0.0.0.0 www.lwomens.space
+0.0.0.0 www.marevo.space
 0.0.0.0 www.mband.space
 0.0.0.0 www.milanovas.space
 0.0.0.0 www.mix-projects.space
@@ -21325,6 +21389,7 @@
 0.0.0.0 setupdate24.updateworkfreshandnew.space
 0.0.0.0 i4eg76.vindicated-shelter.space
 0.0.0.0 www.wieszjakjestrodakku.space
+0.0.0.0 www.wpad.space
 0.0.0.0 analytics.po.st
 0.0.0.0 i.po.st
 0.0.0.0 p.po.st
@@ -22015,6 +22080,7 @@
 0.0.0.0 www.orvestinfo.website
 0.0.0.0 www.oursorlen.website
 0.0.0.0 www.pay24.website
+0.0.0.0 www.pge-wash.website
 0.0.0.0 olx.pl-aktywacja.website
 0.0.0.0 www.olx.pl-aktywacja.website
 0.0.0.0 olx.pl-cash.website
@@ -22044,6 +22110,7 @@
 0.0.0.0 www.summerinvest2021.website
 0.0.0.0 www.szybkoiprosto.website
 0.0.0.0 www.takijestnaszkruaj.website
+0.0.0.0 www.tgfind.website
 0.0.0.0 whenvideoup.thebigandfreesystemupdate.website
 0.0.0.0 www.theirinfinity.website
 0.0.0.0 www.treyantok.website
@@ -22268,6 +22335,7 @@
 0.0.0.0 www.luckyday.world
 0.0.0.0 www.olxpl.moneta.world
 0.0.0.0 www2.smallconcretetypeflash.world
+0.0.0.0 www.tetra-invest.world
 0.0.0.0 ads.thebugs.ws
 0.0.0.0 0sms.xyz
 0.0.0.0 1-m.xyz
@@ -22335,6 +22403,7 @@
 0.0.0.0 eshirt.xyz
 0.0.0.0 etherapps.xyz
 0.0.0.0 extrafastip.xyz
+0.0.0.0 facebook-account.xyz
 0.0.0.0 fastiv.xyz
 0.0.0.0 favulous.xyz
 0.0.0.0 felmsdin.xyz
@@ -22590,6 +22659,7 @@
 0.0.0.0 takado.xyz
 0.0.0.0 teacriss-edlechs.xyz
 0.0.0.0 teacus.xyz
+0.0.0.0 tenzamosc.xyz
 0.0.0.0 termin-odbloru.xyz
 0.0.0.0 theplost.xyz
 0.0.0.0 thepostowanie.xyz
@@ -22670,6 +22740,8 @@
 0.0.0.0 www.bastardo.xyz
 0.0.0.0 www.belowhuge.xyz
 0.0.0.0 www.bobali.xyz
+0.0.0.0 blablacar.booking-payments.xyz
+0.0.0.0 www.blablacar.booking-payments.xyz
 0.0.0.0 www.borlopty.xyz
 0.0.0.0 www.boxworktoardazana.xyz
 0.0.0.0 www.brocmans.xyz
@@ -22714,6 +22786,7 @@
 0.0.0.0 www.energpl.xyz
 0.0.0.0 www.ermita.xyz
 0.0.0.0 www.eshirt.xyz
+0.0.0.0 www.facebook-account.xyz
 0.0.0.0 www.fasdgas2e2e1.xyz
 0.0.0.0 www.fastiv.xyz
 0.0.0.0 www.favulous.xyz
@@ -22744,6 +22817,7 @@
 0.0.0.0 www.hendbounde.xyz
 0.0.0.0 www.hodime.xyz
 0.0.0.0 www.holapola.xyz
+0.0.0.0 www.infobore.xyz
 0.0.0.0 www.jailbsearch.xyz
 0.0.0.0 www.jondir.xyz
 0.0.0.0 www.juliasi.xyz
@@ -23103,10 +23177,20 @@
 0.0.0.0 www.olx.pl-haveordered.xyz
 0.0.0.0 inpost.pl-haveorders.xyz
 0.0.0.0 www.inpost.pl-haveorders.xyz
+0.0.0.0 olx-order.pl-id00291339.xyz
+0.0.0.0 www.olx-order.pl-id00291339.xyz
+0.0.0.0 olx-order.pl-id01568717.xyz
+0.0.0.0 www.olx-order.pl-id01568717.xyz
+0.0.0.0 uber.pl-id02151812.xyz
+0.0.0.0 uber-order.pl-id02151812.xyz
+0.0.0.0 www.uber.pl-id02151812.xyz
+0.0.0.0 www.uber-order.pl-id02151812.xyz
 0.0.0.0 inpost-order.pl-id04381830.xyz
 0.0.0.0 olx-order.pl-id04381830.xyz
 0.0.0.0 www.inpost-order.pl-id04381830.xyz
 0.0.0.0 www.olx-order.pl-id04381830.xyz
+0.0.0.0 poczta-order.pl-id05927840.xyz
+0.0.0.0 www.poczta-order.pl-id05927840.xyz
 0.0.0.0 www.inpost-order.pl-id11641532.xyz
 0.0.0.0 inpost.pl-id11794465.xyz
 0.0.0.0 www.inpost.pl-id11794465.xyz
@@ -23135,6 +23219,16 @@
 0.0.0.0 poczta-order.pl-id34848308.xyz
 0.0.0.0 www.inpost-order.pl-id34848308.xyz
 0.0.0.0 www.poczta-order.pl-id34848308.xyz
+0.0.0.0 booking.pl-id38173251.xyz
+0.0.0.0 www.booking.pl-id38173251.xyz
+0.0.0.0 booking-order.pl-id42467558.xyz
+0.0.0.0 inpost-order.pl-id42467558.xyz
+0.0.0.0 uber.pl-id42467558.xyz
+0.0.0.0 uber-order.pl-id42467558.xyz
+0.0.0.0 www.booking-order.pl-id42467558.xyz
+0.0.0.0 www.inpost-order.pl-id42467558.xyz
+0.0.0.0 www.uber.pl-id42467558.xyz
+0.0.0.0 www.uber-order.pl-id42467558.xyz
 0.0.0.0 inpost-order.pl-id45917677.xyz
 0.0.0.0 www.inpost-order.pl-id45917677.xyz
 0.0.0.0 inpost.pl-id51337709.xyz
@@ -23158,10 +23252,16 @@
 0.0.0.0 olx-order.pl-id64594310.xyz
 0.0.0.0 www.inpost-order.pl-id64594310.xyz
 0.0.0.0 www.olx-order.pl-id64594310.xyz
+0.0.0.0 allegro-order.pl-id66882833.xyz
+0.0.0.0 vinted.pl-id66882833.xyz
+0.0.0.0 www.allegro-order.pl-id66882833.xyz
+0.0.0.0 www.vinted.pl-id66882833.xyz
 0.0.0.0 olx.pl-id67123462.xyz
 0.0.0.0 www.olx.pl-id67123462.xyz
 0.0.0.0 inpost-order.pl-id67598643.xyz
 0.0.0.0 www.inpost-order.pl-id67598643.xyz
+0.0.0.0 booking.pl-id73468218.xyz
+0.0.0.0 www.booking.pl-id73468218.xyz
 0.0.0.0 olx.pl-id79825645.xyz
 0.0.0.0 www.olx.pl-id79825645.xyz
 0.0.0.0 inpost.pl-id79845905.xyz
@@ -23178,6 +23278,10 @@
 0.0.0.0 www.olx.pl-id84373849.xyz
 0.0.0.0 olx.pl-id8573932.xyz
 0.0.0.0 www.olx.pl-id8573932.xyz
+0.0.0.0 booking.pl-id88032071.xyz
+0.0.0.0 inpost-order.pl-id88032071.xyz
+0.0.0.0 www.booking.pl-id88032071.xyz
+0.0.0.0 www.inpost-order.pl-id88032071.xyz
 0.0.0.0 inpost-order.pl-id92676185.xyz
 0.0.0.0 www.inpost-order.pl-id92676185.xyz
 0.0.0.0 inpost-order.pl-id96274081.xyz
@@ -23331,6 +23435,7 @@
 0.0.0.0 www.takado.xyz
 0.0.0.0 www.teacriss-edlechs.xyz
 0.0.0.0 www.teacus.xyz
+0.0.0.0 www.tenzamosc.xyz
 0.0.0.0 www.termin-odbloru.xyz
 0.0.0.0 www.theplost.xyz
 0.0.0.0 www.thepostowanie.xyz
