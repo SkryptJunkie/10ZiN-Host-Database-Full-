@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:05 AM Saturday 18 September 2021
+# Date: 06:01 AM Sunday 19 September 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -2129,6 +2129,7 @@
 0.0.0.0 newarrivals.club
 0.0.0.0 nicewallpapers.club
 0.0.0.0 niedokoncawszystkojassne.club
+0.0.0.0 ofyouope.club
 0.0.0.0 olxkonstosx.club
 0.0.0.0 onfind.club
 0.0.0.0 pdlbox.club
@@ -3556,6 +3557,7 @@
 0.0.0.0 edgydownload.com
 0.0.0.0 edragoncityhack.com
 0.0.0.0 edu-offer.com
+0.0.0.0 educaclearfunction.com
 0.0.0.0 education-rewardpath.com
 0.0.0.0 egnytefs.com
 0.0.0.0 ehacksforgame.com
@@ -5496,6 +5498,7 @@
 0.0.0.0 recreation-leisure-rewardpath.com
 0.0.0.0 redcourtside.com
 0.0.0.0 rehabretie.com
+0.0.0.0 rehousetesports.com
 0.0.0.0 reiqwxxd.com
 0.0.0.0 reklam-1.com
 0.0.0.0 reklam-one.com
@@ -10219,6 +10222,7 @@
 0.0.0.0 oascentral.netnewscheck.com
 0.0.0.0 view.netrams.com
 0.0.0.0 media2.netrefer.com
+0.0.0.0 metrics.nusmetrics.netspend.com
 0.0.0.0 www.new-best-prizes-2019.com
 0.0.0.0 www.new-dates-now1.com
 0.0.0.0 www.new-dating-today1.com
@@ -12786,6 +12790,7 @@
 0.0.0.0 skintrad.es
 0.0.0.0 trucoclashofclans.es
 0.0.0.0 viralvideos.es
+0.0.0.0 metrics.popularwdbmetrics.burgosconecta.es
 0.0.0.0 phorm.com.es
 0.0.0.0 pub1.cope.es
 0.0.0.0 tracking.melty.es
@@ -13125,6 +13130,7 @@
 0.0.0.0 www.my.witamywitamy.fun
 0.0.0.0 www.yfoygoqgdqqw.fun
 0.0.0.0 unocoin.fund
+0.0.0.0 anerqdd.ga
 0.0.0.0 citepucevasuxuqesu.ga
 0.0.0.0 fuarprim.ga
 0.0.0.0 iconexus.ga
