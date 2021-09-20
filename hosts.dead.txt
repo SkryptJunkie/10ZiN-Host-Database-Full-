@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:01 AM Sunday 19 September 2021
+# Date: 06:01 AM Monday 20 September 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -2584,6 +2584,7 @@
 0.0.0.0 adobephotoshopcccrack.com
 0.0.0.0 adobephotoshopcs6crack.com
 0.0.0.0 adonlistings.com
+0.0.0.0 adppv.com
 0.0.0.0 adprotraffic.com
 0.0.0.0 ads-rolandgarros.com
 0.0.0.0 ads4cheap.com
@@ -4529,6 +4530,7 @@
 0.0.0.0 instantfreepsncodes.com
 0.0.0.0 insurance-rewardpath.com
 0.0.0.0 int-download.com
+0.0.0.0 intangibleconcordant.com
 0.0.0.0 international-package-delivery.com
 0.0.0.0 internet-time.com
 0.0.0.0 internetmobilespeed.com
@@ -5216,6 +5218,7 @@
 0.0.0.0 outletsaroundme.com
 0.0.0.0 outlookverify.com
 0.0.0.0 over-talker.com
+0.0.0.0 overhaps.com
 0.0.0.0 overthehacks.com
 0.0.0.0 oxxieslife.com
 0.0.0.0 p0rnuha.com
@@ -5524,6 +5527,7 @@
 0.0.0.0 riot-codes.com
 0.0.0.0 riotpromos.com
 0.0.0.0 ripiocredits.com
+0.0.0.0 ripplead.com
 0.0.0.0 riverislandpl.com
 0.0.0.0 rizfilm.com
 0.0.0.0 rjmwqf.com
@@ -13760,6 +13764,7 @@
 0.0.0.0 oopscaughoncam.info
 0.0.0.0 oranla.info
 0.0.0.0 order-safe.info
+0.0.0.0 organicalews.info
 0.0.0.0 originalhack.info
 0.0.0.0 pacitiesbo.info
 0.0.0.0 park4free.info
