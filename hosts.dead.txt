@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:01 AM Monday 20 September 2021
+# Date: 06:02 AM Tuesday 21 September 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -2593,6 +2593,7 @@
 0.0.0.0 adservicestats.com
 0.0.0.0 adservingcentral.com
 0.0.0.0 adshaven.com
+0.0.0.0 adsimilis.com
 0.0.0.0 adsmarket.com
 0.0.0.0 adstome.com
 0.0.0.0 adtology3.com
@@ -2618,6 +2619,8 @@
 0.0.0.0 adwarexterminator.com
 0.0.0.0 adwhirl.com
 0.0.0.0 adxite-ads.com
+0.0.0.0 adzchoice.com
+0.0.0.0 adzhits.com
 0.0.0.0 aeriapointsgenerator.com
 0.0.0.0 aeriapointshack.com
 0.0.0.0 afantispy.com
@@ -2731,6 +2734,7 @@
 0.0.0.0 appyaviator.com
 0.0.0.0 aquabilling.com
 0.0.0.0 are-ter.com
+0.0.0.0 areandarm.com
 0.0.0.0 arjoflor.com
 0.0.0.0 art-music-rewardpath.com
 0.0.0.0 art-photo-music-premiumblvd.com
