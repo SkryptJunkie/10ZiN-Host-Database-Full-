@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Alive)
-# Date: 06:02 AM Tuesday 21 September 2021
+# Date: 06:01 AM Wednesday 22 September 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.alive.txt
@@ -1961,6 +1961,7 @@
 0.0.0.0 phox2ey.bid
 0.0.0.0 popunder.bid
 0.0.0.0 popunders.bid
+0.0.0.0 reichelcormier.bid
 0.0.0.0 smenqskfmpfxnb.bid
 0.0.0.0 truffle.bid
 0.0.0.0 xmlads.bid
@@ -3847,6 +3848,7 @@
 0.0.0.0 banesnorttat.cam
 0.0.0.0 bihamcurchef.cam
 0.0.0.0 caribedtucana.cam
+0.0.0.0 colletsopelu.cam
 0.0.0.0 crudestoctdra.cam
 0.0.0.0 didchinosdub.cam
 0.0.0.0 dikeletwhelk.cam
@@ -4452,6 +4454,7 @@
 0.0.0.0 pay-olx.cf
 0.0.0.0 paypal-com-pl.cf
 0.0.0.0 raucomtodentketp.cf
+0.0.0.0 replase.cf
 0.0.0.0 rothetafulpe.cf
 0.0.0.0 test-hole-cert-pl.cf
 0.0.0.0 weryfikowanie.cf
@@ -8827,27 +8830,34 @@
 0.0.0.0 adblock-listefr.com
 0.0.0.0 adblockanalytics.com
 0.0.0.0 adblue-finder.com
+0.0.0.0 adbma.com
 0.0.0.0 adbmi.com
 0.0.0.0 adbonus.com
 0.0.0.0 adboost.com
+0.0.0.0 adbooth.com
 0.0.0.0 adbot.com
 0.0.0.0 adbrite.com
 0.0.0.0 adbrn.com
+0.0.0.0 adbrook.com
 0.0.0.0 adbsrv.com
 0.0.0.0 adbucks.com
 0.0.0.0 adbuddiz.com
+0.0.0.0 adbuff.com
 0.0.0.0 adbuka.com
+0.0.0.0 adbukaserver.com
 0.0.0.0 adbulgaria.com
 0.0.0.0 adbull.com
 0.0.0.0 adbunker.com
 0.0.0.0 adbureau.com
 0.0.0.0 adbutler.com
+0.0.0.0 adbutler-fermion.com
 0.0.0.0 adbuyer.com
 0.0.0.0 adcade.com
 0.0.0.0 adcampo.com
 0.0.0.0 adcanadian.com
 0.0.0.0 adcannyads.com
 0.0.0.0 adcash.com
+0.0.0.0 adcde.com
 0.0.0.0 adcdnx.com
 0.0.0.0 adcentriconline.com
 0.0.0.0 adchap.com
@@ -8856,23 +8866,29 @@
 0.0.0.0 adchimp.com
 0.0.0.0 adchoice.com
 0.0.0.0 adcito.com
+0.0.0.0 adclerks.com
 0.0.0.0 adclick.com
 0.0.0.0 adclickafrica.com
 0.0.0.0 adclickmedia.com
 0.0.0.0 adclix.com
+0.0.0.0 adcmps.com
 0.0.0.0 adcolo.com
 0.0.0.0 adcolony.com
 0.0.0.0 adcomplete.com
 0.0.0.0 adconion.com
+0.0.0.0 adconjure.com
 0.0.0.0 adconscious.com
+0.0.0.0 adcrax.com
 0.0.0.0 adcron.com
 0.0.0.0 adcycle.com
 0.0.0.0 add-client.com
 0.0.0.0 add-ssl.com
 0.0.0.0 add2net.com
 0.0.0.0 addahealingmusic.com
+0.0.0.0 addaim.com
 0.0.0.0 addapptr.com
 0.0.0.0 addbonus.com
+0.0.0.0 addelive.com
 0.0.0.0 addesktop.com
 0.0.0.0 addfreestats.com
 0.0.0.0 addictedapartlazy.com
@@ -8884,8 +8900,10 @@
 0.0.0.0 additcinggames.com
 0.0.0.0 addition4u.com
 0.0.0.0 additional-costs.com
+0.0.0.0 additionalmedia.com
 0.0.0.0 additionsselfemployedpeachy.com
 0.0.0.0 addjump.com
+0.0.0.0 addkt.com
 0.0.0.0 addme.com
 0.0.0.0 addmefastfreebot.com
 0.0.0.0 addoer.com
@@ -8895,6 +8913,7 @@
 0.0.0.0 addresstimeframe.com
 0.0.0.0 addrive.com
 0.0.0.0 addroid.com
+0.0.0.0 addroplet.com
 0.0.0.0 addshoppers.com
 0.0.0.0 addstats.com
 0.0.0.0 addthis.com
@@ -9345,11 +9364,15 @@
 0.0.0.0 adsupervisor.com
 0.0.0.0 adsupply.com
 0.0.0.0 adsupplyads.com
+0.0.0.0 adsupplyssl.com
 0.0.0.0 adsurve.com
+0.0.0.0 adsvcs.com
 0.0.0.0 adsvert.com
 0.0.0.0 adsvids.com
 0.0.0.0 adsvidsdouble.com
 0.0.0.0 adsview.com
+0.0.0.0 adsvolum.com
+0.0.0.0 adsvolume.com
 0.0.0.0 adswakeup.com
 0.0.0.0 adswam.com
 0.0.0.0 adswap.com
@@ -10692,6 +10715,7 @@
 0.0.0.0 aswpsdkus.com
 0.0.0.0 asx13.com
 0.0.0.0 asxemfnwbrmpdp.com
+0.0.0.0 asxvawth.com
 0.0.0.0 atadserver.com
 0.0.0.0 atclouroettfbquhfimp.com
 0.0.0.0 atcofiles.com
@@ -12284,6 +12308,7 @@
 0.0.0.0 burstnet.com
 0.0.0.0 burstskins.com
 0.0.0.0 buruujtech.com
+0.0.0.0 burydibase.com
 0.0.0.0 bus-offer.com
 0.0.0.0 busandvanrentalmalaysia.com
 0.0.0.0 buscamundo.com
@@ -13506,6 +13531,7 @@
 0.0.0.0 colddry.com
 0.0.0.0 colderking.com
 0.0.0.0 coldhardcash.com
+0.0.0.0 coldnessstretchedfriendship.com
 0.0.0.0 coldpacific.com
 0.0.0.0 colehaanpolska.com
 0.0.0.0 colintoxicate.com
@@ -13857,6 +13883,7 @@
 0.0.0.0 countz.com
 0.0.0.0 coup7cold.com
 0.0.0.0 coupedumondepro.com
+0.0.0.0 coupleairplane.com
 0.0.0.0 couponcashmerelining.com
 0.0.0.0 couponcraze.com
 0.0.0.0 coupondiscounts.com
@@ -14194,6 +14221,7 @@
 0.0.0.0 curtaincows.com
 0.0.0.0 curtisfrierson.com
 0.0.0.0 curveconjure.com
+0.0.0.0 custodyabsolutiondrawback.com
 0.0.0.0 customernoble.com
 0.0.0.0 customerservicefactory.com
 0.0.0.0 customersupporthelp.com
@@ -16529,6 +16557,7 @@
 0.0.0.0 fernthumbjoin.com
 0.0.0.0 ferstappen.com
 0.0.0.0 fertileunderground.com
+0.0.0.0 fertilitycommand.com
 0.0.0.0 fertilityholiday.com
 0.0.0.0 fertilizeranaemiaupcoming.com
 0.0.0.0 fertilizerfacility.com
@@ -18840,6 +18869,7 @@
 0.0.0.0 hf18yg8q.com
 0.0.0.0 hf5rbejvpwds.com
 0.0.0.0 hfc195b.com
+0.0.0.0 hfmvtjpcd.com
 0.0.0.0 hfqclrllll.com
 0.0.0.0 hfwmgail.com
 0.0.0.0 hg-bn.com
@@ -20658,6 +20688,7 @@
 0.0.0.0 kntswafuos.com
 0.0.0.0 knubbyknit.com
 0.0.0.0 knujamgz.com
+0.0.0.0 knxntpsd.com
 0.0.0.0 koapkmobi.com
 0.0.0.0 kochava.com
 0.0.0.0 kod-aplikacji.com
@@ -22224,6 +22255,7 @@
 0.0.0.0 mideast-today.com
 0.0.0.0 midilibremarchespublics.com
 0.0.0.0 midnightclicking.com
+0.0.0.0 midnightimpressionperception.com
 0.0.0.0 midnightnosebleeddoorway.com
 0.0.0.0 midpopedge.com
 0.0.0.0 mientayweb.com
@@ -24797,6 +24829,7 @@
 0.0.0.0 phastoag.com
 0.0.0.0 phaudree.com
 0.0.0.0 pheasantcardboardcohort.com
+0.0.0.0 phechogofe.com
 0.0.0.0 phee1oci.com
 0.0.0.0 pheedo.com
 0.0.0.0 pheekrie.com
@@ -25417,6 +25450,7 @@
 0.0.0.0 pricedrummer.com
 0.0.0.0 pricklydebt.com
 0.0.0.0 pride-industry.com
+0.0.0.0 priefy.com
 0.0.0.0 priiceline.com
 0.0.0.0 primaryads.com
 0.0.0.0 prime-vpnet.com
@@ -26408,6 +26442,7 @@
 0.0.0.0 reklamtrk.com
 0.0.0.0 reklamz.com
 0.0.0.0 rekodpro.com
+0.0.0.0 relappro.com
 0.0.0.0 related-ads.com
 0.0.0.0 relatedweboffers.com
 0.0.0.0 relaxingovercomeexaggerate.com
@@ -26416,6 +26451,7 @@
 0.0.0.0 releasewhen.com
 0.0.0.0 relestar.com
 0.0.0.0 relevantairbornefantastic.com
+0.0.0.0 relevanti.com
 0.0.0.0 relevantknowledge.com
 0.0.0.0 reliablefast.com
 0.0.0.0 reliablefiles.com
@@ -26432,6 +26468,7 @@
 0.0.0.0 remekcikkek.com
 0.0.0.0 remembranceadventurer.com
 0.0.0.0 reminews.com
+0.0.0.0 remintrex.com
 0.0.0.0 remoteeloise.com
 0.0.0.0 remove-client.com
 0.0.0.0 remove-from-mailing-list.com
@@ -26498,6 +26535,7 @@
 0.0.0.0 respirationcafeincomparable.com
 0.0.0.0 respirationghastly.com
 0.0.0.0 respiratorhair.com
+0.0.0.0 respondhq.com
 0.0.0.0 responserver.com
 0.0.0.0 responsibilityimplied.com
 0.0.0.0 responsibilitymoleculebailey.com
@@ -26512,6 +26550,7 @@
 0.0.0.0 restoreguard.com
 0.0.0.0 restrictbench.com
 0.0.0.0 restrictedsuccessive.com
+0.0.0.0 resultlinks.com
 0.0.0.0 resultonline.com
 0.0.0.0 results-today.com
 0.0.0.0 resultsz.com
@@ -26528,12 +26567,15 @@
 0.0.0.0 retro-poster.com
 0.0.0.0 retrostats.com
 0.0.0.0 reundcwkqvctq.com
+0.0.0.0 rev-stripe.com
 0.0.0.0 rev2pub.com
+0.0.0.0 rev4rtb.com
 0.0.0.0 revadstrk.com
 0.0.0.0 revampcdn.com
 0.0.0.0 revbigo.com
 0.0.0.0 revcatch.com
 0.0.0.0 revcontent.com
+0.0.0.0 revdepo.com
 0.0.0.0 revelationneighbourly.com
 0.0.0.0 revengemeantjackpot.com
 0.0.0.0 revenue.com
@@ -26541,10 +26583,13 @@
 0.0.0.0 revenuedirect.com
 0.0.0.0 revenueenslave.com
 0.0.0.0 revenuehits.com
+0.0.0.0 revenuemantra.com
 0.0.0.0 revenuenetwork.com
 0.0.0.0 revenuenetworkcpm.com
 0.0.0.0 revenuepilot.com
 0.0.0.0 revenueservice.com
+0.0.0.0 revenuestripe.com
+0.0.0.0 revenuevids.com
 0.0.0.0 reverendcurvature.com
 0.0.0.0 reverseaggressivedependent.com
 0.0.0.0 reversionconceivedremarks.com
@@ -26552,14 +26597,19 @@
 0.0.0.0 reviewgrenade.com
 0.0.0.0 reviews-shop.com
 0.0.0.0 reviewscircle.com
+0.0.0.0 revimedia.com
 0.0.0.0 revmob.com
 0.0.0.0 revmobmobileadnetwork.com
 0.0.0.0 revoke-dashboard.com
 0.0.0.0 revprotect.com
+0.0.0.0 revresda.com
+0.0.0.0 revresponse.com
 0.0.0.0 revrtb.com
 0.0.0.0 revstats.com
+0.0.0.0 revstripe.com
 0.0.0.0 revupads.com
 0.0.0.0 rewardpoll.com
+0.0.0.0 rewardsaffiliates.com
 0.0.0.0 rewardsflow.com
 0.0.0.0 rewardster.com
 0.0.0.0 rewardszoneusa.com
@@ -26583,6 +26633,7 @@
 0.0.0.0 rgttoipdr.com
 0.0.0.0 rgvqcsxqge.com
 0.0.0.0 rh1hilm7j0ae.com
+0.0.0.0 rhfgjld.com
 0.0.0.0 rhinomeds420.com
 0.0.0.0 rhklutlt.com
 0.0.0.0 rholambdaalphas.com
@@ -26597,6 +26648,7 @@
 0.0.0.0 rhymeshey.com
 0.0.0.0 rhythmnewmedia.com
 0.0.0.0 rhythmone.com
+0.0.0.0 rhythmxchange.com
 0.0.0.0 riadoca.com
 0.0.0.0 riaubuy.com
 0.0.0.0 ribbonhappenedmountain.com
@@ -26701,6 +26753,7 @@
 0.0.0.0 rmlehtrdzfyonb.com
 0.0.0.0 rmxads.com
 0.0.0.0 rmycevre.com
+0.0.0.0 rndhaunteran.com
 0.0.0.0 rndmusharnar.com
 0.0.0.0 rndrx0rqwkb8.com
 0.0.0.0 rndskittytor.com
@@ -26870,6 +26923,7 @@
 0.0.0.0 run-syndicate.com
 0.0.0.0 runads.com
 0.0.0.0 runadtag.com
+0.0.0.0 runative.com
 0.0.0.0 runative-syndicate.com
 0.0.0.0 runbornto.com
 0.0.0.0 runcpa.com
@@ -26982,6 +27036,7 @@
 0.0.0.0 safedomkk.com
 0.0.0.0 safehackz.com
 0.0.0.0 safelinktracker.com
+0.0.0.0 safelistextreme.com
 0.0.0.0 safelists.com
 0.0.0.0 safelyawake.com
 0.0.0.0 safemobilelink.com
@@ -27002,9 +27057,11 @@
 0.0.0.0 sahathaikasetpan.com
 0.0.0.0 sail-horizon.com
 0.0.0.0 sailcovertend.com
+0.0.0.0 sailif.com
 0.0.0.0 sailthru.com
 0.0.0.0 saisonstream.com
 0.0.0.0 sakcguwb.com
+0.0.0.0 sakura-traffic.com
 0.0.0.0 sal4m649fke3.com
 0.0.0.0 saladmosssalvage.com
 0.0.0.0 sale8899.com
@@ -39361,6 +39418,7 @@
 0.0.0.0 ablink.your-way.bk.com
 0.0.0.0 www.bkandpl.com
 0.0.0.0 analytics.bkav.com
+0.0.0.0 click.bkdpt.com
 0.0.0.0 ads.bkitsoftware.com
 0.0.0.0 www.bkmovers.com
 0.0.0.0 tags.bkrtx.com
@@ -52116,6 +52174,7 @@
 0.0.0.0 cdn.hauleddes.com
 0.0.0.0 wuvwsj.haunt-tokyo.com
 0.0.0.0 www.havaianaspolska.com
+0.0.0.0 r.sibmail.havasit.com
 0.0.0.0 www.haveanaffairx4.com
 0.0.0.0 ads.havenhomemedia.com
 0.0.0.0 smetrics.havenwellwithin.com
@@ -67515,6 +67574,7 @@
 0.0.0.0 d.la1-c2-iad.salesforceliveagent.com
 0.0.0.0 c.la1w1.salesforceliveagent.com
 0.0.0.0 go.salesforceventures.com
+0.0.0.0 t.salesmatemail.com
 0.0.0.0 static.salesresourcepartners.com
 0.0.0.0 www.salewapolska.com
 0.0.0.0 metrics.salliemae.com
@@ -72437,6 +72497,7 @@
 0.0.0.0 zeus.timesink.com
 0.0.0.0 sp.timesrecordnews.com
 0.0.0.0 ads.timesunion.com
+0.0.0.0 stats.sharksice.timetoscore.com
 0.0.0.0 metric.timewarnercable.com
 0.0.0.0 metrics.timewarnercable.com
 0.0.0.0 ablink.info.timhortons.com
@@ -82804,6 +82865,7 @@
 0.0.0.0 ism6.emediate.eu
 0.0.0.0 eas.apm.emediate.eu
 0.0.0.0 mole.energizer.eu
+0.0.0.0 ads.enrt.eu
 0.0.0.0 pardot.epitech.eu
 0.0.0.0 dcs.esprit.eu
 0.0.0.0 hits.europuls.eu
@@ -86953,6 +87015,7 @@
 0.0.0.0 reffco.info
 0.0.0.0 repartitionredbones.info
 0.0.0.0 rephartertonelin.info
+0.0.0.0 resadvantco.info
 0.0.0.0 rescuehide.info
 0.0.0.0 resissylvespu.info
 0.0.0.0 respecian.info
@@ -86979,6 +87042,7 @@
 0.0.0.0 safe-pay.info
 0.0.0.0 safety-dostaw.info
 0.0.0.0 safety-dostawa.info
+0.0.0.0 samvinva.info
 0.0.0.0 sanantonioss.info
 0.0.0.0 sbgsodufuosmmvsdf.info
 0.0.0.0 sbroughhig.info
@@ -88159,6 +88223,7 @@
 0.0.0.0 privatex.io
 0.0.0.0 proper.io
 0.0.0.0 purpleads.io
+0.0.0.0 pxf.io
 0.0.0.0 quickkoala.io
 0.0.0.0 quotex.io
 0.0.0.0 rdtk.io
@@ -91335,6 +91400,7 @@
 0.0.0.0 pgbe.co.kr
 0.0.0.0 realclick.co.kr
 0.0.0.0 realmedia.co.kr
+0.0.0.0 reople.co.kr
 0.0.0.0 sndkorea.co.kr
 0.0.0.0 wkmg.co.kr
 0.0.0.0 x-road.co.kr
@@ -92711,6 +92777,7 @@
 0.0.0.0 mi.miliboo.lu
 0.0.0.0 marketing.sparinvest.lu
 0.0.0.0 ea.vente-unique.lu
+0.0.0.0 adbox.lv
 0.0.0.0 antivirus.lv
 0.0.0.0 cur.lv
 0.0.0.0 knc.lv
@@ -93471,6 +93538,7 @@
 0.0.0.0 potwierdz-wiek.ml
 0.0.0.0 przejdz.ml
 0.0.0.0 redclown.ml
+0.0.0.0 replase.ml
 0.0.0.0 rescatecili.ml
 0.0.0.0 sociwod.ml
 0.0.0.0 sprawdzto.ml
@@ -93527,6 +93595,7 @@
 0.0.0.0 admob.mobi
 0.0.0.0 adserver.mobi
 0.0.0.0 adsmogo.mobi
+0.0.0.0 adtags.mobi
 0.0.0.0 appfly.mobi
 0.0.0.0 appier.mobi
 0.0.0.0 appiq.mobi
@@ -94459,6 +94528,7 @@
 0.0.0.0 adc-serv.net
 0.0.0.0 adcastplus.net
 0.0.0.0 adcenter.net
+0.0.0.0 adcentrum.net
 0.0.0.0 adcept.net
 0.0.0.0 adclear.net
 0.0.0.0 adclick.net
@@ -94589,6 +94659,7 @@
 0.0.0.0 ai.net
 0.0.0.0 ailrouno.net
 0.0.0.0 ailtumty.net
+0.0.0.0 aimairou.net
 0.0.0.0 aipofeem.net
 0.0.0.0 aissoksu.net
 0.0.0.0 aistat.net
@@ -96345,10 +96416,12 @@
 0.0.0.0 ressp.net
 0.0.0.0 results-house.net
 0.0.0.0 revenue.net
+0.0.0.0 revfusion.net
 0.0.0.0 revrtb.net
 0.0.0.0 revsci.net
 0.0.0.0 reypey.net
 0.0.0.0 reypey24.net
+0.0.0.0 rfihub.net
 0.0.0.0 rightmedia.net
 0.0.0.0 righttriangle.net
 0.0.0.0 rinconpx.net
@@ -107521,6 +107594,7 @@
 0.0.0.0 www.uplooder.net
 0.0.0.0 api.uprivaladserver.net
 0.0.0.0 cdn.uprivaladserver.net
+0.0.0.0 hsn.uqhv.net
 0.0.0.0 v2.urlads.net
 0.0.0.0 www.urlcash.net
 0.0.0.0 x0r.urlgalleries.net
@@ -108033,6 +108107,7 @@
 0.0.0.0 capex.ng
 0.0.0.0 shopking.ng
 0.0.0.0 wbsc.ng
+0.0.0.0 adbuka.com.ng
 0.0.0.0 metalpro.com.ng
 0.0.0.0 paxful.com.ng
 0.0.0.0 pizzaplus.com.ng
@@ -109539,6 +109614,7 @@
 0.0.0.0 www.tematjuzruszony.online
 0.0.0.0 www.tewiadomosci.online
 0.0.0.0 www.thegrupa.online
+0.0.0.0 tracking.theoceanac.online
 0.0.0.0 www.tojestznaczniesilniejsze.online
 0.0.0.0 www.tomtomgopre.online
 0.0.0.0 www.tonicnoweego.online
@@ -112110,6 +112186,7 @@
 0.0.0.0 mrvineforum.pk
 0.0.0.0 multifactor.pk
 0.0.0.0 rayscreations.pk
+0.0.0.0 resonance.pk
 0.0.0.0 tweengirlsforum.pk
 0.0.0.0 www.akhbaar.pk
 0.0.0.0 ads.brain.pk
@@ -118962,6 +119039,7 @@
 0.0.0.0 redewdit.pro
 0.0.0.0 rejcinews.pro
 0.0.0.0 releinemaoff.pro
+0.0.0.0 reportionbreedy.pro
 0.0.0.0 reroplittrewheck.pro
 0.0.0.0 resniks.pro
 0.0.0.0 resnikscdn.pro
@@ -119900,6 +119978,7 @@
 0.0.0.0 alarmobninsk.ru
 0.0.0.0 alfa-medosmotr.ru
 0.0.0.0 alfapro.ru
+0.0.0.0 ali-crm.ru
 0.0.0.0 aliadvert.ru
 0.0.0.0 aliegro-iokalnle.ru
 0.0.0.0 aliorbankonline.ru
@@ -120117,6 +120196,7 @@
 0.0.0.0 rate.ru
 0.0.0.0 recreativ.ru
 0.0.0.0 reformal.ru
+0.0.0.0 rekovers.ru
 0.0.0.0 rezkabum.ru
 0.0.0.0 ricor.ru
 0.0.0.0 rimvoyeur.ru
@@ -123952,6 +124032,7 @@
 0.0.0.0 sesori.space
 0.0.0.0 sgmanagement.space
 0.0.0.0 shellowsduo.space
+0.0.0.0 sketmothe.space
 0.0.0.0 solarmass.space
 0.0.0.0 spagat.space
 0.0.0.0 sprobujtopoczytacc24.space
@@ -126867,6 +126948,7 @@
 0.0.0.0 privacy-in.us
 0.0.0.0 psncodegenerator.us
 0.0.0.0 quickmessage.us
+0.0.0.0 retono42.us
 0.0.0.0 sabio.us
 0.0.0.0 serialkeygen.us
 0.0.0.0 skidrowgames.us
@@ -129189,6 +129271,7 @@
 0.0.0.0 languyet.xyz
 0.0.0.0 lanton.xyz
 0.0.0.0 laquinton.xyz
+0.0.0.0 largerysvz.xyz
 0.0.0.0 laross.xyz
 0.0.0.0 latineo.xyz
 0.0.0.0 latonia.xyz
