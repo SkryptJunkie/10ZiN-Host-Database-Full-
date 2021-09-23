@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Alive)
-# Date: 06:01 AM Wednesday 22 September 2021
+# Date: 06:01 AM Thursday 23 September 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.alive.txt
@@ -3875,6 +3875,7 @@
 0.0.0.0 marezzocorke.cam
 0.0.0.0 matswhyask.cam
 0.0.0.0 merituckia.cam
+0.0.0.0 nyalacornily.cam
 0.0.0.0 oaffolksy.cam
 0.0.0.0 olx-finansowanie.cam
 0.0.0.0 oncerensky.cam
@@ -10593,6 +10594,7 @@
 0.0.0.0 armiesgiddinesscanes.com
 0.0.0.0 armlyemoan.com
 0.0.0.0 armorhack.com
+0.0.0.0 armpitarticle.com
 0.0.0.0 armsart.com
 0.0.0.0 aromakawa.com
 0.0.0.0 aromamirror.com
@@ -10691,6 +10693,7 @@
 0.0.0.0 assetshortestinherited.com
 0.0.0.0 assignedlikecrawford.com
 0.0.0.0 assimilatesmartlyawfully.com
+0.0.0.0 assisteggs.com
 0.0.0.0 assoc-amazon.com
 0.0.0.0 associateprograms.com
 0.0.0.0 associeta.com
@@ -10709,6 +10712,7 @@
 0.0.0.0 astuce-triche-cheat.com
 0.0.0.0 asundersimultaneously.com
 0.0.0.0 asuppsttp.com
+0.0.0.0 asuqoqsea.com
 0.0.0.0 asuum.com
 0.0.0.0 asuydisi.com
 0.0.0.0 aswpapius.com
@@ -10874,6 +10878,7 @@
 0.0.0.0 awbbcre.com
 0.0.0.0 awbbjmp.com
 0.0.0.0 awbbsat.com
+0.0.0.0 awcpcpetb.com
 0.0.0.0 aweber.com
 0.0.0.0 awecr.com
 0.0.0.0 awecre.com
@@ -11228,6 +11233,7 @@
 0.0.0.0 battergo.com
 0.0.0.0 batteryfirmimage.com
 0.0.0.0 battle-mix.com
+0.0.0.0 baubogla.com
 0.0.0.0 baudgassedtarot.com
 0.0.0.0 baufaich.com
 0.0.0.0 bavftcgoapga.com
@@ -11923,6 +11929,7 @@
 0.0.0.0 boattraider.com
 0.0.0.0 boayipids.com
 0.0.0.0 bobblewrite.com
+0.0.0.0 bobeshehi.com
 0.0.0.0 bobigny24.com
 0.0.0.0 bobsiot.com
 0.0.0.0 bocahmlaku.com
@@ -12406,6 +12413,7 @@
 0.0.0.0 bxsfvqhzj.com
 0.0.0.0 byagadget.com
 0.0.0.0 byaronan.com
+0.0.0.0 bybastiodoner.com
 0.0.0.0 bycixeba.com
 0.0.0.0 bydst.com
 0.0.0.0 byduthacho.com
@@ -15090,6 +15098,7 @@
 0.0.0.0 dontaxoaf.com
 0.0.0.0 doomna.com
 0.0.0.0 doomovies-hd.com
+0.0.0.0 doorbellbadge.com
 0.0.0.0 doorcoffeebrown.com
 0.0.0.0 doorgen.com
 0.0.0.0 doormanb.com
@@ -15772,6 +15781,7 @@
 0.0.0.0 emltrk.com
 0.0.0.0 emobi-sys.com
 0.0.0.0 emodoinc.com
+0.0.0.0 emolah.com
 0.0.0.0 emolapnay.com
 0.0.0.0 emosystem.com
 0.0.0.0 emotersjervina.com
@@ -15992,6 +16002,7 @@
 0.0.0.0 ethnicking.com
 0.0.0.0 ethpolice.com
 0.0.0.0 etiktalo.com
+0.0.0.0 etioh.com
 0.0.0.0 etlcrfkkfl.com
 0.0.0.0 etnies-polska.com
 0.0.0.0 etracker.com
@@ -16431,6 +16442,7 @@
 0.0.0.0 fastwebcounter.com
 0.0.0.0 fatboyindustries.com
 0.0.0.0 fatcatrewards.com
+0.0.0.0 fatherceremony.com
 0.0.0.0 fathuntsgall.com
 0.0.0.0 fatteno.com
 0.0.0.0 fattykettleinexpedient.com
@@ -20545,6 +20557,7 @@
 0.0.0.0 kermanstudio.com
 0.0.0.0 kerumal.com
 0.0.0.0 kesevitamus.com
+0.0.0.0 kesmatic.com
 0.0.0.0 kesmdg.com
 0.0.0.0 ketadeep.com
 0.0.0.0 ketads.com
@@ -20607,6 +20620,7 @@
 0.0.0.0 kingdom-news.com
 0.0.0.0 kingerma.com
 0.0.0.0 kingshacks.com
+0.0.0.0 kinkledunendly.com
 0.0.0.0 kinkycards.com
 0.0.0.0 kinkydisplacelate.com
 0.0.0.0 kinley.com
@@ -25657,6 +25671,7 @@
 0.0.0.0 psatorsi.com
 0.0.0.0 psaudous.com
 0.0.0.0 psaughun.com
+0.0.0.0 pscfammuw.com
 0.0.0.0 psclicks.com
 0.0.0.0 pse8.com
 0.0.0.0 pseepsie.com
@@ -30500,6 +30515,7 @@
 0.0.0.0 uploaduj.com
 0.0.0.0 uploadwire.com
 0.0.0.0 uploadwolf.com
+0.0.0.0 upolou.com
 0.0.0.0 uporods.com
 0.0.0.0 uppyads.com
 0.0.0.0 uprimp.com
@@ -31036,6 +31052,7 @@
 0.0.0.0 vpico.com
 0.0.0.0 vpnaffiliates.com
 0.0.0.0 vpncollective.com
+0.0.0.0 vpnrequired.com
 0.0.0.0 vpon.com
 0.0.0.0 vptbn.com
 0.0.0.0 vq91811.com
@@ -31049,6 +31066,7 @@
 0.0.0.0 vssl-on.com
 0.0.0.0 vst1ev.com
 0.0.0.0 vst1mid.com
+0.0.0.0 vst2mid.com
 0.0.0.0 vstaner.com
 0.0.0.0 vsteepo.com
 0.0.0.0 vstet.com
@@ -31190,6 +31208,7 @@
 0.0.0.0 watch9.com
 0.0.0.0 watchcensorbully.com
 0.0.0.0 watchdogsdownload.com
+0.0.0.0 watchercasketremained.com
 0.0.0.0 watchesbrow.com
 0.0.0.0 watchfreestreamingmoviesonline.com
 0.0.0.0 watchingmovie21.com
@@ -87036,6 +87055,7 @@
 0.0.0.0 rynemoo9.info
 0.0.0.0 ryrecdiretbet.info
 0.0.0.0 rywoments.info
+0.0.0.0 s2strk.info
 0.0.0.0 sabafon.info
 0.0.0.0 saccomplex.info
 0.0.0.0 safe-dellivery.info
@@ -92984,6 +93004,7 @@
 0.0.0.0 tiiny.me
 0.0.0.0 topfiles.me
 0.0.0.0 topshape.me
+0.0.0.0 trcked.me
 0.0.0.0 tubgirl.me
 0.0.0.0 unlckr.me
 0.0.0.0 unlockphone.me
@@ -128967,6 +128988,7 @@
 0.0.0.0 ccsms.xyz
 0.0.0.0 cdnimages.xyz
 0.0.0.0 cdnmedia.xyz
+0.0.0.0 celiberald.xyz
 0.0.0.0 cennik.xyz
 0.0.0.0 cennik-paczki-24.xyz
 0.0.0.0 cennilk.xyz
