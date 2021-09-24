@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Alive)
-# Date: 06:01 AM Thursday 23 September 2021
+# Date: 06:01 AM Friday 24 September 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.alive.txt
@@ -10892,6 +10892,7 @@
 0.0.0.0 aweprt.com
 0.0.0.0 awepsi.com
 0.0.0.0 awept.com
+0.0.0.0 awesomeagreement.com
 0.0.0.0 awesomenewspush.com
 0.0.0.0 awesomepeculiar.com
 0.0.0.0 awestatic.com
@@ -11092,6 +11093,7 @@
 0.0.0.0 ballotwriggle.com
 0.0.0.0 ballstonhotels.com
 0.0.0.0 balook.com
+0.0.0.0 balsascotleak.com
 0.0.0.0 baltihen.com
 0.0.0.0 balvalur.com
 0.0.0.0 bam-bam-slam.com
@@ -11099,6 +11101,7 @@
 0.0.0.0 ban2mid.com
 0.0.0.0 ban3mid.com
 0.0.0.0 ban4mid.com
+0.0.0.0 ban5mid.com
 0.0.0.0 bananarepubic.com
 0.0.0.0 bananasimplicity.com
 0.0.0.0 bananastouching.com
@@ -13959,6 +13962,7 @@
 0.0.0.0 cpuim.com
 0.0.0.0 cpvads.com
 0.0.0.0 cpvadvertise.com
+0.0.0.0 cpx-traffic.com
 0.0.0.0 cpx24.com
 0.0.0.0 cpxadroit.com
 0.0.0.0 cpxcenter.com
@@ -15852,6 +15856,7 @@
 0.0.0.0 enscl.com
 0.0.0.0 ensighten.com
 0.0.0.0 ensuedinbornsubdivide.com
+0.0.0.0 entailcurrantreflect.com
 0.0.0.0 enterads.com
 0.0.0.0 entercasino.com
 0.0.0.0 entertaindesktop.com
@@ -16233,6 +16238,7 @@
 0.0.0.0 ezcybersearch.com
 0.0.0.0 ezeedl.com
 0.0.0.0 ezefam.com
+0.0.0.0 ezeraf.com
 0.0.0.0 ezetopups.com
 0.0.0.0 ezexfzek.com
 0.0.0.0 ezgameonline.com
@@ -20756,6 +20762,7 @@
 0.0.0.0 kpremium.com
 0.0.0.0 kqpkigli.com
 0.0.0.0 kqzyfj.com
+0.0.0.0 kragr.com
 0.0.0.0 krainazabawek.com
 0.0.0.0 krajowe24.com
 0.0.0.0 krakenfolio.com
@@ -21755,6 +21762,7 @@
 0.0.0.0 managingincluded.com
 0.0.0.0 manbragshep.com
 0.0.0.0 manconsider.com
+0.0.0.0 mandatorycaptaincountless.com
 0.0.0.0 mandldental.com
 0.0.0.0 mandmtextiles.com
 0.0.0.0 manfjgo2jgb8mg09.com
@@ -23929,6 +23937,7 @@
 0.0.0.0 olarshalrolli.com
 0.0.0.0 olderdiverge.com
 0.0.0.0 oldership.com
+0.0.0.0 oldeststrickenambulance.com
 0.0.0.0 oldmilram.com
 0.0.0.0 oldmywater.com
 0.0.0.0 oldnayfey.com
@@ -24086,6 +24095,7 @@
 0.0.0.0 onlinerewardsclub.com
 0.0.0.0 onlineslotmaschine.com
 0.0.0.0 onlinete4n.com
+0.0.0.0 onlineuserprotector.com
 0.0.0.0 onlinewatchmoviez.com
 0.0.0.0 onlinewebfind.com
 0.0.0.0 onlinexploits.com
@@ -25033,6 +25043,7 @@
 0.0.0.0 plantinscription.com
 0.0.0.0 plantsandpots.com
 0.0.0.0 plantsvszombies2pc.com
+0.0.0.0 plardi.com
 0.0.0.0 plashcashierbleach.com
 0.0.0.0 plasmatv4free.com
 0.0.0.0 plata-za-towary-pl.com
@@ -26263,6 +26274,7 @@
 0.0.0.0 reachmode.com
 0.0.0.0 reachsowraspberry.com
 0.0.0.0 reactads.com
+0.0.0.0 reactnurseryjoin.com
 0.0.0.0 reactx.com
 0.0.0.0 readgoldfish.com
 0.0.0.0 readingguilt.com
@@ -30115,6 +30127,7 @@
 0.0.0.0 tsp2002.com
 0.0.0.0 tspops.com
 0.0.0.0 tst16infra.com
+0.0.0.0 tsuam.com
 0.0.0.0 tswmel.com
 0.0.0.0 tsyndicate.com
 0.0.0.0 tsztzjvpex.com
@@ -30160,6 +30173,7 @@
 0.0.0.0 turboadv.com
 0.0.0.0 turbotraff.com
 0.0.0.0 turdgasm.com
+0.0.0.0 turkeybossbare.com
 0.0.0.0 turkeynewsupdates.com
 0.0.0.0 turkeyrank.com
 0.0.0.0 turmoilexcessivetranslating.com
@@ -30471,6 +30485,7 @@
 0.0.0.0 unohack.com
 0.0.0.0 unrealcommander.com
 0.0.0.0 unrealhack.com
+0.0.0.0 unreasonablecompatibledivorced.com
 0.0.0.0 unreshiramor.com
 0.0.0.0 unrestchat.com
 0.0.0.0 unreuereit.com
@@ -31603,6 +31618,7 @@
 0.0.0.0 wkll7glfazgp.com
 0.0.0.0 wlapdczzpceb.com
 0.0.0.0 wlbcqvral.com
+0.0.0.0 wlengrclxzypf.com
 0.0.0.0 wlmarketing.com
 0.0.0.0 wlzohrpjbuq.com
 0.0.0.0 wm-abms.com
@@ -32064,6 +32080,7 @@
 0.0.0.0 xxxwebtraffic.com
 0.0.0.0 xy7elite.com
 0.0.0.0 xyctmmogcv.com
+0.0.0.0 xykdglmymu.com
 0.0.0.0 xywdvhd.com
 0.0.0.0 xyxco.com
 0.0.0.0 xyysyndromepedia.com
@@ -32096,6 +32113,7 @@
 0.0.0.0 yarlnk.com
 0.0.0.0 yas-jr.com
 0.0.0.0 yashi.com
+0.0.0.0 yasiwngdihnfe.com
 0.0.0.0 yasminkozmetik.com
 0.0.0.0 yasmwesikz.com
 0.0.0.0 yatbzuwo.com
@@ -92906,6 +92924,7 @@
 0.0.0.0 ampower.me
 0.0.0.0 antennasync.me
 0.0.0.0 applnpost.me
+0.0.0.0 awstrack.me
 0.0.0.0 ayemyamyakyaw.me
 0.0.0.0 banking-olx.me
 0.0.0.0 bigdater.me
@@ -94758,6 +94777,7 @@
 0.0.0.0 areyouabot.net
 0.0.0.0 argosvoucher.net
 0.0.0.0 aribo.net
+0.0.0.0 artisany.net
 0.0.0.0 artmid.net
 0.0.0.0 asdasdad.net
 0.0.0.0 askto.net
@@ -118916,6 +118936,7 @@
 0.0.0.0 elepocial.pro
 0.0.0.0 encountryf.pro
 0.0.0.0 enormitteen.pro
+0.0.0.0 erenchinterried.pro
 0.0.0.0 erssamplet.pro
 0.0.0.0 etracking.pro
 0.0.0.0 evadavdsp.pro
@@ -124048,6 +124069,7 @@
 0.0.0.0 pringed.space
 0.0.0.0 protector-web.space
 0.0.0.0 pushup.space
+0.0.0.0 reconfident.space
 0.0.0.0 ryfeaturalpe.space
 0.0.0.0 send-post.space
 0.0.0.0 sesori.space
@@ -125165,6 +125187,7 @@
 0.0.0.0 tpatrongva.top
 0.0.0.0 tratefirearly.top
 0.0.0.0 tretionsp.top
+0.0.0.0 trusturl.top
 0.0.0.0 ucatedcanc.top
 0.0.0.0 ueaggress.top
 0.0.0.0 uilsplentialde.top
@@ -129103,6 +129126,7 @@
 0.0.0.0 fasdgas2e2e1.xyz
 0.0.0.0 fbbbx.xyz
 0.0.0.0 fdsgv.xyz
+0.0.0.0 fhisownkindt.xyz
 0.0.0.0 ficusoid.xyz
 0.0.0.0 figent.xyz
 0.0.0.0 firon.xyz
@@ -129334,6 +129358,7 @@
 0.0.0.0 melacexi.xyz
 0.0.0.0 mesms.xyz
 0.0.0.0 metabook.xyz
+0.0.0.0 methingeko.xyz
 0.0.0.0 metronomisais.xyz
 0.0.0.0 metyho.xyz
 0.0.0.0 microsoftsupport.xyz
