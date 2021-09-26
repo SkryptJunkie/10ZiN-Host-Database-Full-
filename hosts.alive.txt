@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Alive)
-# Date: 06:07 AM Saturday 25 September 2021
+# Date: 06:01 AM Sunday 26 September 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.alive.txt
@@ -3920,6 +3920,7 @@
 0.0.0.0 info.businesscentre.yp.ca
 0.0.0.0 smetrics.zehrs.ca
 0.0.0.0 anightsregalia.cam
+0.0.0.0 athirstinwind.cam
 0.0.0.0 avickhoseman.cam
 0.0.0.0 badleasump.cam
 0.0.0.0 banesnorttat.cam
@@ -4057,6 +4058,8 @@
 0.0.0.0 dartarscuspids.casa
 0.0.0.0 dosveggietotem.casa
 0.0.0.0 fistcartyped.casa
+0.0.0.0 flewssyzygia.casa
+0.0.0.0 frillsretore.casa
 0.0.0.0 gpcdreunite.casa
 0.0.0.0 gramsoakton.casa
 0.0.0.0 hairdosslitter.casa
@@ -11465,6 +11468,7 @@
 0.0.0.0 battergo.com
 0.0.0.0 batteryfirmimage.com
 0.0.0.0 battle-mix.com
+0.0.0.0 battleimpossible.com
 0.0.0.0 baubogla.com
 0.0.0.0 baudgassedtarot.com
 0.0.0.0 baufaich.com
@@ -12808,6 +12812,7 @@
 0.0.0.0 campjupiterjul.com
 0.0.0.0 camplacecash.com
 0.0.0.0 camprime.com
+0.0.0.0 campuscompositionzodiac.com
 0.0.0.0 camsitecash.com
 0.0.0.0 camsoda.com
 0.0.0.0 camstaterep.com
@@ -12872,6 +12877,7 @@
 0.0.0.0 carpa.com
 0.0.0.0 carpatree.com
 0.0.0.0 carpetdignity.com
+0.0.0.0 carpreposition.com
 0.0.0.0 carrefour-des-affaires.com
 0.0.0.0 carreuto.com
 0.0.0.0 carroceriasmartin.com
@@ -13687,6 +13693,7 @@
 0.0.0.0 clouds-cdn.com
 0.0.0.0 cloudtokenwallet.com
 0.0.0.0 cloudtracked.com
+0.0.0.0 cloutbeliefphantom.com
 0.0.0.0 clovenetwork.com
 0.0.0.0 clownsong.com
 0.0.0.0 clprr.com
@@ -13702,6 +13709,7 @@
 0.0.0.0 cluffsilas.com
 0.0.0.0 clumsyninjahack.com
 0.0.0.0 cluodlfare.com
+0.0.0.0 clupc.com
 0.0.0.0 clusterhurriedly.com
 0.0.0.0 clustrmaps.com
 0.0.0.0 clutchsavage.com
@@ -13829,6 +13837,7 @@
 0.0.0.0 colehaanpolska.com
 0.0.0.0 colintoxicate.com
 0.0.0.0 coljledqo.com
+0.0.0.0 collabplumify.com
 0.0.0.0 collationssunkenentire.com
 0.0.0.0 collectiable.com
 0.0.0.0 collection-day.com
@@ -13912,6 +13921,7 @@
 0.0.0.0 complexdaggled.com
 0.0.0.0 complextoad.com
 0.0.0.0 complicatedgeneratelens.com
+0.0.0.0 complicatedincite.com
 0.0.0.0 complicatedtelegraph.com
 0.0.0.0 compolice.com
 0.0.0.0 composedwatchman.com
@@ -14847,6 +14857,7 @@
 0.0.0.0 dearbrotherinlaw.com
 0.0.0.0 dearlegendseed.com
 0.0.0.0 debadu.com
+0.0.0.0 debatenell.com
 0.0.0.0 debonairway.com
 0.0.0.0 debreview.com
 0.0.0.0 debridleech.com
@@ -14958,6 +14969,7 @@
 0.0.0.0 demurcobsoho.com
 0.0.0.0 denbeigemark.com
 0.0.0.0 denetsuk.com
+0.0.0.0 denety.com
 0.0.0.0 denis-pj0823031-491201b.com
 0.0.0.0 denouncetenantequipment.com
 0.0.0.0 densmail.com
@@ -15025,6 +15037,7 @@
 0.0.0.0 detox-kit.com
 0.0.0.0 detroithardcore.com
 0.0.0.0 deturbcordies.com
+0.0.0.0 devaluationobserve.com
 0.0.0.0 devastatingallothallucinate.com
 0.0.0.0 devbhoomigroupind.com
 0.0.0.0 devilspanmute.com
@@ -15139,6 +15152,7 @@
 0.0.0.0 dinovala.com
 0.0.0.0 dinxteam.com
 0.0.0.0 diogene99.com
+0.0.0.0 dionax.com
 0.0.0.0 dipegrathy.com
 0.0.0.0 diplomadosagedream.com
 0.0.0.0 diplomaticlastingpert.com
@@ -15265,6 +15279,7 @@
 0.0.0.0 dj-updates.com
 0.0.0.0 djarumgol.com
 0.0.0.0 djfiln.com
+0.0.0.0 djgfsrlt.com
 0.0.0.0 djkeun1bal.com
 0.0.0.0 djroomba.com
 0.0.0.0 djsrp.com
@@ -16834,6 +16849,7 @@
 0.0.0.0 favo-obleklo.com
 0.0.0.0 favoriteruffle.com
 0.0.0.0 favourableencampmentdecency.com
+0.0.0.0 favouritesuitable.com
 0.0.0.0 favourmiles.com
 0.0.0.0 fawhuksy.com
 0.0.0.0 faxfossil.com
@@ -16898,6 +16914,7 @@
 0.0.0.0 fearsomeclients.com
 0.0.0.0 feastoffortuna.com
 0.0.0.0 feat-talent.com
+0.0.0.0 featbooksterile.com
 0.0.0.0 featherwebs.com
 0.0.0.0 featuredusers.com
 0.0.0.0 featurelink.com
@@ -16984,6 +17001,7 @@
 0.0.0.0 fggwavfjucnyw.com
 0.0.0.0 fgjasshw.com
 0.0.0.0 fgoogle.com
+0.0.0.0 fguyrnvobmh.com
 0.0.0.0 fhgh9sd.com
 0.0.0.0 fhihabactcuk.com
 0.0.0.0 fhkfffnepwia.com
@@ -17431,6 +17449,7 @@
 0.0.0.0 forlumineontor.com
 0.0.0.0 formalyzer.com
 0.0.0.0 formationconservation.com
+0.0.0.0 formationdenehurt.com
 0.0.0.0 formattingcells.com
 0.0.0.0 formerdrearybiopsy.com
 0.0.0.0 formessengers.com
@@ -17753,6 +17772,7 @@
 0.0.0.0 fruitlauncher.com
 0.0.0.0 frustratingtabletaltered.com
 0.0.0.0 frustrationstudy.com
+0.0.0.0 fruzrotula.com
 0.0.0.0 fryawlauk.com
 0.0.0.0 fryhecticcolonize.com
 0.0.0.0 fryirktan.com
@@ -18884,6 +18904,7 @@
 0.0.0.0 gynvqipvmcv.com
 0.0.0.0 gyswad.com
 0.0.0.0 gyvxojjeamipc.com
+0.0.0.0 gywugloje.com
 0.0.0.0 gyzjvioumudlx.com
 0.0.0.0 gz06x5tqlj.com
 0.0.0.0 gzoegouveqgxv.com
@@ -19236,6 +19257,7 @@
 0.0.0.0 hegreeks.com
 0.0.0.0 hehraybryciyls.com
 0.0.0.0 heias.com
+0.0.0.0 heighthouseworklizard.com
 0.0.0.0 heightsirrigation.com
 0.0.0.0 heighttrumpetaccordingly.com
 0.0.0.0 heiressplane.com
@@ -19590,6 +19612,7 @@
 0.0.0.0 housing-update.com
 0.0.0.0 hovermountedsulphur.com
 0.0.0.0 hoverowl.com
+0.0.0.0 hovoptelo.com
 0.0.0.0 how-to-hack-webcam.com
 0.0.0.0 how-tosolve.com
 0.0.0.0 howisurday.com
@@ -20393,6 +20416,7 @@
 0.0.0.0 ioffice168.com
 0.0.0.0 ioflix.com
 0.0.0.0 iogous.com
+0.0.0.0 ioheiy.com
 0.0.0.0 ioiylgyf.com
 0.0.0.0 iomppdwwmbvq.com
 0.0.0.0 iople.com
@@ -23784,6 +23808,7 @@
 0.0.0.0 nedstatbasic.com
 0.0.0.0 needadvertising.com
 0.0.0.0 needfulforesightharness.com
+0.0.0.0 needlefoliagemoan.com
 0.0.0.0 needlerecede.com
 0.0.0.0 neegreez.com
 0.0.0.0 neejanand.com
@@ -24123,6 +24148,7 @@
 0.0.0.0 noisesneezehatred.com
 0.0.0.0 noisysortcasualty.com
 0.0.0.0 nolansharp.com
+0.0.0.0 nolrougn.com
 0.0.0.0 nomadicbees.com
 0.0.0.0 nomadpertexcess.com
 0.0.0.0 nomadztruck.com
@@ -25174,6 +25200,7 @@
 0.0.0.0 passtechusa.com
 0.0.0.0 passwordr.com
 0.0.0.0 passwordscompound.com
+0.0.0.0 pastaesthetictracks.com
 0.0.0.0 pastesbin.com
 0.0.0.0 pastimeswindle.com
 0.0.0.0 pastorpaulocosta.com
@@ -27363,6 +27390,7 @@
 0.0.0.0 rigourflickmarketing.com
 0.0.0.0 rikobisti.com
 0.0.0.0 rilelogicbuy.com
+0.0.0.0 rilesticks.com
 0.0.0.0 riluaneth.com
 0.0.0.0 rime8lope.com
 0.0.0.0 riminghoggoofy.com
@@ -28394,6 +28422,7 @@
 0.0.0.0 shortupload.com
 0.0.0.0 shovelimetreekit.com
 0.0.0.0 showbehind.com
+0.0.0.0 showcasethat.com
 0.0.0.0 showdronefavorite.com
 0.0.0.0 showjihadspink.com
 0.0.0.0 showm3.com
@@ -28566,6 +28595,7 @@
 0.0.0.0 skidrowhacking.com
 0.0.0.0 skidrowreleases.com
 0.0.0.0 skidrowtorrent.com
+0.0.0.0 skilfulbags.com
 0.0.0.0 skill-hacks.com
 0.0.0.0 skillcheats.com
 0.0.0.0 skilljam.com
@@ -28670,6 +28700,7 @@
 0.0.0.0 slrviazqkilu.com
 0.0.0.0 sluchawka-prysznicowa-wellness.com
 0.0.0.0 sluhcvyzgd.com
+0.0.0.0 sluxur.com
 0.0.0.0 slychicks.com
 0.0.0.0 slymagical.com
 0.0.0.0 smaato.com
@@ -28769,6 +28800,7 @@
 0.0.0.0 snigelweb.com
 0.0.0.0 snitchcompany.com
 0.0.0.0 snitswaspshaft.com
+0.0.0.0 snodlycaccias.com
 0.0.0.0 snoobi.com
 0.0.0.0 snortedbingo.com
 0.0.0.0 snortedconsciencethaw.com
@@ -31241,6 +31273,7 @@
 0.0.0.0 unseen2020.com
 0.0.0.0 unskilledsqueakjunk.com
 0.0.0.0 unsubscribeinhere.com
+0.0.0.0 unsuccessfulpensive.com
 0.0.0.0 untd.com
 0.0.0.0 unthem.com
 0.0.0.0 untidyquestion.com
@@ -31840,6 +31873,7 @@
 0.0.0.0 vrtzads.com
 0.0.0.0 vrtzcontextualads.com
 0.0.0.0 vsetfdtwhp.com
+0.0.0.0 vskoedps.com
 0.0.0.0 vsmokhklbw.com
 0.0.0.0 vssl-on.com
 0.0.0.0 vst1ev.com
@@ -33372,6 +33406,7 @@
 0.0.0.0 zomidhealth.com
 0.0.0.0 zone-telechargement-albums.com
 0.0.0.0 zonealta.com
+0.0.0.0 zoneletbinned.com
 0.0.0.0 zonepa.com
 0.0.0.0 zooahm2fx2v1.com
 0.0.0.0 zoodrawings.com
@@ -35950,6 +35985,7 @@
 0.0.0.0 js14.adlooxtracking.com
 0.0.0.0 js15.adlooxtracking.com
 0.0.0.0 hub.adlpartner.com
+0.0.0.0 d.adlpo.com
 0.0.0.0 t.adlpo.com
 0.0.0.0 tracking.deepsearch.adlucent.com
 0.0.0.0 adex.admailtiser.com
@@ -96024,6 +96060,7 @@
 0.0.0.0 safe-dellivery.name
 0.0.0.0 safety-dostaw.name
 0.0.0.0 threecd.name
+0.0.0.0 yuluna.name
 0.0.0.0 www.bezpieczne-zakupy.name
 0.0.0.0 www.bezpieczny-zakup.name
 0.0.0.0 short.byu.name
@@ -126200,6 +126237,7 @@
 0.0.0.0 sgmanagement.space
 0.0.0.0 shellowsduo.space
 0.0.0.0 sketmothe.space
+0.0.0.0 sleasantryd.space
 0.0.0.0 solarmass.space
 0.0.0.0 spagat.space
 0.0.0.0 sprobujtopoczytacc24.space
@@ -131155,6 +131193,7 @@
 0.0.0.0 aaget.xyz
 0.0.0.0 abjectisassiez.xyz
 0.0.0.0 accountprotection.xyz
+0.0.0.0 accountryft.xyz
 0.0.0.0 adjectivates.xyz
 0.0.0.0 adsplay.xyz
 0.0.0.0 advnet.xyz
@@ -132008,6 +132047,7 @@
 0.0.0.0 ropx.xyz
 0.0.0.0 rosms.xyz
 0.0.0.0 rtpnt.xyz
+0.0.0.0 rujioimped.xyz
 0.0.0.0 rwifgddudfw7df.xyz
 0.0.0.0 s01279.xyz
 0.0.0.0 sabs-push.xyz
