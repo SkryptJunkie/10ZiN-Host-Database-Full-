@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Alive)
-# Date: 06:01 AM Sunday 26 September 2021
+# Date: 06:01 AM Monday 27 September 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.alive.txt
@@ -10979,6 +10979,7 @@
 0.0.0.0 attirenepal.com
 0.0.0.0 attractiveafternoon.com
 0.0.0.0 attractivevideos.com
+0.0.0.0 attrapincha.com
 0.0.0.0 attributiontracker.com
 0.0.0.0 atwola.com
 0.0.0.0 au2m8.com
@@ -11330,6 +11331,7 @@
 0.0.0.0 ban3mid.com
 0.0.0.0 ban4mid.com
 0.0.0.0 ban5mid.com
+0.0.0.0 ban6mid.com
 0.0.0.0 bananarepubic.com
 0.0.0.0 bananasimplicity.com
 0.0.0.0 bananastouching.com
@@ -12265,6 +12267,7 @@
 0.0.0.0 bootstrap-js.com
 0.0.0.0 bootstraplugin.com
 0.0.0.0 bootsuserstruthful.com
+0.0.0.0 boozingtawney.com
 0.0.0.0 bop-bop-bam.com
 0.0.0.0 bopohsage.com
 0.0.0.0 bopstermedia56.com
@@ -15189,6 +15192,7 @@
 0.0.0.0 dirtychicken.com
 0.0.0.0 dirtyrhino.com
 0.0.0.0 disablespyware.com
+0.0.0.0 disagreeablepeninsula.com
 0.0.0.0 disagreeablesmilingmagnet.com
 0.0.0.0 disappearanceinspiredscan.com
 0.0.0.0 disapprovalaccusedirt.com
@@ -15204,6 +15208,7 @@
 0.0.0.0 discountforest.com
 0.0.0.0 discountteeshirts.com
 0.0.0.0 discountwound.com
+0.0.0.0 discourageconcurrenceantibiotic.com
 0.0.0.0 discourteousrecitalparole.com
 0.0.0.0 discoverdemo.com
 0.0.0.0 discoveredworld-news.com
@@ -15319,6 +15324,7 @@
 0.0.0.0 dlyzcopkko.com
 0.0.0.0 dlzm790g.com
 0.0.0.0 dmequest.com
+0.0.0.0 dmhpgshchfoawtn.com
 0.0.0.0 dmsqzqvuapb.com
 0.0.0.0 dmtracker.com
 0.0.0.0 dmtracking01.com
@@ -17276,6 +17282,7 @@
 0.0.0.0 flashcasino.com
 0.0.0.0 flashclicks.com
 0.0.0.0 flashingactshrs.com
+0.0.0.0 flashinginvolvementmatches.com
 0.0.0.0 flashipods4free.com
 0.0.0.0 flashmediaportal.com
 0.0.0.0 flashobligation.com
@@ -20021,6 +20028,7 @@
 0.0.0.0 imatmobile.com
 0.0.0.0 imdbwatch.com
 0.0.0.0 imediarevenue.com
+0.0.0.0 imembe.com
 0.0.0.0 imessageonandroid.com
 0.0.0.0 imessageonpc.com
 0.0.0.0 img001.com
@@ -20131,6 +20139,7 @@
 0.0.0.0 indecentfaces.com
 0.0.0.0 indecisionremittance.com
 0.0.0.0 indefinitecommitment.com
+0.0.0.0 indefinitelypeevishrussian.com
 0.0.0.0 independentdespisedevolution.com
 0.0.0.0 indexexchange.com
 0.0.0.0 indexstats.com
@@ -21020,6 +21029,7 @@
 0.0.0.0 kdconstructionusa.com
 0.0.0.0 kdkgwhntslalwj.com
 0.0.0.0 kebhbn.com
+0.0.0.0 kechacecha.com
 0.0.0.0 kedrieve.com
 0.0.0.0 kedspolska.com
 0.0.0.0 keechavy.com
@@ -23208,6 +23218,7 @@
 0.0.0.0 mortchiropractic.com
 0.0.0.0 mos.com
 0.0.0.0 mosalami.com
+0.0.0.0 mosece.com
 0.0.0.0 moselle24.com
 0.0.0.0 moshgame.com
 0.0.0.0 mosslagoonbookcase.com
@@ -24949,6 +24960,7 @@
 0.0.0.0 overreactscout.com
 0.0.0.0 oversightbullet.com
 0.0.0.0 overture.com
+0.0.0.0 overturnconstitution.com
 0.0.0.0 overturs.com
 0.0.0.0 overvid.com
 0.0.0.0 overworkrefinemoon.com
@@ -24970,6 +24982,7 @@
 0.0.0.0 oxado.com
 0.0.0.0 oxcash.com
 0.0.0.0 oxharmonysample.com
+0.0.0.0 oxidesloot.com
 0.0.0.0 oxlfhifzfynll.com
 0.0.0.0 oxoads.com
 0.0.0.0 oxqxopomikpqk.com
@@ -26305,6 +26318,7 @@
 0.0.0.0 prsaln.com
 0.0.0.0 prscripts.com
 0.0.0.0 prsitecheck.com
+0.0.0.0 prtrackings.com
 0.0.0.0 prudencebonfireyowl.com
 0.0.0.0 prudencewiserelapse.com
 0.0.0.0 prudenttruthfulcarter.com
@@ -27179,6 +27193,7 @@
 0.0.0.0 reorganizewallet.com
 0.0.0.0 repairedtightslavishness.com
 0.0.0.0 repairmadi.com
+0.0.0.0 repetitiongeneticallypresidential.com
 0.0.0.0 replacementdistribute.com
 0.0.0.0 replicahonestly.com
 0.0.0.0 reporekt.com
@@ -28920,6 +28935,7 @@
 0.0.0.0 sophiasearch.com
 0.0.0.0 sophomoremostlyplain.com
 0.0.0.0 sophosdefence.com
+0.0.0.0 sordidstir.com
 0.0.0.0 sorryfearknockout.com
 0.0.0.0 sortable.com
 0.0.0.0 sortgenerousholidays.com
@@ -29597,6 +29613,7 @@
 0.0.0.0 surfmatch.com
 0.0.0.0 surfmdia.com
 0.0.0.0 surgicalexpectingdecisive.com
+0.0.0.0 suried.com
 0.0.0.0 surmountguardianbosom.com
 0.0.0.0 surplus-suppliers.com
 0.0.0.0 surpluspilotage.com
@@ -29805,6 +29822,7 @@
 0.0.0.0 tantieapp.com
 0.0.0.0 tanx.com
 0.0.0.0 tanyarabourn.com
+0.0.0.0 taoput.com
 0.0.0.0 taourl.com
 0.0.0.0 tapad.com
 0.0.0.0 tapair.com
@@ -30874,6 +30892,7 @@
 0.0.0.0 trustsoft.com
 0.0.0.0 trusttastic.com
 0.0.0.0 trustyfine.com
+0.0.0.0 truthfulstem.com
 0.0.0.0 truviewinspections.com
 0.0.0.0 trvelocity.com
 0.0.0.0 trw12.com
@@ -31203,6 +31222,7 @@
 0.0.0.0 undertonenetworks.com
 0.0.0.0 underwearnavigable.com
 0.0.0.0 underworldblushtuition.com
+0.0.0.0 underworldoptical.com
 0.0.0.0 undetectedcheats.com
 0.0.0.0 undressseat.com
 0.0.0.0 unelekidan.com
@@ -32924,6 +32944,7 @@
 0.0.0.0 yangqi-miss.com
 0.0.0.0 yankevaxf.com
 0.0.0.0 yankszapfop.com
+0.0.0.0 yantrasbarges.com
 0.0.0.0 yapfurniture.com
 0.0.0.0 yapgrubupper.com
 0.0.0.0 yapsetuptropical.com
@@ -71027,6 +71048,7 @@
 0.0.0.0 mail.spandex.com
 0.0.0.0 go.spanglobalservices.com
 0.0.0.0 adserver.spankaway.com
+0.0.0.0 auth1-eng.spankbang.com
 0.0.0.0 xoxo5-eng.spankbang.com
 0.0.0.0 xoxo6-eng.spankbang.com
 0.0.0.0 xoxo8-eng.spankbang.com
@@ -94672,6 +94694,7 @@
 0.0.0.0 m6pz5h8qi18jq1s7hjkytxn7sjc0zpxw5gks3vyk8dcxs2cstjgdxkp7t1eb.me
 0.0.0.0 magyarnep.me
 0.0.0.0 mailtrack.me
+0.0.0.0 marketland.me
 0.0.0.0 minecraftcode.me
 0.0.0.0 mobile-browser.me
 0.0.0.0 moj-olx.me
@@ -96059,6 +96082,7 @@
 0.0.0.0 safe-deliverry.name
 0.0.0.0 safe-dellivery.name
 0.0.0.0 safety-dostaw.name
+0.0.0.0 shawlyni.name
 0.0.0.0 threecd.name
 0.0.0.0 yuluna.name
 0.0.0.0 www.bezpieczne-zakupy.name
@@ -96576,6 +96600,7 @@
 0.0.0.0 bauthair.net
 0.0.0.0 beanbounce.net
 0.0.0.0 beegotou.net
+0.0.0.0 beevakum.net
 0.0.0.0 beklear.net
 0.0.0.0 benfly.net
 0.0.0.0 bertekoa.net
@@ -103821,6 +103846,7 @@
 0.0.0.0 dpvqla39wx0ff.cloudfront.net
 0.0.0.0 dpy5d9cas64ag.cloudfront.net
 0.0.0.0 dpz3dq1mexoau.cloudfront.net
+0.0.0.0 dq06u9lt5akr2.cloudfront.net
 0.0.0.0 dq2tgxnc2knif.cloudfront.net
 0.0.0.0 dq3cqr3m0t6ow.cloudfront.net
 0.0.0.0 dq3yxnlzwhcys.cloudfront.net
@@ -126087,6 +126113,7 @@
 0.0.0.0 esampletedr.space
 0.0.0.0 essionprobl.space
 0.0.0.0 eugenelidochek.space
+0.0.0.0 evelopiestab.space
 0.0.0.0 eversales.space
 0.0.0.0 ewomento.space
 0.0.0.0 fferencebr.space
@@ -131208,6 +131235,7 @@
 0.0.0.0 aiiegro-sprzedaz-718462.xyz
 0.0.0.0 aiiegrolokalnieoferta.xyz
 0.0.0.0 ailegrolokalnle-kup-teraz.xyz
+0.0.0.0 ailiopunsus.xyz
 0.0.0.0 airsofts.xyz
 0.0.0.0 ajrequestion.xyz
 0.0.0.0 albireo.xyz
@@ -132053,6 +132081,7 @@
 0.0.0.0 sabs-push.xyz
 0.0.0.0 sadenly.xyz
 0.0.0.0 safe-olxpln.xyz
+0.0.0.0 sanborner.xyz
 0.0.0.0 sasedi.xyz
 0.0.0.0 sawron.xyz
 0.0.0.0 schargesee.xyz
