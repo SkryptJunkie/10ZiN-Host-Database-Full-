@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:01 AM Tuesday 28 September 2021
+# Date: 06:01 AM Wednesday 29 September 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -22574,6 +22574,7 @@
 0.0.0.0 demovie.xyz
 0.0.0.0 deresta.xyz
 0.0.0.0 derpost.xyz
+0.0.0.0 dersindical.xyz
 0.0.0.0 dertyn.xyz
 0.0.0.0 dobrydzien.xyz
 0.0.0.0 doplac-teraz.xyz
