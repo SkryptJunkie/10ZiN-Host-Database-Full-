@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Alive)
-# Date: 06:01 AM Wednesday 29 September 2021
+# Date: 06:01 AM Thursday 30 September 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.alive.txt
@@ -21339,6 +21339,7 @@
 0.0.0.0 krumaila.com
 0.0.0.0 ksado.com
 0.0.0.0 ksaikeerthi.com
+0.0.0.0 ksdqhiaythajdv.com
 0.0.0.0 ksheeraorganics.com
 0.0.0.0 ksi2trk.com
 0.0.0.0 ksjrehefupsrkz.com
@@ -21719,6 +21720,7 @@
 0.0.0.0 licichoshy.com
 0.0.0.0 lickmechanicalbasis.com
 0.0.0.0 lidamtour.com
+0.0.0.0 liddid.com
 0.0.0.0 lidjetsyak.com
 0.0.0.0 lidsfoalliving.com
 0.0.0.0 lie2anyone.com
@@ -21764,6 +21766,7 @@
 0.0.0.0 likuidator.com
 0.0.0.0 lilacdefencelessroyal.com
 0.0.0.0 liliy9aydje10.com
+0.0.0.0 lilureem.com
 0.0.0.0 limagarment.com
 0.0.0.0 limaloe.com
 0.0.0.0 limasky.com
@@ -25284,6 +25287,7 @@
 0.0.0.0 pathfindermas.com
 0.0.0.0 pathforpoints.com
 0.0.0.0 pathofhacks.com
+0.0.0.0 pathsinvestor.com
 0.0.0.0 patiavo.com
 0.0.0.0 patientlyrequisite.com
 0.0.0.0 patrickdlg.com
@@ -25808,6 +25812,7 @@
 0.0.0.0 plocap.com
 0.0.0.0 plocia.com
 0.0.0.0 plotrabbit.com
+0.0.0.0 ployea.com
 0.0.0.0 plpg-finance.com
 0.0.0.0 plpostkode.com
 0.0.0.0 plqbxvnjxq92.com
@@ -26974,6 +26979,7 @@
 0.0.0.0 razerzonne.com
 0.0.0.0 razor-games.com
 0.0.0.0 razor1911download.com
+0.0.0.0 razuphyju.com
 0.0.0.0 razwrite.com
 0.0.0.0 rb-net.com
 0.0.0.0 rbbdigitalpark.com
@@ -27471,6 +27477,7 @@
 0.0.0.0 rikobisti.com
 0.0.0.0 rilelogicbuy.com
 0.0.0.0 rilesticks.com
+0.0.0.0 rilins.com
 0.0.0.0 riluaneth.com
 0.0.0.0 rime8lope.com
 0.0.0.0 riminghoggoofy.com
@@ -29103,6 +29110,7 @@
 0.0.0.0 spellingpigeonssecret.com
 0.0.0.0 spellresolute.com
 0.0.0.0 spentforearmprovenance.com
+0.0.0.0 speop.com
 0.0.0.0 sperans-beactor.com
 0.0.0.0 spermparticipation.com
 0.0.0.0 sperse.com
@@ -32841,6 +32849,7 @@
 0.0.0.0 xhack4u.com
 0.0.0.0 xhacked.com
 0.0.0.0 xhrxmbqixobk.com
+0.0.0.0 xhuwypebxqlt.com
 0.0.0.0 xhzugaqnqo.com
 0.0.0.0 xianyujc.com
 0.0.0.0 xiaomovie.com
@@ -40840,6 +40849,7 @@
 0.0.0.0 polsatsporthd.blogspot.com
 0.0.0.0 polsatsportpremium1.blogspot.com
 0.0.0.0 polsatsportpremium2.blogspot.com
+0.0.0.0 popunhot1.blogspot.com
 0.0.0.0 power-affliate.blogspot.com
 0.0.0.0 premieryonline.blogspot.com
 0.0.0.0 proceder-film.blogspot.com
@@ -71141,6 +71151,7 @@
 0.0.0.0 adserver.spankaway.com
 0.0.0.0 auth1-eng.spankbang.com
 0.0.0.0 auth2-eng.spankbang.com
+0.0.0.0 auth3-eng.spankbang.com
 0.0.0.0 xoxo5-eng.spankbang.com
 0.0.0.0 xoxo6-eng.spankbang.com
 0.0.0.0 xoxo8-eng.spankbang.com
@@ -89963,6 +89974,7 @@
 0.0.0.0 lp4.io
 0.0.0.0 lytics.io
 0.0.0.0 mailtrack.io
+0.0.0.0 mdhv.io
 0.0.0.0 mediasmart.io
 0.0.0.0 metamak.io
 0.0.0.0 metrics.io
@@ -126269,6 +126281,7 @@
 0.0.0.0 ktobysietegospoodziewall.space
 0.0.0.0 lacerta.space
 0.0.0.0 laredintonw.space
+0.0.0.0 lewritishma.space
 0.0.0.0 libaliba.space
 0.0.0.0 lightiesenco.space
 0.0.0.0 lillove.space
@@ -131420,6 +131433,7 @@
 0.0.0.0 caeiriolskiaopazertyiop.xyz
 0.0.0.0 cameronznxbas.xyz
 0.0.0.0 capultytrese.xyz
+0.0.0.0 cbuacategic.xyz
 0.0.0.0 ccgoo.xyz
 0.0.0.0 ccsms.xyz
 0.0.0.0 cdnimages.xyz
