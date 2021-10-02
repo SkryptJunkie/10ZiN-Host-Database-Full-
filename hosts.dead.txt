@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:06 AM Friday 01 October 2021
+# Date: 06:01 AM Saturday 02 October 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -2389,6 +2389,7 @@
 0.0.0.0 papers2go.co
 0.0.0.0 phonemetrics.co
 0.0.0.0 piraterfacebook.co
+0.0.0.0 prideidiotswarthy.co
 0.0.0.0 redpulsetoken.co
 0.0.0.0 ripiocreditnetwork.co
 0.0.0.0 sabiosdelamor.co
@@ -5279,6 +5280,7 @@
 0.0.0.0 pc-gizmos-ssl.com
 0.0.0.0 pcgame-hacks.com
 0.0.0.0 pcgamerparadise.com
+0.0.0.0 pcuywskaatocku.com
 0.0.0.0 pdf-4downloadfreeonline.com
 0.0.0.0 pdfepub-ebooks.com
 0.0.0.0 pdfonlineworld.com
