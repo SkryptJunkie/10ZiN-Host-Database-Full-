@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:01 AM Sunday 03 October 2021
+# Date: 06:02 AM Monday 04 October 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -8301,6 +8301,7 @@
 0.0.0.0 ads.drivelinemedia.com
 0.0.0.0 ads2.drivelinemedia.com
 0.0.0.0 www.drmartensskleppolska.com
+0.0.0.0 www.drsamidavid.com
 0.0.0.0 ads.drugs.com
 0.0.0.0 www.drugs-cheap.com
 0.0.0.0 videos.dskjkiuw.com
@@ -13381,6 +13382,7 @@
 0.0.0.0 www.olx-pl-delivering.icu
 0.0.0.0 www.olx-pl-dostawka.icu
 0.0.0.0 www.inpost-pl.payments-safe.icu
+0.0.0.0 www.inpost-pl.payoffering.icu
 0.0.0.0 www.ten1.pieknykraj.icu
 0.0.0.0 inpost.pl-cleanpaid.icu
 0.0.0.0 olx.pl-cleanpaid.icu
@@ -15789,6 +15791,10 @@
 0.0.0.0 www.polskapoczta-pl-hws.id-9843.me
 0.0.0.0 vinted-orh.id23988.me
 0.0.0.0 www.vinted-orh.id23988.me
+0.0.0.0 dpd-gdy.id293847.me
+0.0.0.0 inpost-wnt.id293847.me
+0.0.0.0 www.dpd-gdy.id293847.me
+0.0.0.0 www.inpost-wnt.id293847.me
 0.0.0.0 dpd-i.id458759.me
 0.0.0.0 dpd-pi.id458759.me
 0.0.0.0 www.dpd-i.id458759.me
@@ -19225,6 +19231,7 @@
 0.0.0.0 www.coswtymmusibyc.online
 0.0.0.0 www.definicjabiznesu.online
 0.0.0.0 www.dostava24.online
+0.0.0.0 www.inpost.dostawa-safety.online
 0.0.0.0 www.e-bazaosobzaginionych.online
 0.0.0.0 www.e-mail-regulamin.online
 0.0.0.0 www.e-mailprywatnosc.online
@@ -19265,6 +19272,7 @@
 0.0.0.0 www.ostatniaminutapl.online
 0.0.0.0 www.outbutypt.online
 0.0.0.0 www.paczpocztex.online
+0.0.0.0 www.olx.payd01.online
 0.0.0.0 www.payment-banka.online
 0.0.0.0 olx.pl-aktywacja.online
 0.0.0.0 www.olx.pl-aktywacja.online
@@ -23057,6 +23065,7 @@
 0.0.0.0 teacus.xyz
 0.0.0.0 tenzamosc.xyz
 0.0.0.0 termin-odbloru.xyz
+0.0.0.0 ternoluq.xyz
 0.0.0.0 theplost.xyz
 0.0.0.0 thepostowanie.xyz
 0.0.0.0 theverto.xyz
@@ -23078,6 +23087,7 @@
 0.0.0.0 tvoyagrupa.xyz
 0.0.0.0 twojpakunek.xyz
 0.0.0.0 typedash.xyz
+0.0.0.0 uhoklin.xyz
 0.0.0.0 ultraministry.xyz
 0.0.0.0 ultramole.xyz
 0.0.0.0 unlockers.xyz
@@ -23095,6 +23105,7 @@
 0.0.0.0 welcomepozhta.xyz
 0.0.0.0 weroz.xyz
 0.0.0.0 wervok.xyz
+0.0.0.0 wesklose.xyz
 0.0.0.0 westboundtime.xyz
 0.0.0.0 wiadomosci-katowice.xyz
 0.0.0.0 wiadomosci-olsztyn.xyz
@@ -23868,6 +23879,7 @@
 0.0.0.0 www.teacus.xyz
 0.0.0.0 www.tenzamosc.xyz
 0.0.0.0 www.termin-odbloru.xyz
+0.0.0.0 www.ternoluq.xyz
 0.0.0.0 www.thankupgpl.xyz
 0.0.0.0 www.theplost.xyz
 0.0.0.0 www.thepostowanie.xyz
@@ -23888,6 +23900,7 @@
 0.0.0.0 www.transmis.xyz
 0.0.0.0 www.tvoyagrupa.xyz
 0.0.0.0 www.twojpakunek.xyz
+0.0.0.0 www.uhoklin.xyz
 0.0.0.0 www.unquestionedfivpql.xyz
 0.0.0.0 www.up-eazy1.xyz
 0.0.0.0 autoupdate.update4ever.xyz
@@ -23906,6 +23919,7 @@
 0.0.0.0 www.welcomepozhta.xyz
 0.0.0.0 www.weroz.xyz
 0.0.0.0 www.wervok.xyz
+0.0.0.0 www.wesklose.xyz
 0.0.0.0 www.westboundtime.xyz
 0.0.0.0 www.wiadomosci-katowice.xyz
 0.0.0.0 www.wiadomosci-olsztyn.xyz
