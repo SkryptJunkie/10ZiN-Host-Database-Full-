@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Monday 04 October 2021
+# Date: 06:01 AM Tuesday 05 October 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -20707,6 +20707,7 @@
 0.0.0.0 picrich.ru
 0.0.0.0 pictureimgz.ru
 0.0.0.0 picturescreenstroy.ru
+0.0.0.0 rcptik.ru
 0.0.0.0 retaraga.ru
 0.0.0.0 rise-media.ru
 0.0.0.0 russ-shalavy.ru
