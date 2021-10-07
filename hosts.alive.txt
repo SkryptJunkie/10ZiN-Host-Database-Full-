@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Alive)
-# Date: 06:10 AM Wednesday 06 October 2021
+# Date: 06:01 AM Thursday 07 October 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.alive.txt
@@ -4056,6 +4056,7 @@
 0.0.0.0 outrushfetor.cam
 0.0.0.0 pekaao.cam
 0.0.0.0 pepnerdmime.cam
+0.0.0.0 perkingpurpled.cam
 0.0.0.0 podkarmieni.cam
 0.0.0.0 pupulodsects.cam
 0.0.0.0 reknitgude.cam
@@ -4633,6 +4634,7 @@
 0.0.0.0 landensite.cf
 0.0.0.0 mfio.cf
 0.0.0.0 modeloi7nove.cf
+0.0.0.0 neverending-story.cf
 0.0.0.0 nicemice.cf
 0.0.0.0 nvfjvtntt.cf
 0.0.0.0 olx-poland.cf
@@ -13072,6 +13074,7 @@
 0.0.0.0 cadsokz.com
 0.0.0.0 cadspms.com
 0.0.0.0 cadspmz.com
+0.0.0.0 caeebxhzg.com
 0.0.0.0 caehl.com
 0.0.0.0 cafe58cc6d0ac.com
 0.0.0.0 cafecoc.com
@@ -13697,6 +13700,7 @@
 0.0.0.0 cigarette-online.com
 0.0.0.0 cigaretteprovenaffected.com
 0.0.0.0 ciiycode.com
+0.0.0.0 cijexuthi.com
 0.0.0.0 cikelly.com
 0.0.0.0 ciltbakimiveguzellik.com
 0.0.0.0 cimcpatna.com
@@ -16424,6 +16428,7 @@
 0.0.0.0 effectivecpmgate.com
 0.0.0.0 effectivedisplayformat.com
 0.0.0.0 effectivemeasure.com
+0.0.0.0 effectiveperformanceformat.com
 0.0.0.0 effectiveperformancenetwork.com
 0.0.0.0 effectpinching.com
 0.0.0.0 effectwringoverreact.com
@@ -16932,6 +16937,7 @@
 0.0.0.0 exacttarget.com
 0.0.0.0 exacttargetapis.com
 0.0.0.0 examinerprospectsbutton.com
+0.0.0.0 examscradle.com
 0.0.0.0 exanae.com
 0.0.0.0 exasked.com
 0.0.0.0 excdnrdsu.com
@@ -18913,6 +18919,7 @@
 0.0.0.0 glfrjgeco.com
 0.0.0.0 gliese-682c.com
 0.0.0.0 glimmerswiftlyforgery.com
+0.0.0.0 glimpsemankind.com
 0.0.0.0 glinkelectronics.com
 0.0.0.0 glinkss.com
 0.0.0.0 glispa.com
@@ -26466,6 +26473,7 @@
 0.0.0.0 plaicenaive.com
 0.0.0.0 plaimedia.com
 0.0.0.0 plainlycradlescalp.com
+0.0.0.0 plaintfarrel.com
 0.0.0.0 plaintiffalphabetslacken.com
 0.0.0.0 plandiscriminationtakeout.com
 0.0.0.0 planeocean.com
@@ -26938,6 +26946,7 @@
 0.0.0.0 prfct-eg.com
 0.0.0.0 prfctmney.com
 0.0.0.0 prfolder.com
+0.0.0.0 prheoxpdoqmjou.com
 0.0.0.0 pri12mel.com
 0.0.0.0 priabafe.com
 0.0.0.0 priaso.com
@@ -30866,6 +30875,7 @@
 0.0.0.0 tawdryson.com
 0.0.0.0 tawheedpublicationsbd.com
 0.0.0.0 taxclubpk.com
+0.0.0.0 taxodiu2m2dis7tichum.com
 0.0.0.0 taylorspub.com
 0.0.0.0 tbkjttmdcjduhs.com
 0.0.0.0 tbm09.com
@@ -33627,6 +33637,7 @@
 0.0.0.0 workingkeys.com
 0.0.0.0 workingonline.com
 0.0.0.0 workplacehorse.com
+0.0.0.0 workplacelimetree.com
 0.0.0.0 world-hack.com
 0.0.0.0 world-newse.com
 0.0.0.0 worldandbitcoin.com
@@ -44547,6 +44558,7 @@
 0.0.0.0 track.childrensalon.com
 0.0.0.0 ad.es.chilinext.com
 0.0.0.0 ad.it.chilinext.com
+0.0.0.0 tracking.chilipiper.com
 0.0.0.0 cms.chillhop.com
 0.0.0.0 sp.chillicothegazette.com
 0.0.0.0 www.chilyregistrycleaner.com
@@ -135209,6 +135221,7 @@
 0.0.0.0 heyad.xyz
 0.0.0.0 hhit.xyz
 0.0.0.0 hisensetech.xyz
+0.0.0.0 hmikxktkmccfoyq.xyz
 0.0.0.0 honfleurisez.xyz
 0.0.0.0 hopelessna.xyz
 0.0.0.0 horribilisee.xyz
@@ -135977,6 +135990,7 @@
 0.0.0.0 voxai.xyz
 0.0.0.0 vsdcq-930219caqw.xyz
 0.0.0.0 vsjxqhfkccx.xyz
+0.0.0.0 vtfdfrxfxktq.xyz
 0.0.0.0 wandab.xyz
 0.0.0.0 warten-sie-mal.xyz
 0.0.0.0 waytorich.xyz
@@ -136036,6 +136050,7 @@
 0.0.0.0 www-olxpll-safe.xyz
 0.0.0.0 wybutary.xyz
 0.0.0.0 wykurwyzpolicji.xyz
+0.0.0.0 wyliswbimeotllt.xyz
 0.0.0.0 wzabrzu.xyz
 0.0.0.0 x2sms.xyz
 0.0.0.0 x3sms.xyz
