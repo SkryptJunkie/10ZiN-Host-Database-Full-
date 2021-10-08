@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Alive)
-# Date: 06:01 AM Thursday 07 October 2021
+# Date: 06:01 AM Friday 08 October 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.alive.txt
@@ -2185,6 +2185,7 @@
 0.0.0.0 etheopportu.biz
 0.0.0.0 evarest.biz
 0.0.0.0 excitedyou.biz
+0.0.0.0 fastred.biz
 0.0.0.0 feernews.biz
 0.0.0.0 freegayporn.biz
 0.0.0.0 freehacks.biz
@@ -8505,6 +8506,7 @@
 0.0.0.0 70ee6484605f.com
 0.0.0.0 70pictures.com
 0.0.0.0 712e2a170bb3.com
+0.0.0.0 71692fai4cc0.com
 0.0.0.0 718unlimited.com
 0.0.0.0 71a30cae934e.com
 0.0.0.0 71bcab8994dbe2.com
@@ -9154,6 +9156,7 @@
 0.0.0.0 adblock.com
 0.0.0.0 adblock-listefr.com
 0.0.0.0 adblockanalytics.com
+0.0.0.0 adblockervideo.com
 0.0.0.0 adblue-finder.com
 0.0.0.0 adbma.com
 0.0.0.0 adbmi.com
@@ -11079,6 +11082,7 @@
 0.0.0.0 asccdn.com
 0.0.0.0 ascentive.com
 0.0.0.0 ascer-ruralvia.com
+0.0.0.0 ascertaincrescenthandbag.com
 0.0.0.0 ascertainedfortnight.com
 0.0.0.0 ascraftan.com
 0.0.0.0 asdfg23.com
@@ -12444,6 +12448,7 @@
 0.0.0.0 bmwzdfrra.com
 0.0.0.0 bn-allorbank.com
 0.0.0.0 bnbxwdkxccxfsn.com
+0.0.0.0 bnc1m.com
 0.0.0.0 bncoposta.com
 0.0.0.0 bnewsb.com
 0.0.0.0 bnex.com
@@ -12877,6 +12882,7 @@
 0.0.0.0 bunitd.com
 0.0.0.0 bunny-net.com
 0.0.0.0 bunnymediaserver.com
+0.0.0.0 bupatp.com
 0.0.0.0 bupserge.com
 0.0.0.0 burandsale.com
 0.0.0.0 burbibape.com
@@ -13078,6 +13084,7 @@
 0.0.0.0 caehl.com
 0.0.0.0 cafe58cc6d0ac.com
 0.0.0.0 cafecoc.com
+0.0.0.0 cafegraha.com
 0.0.0.0 cage6west.com
 0.0.0.0 cagreeninvest.com
 0.0.0.0 cahoots.com
@@ -13118,6 +13125,7 @@
 0.0.0.0 camgeil.com
 0.0.0.0 caminosantiagoentrevolcanes.com
 0.0.0.0 camiocw.com
+0.0.0.0 camisagrieko.com
 0.0.0.0 cammalo.com
 0.0.0.0 camp-cherith.com
 0.0.0.0 campaignmonitor.com
@@ -13593,6 +13601,7 @@
 0.0.0.0 cheese-forest.com
 0.0.0.0 cheetieaha.com
 0.0.0.0 chefeladlevi.com
+0.0.0.0 chegostyzi.com
 0.0.0.0 chekaksam.com
 0.0.0.0 cheksoam.com
 0.0.0.0 chelaxeshi.com
@@ -15003,6 +15012,7 @@
 0.0.0.0 d2ship.com
 0.0.0.0 d3b75cfc88a9.com
 0.0.0.0 d3e44a82c2df88.com
+0.0.0.0 d4624d2bc2.com
 0.0.0.0 d4a77d8bc81ae17.com
 0.0.0.0 d4d48974197052ea.com
 0.0.0.0 d4q8zgf756.com
@@ -15495,6 +15505,7 @@
 0.0.0.0 dianomi.com
 0.0.0.0 diansu8.com
 0.0.0.0 diapersophisticated.com
+0.0.0.0 diaryeavesdropdecipher.com
 0.0.0.0 diaspora-news.com
 0.0.0.0 dibarbado.com
 0.0.0.0 dibsemey.com
@@ -15734,11 +15745,13 @@
 0.0.0.0 dmartisans.com
 0.0.0.0 dmequest.com
 0.0.0.0 dmhpgshchfoawtn.com
+0.0.0.0 dmnprx.com
 0.0.0.0 dmpxs.com
 0.0.0.0 dmsqzqvuapb.com
 0.0.0.0 dmtracker.com
 0.0.0.0 dmtracking01.com
 0.0.0.0 dmvbdfblevxvx.com
+0.0.0.0 dmvbonnha.com
 0.0.0.0 dmxftmoqz.com
 0.0.0.0 dmzgames.com
 0.0.0.0 dnbizcdn.com
@@ -16413,6 +16426,7 @@
 0.0.0.0 eenany.com
 0.0.0.0 eengaums.com
 0.0.0.0 eensoans.com
+0.0.0.0 eererg.com
 0.0.0.0 eergaroa.com
 0.0.0.0 eergithi.com
 0.0.0.0 eeroawug.com
@@ -16690,6 +16704,7 @@
 0.0.0.0 enuinthet.com
 0.0.0.0 enumerateenvironment.com
 0.0.0.0 enumeraterunnerscommence.com
+0.0.0.0 enviablewaistwhereabouts.com
 0.0.0.0 enviousfundraiserbelonged.com
 0.0.0.0 enviousthread.com
 0.0.0.0 environe.com
@@ -18382,6 +18397,7 @@
 0.0.0.0 fxstra.com
 0.0.0.0 fyhishushe.com
 0.0.0.0 fykmahfa.com
+0.0.0.0 fykqixiyyd.com
 0.0.0.0 fythavoshu.com
 0.0.0.0 fz5akngy5o6r.com
 0.0.0.0 fzcebook.com
@@ -21636,6 +21652,7 @@
 0.0.0.0 kaytri.com
 0.0.0.0 kayyha.com
 0.0.0.0 kazaa.com
+0.0.0.0 kazandirtyscoot.com
 0.0.0.0 kazuchii.com
 0.0.0.0 kazucivi.com
 0.0.0.0 kbngab.com
@@ -22047,6 +22064,7 @@
 0.0.0.0 lakomlacen.com
 0.0.0.0 lakotorra.com
 0.0.0.0 lakusdvroa.com
+0.0.0.0 lakvandula.com
 0.0.0.0 lalaboreria.com
 0.0.0.0 lalaping.com
 0.0.0.0 lalasagna.com
@@ -22108,6 +22126,7 @@
 0.0.0.0 latesttechnologyz.com
 0.0.0.0 latheendsmoo.com
 0.0.0.0 latterinconvenient.com
+0.0.0.0 latuga.com
 0.0.0.0 laughablecopper.com
 0.0.0.0 laughcloth.com
 0.0.0.0 lauhefoo.com
@@ -23931,6 +23950,7 @@
 0.0.0.0 morning-maps.com
 0.0.0.0 morningsophisticatedcenter.com
 0.0.0.0 morogefiles.com
+0.0.0.0 moronsquacco.com
 0.0.0.0 morrobaydrugandgift.com
 0.0.0.0 mors22.com
 0.0.0.0 mortalunacceptable.com
@@ -28478,6 +28498,7 @@
 0.0.0.0 rpsexpress.com
 0.0.0.0 rqhere.com
 0.0.0.0 rqusuqakwyejjn.com
+0.0.0.0 rqzmfbxjxfi.com
 0.0.0.0 rr7x.com
 0.0.0.0 rs-stripe.com
 0.0.0.0 rsalcau.com
@@ -29552,6 +29573,7 @@
 0.0.0.0 skecherswarszawa.com
 0.0.0.0 skeptive.com
 0.0.0.0 sketchinferiorunits.com
+0.0.0.0 skewlyundazed.com
 0.0.0.0 skidrow-apps.com
 0.0.0.0 skidrow-cracks.com
 0.0.0.0 skidrow-games.com
@@ -29674,6 +29696,7 @@
 0.0.0.0 slychicks.com
 0.0.0.0 slymagical.com
 0.0.0.0 smaato.com
+0.0.0.0 smac-ad.com
 0.0.0.0 smac-ssp.com
 0.0.0.0 smallbeginner.com
 0.0.0.0 smallperfumerain.com
@@ -29876,6 +29899,7 @@
 0.0.0.0 sombes.com
 0.0.0.0 somedayanchovydepressing.com
 0.0.0.0 somehowluxuriousreader.com
+0.0.0.0 somemembersgesture.com
 0.0.0.0 somethingglamourbeams.com
 0.0.0.0 somethingprecursorfairfax.com
 0.0.0.0 somewarmremember.com
@@ -34509,6 +34533,7 @@
 0.0.0.0 zevert55.com
 0.0.0.0 zferral.com
 0.0.0.0 zhaoyouxiu.com
+0.0.0.0 zhcmuccccixz.com
 0.0.0.0 zheldut.com
 0.0.0.0 zhengtiankai.com
 0.0.0.0 zhhoeyksp.com
@@ -40755,6 +40780,7 @@
 0.0.0.0 cybertran.baidu.com
 0.0.0.0 datax.baidu.com
 0.0.0.0 dj1.baidu.com
+0.0.0.0 dlswbr.baidu.com
 0.0.0.0 duokoo.baidu.com
 0.0.0.0 dxp.baidu.com
 0.0.0.0 e.baidu.com
@@ -55213,6 +55239,7 @@
 0.0.0.0 logbak.hicloud.com
 0.0.0.0 logservice.hicloud.com
 0.0.0.0 logservice1.hicloud.com
+0.0.0.0 datacollector-dra.dt.hicloud.com
 0.0.0.0 metrics-dra.dt.hicloud.com
 0.0.0.0 h30-deploy.hiconversion.com
 0.0.0.0 update.hiconversion.com
@@ -90683,6 +90710,7 @@
 0.0.0.0 filingdeadline.info
 0.0.0.0 finance-eu.info
 0.0.0.0 findmenow.info
+0.0.0.0 flowsearch.info
 0.0.0.0 fmebili.info
 0.0.0.0 fontoshirek.info
 0.0.0.0 foodforyou.info
@@ -105307,6 +105335,7 @@
 0.0.0.0 d260ptyfdzr11n.cloudfront.net
 0.0.0.0 d261u4g5nqprix.cloudfront.net
 0.0.0.0 d266b2co2bge4m.cloudfront.net
+0.0.0.0 d26adrx9c3n0mq.cloudfront.net
 0.0.0.0 d26akb2ny0jv6h.cloudfront.net
 0.0.0.0 d26b395fwzu5fz.cloudfront.net
 0.0.0.0 d26c6kzavi5zwd.cloudfront.net
@@ -135199,6 +135228,7 @@
 0.0.0.0 grandfathertriangle.xyz
 0.0.0.0 grands-poll.xyz
 0.0.0.0 greky.xyz
+0.0.0.0 grmtmuabcrss.xyz
 0.0.0.0 grools.xyz
 0.0.0.0 grotezka.xyz
 0.0.0.0 grouptrot.xyz
@@ -135283,6 +135313,7 @@
 0.0.0.0 joeputa.xyz
 0.0.0.0 jojude.xyz
 0.0.0.0 jozmovie.xyz
+0.0.0.0 jsnaktyxljsohwp.xyz
 0.0.0.0 juricts.xyz
 0.0.0.0 jwi3ofp9gpgu8e9x9.xyz
 0.0.0.0 kartowkop.xyz
@@ -135957,6 +135988,7 @@
 0.0.0.0 unquestionedfivpql.xyz
 0.0.0.0 uohkvaauw.xyz
 0.0.0.0 up-eazy1.xyz
+0.0.0.0 uprotectiehone.xyz
 0.0.0.0 usmiechnijsie.xyz
 0.0.0.0 uspd.xyz
 0.0.0.0 utillib.xyz
@@ -135968,6 +136000,7 @@
 0.0.0.0 vbeas.xyz
 0.0.0.0 vbrw.xyz
 0.0.0.0 vcampetyld.xyz
+0.0.0.0 vendedrt.xyz
 0.0.0.0 verifyu.xyz
 0.0.0.0 vermut.xyz
 0.0.0.0 vesen.xyz
