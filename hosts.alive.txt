@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Alive)
-# Date: 06:01 AM Friday 08 October 2021
+# Date: 06:01 AM Saturday 09 October 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.alive.txt
@@ -6080,6 +6080,7 @@
 0.0.0.0 tsfrenceabu.club
 0.0.0.0 tsinsideredex.club
 0.0.0.0 tsleavilycele.club
+0.0.0.0 tsmyalesc.club
 0.0.0.0 tvn24.club
 0.0.0.0 twoje-zdrowie.club
 0.0.0.0 twoulderstr.club
@@ -11904,6 +11905,7 @@
 0.0.0.0 beshtienhr2hd8j09.com
 0.0.0.0 besidehacks.com
 0.0.0.0 besmeargleor.com
+0.0.0.0 besoes.com
 0.0.0.0 bespuantiye.com
 0.0.0.0 besstbuy.com
 0.0.0.0 best-ads.com
@@ -13602,6 +13604,7 @@
 0.0.0.0 cheetieaha.com
 0.0.0.0 chefeladlevi.com
 0.0.0.0 chegostyzi.com
+0.0.0.0 chegrupsishu.com
 0.0.0.0 chekaksam.com
 0.0.0.0 cheksoam.com
 0.0.0.0 chelaxeshi.com
@@ -15222,6 +15225,7 @@
 0.0.0.0 dbclix.com
 0.0.0.0 dblmove.com
 0.0.0.0 dbmdoldiqf.com
+0.0.0.0 dbnghpxnbqpquh.com
 0.0.0.0 dc-storm.com
 0.0.0.0 dc63bfb069ea522f.com
 0.0.0.0 dcdilhaybpzkvj.com
@@ -15315,6 +15319,7 @@
 0.0.0.0 definitial.com
 0.0.0.0 defpush.com
 0.0.0.0 defyraspypuke.com
+0.0.0.0 degreenoxious.com
 0.0.0.0 degrtdqvaansd.com
 0.0.0.0 degryrubi.com
 0.0.0.0 dehacks.com
@@ -16246,6 +16251,7 @@
 0.0.0.0 ea1abaf867.com
 0.0.0.0 ea6353e47e0ab3f78.com
 0.0.0.0 ea978ca12bb65.com
+0.0.0.0 eaaltkvtuge.com
 0.0.0.0 eabids.com
 0.0.0.0 eac0823ca94e3c07.com
 0.0.0.0 eacdn.com
@@ -18897,6 +18903,7 @@
 0.0.0.0 gjslebmbiawh.com
 0.0.0.0 gjw5qbyn93b8.com
 0.0.0.0 gk8j5woqk26f.com
+0.0.0.0 gkefsixxlzhn.com
 0.0.0.0 gkgojxjucutvnt.com
 0.0.0.0 gkirfipavwra.com
 0.0.0.0 gkjexports.com
@@ -20497,6 +20504,7 @@
 0.0.0.0 idklever.com
 0.0.0.0 idkom.com
 0.0.0.0 idlesway.com
+0.0.0.0 idlinz.com
 0.0.0.0 ido3.com
 0.0.0.0 idoing3d.com
 0.0.0.0 idoku24.com
@@ -21508,6 +21516,7 @@
 0.0.0.0 jswrite.com
 0.0.0.0 jswxwofumjg.com
 0.0.0.0 jtbdzlpuojqln.com
+0.0.0.0 jtigctkh.com
 0.0.0.0 jtinssutynyf.com
 0.0.0.0 jtjsevmr.com
 0.0.0.0 jua05myfbe.com
@@ -22321,6 +22330,7 @@
 0.0.0.0 lfmfrsvguf.com
 0.0.0.0 lfscpttracking.com
 0.0.0.0 lfstmedia.com
+0.0.0.0 lftklqdjldf.com
 0.0.0.0 lftqch650apz.com
 0.0.0.0 lfunny.com
 0.0.0.0 lfzombiegames.com
@@ -23488,6 +23498,7 @@
 0.0.0.0 methupteshu.com
 0.0.0.0 metoda-poliglotow.com
 0.0.0.0 metosk.com
+0.0.0.0 metreelusive.com
 0.0.0.0 metrica-yandex.com
 0.0.0.0 metricfast.com
 0.0.0.0 metrilo.com
@@ -25997,6 +26008,7 @@
 0.0.0.0 parskabab.com
 0.0.0.0 parsruingmeld.com
 0.0.0.0 partage-facile.com
+0.0.0.0 parth2enerocis9tsust2ricus7pidata.com
 0.0.0.0 parthanonstatue.com
 0.0.0.0 parthgroupindia.com
 0.0.0.0 particlesmanuscript.com
@@ -26151,6 +26163,7 @@
 0.0.0.0 peculiaritiesfrequencymedicine.com
 0.0.0.0 pedestalturner.com
 0.0.0.0 pedestrianneighbourly.com
+0.0.0.0 pedisp.com
 0.0.0.0 peefeehu.com
 0.0.0.0 peekdedicatecylinder.com
 0.0.0.0 peekscrane.com
@@ -27711,6 +27724,7 @@
 0.0.0.0 radiusproceedings.com
 0.0.0.0 radjadoepa.com
 0.0.0.0 raenfh9tkuka.com
+0.0.0.0 raftcomposuremeals.com
 0.0.0.0 ragapa.com
 0.0.0.0 raghavgautamphotography.com
 0.0.0.0 ragsaved.com
@@ -28019,6 +28033,7 @@
 0.0.0.0 registrysweeper.com
 0.0.0.0 registrytensesuffocate.com
 0.0.0.0 reglistigru.com
+0.0.0.0 regmacimbia.com
 0.0.0.0 regnow.com
 0.0.0.0 regrcurie.com
 0.0.0.0 regularplants.com
@@ -28780,6 +28795,7 @@
 0.0.0.0 sarahshuckburgh.com
 0.0.0.0 sarcasticlinezomby.com
 0.0.0.0 sartagesampi.com
+0.0.0.0 sartolutus.com
 0.0.0.0 sascdn.com
 0.0.0.0 sascentral.com
 0.0.0.0 sasdiskcleaner.com
@@ -29461,6 +29477,7 @@
 0.0.0.0 significantlywatertragedy.com
 0.0.0.0 signin-ea.com
 0.0.0.0 sikapargas.com
+0.0.0.0 sikogesta.com
 0.0.0.0 sikx1ivtjbi8.com
 0.0.0.0 silascandiedfastened.com
 0.0.0.0 silatama.com
@@ -29915,6 +29932,7 @@
 0.0.0.0 sonsitself.com
 0.0.0.0 sooloaph.com
 0.0.0.0 soonbigo.com
+0.0.0.0 soonen.com
 0.0.0.0 soosooka.com
 0.0.0.0 sootuglyconfer.com
 0.0.0.0 soperson.com
@@ -31157,6 +31175,7 @@
 0.0.0.0 thedigitaltimes.com
 0.0.0.0 thediscoveryrun.com
 0.0.0.0 thedogzspot.com
+0.0.0.0 theerdax.com
 0.0.0.0 theesraerol.com
 0.0.0.0 thefarmmanagers.com
 0.0.0.0 thefastpush.com
@@ -33433,6 +33452,7 @@
 0.0.0.0 whitehousepropertydevelopers.com
 0.0.0.0 whiteresponse.com
 0.0.0.0 whkesznbi.com
+0.0.0.0 whoachoh.com
 0.0.0.0 whodoyousayyouare.com
 0.0.0.0 whoevercloakroom.com
 0.0.0.0 whohuphi.com
@@ -33710,6 +33730,7 @@
 0.0.0.0 wpnjs.com
 0.0.0.0 wpnsrv.com
 0.0.0.0 wppluginspro.com
+0.0.0.0 wpunativesh.com
 0.0.0.0 wpxn.com
 0.0.0.0 wpyjkfcucjpuwh.com
 0.0.0.0 wqgdajjozr.com
@@ -34380,6 +34401,7 @@
 0.0.0.0 ypymsisnwv.com
 0.0.0.0 yqeuu.com
 0.0.0.0 yqezqofkb1nnmz.com
+0.0.0.0 yqsoxyhmumnn.com
 0.0.0.0 yr9n47004g.com
 0.0.0.0 yrals.com
 0.0.0.0 ysbweb.com
@@ -73146,6 +73168,7 @@
 0.0.0.0 auth1-eng.spankbang.com
 0.0.0.0 auth2-eng.spankbang.com
 0.0.0.0 auth3-eng.spankbang.com
+0.0.0.0 auth4-eng.spankbang.com
 0.0.0.0 xoxo5-eng.spankbang.com
 0.0.0.0 xoxo6-eng.spankbang.com
 0.0.0.0 xoxo8-eng.spankbang.com
@@ -93651,6 +93674,7 @@
 0.0.0.0 www.euroausili.it
 0.0.0.0 metrics.eurobet.it
 0.0.0.0 smetrics.eurobet.it
+0.0.0.0 eurogamer-it.eurogamer.it
 0.0.0.0 ssa.eurosport.it
 0.0.0.0 utm.excite.it
 0.0.0.0 xdkwsh.farmacialoreto.it
@@ -112401,6 +112425,7 @@
 0.0.0.0 images02.netaddress.usa.net
 0.0.0.0 sdk.out.usbla.net
 0.0.0.0 analytics.usdm.net
+0.0.0.0 usgamer-us.usgamer.net
 0.0.0.0 www.uslugatel.net
 0.0.0.0 clexchange.usww.net
 0.0.0.0 dl.uuserv30.net
@@ -114096,6 +114121,7 @@
 0.0.0.0 niezwykle.online
 0.0.0.0 ninkorant.online
 0.0.0.0 nowfastcrew.online
+0.0.0.0 nsontrackso.online
 0.0.0.0 nucleo.online
 0.0.0.0 obowiazkipolskie.online
 0.0.0.0 ogloszenie-elektronika.online
@@ -120875,6 +120901,7 @@
 0.0.0.0 www.etestery24.pl
 0.0.0.0 www.etilang.pl
 0.0.0.0 www.eurocallcenter.pl
+0.0.0.0 eurogamer-pl.eurogamer.pl
 0.0.0.0 www.europan.pl
 0.0.0.0 www.europejskaedukacja.pl
 0.0.0.0 ssa.eurosport.pl
@@ -124702,6 +124729,7 @@
 0.0.0.0 aa.dyson.pt
 0.0.0.0 saa.dyson.pt
 0.0.0.0 securetags.esri-portugal.pt
+0.0.0.0 eurogamer-pt.eurogamer.pt
 0.0.0.0 ssa.eurosport.pt
 0.0.0.0 sstats.fishersci.pt
 0.0.0.0 lhewdj.fnac.pt
@@ -135034,6 +135062,7 @@
 0.0.0.0 cp2srvng.xyz
 0.0.0.0 craqueteriez.xyz
 0.0.0.0 creazionesitointernet.xyz
+0.0.0.0 ctetgwxrgaldb.xyz
 0.0.0.0 currietory.xyz
 0.0.0.0 cycalaky.xyz
 0.0.0.0 czestochowawsieci.xyz
@@ -135124,6 +135153,7 @@
 0.0.0.0 everalwerf.xyz
 0.0.0.0 ewarszawa.xyz
 0.0.0.0 ewroclaw.xyz
+0.0.0.0 ewxewjponmh.xyz
 0.0.0.0 eximbank.xyz
 0.0.0.0 exmovie.xyz
 0.0.0.0 expertist.xyz
@@ -135134,6 +135164,7 @@
 0.0.0.0 faizabeauty.xyz
 0.0.0.0 fasdgas2e2e1.xyz
 0.0.0.0 fbbbx.xyz
+0.0.0.0 fckjoujpsna.xyz
 0.0.0.0 fdsgv.xyz
 0.0.0.0 feredgurned.xyz
 0.0.0.0 fertji.xyz
@@ -135396,6 +135427,7 @@
 0.0.0.0 mbzgogo.xyz
 0.0.0.0 mecreative.xyz
 0.0.0.0 mediaoffer.xyz
+0.0.0.0 medvrloiqxsv.xyz
 0.0.0.0 megaudent.xyz
 0.0.0.0 melacexi.xyz
 0.0.0.0 mesms.xyz
@@ -135484,6 +135516,7 @@
 0.0.0.0 ogloszenie156712.xyz
 0.0.0.0 ohchainjfepdq.xyz
 0.0.0.0 ojdtape.xyz
+0.0.0.0 ojwejqeqvxn.xyz
 0.0.0.0 oklo.xyz
 0.0.0.0 olibenelading.xyz
 0.0.0.0 olsztyn24.xyz
@@ -135846,6 +135879,7 @@
 0.0.0.0 rgoo.xyz
 0.0.0.0 righeryasmils.xyz
 0.0.0.0 rkfnrkjfnrkfnkjh.xyz
+0.0.0.0 rkxkesgncpkcf.xyz
 0.0.0.0 rmagent.xyz
 0.0.0.0 rokomo.xyz
 0.0.0.0 rollectricbyi.xyz
@@ -136044,6 +136078,7 @@
 0.0.0.0 wiadomosci-kielce.xyz
 0.0.0.0 wiadomoscizkraju.xyz
 0.0.0.0 wicavozo.xyz
+0.0.0.0 wimpossip.xyz
 0.0.0.0 wirtualnie-polska.xyz
 0.0.0.0 wiwapaxo.xyz
 0.0.0.0 wjhfweiuwerfh37.xyz
@@ -136076,6 +136111,7 @@
 0.0.0.0 wtymileprawdy.xyz
 0.0.0.0 wutipupi.xyz
 0.0.0.0 wvmvgqvmbobxb.xyz
+0.0.0.0 wwjijoywqiu.xyz
 0.0.0.0 wwnc.xyz
 0.0.0.0 wwry.xyz
 0.0.0.0 www-inpostapl.xyz
