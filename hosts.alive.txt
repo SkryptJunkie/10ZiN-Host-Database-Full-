@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Alive)
-# Date: 06:01 AM Saturday 09 October 2021
+# Date: 06:01 AM Sunday 10 October 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.alive.txt
@@ -12509,6 +12509,7 @@
 0.0.0.0 boingdragon.com
 0.0.0.0 boinkcash.com
 0.0.0.0 boipelohlatshwayo.com
+0.0.0.0 bojebyze.com
 0.0.0.0 bokotraffic.com
 0.0.0.0 bokrelri.com
 0.0.0.0 bolahepelm.com
@@ -17277,6 +17278,7 @@
 0.0.0.0 fantastic-gardens.com
 0.0.0.0 fantasy-hacks.com
 0.0.0.0 fantasyhack.com
+0.0.0.0 fanumi.com
 0.0.0.0 fanyun.com
 0.0.0.0 faqrdrkwdhqgug.com
 0.0.0.0 faraazfoundation.com
@@ -18362,6 +18364,7 @@
 0.0.0.0 funtoonez.com
 0.0.0.0 funtrivia.com
 0.0.0.0 fupzhtvo.com
+0.0.0.0 fuqxpjxay.com
 0.0.0.0 furmnas.com
 0.0.0.0 furrowmaidphantom.com
 0.0.0.0 furrydrop.com
@@ -23076,6 +23079,7 @@
 0.0.0.0 margaritabusiness.com
 0.0.0.0 margarteyo.com
 0.0.0.0 mari4norm.com
+0.0.0.0 mariabrowseattending.com
 0.0.0.0 mariachidepereira.com
 0.0.0.0 marimedia.com
 0.0.0.0 marincr.com
@@ -24938,6 +24942,7 @@
 0.0.0.0 nodeschool.com
 0.0.0.0 nodiotel.com
 0.0.0.0 nodoubtcreations.com
+0.0.0.0 nodowd.com
 0.0.0.0 noespondcob.com
 0.0.0.0 noextramoney.com
 0.0.0.0 nogdec.com
@@ -27772,6 +27777,7 @@
 0.0.0.0 ranksider.com
 0.0.0.0 rankyou.com
 0.0.0.0 ransampolymers.com
+0.0.0.0 rapeunevenphiladelphia.com
 0.0.0.0 rapeuptown.com
 0.0.0.0 rapgasyogin.com
 0.0.0.0 rapidcounter.com
@@ -28466,6 +28472,7 @@
 0.0.0.0 roseiiy.com
 0.0.0.0 rosesforus.com
 0.0.0.0 roshnijewellery.com
+0.0.0.0 rosmjbees.com
 0.0.0.0 rosqb6vb1cqp.com
 0.0.0.0 rossoad.com
 0.0.0.0 rosyteapotgabble.com
@@ -28511,6 +28518,7 @@
 0.0.0.0 rprewards.com
 0.0.0.0 rprygapywrk.com
 0.0.0.0 rpsexpress.com
+0.0.0.0 rptnwbxbl.com
 0.0.0.0 rqhere.com
 0.0.0.0 rqusuqakwyejjn.com
 0.0.0.0 rqzmfbxjxfi.com
@@ -28874,6 +28882,7 @@
 0.0.0.0 scholardevilcrayon.com
 0.0.0.0 scholarshipidol.com
 0.0.0.0 schooltubeprime.com
+0.0.0.0 sciadopi5tysverticil1lata.com
 0.0.0.0 sciencepowerbd.com
 0.0.0.0 scientiamobile.com
 0.0.0.0 scientifichoaxfutile.com
@@ -29880,6 +29889,7 @@
 0.0.0.0 softwareupdaterlp.com
 0.0.0.0 soggykaes.com
 0.0.0.0 soggysponge.com
+0.0.0.0 sohikephu.com
 0.0.0.0 sohohealthsolutions.com
 0.0.0.0 soholfit.com
 0.0.0.0 soilenthusiasmshindig.com
@@ -31320,6 +31330,7 @@
 0.0.0.0 thriveink.com
 0.0.0.0 thrnt.com
 0.0.0.0 throattrees.com
+0.0.0.0 throbbingmill.com
 0.0.0.0 throughhonouredhighest.com
 0.0.0.0 throwacupcake.com
 0.0.0.0 thrtle.com
@@ -31991,6 +32002,7 @@
 0.0.0.0 trustaffs.com
 0.0.0.0 trusted-click-host.com
 0.0.0.0 trusted-invest.com
+0.0.0.0 trustedgatetocontent.com
 0.0.0.0 trustedhacks.com
 0.0.0.0 trustedmaccleaner.com
 0.0.0.0 trustedtrack.com
@@ -32325,6 +32337,7 @@
 0.0.0.0 unclebillswv.com
 0.0.0.0 unclechunk.com
 0.0.0.0 unclemaidenprecise.com
+0.0.0.0 uncovershotexcept.com
 0.0.0.0 uncurstcrumbs.com
 0.0.0.0 under2given.com
 0.0.0.0 undercoverbatch.com
@@ -34229,6 +34242,7 @@
 0.0.0.0 yjaobumyovp.com
 0.0.0.0 yjnqrbfnocy.com
 0.0.0.0 yjyjnolllezo.com
+0.0.0.0 ykbeeweifodyyb.com
 0.0.0.0 ykcoijcfpzda.com
 0.0.0.0 ykrssqaufg.com
 0.0.0.0 yldbt.com
@@ -104372,6 +104386,7 @@
 0.0.0.0 c.bigmir.net
 0.0.0.0 i.bigmir.net
 0.0.0.0 pixel.bilinmedia.net
+0.0.0.0 stats.birgun.net
 0.0.0.0 ads.biscom.net
 0.0.0.0 ad.bitbay.net
 0.0.0.0 www.bitbayinvest.net
@@ -135024,6 +135039,7 @@
 0.0.0.0 c0c.xyz
 0.0.0.0 c0z.xyz
 0.0.0.0 caeiriolskiaopazertyiop.xyz
+0.0.0.0 callelundotre.xyz
 0.0.0.0 cameronznxbas.xyz
 0.0.0.0 capultytrese.xyz
 0.0.0.0 cbuacategic.xyz
@@ -135145,6 +135161,7 @@
 0.0.0.0 enhichej.xyz
 0.0.0.0 enhucherions.xyz
 0.0.0.0 entrecent.xyz
+0.0.0.0 eobgrawc.xyz
 0.0.0.0 eruvpdymynpjw.xyz
 0.0.0.0 esosnowiec.xyz
 0.0.0.0 euphoniserent.xyz
@@ -135352,6 +135369,7 @@
 0.0.0.0 katherin.xyz
 0.0.0.0 kcdn.xyz
 0.0.0.0 keapeiros.xyz
+0.0.0.0 kejebbirmaxmwhv.xyz
 0.0.0.0 kelbro.xyz
 0.0.0.0 kewuruve.xyz
 0.0.0.0 kibox.xyz
