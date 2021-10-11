@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:01 AM Sunday 10 October 2021
+# Date: 06:01 AM Monday 11 October 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -5993,6 +5993,7 @@
 0.0.0.0 theblackops2hack.com
 0.0.0.0 theblackshothack.com
 0.0.0.0 theclanofhack.com
+0.0.0.0 theeburs.com
 0.0.0.0 thefreeiphoneunlock.com
 0.0.0.0 thehackwizard.com
 0.0.0.0 thehaydayhack.com
