@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Alive)
-# Date: 06:06 AM Wednesday 13 October 2021
+# Date: 06:01 AM Thursday 14 October 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.alive.txt
@@ -14728,6 +14728,7 @@
 0.0.0.0 commatube.com
 0.0.0.0 commentaryharm.com
 0.0.0.0 commentpirater.com
+0.0.0.0 commercialdamagingmuffin.com
 0.0.0.0 commercialroofmemphis.com
 0.0.0.0 commerzgrouptj.com
 0.0.0.0 commission-junction.com
@@ -29292,6 +29293,7 @@
 0.0.0.0 rungun.com
 0.0.0.0 runmewivel.com
 0.0.0.0 runnersgunpowder.com
+0.0.0.0 runnyamowt.com
 0.0.0.0 runslin.com
 0.0.0.0 runyixs.com
 0.0.0.0 ruralvia-refosnage.com
@@ -29575,6 +29577,7 @@
 0.0.0.0 scarecrowdelight.com
 0.0.0.0 scarewalrusregulate.com
 0.0.0.0 scarfaceindustries.com
+0.0.0.0 scarfsmash.com
 0.0.0.0 scarletcashwi5.com
 0.0.0.0 scarofnght.com
 0.0.0.0 scarpapolska.com
@@ -33076,6 +33079,7 @@
 0.0.0.0 ultimatelyreveal.com
 0.0.0.0 ultimatenarutohack.com
 0.0.0.0 ultimatepreneur.com
+0.0.0.0 ultimowraxle.com
 0.0.0.0 ultraadserver.com
 0.0.0.0 ultraeventgroup.com
 0.0.0.0 ultragamehacks.com
