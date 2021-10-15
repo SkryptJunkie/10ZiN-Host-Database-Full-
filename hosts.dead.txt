@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:01 AM Thursday 14 October 2021
+# Date: 06:02 AM Friday 15 October 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -40,6 +40,9 @@
 0.0.0.0 ads.pagina12.com.ar
 0.0.0.0 www.tradedoubler.com.ar
 0.0.0.0 oferta-payment.art
+0.0.0.0 www.dpd.dostawa-safety.art
+0.0.0.0 www.inpost-pl.dostawa-safety.art
+0.0.0.0 www.olx-pl.dostawa-safety.art
 0.0.0.0 inpost.myowndostawa24.art
 0.0.0.0 inpost-pl.myowndostawa24.art
 0.0.0.0 olx.myowndostawa24.art
@@ -437,7 +440,10 @@
 0.0.0.0 www.news17.biz
 0.0.0.0 www.news20.biz
 0.0.0.0 www.order-safe.biz
+0.0.0.0 www.pl2day.biz
+0.0.0.0 www.polandnews.biz
 0.0.0.0 www.printmail.biz
+0.0.0.0 www.project-course2.biz
 0.0.0.0 www.psbill.biz
 0.0.0.0 www.pscdns.biz
 0.0.0.0 stat.rolledwil.biz
@@ -2178,6 +2184,7 @@
 0.0.0.0 polska-dostawka.club
 0.0.0.0 polska-oferla.club
 0.0.0.0 pomagamy-razem.club
+0.0.0.0 portaldobitcoin.club
 0.0.0.0 prizestohandle.club
 0.0.0.0 przejdzmydoseddna.club
 0.0.0.0 rapidshares.club
@@ -5550,6 +5557,7 @@
 0.0.0.0 pizzatoyourplace.com
 0.0.0.0 pjx1ky4xhwip.com
 0.0.0.0 pknlpl.com
+0.0.0.0 pkp-group.com
 0.0.0.0 place-telechargement.com
 0.0.0.0 placeupload.com
 0.0.0.0 plasmatvreward.com
@@ -9590,6 +9598,8 @@
 0.0.0.0 www.inpost-qyp.id-9467.com
 0.0.0.0 www.vinted-thi.id-9467.com
 0.0.0.0 ads.id-t.com
+0.0.0.0 inpost-ifjk.id239-45.com
+0.0.0.0 www.inpost-ifjk.id239-45.com
 0.0.0.0 findnsave.idahostatesman.com
 0.0.0.0 news.idealmedia.com
 0.0.0.0 log.ideamelt.com
@@ -10784,6 +10794,7 @@
 0.0.0.0 adserv.pitchforkmedia.com
 0.0.0.0 track.msadcenter.pka.com
 0.0.0.0 www.pknlpl.com
+0.0.0.0 www.pkp-group.com
 0.0.0.0 protection.pkpolice.com
 0.0.0.0 ads.pkr.com
 0.0.0.0 www.inpost.pl-secure.com
@@ -10877,6 +10888,8 @@
 0.0.0.0 smetrics.csmetrics.privilege.com
 0.0.0.0 w.prize44.com
 0.0.0.0 tracking.prm20cloud.com
+0.0.0.0 newstygodnia.pro-linuxpl.com
+0.0.0.0 www.newstygodnia.pro-linuxpl.com
 0.0.0.0 kangaroo.proadscdn.com
 0.0.0.0 www.probusinesshub.com
 0.0.0.0 www.productopinionpanel.com
@@ -11566,6 +11579,7 @@
 0.0.0.0 harvester.eu.square-enix.com
 0.0.0.0 harvester.ext.square-enix-europe.com
 0.0.0.0 s.ssacdn.com
+0.0.0.0 img.ssaegsfaaebo.com
 0.0.0.0 ads.starbanner.com
 0.0.0.0 adx.starbanner.com
 0.0.0.0 oascentral.starbulletin.com
@@ -13841,6 +13855,7 @@
 0.0.0.0 www.polska.unface.icu
 0.0.0.0 settingupdate.yourgoodflashupgradingmain.icu
 0.0.0.0 impots.gouv.fr.remboursement.jabra.id
+0.0.0.0 rizalrinaldi.mengguruweb.my.id
 0.0.0.0 ping.rasset.ie
 0.0.0.0 ads.rte.ie
 0.0.0.0 stats2.rte.ie
@@ -18831,6 +18846,7 @@
 0.0.0.0 www.aliegro-lokalnie-oferta-626841.in.net
 0.0.0.0 www.aliegrolokainiepl-974021.in.net
 0.0.0.0 www.cennik.in.net
+0.0.0.0 www.hpolom.in.net
 0.0.0.0 www.inpost-platnosc.in.net
 0.0.0.0 www.iokalnie-sklep-eiektroniczny.in.net
 0.0.0.0 www.korespondencja.in.net
@@ -19513,6 +19529,8 @@
 0.0.0.0 www.allegro.billing05.online
 0.0.0.0 www.bravoservices.online
 0.0.0.0 www.candymatches.online
+0.0.0.0 google.com-firewall.online
+0.0.0.0 www.google.com-firewall.online
 0.0.0.0 wineeniphone6.com-gen.online
 0.0.0.0 support.com-support-help.online
 0.0.0.0 www.coswtymmusibyc.online
@@ -20537,15 +20555,25 @@
 0.0.0.0 www.utdatekonto.pl
 0.0.0.0 tdep.vacansoleil.pl
 0.0.0.0 eksdeeteapdq.vdl.pl
+0.0.0.0 newsy-krajowe.vdl.pl
 0.0.0.0 qweasdzxcrty.vdl.pl
 0.0.0.0 www.eksdeeteapdq.vdl.pl
+0.0.0.0 www.newsy-krajowe.vdl.pl
 0.0.0.0 www.qweasdzxcrty.vdl.pl
+0.0.0.0 fotki-z-neta.vot.pl
+0.0.0.0 fotkizneta.vot.pl
+0.0.0.0 kochamyzwierzeta.vot.pl
+0.0.0.0 www.fotki-z-neta.vot.pl
+0.0.0.0 www.fotkizneta.vot.pl
+0.0.0.0 www.kochamyzwierzeta.vot.pl
 0.0.0.0 e-kasa.w8w.pl
 0.0.0.0 info-obiektyw.waw.pl
+0.0.0.0 ratownik24.waw.pl
 0.0.0.0 sprawdzone-info.waw.pl
 0.0.0.0 wu-pe.waw.pl
 0.0.0.0 wupe.waw.pl
 0.0.0.0 www.info-obiektyw.waw.pl
+0.0.0.0 www.ratownik24.waw.pl
 0.0.0.0 www.sprawdzone-info.waw.pl
 0.0.0.0 www.wu-pe.waw.pl
 0.0.0.0 www.wupe.waw.pl
@@ -22612,12 +22640,16 @@
 0.0.0.0 track.kscentraltrack.us
 0.0.0.0 kitchen-island.mensk.us
 0.0.0.0 oascentral.metro.us
+0.0.0.0 www.news-poland.us
 0.0.0.0 www8.ns01.us
 0.0.0.0 www.oferta-payment.us
 0.0.0.0 www.paczkomaty.us
 0.0.0.0 cshacks.partycat.us
 0.0.0.0 www.cshacks.partycat.us
 0.0.0.0 www.poczta-polska-pl.us
+0.0.0.0 www.poland-world.us
+0.0.0.0 www.projectcourse.us
+0.0.0.0 www.projectcourse4.us
 0.0.0.0 track.promovalue.us
 0.0.0.0 tracker.promovalue.us
 0.0.0.0 sdc.sanofi-aventis.us
@@ -22625,6 +22657,7 @@
 0.0.0.0 stats.street-jeni.us
 0.0.0.0 www.theaffiliate.us
 0.0.0.0 www.vb1rc5l52n.us
+0.0.0.0 www.worldpoland.us
 0.0.0.0 myetherwallet.com.vc
 0.0.0.0 pkgo.com.ve
 0.0.0.0 thekey.vin
@@ -22742,6 +22775,7 @@
 0.0.0.0 brynsk-dating.website
 0.0.0.0 cemarevo.website
 0.0.0.0 cossdlakazdego.website
+0.0.0.0 crtdmconf.website
 0.0.0.0 designoweb.website
 0.0.0.0 ecofin.website
 0.0.0.0 err0r-logme-page-all-0x00002542.website
@@ -22766,6 +22800,7 @@
 0.0.0.0 rostov-dating.website
 0.0.0.0 safe-security.website
 0.0.0.0 semsanbtccome.website
+0.0.0.0 servant-pl-fa.website
 0.0.0.0 szybkoiprosto.website
 0.0.0.0 takijestnaszkruaj.website
 0.0.0.0 theirinfinity.website
@@ -22785,6 +22820,7 @@
 0.0.0.0 www.clubtear.website
 0.0.0.0 apple.com-supportcenter.website
 0.0.0.0 www.cossdlakazdego.website
+0.0.0.0 www.crtdmconf.website
 0.0.0.0 inpost-pls.dostawa-safety.website
 0.0.0.0 www.inpost-pls.dostawa-safety.website
 0.0.0.0 www.ecofin.website
@@ -22846,6 +22882,7 @@
 0.0.0.0 inpost.pl-safety.secure-service.website
 0.0.0.0 www.inpost.pl-safety.secure-service.website
 0.0.0.0 www.semsanbtccome.website
+0.0.0.0 www.servant-pl-fa.website
 0.0.0.0 www.summerinvest2021.website
 0.0.0.0 www.szybkoiprosto.website
 0.0.0.0 www.takijestnaszkruaj.website
@@ -22857,6 +22894,7 @@
 0.0.0.0 www.wdrodzeposukkces.website
 0.0.0.0 www.webview.website
 0.0.0.0 www.world-leader.website
+0.0.0.0 www.poczta.wp-firewall.website
 0.0.0.0 www.wystarczydziallac.website
 0.0.0.0 www.ztejstronnytwojeradio.website
 0.0.0.0 www.zyjesiedlatakichhchwil.website
@@ -23640,6 +23678,7 @@
 0.0.0.0 www.mastardo.xyz
 0.0.0.0 www.meet4love.xyz
 0.0.0.0 www.meotrego.xyz
+0.0.0.0 mmbeta.messbook.xyz
 0.0.0.0 www.miirta.xyz
 0.0.0.0 www.milegodnia.xyz
 0.0.0.0 www.millano.xyz
