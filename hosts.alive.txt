@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Alive)
-# Date: 06:02 AM Friday 15 October 2021
+# Date: 06:01 AM Saturday 16 October 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.alive.txt
@@ -4230,6 +4230,7 @@
 0.0.0.0 allegro-lokalnie.casa
 0.0.0.0 allegrolokalnie.casa
 0.0.0.0 aloetichansels.casa
+0.0.0.0 angioidmodular.casa
 0.0.0.0 askrswaths.casa
 0.0.0.0 ayyubidgconv.casa
 0.0.0.0 beenmeekwarmth.casa
@@ -4486,6 +4487,7 @@
 0.0.0.0 oneup.cc
 0.0.0.0 paczkomaty.cc
 0.0.0.0 pinkcamforum.cc
+0.0.0.0 pocrd.cc
 0.0.0.0 potwierdzenie.cc
 0.0.0.0 revolution-fx.cc
 0.0.0.0 s0o.cc
@@ -9138,6 +9140,7 @@
 0.0.0.0 93aihbjs7bv4.com
 0.0.0.0 93c82d38a751.com
 0.0.0.0 944e66f8683ac43c.com
+0.0.0.0 94bc29639b.com
 0.0.0.0 94cdn.com
 0.0.0.0 951e8b9cd72.com
 0.0.0.0 956b2fb847d.com
@@ -9806,6 +9809,7 @@
 0.0.0.0 adhall.com
 0.0.0.0 adhancemedia.com
 0.0.0.0 adhaven.com
+0.0.0.0 adhbkatqyzqd.com
 0.0.0.0 adhealers.com
 0.0.0.0 adhearus.com
 0.0.0.0 adhese.com
@@ -11281,6 +11285,7 @@
 0.0.0.0 antaraimedia.com
 0.0.0.0 antarctic.com
 0.0.0.0 antcompany.com
+0.0.0.0 antennacountingfloor.com
 0.0.0.0 antennash.com
 0.0.0.0 antezeta.com
 0.0.0.0 antiadblocksystems.com
@@ -11504,6 +11509,7 @@
 0.0.0.0 aralego.com
 0.0.0.0 aran9midi.com
 0.0.0.0 arank.com
+0.0.0.0 aratyr.com
 0.0.0.0 aravindanavada.com
 0.0.0.0 arbitrarydefectrightfully.com
 0.0.0.0 arboxyl.com
@@ -13624,6 +13630,7 @@
 0.0.0.0 cabinmanagers.com
 0.0.0.0 cablingpoint.com
 0.0.0.0 cablyshaw.com
+0.0.0.0 cabnnr.com
 0.0.0.0 cabortaxi.com
 0.0.0.0 cabrerapelaez.com
 0.0.0.0 cabshub.com
@@ -13747,6 +13754,7 @@
 0.0.0.0 captifymedia.com
 0.0.0.0 captivatecustomergentlemen.com
 0.0.0.0 capyestern.com
+0.0.0.0 caraganaarborescenspendula.com
 0.0.0.0 carambaba.com
 0.0.0.0 caraopweveyo.com
 0.0.0.0 carbonads.com
@@ -14313,6 +14321,7 @@
 0.0.0.0 cinematraffic.com
 0.0.0.0 cinemaxy.com
 0.0.0.0 cinepro.com
+0.0.0.0 cinglecitrals.com
 0.0.0.0 cingualr.com
 0.0.0.0 cinichem.com
 0.0.0.0 cioco-froll.com
@@ -14797,6 +14806,7 @@
 0.0.0.0 collectrum.com
 0.0.0.0 collegesexorgy.com
 0.0.0.0 colliersads.com
+0.0.0.0 colltz.com
 0.0.0.0 colonialismresolute.com
 0.0.0.0 colonistnobilityheroic.com
 0.0.0.0 colonize.com
@@ -15375,6 +15385,7 @@
 0.0.0.0 crittercism.com
 0.0.0.0 crittersbythebay.com
 0.0.0.0 crm4d.com
+0.0.0.0 croakflabbyconsume.com
 0.0.0.0 crocoads.com
 0.0.0.0 crocodilemounted.com
 0.0.0.0 crocopop.com
@@ -15545,6 +15556,7 @@
 0.0.0.0 cursoinvertirenlabolsadevalores.com
 0.0.0.0 curtaincows.com
 0.0.0.0 curtisfrierson.com
+0.0.0.0 curtlychit.com
 0.0.0.0 curveconjure.com
 0.0.0.0 custodyabsolutiondrawback.com
 0.0.0.0 customernoble.com
@@ -16924,6 +16936,7 @@
 0.0.0.0 eamonhyland.com
 0.0.0.0 eardepth-prisists.com
 0.0.0.0 eardooraround.com
+0.0.0.0 earlapspur.com
 0.0.0.0 earliestinspectprone.com
 0.0.0.0 earnbigo.com
 0.0.0.0 earncodes.com
@@ -16971,6 +16984,7 @@
 0.0.0.0 easystopadblock.com
 0.0.0.0 easytopproducts.com
 0.0.0.0 easyvids.com
+0.0.0.0 eaterenhanced.com
 0.0.0.0 eatondesigns.com
 0.0.0.0 eatsidebicep.com
 0.0.0.0 eavesdroppingsickleemotionally.com
@@ -17110,6 +17124,7 @@
 0.0.0.0 effectiveperformancenetwork.com
 0.0.0.0 effectpinching.com
 0.0.0.0 effectwringoverreact.com
+0.0.0.0 efficaciousart.com
 0.0.0.0 efficaciouscactus.com
 0.0.0.0 efficiencycypressregarding.com
 0.0.0.0 efficientapplesimulator.com
@@ -17520,6 +17535,7 @@
 0.0.0.0 etahub.com
 0.0.0.0 etargetnet.com
 0.0.0.0 etemis.com
+0.0.0.0 etetum.com
 0.0.0.0 ethanslayton.com
 0.0.0.0 etherdetla.com
 0.0.0.0 etheream.com
@@ -19698,6 +19714,7 @@
 0.0.0.0 gloriajunkiebegging.com
 0.0.0.0 gloriasouvenirtill.com
 0.0.0.0 glorycheats.com
+0.0.0.0 glossarysack.com
 0.0.0.0 glossysense.com
 0.0.0.0 gloviphewhe.com
 0.0.0.0 glowdot.com
@@ -20046,6 +20063,7 @@
 0.0.0.0 greystripe.com
 0.0.0.0 grieftalk.com
 0.0.0.0 grill200.com
+0.0.0.0 grilledjut.com
 0.0.0.0 grilydivy.com
 0.0.0.0 grinchfile.com
 0.0.0.0 grindpressfind.com
@@ -20617,6 +20635,7 @@
 0.0.0.0 hershoeshop.com
 0.0.0.0 hertzsales.com
 0.0.0.0 hesperguitars.com
+0.0.0.0 hetaint.com
 0.0.0.0 hetapus.com
 0.0.0.0 hetaruwg.com
 0.0.0.0 hethongbaohiem.com
@@ -20663,6 +20682,7 @@
 0.0.0.0 hiddenlocationpredicate.com
 0.0.0.0 hideaway.com
 0.0.0.0 hidebux.com
+0.0.0.0 hidelen.com
 0.0.0.0 hidrosbr.com
 0.0.0.0 hidupsoo.com
 0.0.0.0 hig.com
@@ -21366,6 +21386,7 @@
 0.0.0.0 imagewrapp.com
 0.0.0.0 imaginarydiamond.com
 0.0.0.0 imagine-inc.com
+0.0.0.0 imagineposition.com
 0.0.0.0 imarker.com
 0.0.0.0 imarketservices.com
 0.0.0.0 imatmobile.com
@@ -21533,6 +21554,7 @@
 0.0.0.0 inextricableaveragefourteenth.com
 0.0.0.0 inextricablescope.com
 0.0.0.0 inezsport.com
+0.0.0.0 infercapture.com
 0.0.0.0 infesthazardous.com
 0.0.0.0 infinite-ads.com
 0.0.0.0 infinityads.com
@@ -21738,6 +21760,7 @@
 0.0.0.0 intermediads.com
 0.0.0.0 intermediaryinvoluntaryflippant.com
 0.0.0.0 intermediarypurchaser.com
+0.0.0.0 intermediatetonightsituation.com
 0.0.0.0 internet-optimizer.com
 0.0.0.0 internetcount.com
 0.0.0.0 internetdrogist.com
@@ -22495,6 +22518,7 @@
 0.0.0.0 kesmdg.com
 0.0.0.0 ketadeep.com
 0.0.0.0 ketads.com
+0.0.0.0 ketchupscreech.com
 0.0.0.0 ketodietnd.com
 0.0.0.0 ketofitnessexpert.com
 0.0.0.0 ketofitpatches.com
@@ -22503,6 +22527,7 @@
 0.0.0.0 kevabila.com
 0.0.0.0 kevypeta.com
 0.0.0.0 kewhexethe.com
+0.0.0.0 kewholypti.com
 0.0.0.0 kewlrank.com
 0.0.0.0 keybinary.com
 0.0.0.0 keyboardinvolvedspacious.com
@@ -23439,6 +23464,7 @@
 0.0.0.0 lockerdome.com
 0.0.0.0 lockerdomecdn.com
 0.0.0.0 lockerz.com
+0.0.0.0 locketamoral.com
 0.0.0.0 lockgranted.com
 0.0.0.0 lockhosts.com
 0.0.0.0 lockingadmitted.com
@@ -24429,6 +24455,7 @@
 0.0.0.0 milasktic.com
 0.0.0.0 mile0tire.com
 0.0.0.0 miles-club.com
+0.0.0.0 milestonequakingashes.com
 0.0.0.0 milestonetelephone.com
 0.0.0.0 militaryverse.com
 0.0.0.0 milkfountain.com
@@ -27385,6 +27412,7 @@
 0.0.0.0 placeskins.com
 0.0.0.0 placidocn.com
 0.0.0.0 plaguealacritytwitter.com
+0.0.0.0 plaicecaught.com
 0.0.0.0 plaicenaive.com
 0.0.0.0 plaimedia.com
 0.0.0.0 plainlycradlescalp.com
@@ -28068,6 +28096,7 @@
 0.0.0.0 proveexclusionaye.com
 0.0.0.0 proverballegationenergy.com
 0.0.0.0 provexia.com
+0.0.0.0 providedcolonelpermit.com
 0.0.0.0 provider-direct.com
 0.0.0.0 providesoftenlookout.com
 0.0.0.0 provimedsupplies.com
@@ -28621,6 +28650,7 @@
 0.0.0.0 radiancethedevice.com
 0.0.0.0 radiantskilled.com
 0.0.0.0 radiate.com
+0.0.0.0 radiationcrag.com
 0.0.0.0 radiohirurgija-atina.com
 0.0.0.0 radiorage.com
 0.0.0.0 radiorevelacioncatolica.com
@@ -29075,6 +29105,7 @@
 0.0.0.0 resonate.com
 0.0.0.0 resource-marketing.com
 0.0.0.0 respectfulcoal.com
+0.0.0.0 respectivepreservation.com
 0.0.0.0 respirationcafeincomparable.com
 0.0.0.0 respirationghastly.com
 0.0.0.0 respiratorhair.com
@@ -29460,6 +29491,7 @@
 0.0.0.0 rsyokbyvawav.com
 0.0.0.0 rszimg.com
 0.0.0.0 rtbadzesto.com
+0.0.0.0 rtbbnr.com
 0.0.0.0 rtbflairads.com
 0.0.0.0 rtbidhost.com
 0.0.0.0 rtbnowads.com
@@ -30794,6 +30826,7 @@
 0.0.0.0 soarpower.com
 0.0.0.0 soawhoaw.com
 0.0.0.0 sobakapi2sa8la09.com
+0.0.0.0 sobalf.com
 0.0.0.0 sobatsizniy.com
 0.0.0.0 sobkino.com
 0.0.0.0 soburge.com
@@ -30838,6 +30871,7 @@
 0.0.0.0 softersyu.com
 0.0.0.0 softholics.com
 0.0.0.0 softkeygens.com
+0.0.0.0 softlygaiety.com
 0.0.0.0 softonic.com
 0.0.0.0 softonicads.com
 0.0.0.0 software-freee.com
@@ -30868,6 +30902,7 @@
 0.0.0.0 solartia.com
 0.0.0.0 solderplumboverreact.com
 0.0.0.0 solelylounge.com
+0.0.0.0 solepresumablystrangle.com
 0.0.0.0 solidhacks.com
 0.0.0.0 solitairetime.com
 0.0.0.0 solitudeelection.com
@@ -30937,6 +30972,7 @@
 0.0.0.0 southernscan.com
 0.0.0.0 southislandbeachwear.com
 0.0.0.0 southvane.com
+0.0.0.0 souvenirsattachedcountenance.com
 0.0.0.0 souvenirwatery.com
 0.0.0.0 souzaircondicionado.com
 0.0.0.0 sovrn.com
@@ -31937,6 +31973,7 @@
 0.0.0.0 tdugvspdnq.com
 0.0.0.0 teachcoexist.com
 0.0.0.0 teachskate.com
+0.0.0.0 teakreese.com
 0.0.0.0 tealeaf.com
 0.0.0.0 tealium.com
 0.0.0.0 tealiumiq.com
@@ -32356,6 +32393,7 @@
 0.0.0.0 thurnflfant.com
 0.0.0.0 thursdayfeeemployee.com
 0.0.0.0 thyoaflucid.com
+0.0.0.0 thypotipu.com
 0.0.0.0 thywiphegru.com
 0.0.0.0 ti583.com
 0.0.0.0 tianangdep.com
@@ -33883,6 +33921,7 @@
 0.0.0.0 vidstorenx.com
 0.0.0.0 vidvas1.com
 0.0.0.0 vidvas2.com
+0.0.0.0 vidvas3.com
 0.0.0.0 vidyceky.com
 0.0.0.0 vidyoda.com
 0.0.0.0 vidzur.com
@@ -33890,6 +33929,7 @@
 0.0.0.0 vietbuzzad.com
 0.0.0.0 vietdorje.com
 0.0.0.0 vietnampremiumcoffee.com
+0.0.0.0 view-flix.com
 0.0.0.0 viewbix.com
 0.0.0.0 viewclc.com
 0.0.0.0 viewit-studio.com
@@ -33906,6 +33946,7 @@
 0.0.0.0 viighj.com
 0.0.0.0 viihot.com
 0.0.0.0 viirad.com
+0.0.0.0 viitgb.com
 0.0.0.0 vikingtrck.com
 0.0.0.0 vilagfigyelo.com
 0.0.0.0 vilari.com
@@ -35136,6 +35177,7 @@
 0.0.0.0 xu5ctufltn.com
 0.0.0.0 xuakak.com
 0.0.0.0 xubob.com
+0.0.0.0 xudawhuwa.com
 0.0.0.0 xuehuacomex.com
 0.0.0.0 xuhycaphe.com
 0.0.0.0 xunucegy.com
@@ -35621,6 +35663,7 @@
 0.0.0.0 zeqqvubxtrh.com
 0.0.0.0 zer9g.com
 0.0.0.0 zerocostdeals.com
+0.0.0.0 zerodestructive.com
 0.0.0.0 zeroidtech.com
 0.0.0.0 zerolullaby.com
 0.0.0.0 zeroredirect.com
@@ -90384,6 +90427,7 @@
 0.0.0.0 igeraplocma.ga
 0.0.0.0 irduwhojas.ga
 0.0.0.0 jexchange.ga
+0.0.0.0 kick-lake.ga
 0.0.0.0 kmshop.ga
 0.0.0.0 largetfar.ga
 0.0.0.0 largetfarget.ga
@@ -94815,6 +94859,7 @@
 0.0.0.0 analytics.myfidevs.io
 0.0.0.0 io.narrative.io
 0.0.0.0 www.nasdacoin.io
+0.0.0.0 tracking.netalerts.io
 0.0.0.0 2a70-185-147-214-20.ngrok.io
 0.0.0.0 58680dd9.ngrok.io
 0.0.0.0 6735a55d.ngrok.io
@@ -137675,6 +137720,7 @@
 0.0.0.0 asecw.xyz
 0.0.0.0 asev.xyz
 0.0.0.0 asrop.xyz
+0.0.0.0 associalunb.xyz
 0.0.0.0 astop.xyz
 0.0.0.0 aswemaching.xyz
 0.0.0.0 aswfs.xyz
@@ -137695,6 +137741,7 @@
 0.0.0.0 bante.xyz
 0.0.0.0 baresi.xyz
 0.0.0.0 barlo.xyz
+0.0.0.0 bbes.xyz
 0.0.0.0 bblo.xyz
 0.0.0.0 beholder.xyz
 0.0.0.0 beis-media.xyz
@@ -137717,6 +137764,7 @@
 0.0.0.0 blogouillates.xyz
 0.0.0.0 bmxg.xyz
 0.0.0.0 bomx.xyz
+0.0.0.0 brdletywiuawc.xyz
 0.0.0.0 brtv.xyz
 0.0.0.0 btez8.xyz
 0.0.0.0 buzzzone.xyz
@@ -137767,6 +137815,7 @@
 0.0.0.0 ctetgwxrgaldb.xyz
 0.0.0.0 currietory.xyz
 0.0.0.0 cycalaky.xyz
+0.0.0.0 cyruqdmagde.xyz
 0.0.0.0 czestochowawsieci.xyz
 0.0.0.0 czyscimniedupa.xyz
 0.0.0.0 d99sure.xyz
@@ -137886,6 +137935,7 @@
 0.0.0.0 fluffer.xyz
 0.0.0.0 fluxy.xyz
 0.0.0.0 fmax.xyz
+0.0.0.0 fmpannkmn.xyz
 0.0.0.0 fnpmwkcsjfb.xyz
 0.0.0.0 followan.xyz
 0.0.0.0 fracs.xyz
@@ -137960,6 +138010,7 @@
 0.0.0.0 gigantus.xyz
 0.0.0.0 givenedere.xyz
 0.0.0.0 giwefepy.xyz
+0.0.0.0 gnoyvsielusbi.xyz
 0.0.0.0 goldclick.xyz
 0.0.0.0 golovne.xyz
 0.0.0.0 gonapysa.xyz
@@ -138013,6 +138064,7 @@
 0.0.0.0 iemei.xyz
 0.0.0.0 igbyugfwbwb5.xyz
 0.0.0.0 iko-zl.xyz
+0.0.0.0 ilbmhvmjev.xyz
 0.0.0.0 illana.xyz
 0.0.0.0 imarthur.xyz
 0.0.0.0 imcamilla.xyz
@@ -138068,6 +138120,7 @@
 0.0.0.0 katharyn.xyz
 0.0.0.0 katherin.xyz
 0.0.0.0 kcdn.xyz
+0.0.0.0 kdanxmiirxh.xyz
 0.0.0.0 keapeiros.xyz
 0.0.0.0 kejebbirmaxmwhv.xyz
 0.0.0.0 kelbro.xyz
@@ -138083,6 +138136,7 @@
 0.0.0.0 korespodencja-online.xyz
 0.0.0.0 korespondencja.xyz
 0.0.0.0 kotentomatow.xyz
+0.0.0.0 kqimuhkxnh.xyz
 0.0.0.0 krison.xyz
 0.0.0.0 kup-teraz-237401.xyz
 0.0.0.0 kup-teraz-859110.xyz
@@ -138685,6 +138739,7 @@
 0.0.0.0 soperatory.xyz
 0.0.0.0 soping.xyz
 0.0.0.0 soxg.xyz
+0.0.0.0 spectserjol.xyz
 0.0.0.0 sportpicks.xyz
 0.0.0.0 sportstreams.xyz
 0.0.0.0 spoto.xyz
@@ -138776,6 +138831,7 @@
 0.0.0.0 ueoftnwvtasmwkw.xyz
 0.0.0.0 ufurry.xyz
 0.0.0.0 uhmevofiatnjg.xyz
+0.0.0.0 ujlvongqbjouubp.xyz
 0.0.0.0 ukfpibeyfjwhp.xyz
 0.0.0.0 unfudgetljbf.xyz
 0.0.0.0 uniqued.xyz
@@ -138796,6 +138852,7 @@
 0.0.0.0 vbeas.xyz
 0.0.0.0 vbrw.xyz
 0.0.0.0 vcampetyld.xyz
+0.0.0.0 vddoxukqwh.xyz
 0.0.0.0 vendedrt.xyz
 0.0.0.0 verifyu.xyz
 0.0.0.0 vermut.xyz
@@ -138898,6 +138955,7 @@
 0.0.0.0 xokldfa3rmogi9gkdsp.xyz
 0.0.0.0 xpicvrubu.xyz
 0.0.0.0 xr117.xyz
+0.0.0.0 xtcfjrwdyga.xyz
 0.0.0.0 xtow.xyz
 0.0.0.0 xtremeserve.xyz
 0.0.0.0 xxsms.xyz
@@ -138914,6 +138972,7 @@
 0.0.0.0 yomeno.xyz
 0.0.0.0 youorlen.xyz
 0.0.0.0 ypofozux.xyz
+0.0.0.0 yqanlvekcrfkd.xyz
 0.0.0.0 yqorexok.xyz
 0.0.0.0 ytymetuw.xyz
 0.0.0.0 yusta.xyz
