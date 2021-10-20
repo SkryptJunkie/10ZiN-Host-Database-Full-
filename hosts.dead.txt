@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Tuesday 19 October 2021
+# Date: 06:06 AM Wednesday 20 October 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -336,6 +336,7 @@
 0.0.0.0 www.blog-in.biz
 0.0.0.0 www.clickjump.biz
 0.0.0.0 www.clickpush.biz
+0.0.0.0 www.defensewall.biz
 0.0.0.0 www.dellivery-safe.biz
 0.0.0.0 cdn.stat.easydate.biz
 0.0.0.0 pop.egi.biz
@@ -441,8 +442,11 @@
 0.0.0.0 www.news20.biz
 0.0.0.0 www.order-safe.biz
 0.0.0.0 www.pl2day.biz
+0.0.0.0 www.poland-news.biz
+0.0.0.0 www.poland-world.biz
 0.0.0.0 www.polandnews.biz
 0.0.0.0 www.printmail.biz
+0.0.0.0 www.program-poland.biz
 0.0.0.0 www.project-course2.biz
 0.0.0.0 www.psbill.biz
 0.0.0.0 www.pscdns.biz
@@ -450,6 +454,9 @@
 0.0.0.0 www.sms1.biz
 0.0.0.0 www.statistik.biz
 0.0.0.0 www.tenczas.biz
+0.0.0.0 www.top-groupprogram.biz
+0.0.0.0 www.topgroupprogram.biz
+0.0.0.0 www.world-poland.biz
 0.0.0.0 0.wwserch43.biz
 0.0.0.0 1.wwserch43.biz
 0.0.0.0 2.wwserch43.biz
@@ -2033,7 +2040,9 @@
 0.0.0.0 images.newsx.cc
 0.0.0.0 ads.vx2.cc
 0.0.0.0 www.wexness.cc
+0.0.0.0 extreme-zone.cf
 0.0.0.0 iconexus.cf
+0.0.0.0 keep-going.cf
 0.0.0.0 bittrex.com11648724328774.cf
 0.0.0.0 instagram.com.ukradene-slike.cf
 0.0.0.0 www.instagram.com.ukradene-slike.cf
@@ -3353,6 +3362,7 @@
 0.0.0.0 com-mysterygifts.com
 0.0.0.0 combitly.com
 0.0.0.0 come-see-it-all.com
+0.0.0.0 comerciantsvallcarca.com
 0.0.0.0 comment-pirater-un-compte-facebook-gratuitement.com
 0.0.0.0 commentpiraterunfb.com
 0.0.0.0 commenttricher.com
@@ -3713,6 +3723,7 @@
 0.0.0.0 dprevs.com
 0.0.0.0 dr-polska.com
 0.0.0.0 drabina430.com
+0.0.0.0 drabina440.com
 0.0.0.0 dragonageinquisitioncheats.com
 0.0.0.0 dragonballzenligne.com
 0.0.0.0 dragonballzstream.com
@@ -5279,6 +5290,7 @@
 0.0.0.0 mymyetherwallet.com
 0.0.0.0 mynewbesttime.com
 0.0.0.0 myoffertracking.com
+0.0.0.0 mypekao.com
 0.0.0.0 myprofitmethods32.com
 0.0.0.0 mysadaga.com
 0.0.0.0 mysafemarket.com
@@ -5297,6 +5309,7 @@
 0.0.0.0 nah9v7mdppff.com
 0.0.0.0 napi-friss.com
 0.0.0.0 napi-media.com
+0.0.0.0 natalydroen.com
 0.0.0.0 nba2k15vcgenerator.com
 0.0.0.0 nbbutypolska.com
 0.0.0.0 nbriskerry.com
@@ -8513,6 +8526,7 @@
 0.0.0.0 www.downloadsfreefile.com
 0.0.0.0 www.dr-polska.com
 0.0.0.0 www.drabina430.com
+0.0.0.0 www.drabina440.com
 0.0.0.0 adpush.dreamscape.com
 0.0.0.0 ads.drivelinemedia.com
 0.0.0.0 ads2.drivelinemedia.com
@@ -9155,6 +9169,7 @@
 0.0.0.0 www.funkyemoticons.com
 0.0.0.0 pd1.funnyhost.com
 0.0.0.0 www.furnitureulimited.com
+0.0.0.0 www.fusimoba.com
 0.0.0.0 ads.futurenet.com
 0.0.0.0 macaddictads.snv.futurenet.com
 0.0.0.0 ads.futurenetworkusa.com
@@ -9207,6 +9222,7 @@
 0.0.0.0 www.parkkolay.gelistirirken.com
 0.0.0.0 cu.genesismedia.com
 0.0.0.0 php.genesismedia.com
+0.0.0.0 dev.genosuniversity.com
 0.0.0.0 sin1.geoadnxs.com
 0.0.0.0 js.geoads.com
 0.0.0.0 visit.geocities.com
@@ -10209,6 +10225,7 @@
 0.0.0.0 link.masterstats.com
 0.0.0.0 vw.masterstats.com
 0.0.0.0 popup.matchmaker.com
+0.0.0.0 staging.publiclabel.matchmgassets.com
 0.0.0.0 crtv.mate1.com
 0.0.0.0 ads.matiro.com
 0.0.0.0 tracking.maxcdn.com
@@ -10462,6 +10479,7 @@
 0.0.0.0 www.myoffertracking.com
 0.0.0.0 apollon.myonlineusers.com
 0.0.0.0 ads.mypcwash.com
+0.0.0.0 www.mypekao.com
 0.0.0.0 www.myprofitmethods32.com
 0.0.0.0 www.myquicksearch.com
 0.0.0.0 ad.myrice.com
@@ -13564,6 +13582,7 @@
 0.0.0.0 stats.ssa.gov
 0.0.0.0 searchstats.usa.gov
 0.0.0.0 file-error-09x38.gq
+0.0.0.0 supanat.gq
 0.0.0.0 www.newsweekpl.gq
 0.0.0.0 inpost.pl-reg.gq
 0.0.0.0 www.inpost.pl-reg.gq
@@ -16170,6 +16189,8 @@
 0.0.0.0 www.pl-olx.men
 0.0.0.0 allekurier.miami
 0.0.0.0 www.allekurier.miami
+0.0.0.0 inpost.dostawa-safety.miami
+0.0.0.0 www.inpost.dostawa-safety.miami
 0.0.0.0 coindash.ml
 0.0.0.0 dfinity.ml
 0.0.0.0 freeastuce.ml
@@ -19114,6 +19135,7 @@
 0.0.0.0 dinoadserver1.roka.net
 0.0.0.0 dinoadserver2.roka.net
 0.0.0.0 www.rozliczenie-pradu.net
+0.0.0.0 www.kullant.ru.net
 0.0.0.0 pixel.rubiconproject.net
 0.0.0.0 7x7.ruwe.net
 0.0.0.0 www.rwpads.net
@@ -19444,6 +19466,7 @@
 0.0.0.0 easy-skins.online
 0.0.0.0 easy-trade24.online
 0.0.0.0 easy24trades.online
+0.0.0.0 emporioestacao.online
 0.0.0.0 etherwallet.online
 0.0.0.0 eu-wysylkowo.online
 0.0.0.0 express-inpost.online
@@ -19506,6 +19529,7 @@
 0.0.0.0 support--iphone.online
 0.0.0.0 szukammysuckesu.online
 0.0.0.0 szybkie-wysylki.online
+0.0.0.0 techybhai.online
 0.0.0.0 tomypolacy.online
 0.0.0.0 tradecsgo.online
 0.0.0.0 tradeoffer48.online
@@ -19623,6 +19647,7 @@
 0.0.0.0 www.szukammysuckesu.online
 0.0.0.0 www.szybkie-wysylki.online
 0.0.0.0 www.tomypolacy.online
+0.0.0.0 www.platform.trafficbulls.online
 0.0.0.0 www.twojfilm.online
 0.0.0.0 www.update-accounts-id.online
 0.0.0.0 www.vinted-pl.online
@@ -19985,6 +20010,7 @@
 0.0.0.0 www.paqu24.org
 0.0.0.0 www.paymbox.org
 0.0.0.0 www.pgt-workshop.org
+0.0.0.0 www.pkbox.org
 0.0.0.0 www.pointbox.org
 0.0.0.0 www.premieroffr.org
 0.0.0.0 oascentral.publicradio.org
@@ -20253,6 +20279,7 @@
 0.0.0.0 www.cdpa.pl
 0.0.0.0 www.ceramki.pl
 0.0.0.0 www.dhl-track.cfolks.pl
+0.0.0.0 www.wirtualna-polska-pl.cfolks.pl
 0.0.0.0 aranzujemy.co.pl
 0.0.0.0 bon-wow.co.pl
 0.0.0.0 hannawolska1.co.pl
@@ -20294,6 +20321,8 @@
 0.0.0.0 www.vod.co.pl
 0.0.0.0 www.hd.vod.co.pl
 0.0.0.0 www.serial.vod.co.pl
+0.0.0.0 login.ntf.wojtek.co.pl
+0.0.0.0 www.login.ntf.wojtek.co.pl
 0.0.0.0 www.wydarzenia-regionalne.co.pl
 0.0.0.0 www.zaszczepilamsie.co.pl
 0.0.0.0 www.zaszczepionakobieta.co.pl
@@ -20569,12 +20598,16 @@
 0.0.0.0 www.fotkizneta.vot.pl
 0.0.0.0 www.kochamyzwierzeta.vot.pl
 0.0.0.0 e-kasa.w8w.pl
+0.0.0.0 energylandia-rodzinny-park.waw.pl
 0.0.0.0 info-obiektyw.waw.pl
+0.0.0.0 monitoring-energylandia.waw.pl
 0.0.0.0 ratownik24.waw.pl
 0.0.0.0 sprawdzone-info.waw.pl
 0.0.0.0 wu-pe.waw.pl
 0.0.0.0 wupe.waw.pl
+0.0.0.0 www.energylandia-rodzinny-park.waw.pl
 0.0.0.0 www.info-obiektyw.waw.pl
+0.0.0.0 www.monitoring-energylandia.waw.pl
 0.0.0.0 www.ratownik24.waw.pl
 0.0.0.0 www.sprawdzone-info.waw.pl
 0.0.0.0 www.wu-pe.waw.pl
@@ -20683,6 +20716,8 @@
 0.0.0.0 www.streamwatch.pro
 0.0.0.0 www.vip.streamwatch.pro
 0.0.0.0 www.pge.toinvest.pro
+0.0.0.0 totalwine.blachmed.webd.pro
+0.0.0.0 www.totalwine.blachmed.webd.pro
 0.0.0.0 www.weplay-cw.pro
 0.0.0.0 www.worthyincome.pro
 0.0.0.0 bluzelle.promo
@@ -21583,6 +21618,7 @@
 0.0.0.0 easydatingwhit.site
 0.0.0.0 ecofin.site
 0.0.0.0 ekaterinburgdating.site
+0.0.0.0 emporioestacaodobrasil.site
 0.0.0.0 findyougirl.site
 0.0.0.0 fintruelist.site
 0.0.0.0 freegirl.site
@@ -22143,6 +22179,7 @@
 0.0.0.0 starlix.ql.st
 0.0.0.0 1y8v7s.store
 0.0.0.0 3i0wrsa.store
+0.0.0.0 apnionlinedukan.store
 0.0.0.0 asterlo.store
 0.0.0.0 b85allecev.store
 0.0.0.0 caseopening.store
@@ -22219,6 +22256,7 @@
 0.0.0.0 xfotosx01.fromru.su
 0.0.0.0 zfotos.fromru.su
 0.0.0.0 nextel-ringtone.komi.su
+0.0.0.0 www.apple.fmi-iphone.support
 0.0.0.0 allegrolokalnie.surf
 0.0.0.0 pl-saves.surf
 0.0.0.0 www.allegrolokalnie.surf
@@ -22635,6 +22673,7 @@
 0.0.0.0 uf2aasn.111adfueo.us
 0.0.0.0 www.3tsdaq8viz.us
 0.0.0.0 tracking.ariong.us
+0.0.0.0 www.groupprogram.us
 0.0.0.0 www.hyvf65qiht.us
 0.0.0.0 ad.indomp3z.us
 0.0.0.0 track.iwfueh.us
@@ -22648,6 +22687,7 @@
 0.0.0.0 www.paczkomaty.us
 0.0.0.0 cshacks.partycat.us
 0.0.0.0 www.cshacks.partycat.us
+0.0.0.0 www.pl-program.us
 0.0.0.0 www.poczta-polska-pl.us
 0.0.0.0 www.poland-world.us
 0.0.0.0 www.projectcourse.us
@@ -23530,6 +23570,7 @@
 0.0.0.0 zenj.xyz
 0.0.0.0 zerety.xyz
 0.0.0.0 zero-knikse.xyz
+0.0.0.0 zeytindegirmeni.xyz
 0.0.0.0 znajdz-paczke-24.xyz
 0.0.0.0 8ruzz.allcpa.006238.xyz
 0.0.0.0 www.0sms.xyz
@@ -23637,6 +23678,7 @@
 0.0.0.0 www.hodime.xyz
 0.0.0.0 www.holapola.xyz
 0.0.0.0 www.hulas.xyz
+0.0.0.0 www.dpd.id-safety.xyz
 0.0.0.0 www.infbiztr.xyz
 0.0.0.0 www.infobore.xyz
 0.0.0.0 www.investingly.xyz
