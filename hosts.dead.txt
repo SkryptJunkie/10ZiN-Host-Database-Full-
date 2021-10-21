@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:06 AM Wednesday 20 October 2021
+# Date: 06:02 AM Thursday 21 October 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -15827,6 +15827,7 @@
 0.0.0.0 rev.adip.ly
 0.0.0.0 adz.zwee.ly
 0.0.0.0 mis.migc.xiaomi.comfile.m
+0.0.0.0 spartan.prynt.market
 0.0.0.0 reall.markets
 0.0.0.0 stats.nota.md
 0.0.0.0 99bthgc.me
@@ -23191,6 +23192,7 @@
 0.0.0.0 brameriez.xyz
 0.0.0.0 brocmans.xyz
 0.0.0.0 bsonus.xyz
+0.0.0.0 budleast.xyz
 0.0.0.0 butbecause.xyz
 0.0.0.0 cennik-paczkl.xyz
 0.0.0.0 cepolska.xyz
