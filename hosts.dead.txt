@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Thursday 21 October 2021
+# Date: 06:02 AM Friday 22 October 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -8115,6 +8115,7 @@
 0.0.0.0 adserver2.christianitytoday.com
 0.0.0.0 ads.cimedia.com
 0.0.0.0 www.circultural.com
+0.0.0.0 cdn.ciscordapp.com
 0.0.0.0 oascentral.citypages.com
 0.0.0.0 oascentral.citypaper.com
 0.0.0.0 ads.cjonline.com
