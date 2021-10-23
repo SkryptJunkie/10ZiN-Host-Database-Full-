@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Friday 22 October 2021
+# Date: 06:03 AM Saturday 23 October 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -3066,6 +3066,7 @@
 0.0.0.0 bfbfb2fe17.com
 0.0.0.0 bfhredeemcodes.com
 0.0.0.0 bgkpol.com
+0.0.0.0 bgkrbh.com
 0.0.0.0 bhclicks.com
 0.0.0.0 bhosadwa.com
 0.0.0.0 bieznie-rowery.com
