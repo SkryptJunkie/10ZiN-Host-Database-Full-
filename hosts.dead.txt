@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:03 AM Saturday 23 October 2021
+# Date: 06:03 AM Sunday 24 October 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -11,6 +11,7 @@
 ###
 
 
+0.0.0.0 version="1.0"
 0.0.0.0 eos.ac
 0.0.0.0 ap76rmx3.accountant
 0.0.0.0 apple.com-analysis-safety-antimalware-support.accountant
@@ -447,6 +448,7 @@
 0.0.0.0 www.polandnews.biz
 0.0.0.0 www.printmail.biz
 0.0.0.0 www.program-poland.biz
+0.0.0.0 www.program-topcourse.biz
 0.0.0.0 www.project-course2.biz
 0.0.0.0 www.psbill.biz
 0.0.0.0 www.pscdns.biz
@@ -8078,6 +8080,7 @@
 0.0.0.0 affiliate.cfdebt.com
 0.0.0.0 www.chainsawoffer.com
 0.0.0.0 ads.chalomumbai.com
+0.0.0.0 www.champinsly.com
 0.0.0.0 scrooge.channelcincinnati.com
 0.0.0.0 cts.channelintelligence.com
 0.0.0.0 scrooge.channeloklahoma.com
@@ -9771,6 +9774,12 @@
 0.0.0.0 clickstatsview.instantcasinoswithdrawal.com
 0.0.0.0 www.instasexcontacts4.com
 0.0.0.0 stats.instdaddy.com
+0.0.0.0 www.activatelearningonline.instructure.com
+0.0.0.0 www.angela.instructure.com
+0.0.0.0 www.bridgeportisd.instructure.com
+0.0.0.0 www.fillmorecentral.instructure.com
+0.0.0.0 www.gavirtualpd.instructure.com
+0.0.0.0 www.lincolninst.instructure.com
 0.0.0.0 www.insurance-rewardpath.com
 0.0.0.0 anm.intelli-direct.com
 0.0.0.0 info.intelli-direct.com
@@ -10650,6 +10659,7 @@
 0.0.0.0 ns2.oix.com
 0.0.0.0 stats.oix.com
 0.0.0.0 eitbglobal.ojdinteractiva.com
+0.0.0.0 www.okabai.com
 0.0.0.0 ads0.okcupid.com
 0.0.0.0 www.okshoespoland.com
 0.0.0.0 metrics.olivegarden.com
@@ -13330,6 +13340,7 @@
 0.0.0.0 weblog.livesport.eu
 0.0.0.0 www.ogloszenie-nagrod.eu
 0.0.0.0 ad.onad.eu
+0.0.0.0 www.r5u.eu
 0.0.0.0 statique.secureguards.eu
 0.0.0.0 www.somi.tiktokclaim.eu
 0.0.0.0 ads.tradeads.eu
@@ -16194,6 +16205,7 @@
 0.0.0.0 www.allekurier.miami
 0.0.0.0 inpost.dostawa-safety.miami
 0.0.0.0 www.inpost.dostawa-safety.miami
+0.0.0.0 azizr.ml
 0.0.0.0 coindash.ml
 0.0.0.0 dfinity.ml
 0.0.0.0 freeastuce.ml
@@ -16203,6 +16215,7 @@
 0.0.0.0 kirkolin.ml
 0.0.0.0 myyethwallet.ml
 0.0.0.0 tgme.ml
+0.0.0.0 www.azizr.ml
 0.0.0.0 olx-pl.epayments-bank.ml
 0.0.0.0 www.olx-pl.epayments-bank.ml
 0.0.0.0 www.freeuploader.ml
@@ -19627,6 +19640,8 @@
 0.0.0.0 www.olx.pl-money.online
 0.0.0.0 www.pl-platnosci.online
 0.0.0.0 www.pl-znajdziemy53.online
+0.0.0.0 mbank.pl.pllogin.online
+0.0.0.0 www.mbank.pl.pllogin.online
 0.0.0.0 www.plynzpradem.online
 0.0.0.0 www.poczta-email.online
 0.0.0.0 www.pomyslynazzycie.online
@@ -20026,6 +20041,7 @@
 0.0.0.0 www.sinera.org
 0.0.0.0 stats.sitesuite.org
 0.0.0.0 www.smsinf.org
+0.0.0.0 www.snbox.org
 0.0.0.0 ad.suprnova.org
 0.0.0.0 www.tekbox.org
 0.0.0.0 www.tevasandalypl.org
@@ -20096,6 +20112,7 @@
 0.0.0.0 esa-ochrona.pl
 0.0.0.0 eurolegis.pl
 0.0.0.0 europaubram.pl
+0.0.0.0 fakt-24-news.pl
 0.0.0.0 fakty-online.pl
 0.0.0.0 filionline.pl
 0.0.0.0 film-box.pl
@@ -20115,6 +20132,7 @@
 0.0.0.0 http4u.pl
 0.0.0.0 i-ksiazka.pl
 0.0.0.0 informujmywszystkich.pl
+0.0.0.0 ini1.pl
 0.0.0.0 innowacyjneprzedszkole.pl
 0.0.0.0 intergsm.pl
 0.0.0.0 jamajkazorawy.pl
@@ -20282,6 +20300,7 @@
 0.0.0.0 www.cdpa.pl
 0.0.0.0 www.ceramki.pl
 0.0.0.0 www.dhl-track.cfolks.pl
+0.0.0.0 www.niecodzienna.cfolks.pl
 0.0.0.0 www.wirtualna-polska-pl.cfolks.pl
 0.0.0.0 aranzujemy.co.pl
 0.0.0.0 bon-wow.co.pl
@@ -20414,6 +20433,7 @@
 0.0.0.0 www.eurolegis.pl
 0.0.0.0 www.europaubram.pl
 0.0.0.0 www.fajne-filmy.pl
+0.0.0.0 www.fakt-24-news.pl
 0.0.0.0 www.fakty-online.pl
 0.0.0.0 www.fartuchy-kuchenne.pl
 0.0.0.0 www.filionline.pl
@@ -20443,6 +20463,7 @@
 0.0.0.0 www.i-ksiazka.pl
 0.0.0.0 www.infolokalne24.pl
 0.0.0.0 www.informujmywszystkich.pl
+0.0.0.0 www.ini1.pl
 0.0.0.0 www.innowacyjneprzedszkole.pl
 0.0.0.0 www.intergsm.pl
 0.0.0.0 www.investhum.pl
@@ -20713,6 +20734,7 @@
 0.0.0.0 www.edland.pro
 0.0.0.0 www.fenix-funds.pro
 0.0.0.0 www.firstclick.pro
+0.0.0.0 www.store.apps.googleplay.pro
 0.0.0.0 www.miresnahapsi.pro
 0.0.0.0 invp.pluniland.pro
 0.0.0.0 www.invp.pluniland.pro
@@ -22108,6 +22130,8 @@
 0.0.0.0 ustedpicklyba.space
 0.0.0.0 wieszjakjestrodakku.space
 0.0.0.0 ysensionlatio.space
+0.0.0.0 inpost-pl.118115.space
+0.0.0.0 www.inpost-pl.118115.space
 0.0.0.0 www.alerownieztito.space
 0.0.0.0 www.amorebig.space
 0.0.0.0 www.amournow.space
@@ -22676,6 +22700,7 @@
 0.0.0.0 uf2aasn.111adfueo.us
 0.0.0.0 www.3tsdaq8viz.us
 0.0.0.0 tracking.ariong.us
+0.0.0.0 www.found-orlen.us
 0.0.0.0 www.groupprogram.us
 0.0.0.0 www.hyvf65qiht.us
 0.0.0.0 ad.indomp3z.us
@@ -23580,6 +23605,10 @@
 0.0.0.0 www.0sms.xyz
 0.0.0.0 www.4k.123moviesfox.xyz
 0.0.0.0 secure.160117rd.xyz
+0.0.0.0 inpost-pl.545894.xyz
+0.0.0.0 olx-pl.545894.xyz
+0.0.0.0 www.inpost-pl.545894.xyz
+0.0.0.0 www.olx-pl.545894.xyz
 0.0.0.0 www.abandonu.xyz
 0.0.0.0 d3.adsplay.xyz
 0.0.0.0 d6.adsplay.xyz
@@ -24003,6 +24032,7 @@
 0.0.0.0 www.inpost.pl-cleanpays.xyz
 0.0.0.0 inpost.pl-cloudordered.xyz
 0.0.0.0 www.inpost.pl-cloudordered.xyz
+0.0.0.0 www.inpost.pl-dostawa-id43268532.xyz
 0.0.0.0 inpost.pl-dreamorders.xyz
 0.0.0.0 www.inpost.pl-dreamorders.xyz
 0.0.0.0 inpost.pl-easycash.xyz
