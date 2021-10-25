@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:03 AM Sunday 24 October 2021
+# Date: 06:02 AM Monday 25 October 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -9183,6 +9183,7 @@
 0.0.0.0 www.g2afse.com
 0.0.0.0 www.url-partners.g2afse.com
 0.0.0.0 oascentral.g4techtv.com
+0.0.0.0 adoptlove.gaamatech.com
 0.0.0.0 www.gacatl.com
 0.0.0.0 adx.gainesvillesun.com
 0.0.0.0 adx.gainesvillsun.com
