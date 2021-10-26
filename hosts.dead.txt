@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Monday 25 October 2021
+# Date: 06:03 AM Tuesday 26 October 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -5849,6 +5849,7 @@
 0.0.0.0 savedplace.com
 0.0.0.0 savemybox.com
 0.0.0.0 savings-specials.com
+0.0.0.0 sayanita.com
 0.0.0.0 scifimovies4u.com
 0.0.0.0 scl-hacks.com
 0.0.0.0 scoremygift.com
@@ -11729,6 +11730,7 @@
 0.0.0.0 watch.teroti.com
 0.0.0.0 sdk.testflightapp.com
 0.0.0.0 www.testracking.com
+0.0.0.0 www.texascastinoparties.com
 0.0.0.0 ads.textplussolutions.com
 0.0.0.0 affiliate.tfntracker.com
 0.0.0.0 ad.tgdaily.com
@@ -19900,6 +19902,7 @@
 0.0.0.0 razor1991games.org
 0.0.0.0 reloadedhacks.org
 0.0.0.0 rivetzintl.org
+0.0.0.0 rn3n.org
 0.0.0.0 rozakurier.org
 0.0.0.0 safeappz.org
 0.0.0.0 secure-order.org
