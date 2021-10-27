@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:03 AM Tuesday 26 October 2021
+# Date: 06:03 AM Wednesday 27 October 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -23360,6 +23360,7 @@
 0.0.0.0 milegodnia.xyz
 0.0.0.0 millano.xyz
 0.0.0.0 mozliwosc-firmy.xyz
+0.0.0.0 mtefxnujk.xyz
 0.0.0.0 municipal-placement.xyz
 0.0.0.0 musimypomoc.xyz
 0.0.0.0 nakrakow.xyz
@@ -23510,6 +23511,7 @@
 0.0.0.0 rossmanie.xyz
 0.0.0.0 rotell.xyz
 0.0.0.0 rowsea.xyz
+0.0.0.0 rwwynfpwdnorsg.xyz
 0.0.0.0 ryghopl.xyz
 0.0.0.0 s4d.xyz
 0.0.0.0 samtegoniezrobiisz.xyz
@@ -23565,6 +23567,7 @@
 0.0.0.0 urbani.xyz
 0.0.0.0 urbanie.xyz
 0.0.0.0 uregulowanie-naleznosci-24.xyz
+0.0.0.0 uxxfierq.xyz
 0.0.0.0 vardian.xyz
 0.0.0.0 versales.xyz
 0.0.0.0 versonsor.xyz
