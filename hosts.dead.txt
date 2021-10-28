@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:03 AM Wednesday 27 October 2021
+# Date: 06:06 AM Thursday 28 October 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -144,6 +144,7 @@
 0.0.0.0 www.m-olx.bar
 0.0.0.0 www.maksimum824.bar
 0.0.0.0 www.mfoauf82fnab.bar
+0.0.0.0 pl.patterntrader.bar
 0.0.0.0 www.przytulacsie483.bar
 0.0.0.0 inpost.pl.secure-dostawa.bar
 0.0.0.0 www.inpost.pl.secure-dostawa.bar
@@ -1981,6 +1982,7 @@
 0.0.0.0 www.moja2.strefawyznan.cam
 0.0.0.0 www.fyp.tubesmaza.cam
 0.0.0.0 www.zalukaj.cam
+0.0.0.0 dostawa-safety.casa
 0.0.0.0 peedtzaregg.casa
 0.0.0.0 pl-buy.casa
 0.0.0.0 pl-buyorder.casa
@@ -1991,6 +1993,7 @@
 0.0.0.0 pl-saleorder.casa
 0.0.0.0 pl-saleorders.casa
 0.0.0.0 www.olx.pl.dostawa.casa
+0.0.0.0 www.dostawa-safety.casa
 0.0.0.0 www.inpost-pl.dostawa-safety.casa
 0.0.0.0 olx.pl-safe.dostawa-safety.casa
 0.0.0.0 www.olx.pl-safe.dostawa-safety.casa
@@ -7257,6 +7260,7 @@
 0.0.0.0 fusion.adtoma.com
 0.0.0.0 au-01.adtomafusion.com
 0.0.0.0 bn-01.adtomafusion.com
+0.0.0.0 www.trk.adtrk18.com
 0.0.0.0 www.adult-profit-files2.com
 0.0.0.0 www.adultdating-plan2.com
 0.0.0.0 ads.adultpopunders.com
@@ -7373,6 +7377,7 @@
 0.0.0.0 www.airadmins.com
 0.0.0.0 ads.airamericaradio.com
 0.0.0.0 oascentral.aircanada.com
+0.0.0.0 www.airfunstoriez.com
 0.0.0.0 marketing.airhydropower.com
 0.0.0.0 beta.airpush.com
 0.0.0.0 m.airpush.com
@@ -9074,6 +9079,7 @@
 0.0.0.0 look.fjfiln.com
 0.0.0.0 493ro63z3fka.fjlaboratories.com
 0.0.0.0 m57zv59mcfkj.www.fjlaboratories.com
+0.0.0.0 psaun1b37e2k.www.fjlaboratories.com
 0.0.0.0 gcirm.flatoday.com
 0.0.0.0 www.flirthotsexxx5.com
 0.0.0.0 adserver.flossiemediagroup.com
@@ -10860,6 +10866,7 @@
 0.0.0.0 adserver.pollstar.com
 0.0.0.0 www.polskapromocja.com
 0.0.0.0 www.polskatanio.com
+0.0.0.0 7jrjkdfgpn4u.app.polymersearch.com
 0.0.0.0 popunder.popcde.com
 0.0.0.0 www1.popinads.com
 0.0.0.0 ox-d.popmatters.com
@@ -11588,6 +11595,7 @@
 0.0.0.0 adserve.splicetoday.com
 0.0.0.0 px.splittag.com
 0.0.0.0 api.splkmobile.com
+0.0.0.0 www.spnccrzone.com
 0.0.0.0 ad.sponsoreo.com
 0.0.0.0 be.sponsorpay.com
 0.0.0.0 engine.sponsorpay.com
@@ -13612,8 +13620,10 @@
 0.0.0.0 dostawa-olx.group
 0.0.0.0 www.dostawa-olx.group
 0.0.0.0 adexchange.guru
+0.0.0.0 dostawa-safety.guru
 0.0.0.0 pl-olx.guru
 0.0.0.0 www.aselink.guru
+0.0.0.0 www.dostawa-safety.guru
 0.0.0.0 www.pl-olx.guru
 0.0.0.0 bravanian.hk
 0.0.0.0 phorm.hk
@@ -15003,6 +15013,7 @@
 0.0.0.0 www.best-get-prizes.life
 0.0.0.0 www.best-online-profits2.life
 0.0.0.0 www.best-prize-snow2.life
+0.0.0.0 www.best-prizes.life
 0.0.0.0 www.best-prizes-4you1.life
 0.0.0.0 www.bestbigprizes1.life
 0.0.0.0 www.bestprize-claims1.life
@@ -20106,6 +20117,7 @@
 0.0.0.0 contentagenda.pl
 0.0.0.0 cs-kancelaria.pl
 0.0.0.0 desin.pl
+0.0.0.0 diorsklep.pl
 0.0.0.0 dorszfishandchips.pl
 0.0.0.0 e-kinoman.pl
 0.0.0.0 easydownload.pl
@@ -20241,6 +20253,7 @@
 0.0.0.0 urwijnagrody.pl
 0.0.0.0 willapasym.pl
 0.0.0.0 wybieraj-wygrywaj.pl
+0.0.0.0 wychowany.pl
 0.0.0.0 wydawnictwo-systherm.pl
 0.0.0.0 wydawnictwobila.pl
 0.0.0.0 wyremontujklinike.pl
@@ -20423,6 +20436,7 @@
 0.0.0.0 www.desin.pl
 0.0.0.0 www.dietasekret.pl
 0.0.0.0 www.dinamoon.pl
+0.0.0.0 www.diorsklep.pl
 0.0.0.0 olx.doreczenle.pl
 0.0.0.0 www.olx.doreczenle.pl
 0.0.0.0 www.dorszfishandchips.pl
@@ -20476,6 +20490,7 @@
 0.0.0.0 www.ace.jamster.pl
 0.0.0.0 www.jasna2c.pl
 0.0.0.0 www.jbpsystembud.pl
+0.0.0.0 www.jesttylko.pl
 0.0.0.0 www.jf-aesthetic.pl
 0.0.0.0 www.kancelariaskawina.pl
 0.0.0.0 www.kddz.pl
@@ -20642,6 +20657,7 @@
 0.0.0.0 www.wupe.waw.pl
 0.0.0.0 www.ce.wielkaniespodzianka.pl
 0.0.0.0 www.willapasym.pl
+0.0.0.0 www.wychowany.pl
 0.0.0.0 www.wydawnictwo-systherm.pl
 0.0.0.0 www.wydawnictwobila.pl
 0.0.0.0 www.wyremontujklinike.pl
@@ -21180,6 +21196,7 @@
 0.0.0.0 buy-valium.este.ru
 0.0.0.0 valium.este.ru
 0.0.0.0 ad.f1cd.ru
+0.0.0.0 www.plsale.factoryclearance2021.ru
 0.0.0.0 adv.federalpost.ru
 0.0.0.0 maxi4.firstvds.ru
 0.0.0.0 gc.gcl.ru
@@ -21340,6 +21357,7 @@
 0.0.0.0 noonstore.sale
 0.0.0.0 universa.sale
 0.0.0.0 mozliwosc-firmy.sbs
+0.0.0.0 mybank.sbs
 0.0.0.0 dpd-pln.dostawa-safety.sbs
 0.0.0.0 inpost.dostawa-safety.sbs
 0.0.0.0 inpost-pl.dostawa-safety.sbs
@@ -21360,6 +21378,7 @@
 0.0.0.0 www.poczta-pla.dostawa-safety.sbs
 0.0.0.0 www.poczta-ple.dostawa-safety.sbs
 0.0.0.0 www.mozliwosc-firmy.sbs
+0.0.0.0 www.mybank.sbs
 0.0.0.0 inpost.pl.secure-dostawa.sbs
 0.0.0.0 www.inpost.pl.secure-dostawa.sbs
 0.0.0.0 docai.science
@@ -21996,6 +22015,8 @@
 0.0.0.0 www.poteznainfo24.site
 0.0.0.0 www.pracevlacz.site
 0.0.0.0 www.profitbuy.site
+0.0.0.0 plt1.program-tslx.site
+0.0.0.0 www.plt1.program-tslx.site
 0.0.0.0 dash001.prxio.site
 0.0.0.0 www.qotoplus.site
 0.0.0.0 olx.pl.rec-pay.site
@@ -22029,6 +22050,7 @@
 0.0.0.0 www.swgpnation.site
 0.0.0.0 www.taba.site
 0.0.0.0 www.takjakwszyscyy.site
+0.0.0.0 nordvpn.tanamesa.site
 0.0.0.0 www.teresfal.site
 0.0.0.0 www.teshekure.site
 0.0.0.0 www.teterly.site
@@ -22045,6 +22067,8 @@
 0.0.0.0 www.vensostred.site
 0.0.0.0 www.vervellc.site
 0.0.0.0 www.wartowa.site
+0.0.0.0 interia.weryfikacja-uzytkownika.site
+0.0.0.0 www.interia.weryfikacja-uzytkownika.site
 0.0.0.0 www.wiadomoscizkraju.site
 0.0.0.0 www.wiecejeniemam.site
 0.0.0.0 www.winnertoday.site
@@ -22189,6 +22213,7 @@
 0.0.0.0 www.pokaz-mozna24.space
 0.0.0.0 www.polik.space
 0.0.0.0 www.rotanger.space
+0.0.0.0 www.poczta.safe-onet.space
 0.0.0.0 ahror.safin.space
 0.0.0.0 www.sex-partygirls.space
 0.0.0.0 www.sledzenie.space
@@ -22236,6 +22261,7 @@
 0.0.0.0 www.asterlo.store
 0.0.0.0 www.b85allecev.store
 0.0.0.0 tracker.bongngo.store
+0.0.0.0 www.cloud-apps.store
 0.0.0.0 www.dostawa-olx.store
 0.0.0.0 www.dyskonto.store
 0.0.0.0 www.inpost.store
@@ -22373,8 +22399,10 @@
 0.0.0.0 hydrocodone.on.to
 0.0.0.0 banner.publisher.to
 0.0.0.0 www.tangabilder.to
+0.0.0.0 dostawa-safety.today
 0.0.0.0 olx-wplata.today
 0.0.0.0 verifiedreview.today
+0.0.0.0 www.dostawa-safety.today
 0.0.0.0 app4.letslowbefast.today
 0.0.0.0 www.olx-wplata.today
 0.0.0.0 notification-system.tools
@@ -22387,6 +22415,7 @@
 0.0.0.0 bongadrop.top
 0.0.0.0 crewardscyprus.top
 0.0.0.0 crllmzsy.top
+0.0.0.0 crocspromocja.top
 0.0.0.0 csgo-luxe.top
 0.0.0.0 csgo-stars.top
 0.0.0.0 csgoknife.top
@@ -22401,6 +22430,7 @@
 0.0.0.0 epic-drop.top
 0.0.0.0 galaxydrop.top
 0.0.0.0 genergyothe.top
+0.0.0.0 gkoszt.top
 0.0.0.0 guccigang.top
 0.0.0.0 happycase.top
 0.0.0.0 hirado.top
@@ -22442,10 +22472,13 @@
 0.0.0.0 www.best-games4you.top
 0.0.0.0 vip.bitcoinspring.top
 0.0.0.0 game0516.cdn8-traffic68-server10.top
+0.0.0.0 www.clevercaptcha.top
 0.0.0.0 nowinstallupgrade.clickforultimateandbest2updatingpc.top
 0.0.0.0 hud8mxdt.computerhelpmirror.top
+0.0.0.0 www.crocspromocja.top
 0.0.0.0 www.dobrzebuty.top
 0.0.0.0 b.getprizenow.top
+0.0.0.0 www.gkoszt.top
 0.0.0.0 www.hurtbuty.top
 0.0.0.0 www.idealnybuty.top
 0.0.0.0 www.inpost-paczka.top
@@ -22947,6 +22980,7 @@
 0.0.0.0 www.polskasupermarkecie.website
 0.0.0.0 www.porannnatellewizja.website
 0.0.0.0 www.postawnaswojetv.website
+0.0.0.0 pl.profitrevolution.website
 0.0.0.0 www.rostov-dating.website
 0.0.0.0 www.safe-security.website
 0.0.0.0 inpost.pl.secure-service.website
@@ -23649,6 +23683,24 @@
 0.0.0.0 www.colubin.xyz
 0.0.0.0 www.colublin.xyz
 0.0.0.0 www.couplefind.xyz
+0.0.0.0 cashpro.crpt-gen.xyz
+0.0.0.0 cg.crpt-gen.xyz
+0.0.0.0 investmaster.crpt-gen.xyz
+0.0.0.0 investpol.crpt-gen.xyz
+0.0.0.0 investsmart.crpt-gen.xyz
+0.0.0.0 plinvest.crpt-gen.xyz
+0.0.0.0 plpoga.crpt-gen.xyz
+0.0.0.0 plsmart.crpt-gen.xyz
+0.0.0.0 sitepol.crpt-gen.xyz
+0.0.0.0 www.cashpro.crpt-gen.xyz
+0.0.0.0 www.cg.crpt-gen.xyz
+0.0.0.0 www.investmaster.crpt-gen.xyz
+0.0.0.0 www.investpol.crpt-gen.xyz
+0.0.0.0 www.investsmart.crpt-gen.xyz
+0.0.0.0 www.plinvest.crpt-gen.xyz
+0.0.0.0 www.plpoga.crpt-gen.xyz
+0.0.0.0 www.plsmart.crpt-gen.xyz
+0.0.0.0 www.sitepol.crpt-gen.xyz
 0.0.0.0 pucouueioduc.cucouuiodu.xyz
 0.0.0.0 www.pucouueioduc.cucouuiodu.xyz
 0.0.0.0 www.cuse.xyz
@@ -23719,6 +23771,7 @@
 0.0.0.0 www.holapola.xyz
 0.0.0.0 www.hulas.xyz
 0.0.0.0 www.dpd.id-safety.xyz
+0.0.0.0 www.inpost.id-track-pl43582364.xyz
 0.0.0.0 www.infbiztr.xyz
 0.0.0.0 www.infobore.xyz
 0.0.0.0 www.investingly.xyz
@@ -23738,6 +23791,54 @@
 0.0.0.0 www.kontopl.xyz
 0.0.0.0 www.korespodencja-platnosc.xyz
 0.0.0.0 www.krasovice.xyz
+0.0.0.0 glpol.krpt-am0unt.xyz
+0.0.0.0 goglgrup.krpt-am0unt.xyz
+0.0.0.0 gogltop.krpt-am0unt.xyz
+0.0.0.0 gol.krpt-am0unt.xyz
+0.0.0.0 newspro.krpt-am0unt.xyz
+0.0.0.0 plcool.krpt-am0unt.xyz
+0.0.0.0 plggl.krpt-am0unt.xyz
+0.0.0.0 plprog.krpt-am0unt.xyz
+0.0.0.0 polandgogl.krpt-am0unt.xyz
+0.0.0.0 polandsite.krpt-am0unt.xyz
+0.0.0.0 poltop.krpt-am0unt.xyz
+0.0.0.0 progogol.krpt-am0unt.xyz
+0.0.0.0 propl1.krpt-am0unt.xyz
+0.0.0.0 propol.krpt-am0unt.xyz
+0.0.0.0 prosite.krpt-am0unt.xyz
+0.0.0.0 protop.krpt-am0unt.xyz
+0.0.0.0 sitegogl.krpt-am0unt.xyz
+0.0.0.0 sitepl3.krpt-am0unt.xyz
+0.0.0.0 smart.krpt-am0unt.xyz
+0.0.0.0 smartgen.krpt-am0unt.xyz
+0.0.0.0 smartgogl.krpt-am0unt.xyz
+0.0.0.0 smartperfect.krpt-am0unt.xyz
+0.0.0.0 smarttop.krpt-am0unt.xyz
+0.0.0.0 specialpl.krpt-am0unt.xyz
+0.0.0.0 www.glpol.krpt-am0unt.xyz
+0.0.0.0 www.goglgrup.krpt-am0unt.xyz
+0.0.0.0 www.gogltop.krpt-am0unt.xyz
+0.0.0.0 www.gol.krpt-am0unt.xyz
+0.0.0.0 www.newspro.krpt-am0unt.xyz
+0.0.0.0 www.plcool.krpt-am0unt.xyz
+0.0.0.0 www.plggl.krpt-am0unt.xyz
+0.0.0.0 www.plprog.krpt-am0unt.xyz
+0.0.0.0 www.polandgogl.krpt-am0unt.xyz
+0.0.0.0 www.polandsite.krpt-am0unt.xyz
+0.0.0.0 www.poltop.krpt-am0unt.xyz
+0.0.0.0 www.progogol.krpt-am0unt.xyz
+0.0.0.0 www.propl1.krpt-am0unt.xyz
+0.0.0.0 www.propol.krpt-am0unt.xyz
+0.0.0.0 www.prosite.krpt-am0unt.xyz
+0.0.0.0 www.protop.krpt-am0unt.xyz
+0.0.0.0 www.sitegogl.krpt-am0unt.xyz
+0.0.0.0 www.sitepl3.krpt-am0unt.xyz
+0.0.0.0 www.smart.krpt-am0unt.xyz
+0.0.0.0 www.smartgen.krpt-am0unt.xyz
+0.0.0.0 www.smartgogl.krpt-am0unt.xyz
+0.0.0.0 www.smartperfect.krpt-am0unt.xyz
+0.0.0.0 www.smarttop.krpt-am0unt.xyz
+0.0.0.0 www.specialpl.krpt-am0unt.xyz
 0.0.0.0 www.kugero.xyz
 0.0.0.0 www.kugo.xyz
 0.0.0.0 www.kuponline480147.xyz
