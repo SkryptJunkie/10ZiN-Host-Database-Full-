@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:06 AM Thursday 28 October 2021
+# Date: 06:03 AM Friday 29 October 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -10007,6 +10007,7 @@
 0.0.0.0 ns1.lalibco.com
 0.0.0.0 ns2.lalibco.com
 0.0.0.0 adv.lampsplus.com
+0.0.0.0 idm.landmark-test.com
 0.0.0.0 adserver.lanepress.com
 0.0.0.0 napi.lanistaads.com
 0.0.0.0 rev.lanistaads.com
@@ -10144,6 +10145,7 @@
 0.0.0.0 stats2.luckymag.com
 0.0.0.0 www.luxurycapitals.com
 0.0.0.0 oas.luxweb.com
+0.0.0.0 temp.lwapps.com
 0.0.0.0 ads.lycos.com
 0.0.0.0 oascentral.lycos.com
 0.0.0.0 ads.lycos-europe.com
@@ -13968,6 +13970,7 @@
 0.0.0.0 ctl1.buyt.in
 0.0.0.0 phorm.co.in
 0.0.0.0 track.statesend.co.in
+0.0.0.0 bobcatminer-store.e-mantra.in
 0.0.0.0 mtccsun.imtech.ernet.in
 0.0.0.0 tokensale.gizer.in
 0.0.0.0 track.hotdrugsstore.in
@@ -19280,6 +19283,7 @@
 0.0.0.0 adserver.virgin.net
 0.0.0.0 www.vitalitycs.net
 0.0.0.0 media.viwii.net
+0.0.0.0 volmed2018.volmed.net
 0.0.0.0 ia.warnet-thunder.net
 0.0.0.0 adimages.watchmygf.net
 0.0.0.0 www.wcfbc.net
