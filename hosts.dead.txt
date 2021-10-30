@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:03 AM Friday 29 October 2021
+# Date: 06:02 AM Saturday 30 October 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -12,6 +12,7 @@
 
 
 0.0.0.0 version="1.0"
+0.0.0.0 213.32.101.1525
 0.0.0.0 eos.ac
 0.0.0.0 ap76rmx3.accountant
 0.0.0.0 apple.com-analysis-safety-antimalware-support.accountant
@@ -4902,6 +4903,7 @@
 0.0.0.0 klixfiles.com
 0.0.0.0 kmdl101.com
 0.0.0.0 kmylvwo5.com
+0.0.0.0 kokilammatriminy.com
 0.0.0.0 koramaghreb.com
 0.0.0.0 kraken-wallet.com
 0.0.0.0 kurjerserviss.com
