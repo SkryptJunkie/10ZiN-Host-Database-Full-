@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Sunday 31 October 2021
+# Date: 06:02 AM Monday 01 November 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -10180,6 +10180,7 @@
 0.0.0.0 www.mahigifts.com
 0.0.0.0 ads.mail.com
 0.0.0.0 ads-web.mail.com
+0.0.0.0 h5nmx7qrncrp.mailfloss.com
 0.0.0.0 www.mailforfreedom.com
 0.0.0.0 oascentral.mailtribune.com
 0.0.0.0 click1.mainadv.com
