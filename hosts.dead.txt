@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Tuesday 02 November 2021
+# Date: 06:02 AM Wednesday 03 November 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -5356,6 +5356,7 @@
 0.0.0.0 newsuperhacks.com
 0.0.0.0 newtoolset.com
 0.0.0.0 newworld-news.com
+0.0.0.0 nexsoul.com
 0.0.0.0 next-layers.com
 0.0.0.0 nextgearup.com
 0.0.0.0 nfshacksreborn.com
