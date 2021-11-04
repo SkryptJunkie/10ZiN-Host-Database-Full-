@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Wednesday 03 November 2021
+# Date: 06:02 AM Thursday 04 November 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -13938,6 +13938,7 @@
 0.0.0.0 myetherwallet.com.im
 0.0.0.0 airswap.in
 0.0.0.0 apkplaystore.in
+0.0.0.0 briskenterprise.in
 0.0.0.0 cleanfile.in
 0.0.0.0 com-cheat.in
 0.0.0.0 csgoshuffle.in
@@ -21644,6 +21645,7 @@
 0.0.0.0 ok.internetmedia.si
 0.0.0.0 ads.wave.si
 0.0.0.0 24godzinynapomoc.site
+0.0.0.0 acessesigeplanejamento.site
 0.0.0.0 aederem.site
 0.0.0.0 afetos.site
 0.0.0.0 allegro-llokalnie.site
