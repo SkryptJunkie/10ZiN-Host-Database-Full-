@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Thursday 04 November 2021
+# Date: 06:07 AM Friday 05 November 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -41,7 +41,9 @@
 0.0.0.0 www.olx-pol-and.app
 0.0.0.0 ads.pagina12.com.ar
 0.0.0.0 www.tradedoubler.com.ar
+0.0.0.0 dostawa-safety.art
 0.0.0.0 oferta-payment.art
+0.0.0.0 www.dostawa-safety.art
 0.0.0.0 www.dpd.dostawa-safety.art
 0.0.0.0 www.inpost-pl.dostawa-safety.art
 0.0.0.0 www.olx-pl.dostawa-safety.art
@@ -446,6 +448,7 @@
 0.0.0.0 www.order-safe.biz
 0.0.0.0 www.pl2day.biz
 0.0.0.0 www.poland-news.biz
+0.0.0.0 www.poland-startup.biz
 0.0.0.0 www.poland-world.biz
 0.0.0.0 www.polandnews.biz
 0.0.0.0 www.printmail.biz
@@ -2087,6 +2090,7 @@
 0.0.0.0 www.allegrolokalnie.cloud
 0.0.0.0 www.biznesplanet-parlba.cloud
 0.0.0.0 www.dostawa-olx.cloud
+0.0.0.0 www.orleninfo.cloud
 0.0.0.0 www.super-makler-online.cloud
 0.0.0.0 test-adblock.tgc.cloud
 0.0.0.0 6oc.club
@@ -4928,6 +4932,7 @@
 0.0.0.0 leagueoflegendsonplaystation.com
 0.0.0.0 leakedfile.com
 0.0.0.0 leanoisgo.com
+0.0.0.0 leeyongwoo.com
 0.0.0.0 lefopost.com
 0.0.0.0 legal-rewardpath.com
 0.0.0.0 leggingsjustforyou.com
@@ -10036,6 +10041,7 @@
 0.0.0.0 www.leadingedgecash.com
 0.0.0.0 www2.leadingedgecash.com
 0.0.0.0 track.learntotradesrv.com
+0.0.0.0 www.leeyongwoo.com
 0.0.0.0 www.legal-rewardpath.com
 0.0.0.0 partner.leguide.com
 0.0.0.0 shoppingbox.partner.leguide.com
@@ -12612,6 +12618,7 @@
 0.0.0.0 olx-pl-dostawa.cyou
 0.0.0.0 otymsieglosnogadda.cyou
 0.0.0.0 papuga.cyou
+0.0.0.0 pl-m-wysylka.cyou
 0.0.0.0 pokicotodzialaiok.cyou
 0.0.0.0 polakczytellnik.cyou
 0.0.0.0 pomocnareeka.cyou
@@ -12830,6 +12837,7 @@
 0.0.0.0 olx.pl-livesdeals.cyou
 0.0.0.0 www.olx.pl-livesdeals.cyou
 0.0.0.0 www.olx.pl-m-informacja.cyou
+0.0.0.0 www.pl-m-wysylka.cyou
 0.0.0.0 inpost.pl-paidgo.cyou
 0.0.0.0 www.inpost.pl-paidgo.cyou
 0.0.0.0 inpost.pl-paidwallets.cyou
@@ -13194,10 +13202,12 @@
 0.0.0.0 www.allegrolokalnie.deals
 0.0.0.0 allegrolokalnii.digital
 0.0.0.0 caixabankapp.digital
+0.0.0.0 dostawa-safety.digital
 0.0.0.0 kurier-plata.digital
 0.0.0.0 pokrakowice.digital
 0.0.0.0 www.allegrolokalnii.digital
 0.0.0.0 www.caixabankapp.digital
+0.0.0.0 www.dostawa-safety.digital
 0.0.0.0 inpost.dostawa24-fun.digital
 0.0.0.0 olx.dostawa24-fun.digital
 0.0.0.0 polskapoczta.dostawa24-fun.digital
@@ -14309,6 +14319,7 @@
 0.0.0.0 pay90-olx.info
 0.0.0.0 pay91-olx.info
 0.0.0.0 pay93-olx.info
+0.0.0.0 payd17.info
 0.0.0.0 paynfly.info
 0.0.0.0 payolx01.info
 0.0.0.0 payolx03.info
@@ -14323,6 +14334,7 @@
 0.0.0.0 payolx44.info
 0.0.0.0 payolx45.info
 0.0.0.0 payolx52.info
+0.0.0.0 pays38.info
 0.0.0.0 pge-group.info
 0.0.0.0 pge-group1.info
 0.0.0.0 pge-pl-group.info
@@ -14591,6 +14603,7 @@
 0.0.0.0 www.pay93-olx.info
 0.0.0.0 allegro.payd05.info
 0.0.0.0 www.allegro.payd05.info
+0.0.0.0 www.payd17.info
 0.0.0.0 www.olx.payd17.info
 0.0.0.0 www.olx.paym01.info
 0.0.0.0 www.olx.paym11.info
@@ -14611,6 +14624,7 @@
 0.0.0.0 www.blablacar-de.pays-forms.info
 0.0.0.0 www.olx.pays05.info
 0.0.0.0 www.olx.pays20.info
+0.0.0.0 www.pays38.info
 0.0.0.0 www.olx.pays38.info
 0.0.0.0 allegro.pays46.info
 0.0.0.0 www.allegro.pays46.info
@@ -14702,6 +14716,7 @@
 0.0.0.0 www.squaredguanins.info
 0.0.0.0 stats.srvasnet.info
 0.0.0.0 www.sultanatebushy.info
+0.0.0.0 www.tankujemyteraz.info
 0.0.0.0 www.tantrack.info
 0.0.0.0 www.tedsaliesdirekt.info
 0.0.0.0 sebar.thand.info
@@ -14953,6 +14968,7 @@
 0.0.0.0 claimyourprizes16.life
 0.0.0.0 costcoworld.life
 0.0.0.0 daily-profitmethod1.life
+0.0.0.0 dostawa-safety.life
 0.0.0.0 double-earnmoney1.life
 0.0.0.0 earn-greatprofits1.life
 0.0.0.0 ethereumdoubler.life
@@ -15032,6 +15048,7 @@
 0.0.0.0 www.bestprofits-for-you1.life
 0.0.0.0 www.big-prizes-place7.life
 0.0.0.0 www.box-prize-you.life
+0.0.0.0 www.casualdates-here.life
 0.0.0.0 www.checkprizes-online2.life
 0.0.0.0 www.checkprizesnow2.life
 0.0.0.0 www.checkyour-prizebox.life
@@ -15041,6 +15058,7 @@
 0.0.0.0 www.claimyourprizes1.life
 0.0.0.0 www.claimyourprizes16.life
 0.0.0.0 www.daily-profitmethod1.life
+0.0.0.0 www.dostawa-safety.life
 0.0.0.0 www.double-earnmoney1.life
 0.0.0.0 www.earn-greatprofits1.life
 0.0.0.0 www.fast21profit1.life
@@ -16138,6 +16156,12 @@
 0.0.0.0 polskapoczta-pl-hws.id-9843.me
 0.0.0.0 www.olx-m.id-9843.me
 0.0.0.0 www.polskapoczta-pl-hws.id-9843.me
+0.0.0.0 dpd-pd.id-info0345.me
+0.0.0.0 inpost-pl-lr.id-info0345.me
+0.0.0.0 www.dpd-pd.id-info0345.me
+0.0.0.0 www.inpost-pl-lr.id-info0345.me
+0.0.0.0 inpost-oferta.id-info0545.me
+0.0.0.0 www.inpost-oferta.id-info0545.me
 0.0.0.0 vinted-orh.id23988.me
 0.0.0.0 www.vinted-orh.id23988.me
 0.0.0.0 dpd-gdy.id293847.me
@@ -16224,8 +16248,10 @@
 0.0.0.0 pl-olx.men
 0.0.0.0 www.pl-olx.men
 0.0.0.0 allekurier.miami
+0.0.0.0 dostawa-safety.miami
 0.0.0.0 www.allekurier.miami
 0.0.0.0 inpost.dostawa-safety.miami
+0.0.0.0 www.dostawa-safety.miami
 0.0.0.0 www.inpost.dostawa-safety.miami
 0.0.0.0 azizr.ml
 0.0.0.0 coindash.ml
@@ -16680,6 +16706,7 @@
 0.0.0.0 magazyinf.net
 0.0.0.0 mai-hirek.net
 0.0.0.0 marvelwarofheroeshack.net
+0.0.0.0 mbank24.net
 0.0.0.0 mcdonaldsmonopoly.net
 0.0.0.0 mediafiregames.net
 0.0.0.0 medicalcircle.net
@@ -19008,6 +19035,7 @@
 0.0.0.0 tracking.marketviaemail.net
 0.0.0.0 metrics.mms.mavenapps.net
 0.0.0.0 www.maxregistrycleaner.net
+0.0.0.0 www.mbank24.net
 0.0.0.0 www.mediahighway.net
 0.0.0.0 ad2.pl.mediainter.net
 0.0.0.0 ad2.tr.mediainter.net
@@ -19585,6 +19613,7 @@
 0.0.0.0 wystarczypooszukkac.online
 0.0.0.0 zachecamydoczytania.online
 0.0.0.0 zskins.online
+0.0.0.0 www.administerzxv.online
 0.0.0.0 www.allegro-llokallnie.online
 0.0.0.0 www.anticipateasd.online
 0.0.0.0 www.bagsonsale.online
@@ -19598,6 +19627,7 @@
 0.0.0.0 www.google.com-firewall.online
 0.0.0.0 wineeniphone6.com-gen.online
 0.0.0.0 support.com-support-help.online
+0.0.0.0 www.constituteert.online
 0.0.0.0 www.coswtymmusibyc.online
 0.0.0.0 www.definicjabiznesu.online
 0.0.0.0 www.olx-pl.delovaris.online
@@ -19622,6 +19652,7 @@
 0.0.0.0 www.kazdyjakoszaczyna.online
 0.0.0.0 www.ke-res.online
 0.0.0.0 www.kurier-wpiata.online
+0.0.0.0 www.manipulatewer.online
 0.0.0.0 pl.mbank-cz.online
 0.0.0.0 www.mbank-cz.online
 0.0.0.0 www.moglesnieslyszszec.online
@@ -19643,6 +19674,8 @@
 0.0.0.0 www.ostatniaminutapl.online
 0.0.0.0 www.outbutypt.online
 0.0.0.0 www.paczpocztex.online
+0.0.0.0 allegro.payb49.online
+0.0.0.0 www.allegro.payb49.online
 0.0.0.0 www.olx.payd01.online
 0.0.0.0 www.olx.payd07.online
 0.0.0.0 allegro.payd19.online
@@ -19690,6 +19723,7 @@
 0.0.0.0 www.tomypolacy.online
 0.0.0.0 www.platform.trafficbulls.online
 0.0.0.0 www.twojfilm.online
+0.0.0.0 www.understandjkl.online
 0.0.0.0 www.update-accounts-id.online
 0.0.0.0 www.vinted-pl.online
 0.0.0.0 www.voucher-for-you.online
@@ -20259,6 +20293,7 @@
 0.0.0.0 turboostrowiec.pl
 0.0.0.0 twoj-bon.pl
 0.0.0.0 twoj-macbook.pl
+0.0.0.0 twojeinformacje24.pl
 0.0.0.0 urwijnagrody.pl
 0.0.0.0 willapasym.pl
 0.0.0.0 wybieraj-wygrywaj.pl
@@ -20274,6 +20309,8 @@
 0.0.0.0 zielony-bazarek.pl
 0.0.0.0 znajdziemy759.pl
 0.0.0.0 zrobswiatlo.pl
+0.0.0.0 miastodziennik.098.pl
+0.0.0.0 www.miastodziennik.098.pl
 0.0.0.0 www.host1.5v.pl
 0.0.0.0 www.a1a.pl
 0.0.0.0 banery.acr.pl
@@ -20327,6 +20364,7 @@
 0.0.0.0 www.ceramki.pl
 0.0.0.0 www.dhl-track.cfolks.pl
 0.0.0.0 www.niecodzienna.cfolks.pl
+0.0.0.0 www.publiczne.cfolks.pl
 0.0.0.0 www.wirtualna-polska-pl.cfolks.pl
 0.0.0.0 aranzujemy.co.pl
 0.0.0.0 bon-wow.co.pl
@@ -20634,6 +20672,7 @@
 0.0.0.0 www.transeuropaferries.pl
 0.0.0.0 www.tuchos.pl
 0.0.0.0 www.turboostrowiec.pl
+0.0.0.0 www.twojeinformacje24.pl
 0.0.0.0 www.urwijnagrody.pl
 0.0.0.0 www.utdatekonto.pl
 0.0.0.0 tdep.vacansoleil.pl
@@ -20650,20 +20689,84 @@
 0.0.0.0 www.fotkizneta.vot.pl
 0.0.0.0 www.kochamyzwierzeta.vot.pl
 0.0.0.0 e-kasa.w8w.pl
+0.0.0.0 3x-wypadki.waw.pl
+0.0.0.0 4z-informacjepl.waw.pl
+0.0.0.0 5u-wypadki.waw.pl
+0.0.0.0 6u-informacjepl.waw.pl
+0.0.0.0 78-informacjepl.waw.pl
+0.0.0.0 7n-wypadki.waw.pl
+0.0.0.0 8y-wypadki.waw.pl
+0.0.0.0 ap-informacjepl.waw.pl
+0.0.0.0 au-informacjepl.waw.pl
+0.0.0.0 bs-wypadki.waw.pl
+0.0.0.0 d8-informacjepl.waw.pl
 0.0.0.0 energylandia-rodzinny-park.waw.pl
+0.0.0.0 ew-informacjepl.waw.pl
+0.0.0.0 i0-informacjepl.waw.pl
+0.0.0.0 ic-informacjepl.waw.pl
 0.0.0.0 info-obiektyw.waw.pl
+0.0.0.0 kubacki-nagranie.waw.pl
+0.0.0.0 ky-wypadki.waw.pl
+0.0.0.0 l6-wypadki.waw.pl
+0.0.0.0 lp-informacjepl.waw.pl
 0.0.0.0 monitoring-energylandia.waw.pl
+0.0.0.0 ph-informacjepl.waw.pl
+0.0.0.0 q6-wypadki.waw.pl
 0.0.0.0 ratownik24.waw.pl
+0.0.0.0 rf-informacjepl.waw.pl
+0.0.0.0 s0-wypadki.waw.pl
+0.0.0.0 s5-wypadki.waw.pl
 0.0.0.0 sprawdzone-info.waw.pl
+0.0.0.0 th-wypadki.waw.pl
+0.0.0.0 uz-wypadki.waw.pl
+0.0.0.0 vc-wypadki.waw.pl
+0.0.0.0 vu-wypadki.waw.pl
+0.0.0.0 w1-wypadki.waw.pl
 0.0.0.0 wu-pe.waw.pl
 0.0.0.0 wupe.waw.pl
+0.0.0.0 yh-informacjepl.waw.pl
+0.0.0.0 zaginione-osoby.waw.pl
+0.0.0.0 zq-wypadki.waw.pl
+0.0.0.0 zr-informacjepl.waw.pl
+0.0.0.0 www.3x-wypadki.waw.pl
+0.0.0.0 www.4z-informacjepl.waw.pl
+0.0.0.0 www.5u-wypadki.waw.pl
+0.0.0.0 www.6u-informacjepl.waw.pl
+0.0.0.0 www.78-informacjepl.waw.pl
+0.0.0.0 www.7n-wypadki.waw.pl
+0.0.0.0 www.8y-wypadki.waw.pl
+0.0.0.0 www.ap-informacjepl.waw.pl
+0.0.0.0 www.au-informacjepl.waw.pl
+0.0.0.0 www.bs-wypadki.waw.pl
+0.0.0.0 www.d8-informacjepl.waw.pl
 0.0.0.0 www.energylandia-rodzinny-park.waw.pl
+0.0.0.0 www.ew-informacjepl.waw.pl
+0.0.0.0 www.i0-informacjepl.waw.pl
+0.0.0.0 www.ic-informacjepl.waw.pl
 0.0.0.0 www.info-obiektyw.waw.pl
+0.0.0.0 www.kubacki-nagranie.waw.pl
+0.0.0.0 www.ky-wypadki.waw.pl
+0.0.0.0 www.l6-wypadki.waw.pl
+0.0.0.0 www.lp-informacjepl.waw.pl
 0.0.0.0 www.monitoring-energylandia.waw.pl
+0.0.0.0 www.ph-informacjepl.waw.pl
+0.0.0.0 www.q6-wypadki.waw.pl
 0.0.0.0 www.ratownik24.waw.pl
+0.0.0.0 www.rf-informacjepl.waw.pl
+0.0.0.0 www.s0-wypadki.waw.pl
+0.0.0.0 www.s5-wypadki.waw.pl
 0.0.0.0 www.sprawdzone-info.waw.pl
+0.0.0.0 www.th-wypadki.waw.pl
+0.0.0.0 www.uz-wypadki.waw.pl
+0.0.0.0 www.vc-wypadki.waw.pl
+0.0.0.0 www.vu-wypadki.waw.pl
+0.0.0.0 www.w1-wypadki.waw.pl
 0.0.0.0 www.wu-pe.waw.pl
 0.0.0.0 www.wupe.waw.pl
+0.0.0.0 www.yh-informacjepl.waw.pl
+0.0.0.0 www.zaginione-osoby.waw.pl
+0.0.0.0 www.zq-wypadki.waw.pl
+0.0.0.0 www.zr-informacjepl.waw.pl
 0.0.0.0 www.ce.wielkaniespodzianka.pl
 0.0.0.0 www.willapasym.pl
 0.0.0.0 www.wychowany.pl
@@ -20812,6 +20915,7 @@
 0.0.0.0 tzero.pw
 0.0.0.0 ucrack.pw
 0.0.0.0 watch-the-fullvideo.pw
+0.0.0.0 www.471058.pw
 0.0.0.0 olx.pl.baytsitecom.pw
 0.0.0.0 www.olx.pl.baytsitecom.pw
 0.0.0.0 www.olx.pl.baytteperencom.pw
@@ -20978,6 +21082,8 @@
 0.0.0.0 ecadutaro.yadozalamom.pw
 0.0.0.0 ibaveh.yadozalamom.pw
 0.0.0.0 mitobeb.yadozalamom.pw
+0.0.0.0 dostawa-safety.quest
+0.0.0.0 www.dostawa-safety.quest
 0.0.0.0 www.olx-pl.dostawa-safety.quest
 0.0.0.0 inpost.pl.service-secure.quest
 0.0.0.0 www.inpost.pl.service-secure.quest
@@ -20987,6 +21093,7 @@
 0.0.0.0 budyn037.rest
 0.0.0.0 doradca318.rest
 0.0.0.0 dostarczac948.rest
+0.0.0.0 dostawa-safety.rest
 0.0.0.0 dylemat946.rest
 0.0.0.0 fantazja852.rest
 0.0.0.0 fikcja456.rest
@@ -21032,6 +21139,7 @@
 0.0.0.0 www.dostarczac948.rest
 0.0.0.0 www.inpost.dostawa-safe.rest
 0.0.0.0 www.inpost.pl-safe.dostawa-safe.rest
+0.0.0.0 www.dostawa-safety.rest
 0.0.0.0 www.inpost.pl-safe.dostawa-safety.rest
 0.0.0.0 www.dylemat946.rest
 0.0.0.0 www.enuiregncxzyasdfhgasdk78c19mc9m2ihjdfsufdaf.rest
@@ -21249,6 +21357,27 @@
 0.0.0.0 662bd114b7c9.onceedge.ru
 0.0.0.0 go.oneund.ru
 0.0.0.0 www.oneund.ru
+0.0.0.0 www.onlineshops2021.ru
+0.0.0.0 www.shop1.onlineshops2021.ru
+0.0.0.0 www.shop10.onlineshops2021.ru
+0.0.0.0 www.shop11.onlineshops2021.ru
+0.0.0.0 www.shop12.onlineshops2021.ru
+0.0.0.0 www.shop13.onlineshops2021.ru
+0.0.0.0 www.shop14.onlineshops2021.ru
+0.0.0.0 www.shop15.onlineshops2021.ru
+0.0.0.0 www.shop16.onlineshops2021.ru
+0.0.0.0 www.shop17.onlineshops2021.ru
+0.0.0.0 www.shop18.onlineshops2021.ru
+0.0.0.0 www.shop19.onlineshops2021.ru
+0.0.0.0 www.shop2.onlineshops2021.ru
+0.0.0.0 www.shop20.onlineshops2021.ru
+0.0.0.0 www.shop3.onlineshops2021.ru
+0.0.0.0 www.shop4.onlineshops2021.ru
+0.0.0.0 www.shop5.onlineshops2021.ru
+0.0.0.0 www.shop6.onlineshops2021.ru
+0.0.0.0 www.shop7.onlineshops2021.ru
+0.0.0.0 www.shop8.onlineshops2021.ru
+0.0.0.0 www.shop9.onlineshops2021.ru
 0.0.0.0 www.navi-free2020.org.ru
 0.0.0.0 www.wpad.org.ru
 0.0.0.0 stats-*.p2pnow.ru
@@ -22105,6 +22234,11 @@
 0.0.0.0 iconexu.social
 0.0.0.0 iconexus.social
 0.0.0.0 atlant.solutions
+0.0.0.0 090334.space
+0.0.0.0 138095.space
+0.0.0.0 140093.space
+0.0.0.0 74882.space
+0.0.0.0 855523.space
 0.0.0.0 alerownieztito.space
 0.0.0.0 amorebig.space
 0.0.0.0 amournow.space
@@ -22168,8 +22302,15 @@
 0.0.0.0 ustedpicklyba.space
 0.0.0.0 wieszjakjestrodakku.space
 0.0.0.0 ysensionlatio.space
+0.0.0.0 www.090334.space
 0.0.0.0 inpost-pl.118115.space
 0.0.0.0 www.inpost-pl.118115.space
+0.0.0.0 www.138095.space
+0.0.0.0 www.140093.space
+0.0.0.0 www.74882.space
+0.0.0.0 www.855523.space
+0.0.0.0 poczta-pl.96834.space
+0.0.0.0 www.poczta-pl.96834.space
 0.0.0.0 www.alerownieztito.space
 0.0.0.0 www.amorebig.space
 0.0.0.0 www.amournow.space
@@ -22769,6 +22910,7 @@
 0.0.0.0 www.projectcourse4.us
 0.0.0.0 track.promovalue.us
 0.0.0.0 tracker.promovalue.us
+0.0.0.0 www.safetytop-defense.us
 0.0.0.0 sdc.sanofi-aventis.us
 0.0.0.0 www.securityscan.us
 0.0.0.0 stats.street-jeni.us
@@ -23374,6 +23516,7 @@
 0.0.0.0 kugero.xyz
 0.0.0.0 kugo.xyz
 0.0.0.0 kuponline480147.xyz
+0.0.0.0 ladingde.xyz
 0.0.0.0 lasda.xyz
 0.0.0.0 leadhealth.xyz
 0.0.0.0 lloto.xyz
@@ -23660,6 +23803,7 @@
 0.0.0.0 olx-pl.545894.xyz
 0.0.0.0 www.inpost-pl.545894.xyz
 0.0.0.0 www.olx-pl.545894.xyz
+0.0.0.0 www.inpost-pl.5476128-order.xyz
 0.0.0.0 www.abandonu.xyz
 0.0.0.0 d3.adsplay.xyz
 0.0.0.0 d6.adsplay.xyz
@@ -23693,6 +23837,7 @@
 0.0.0.0 www.colubin.xyz
 0.0.0.0 www.colublin.xyz
 0.0.0.0 www.couplefind.xyz
+0.0.0.0 www.criptfast.xyz
 0.0.0.0 cashpro.crpt-gen.xyz
 0.0.0.0 cg.crpt-gen.xyz
 0.0.0.0 investmaster.crpt-gen.xyz
@@ -23702,6 +23847,7 @@
 0.0.0.0 plpoga.crpt-gen.xyz
 0.0.0.0 plsmart.crpt-gen.xyz
 0.0.0.0 sitepol.crpt-gen.xyz
+0.0.0.0 www.crpt-gen.xyz
 0.0.0.0 www.cashpro.crpt-gen.xyz
 0.0.0.0 www.cg.crpt-gen.xyz
 0.0.0.0 www.investmaster.crpt-gen.xyz
@@ -23768,6 +23914,7 @@
 0.0.0.0 www.gazetawielkopolska.xyz
 0.0.0.0 www.gedos.xyz
 0.0.0.0 www.geminies.xyz
+0.0.0.0 www.inpost-pl.getcashorder.xyz
 0.0.0.0 www.gigantus.xyz
 0.0.0.0 yrxyhtx.golovanskyin.xyz
 0.0.0.0 www.greese.xyz
@@ -23825,6 +23972,7 @@
 0.0.0.0 smartperfect.krpt-am0unt.xyz
 0.0.0.0 smarttop.krpt-am0unt.xyz
 0.0.0.0 specialpl.krpt-am0unt.xyz
+0.0.0.0 www.krpt-am0unt.xyz
 0.0.0.0 www.glpol.krpt-am0unt.xyz
 0.0.0.0 www.goglgrup.krpt-am0unt.xyz
 0.0.0.0 www.gogltop.krpt-am0unt.xyz
@@ -23852,6 +24000,7 @@
 0.0.0.0 www.kugero.xyz
 0.0.0.0 www.kugo.xyz
 0.0.0.0 www.kuponline480147.xyz
+0.0.0.0 www.ladingde.xyz
 0.0.0.0 www.lasda.xyz
 0.0.0.0 www.lloto.xyz
 0.0.0.0 www.logowanie-potwierdz.xyz
@@ -24356,8 +24505,10 @@
 0.0.0.0 www.olx-order.pl-id96274081.xyz
 0.0.0.0 inpost-order.pl-id97379495.xyz
 0.0.0.0 www.inpost-order.pl-id97379495.xyz
+0.0.0.0 www.inpost.pl-info-trackcode-id983781.xyz
 0.0.0.0 www.pl-livemoney.xyz
 0.0.0.0 www.pl-makepay.xyz
+0.0.0.0 www.inpost.pl-numer-sciezki-id874321.xyz
 0.0.0.0 olx.pl-oferfa.xyz
 0.0.0.0 www.olx.pl-oferfa.xyz
 0.0.0.0 www.pl-ordered.xyz
@@ -24425,6 +24576,10 @@
 0.0.0.0 www.olx.pl-suspend.xyz
 0.0.0.0 olx.pl-szybko.xyz
 0.0.0.0 www.olx.pl-szybko.xyz
+0.0.0.0 www.inpost.pl-trackcode-info-id745611.xyz
+0.0.0.0 www.inpost.pl-trackcode-info-id783215.xyz
+0.0.0.0 www.inpost.pl-trackcode-info-id785634.xyz
+0.0.0.0 www.inpost.pl-trackcode-info-id983713.xyz
 0.0.0.0 www.inpost.pl-wallet002.xyz
 0.0.0.0 inpost.pl-wellorder.xyz
 0.0.0.0 www.inpost.pl-wellorder.xyz
