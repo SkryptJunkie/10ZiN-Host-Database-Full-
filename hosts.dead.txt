@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:07 AM Friday 05 November 2021
+# Date: 06:02 AM Saturday 06 November 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -482,6 +482,7 @@
 0.0.0.0 www.ww2.xn--30986-udb.biz
 0.0.0.0 olx.blue
 0.0.0.0 www.olx.blue
+0.0.0.0 macconsorcioscom.br
 0.0.0.0 adsr3pg.com.br
 0.0.0.0 phorm.com.br
 0.0.0.0 tufosex.com.br
