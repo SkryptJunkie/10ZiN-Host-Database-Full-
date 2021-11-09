@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Monday 08 November 2021
+# Date: 06:02 AM Tuesday 09 November 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -140,6 +140,7 @@
 0.0.0.0 m-olx.bar
 0.0.0.0 maksimum824.bar
 0.0.0.0 przytulacsie483.bar
+0.0.0.0 statsgo.bar
 0.0.0.0 www.datingfinder.bar
 0.0.0.0 inpost.dostawa-safety.bar
 0.0.0.0 www.inpost.dostawa-safety.bar
@@ -9291,6 +9292,7 @@
 0.0.0.0 www.gimmethatreward.com
 0.0.0.0 redserv.giraffeeverest.com
 0.0.0.0 www.girlxmet.com
+0.0.0.0 ewvm-mis.gitecbd.com
 0.0.0.0 advert.gittigidiyor.com
 0.0.0.0 aff.gittigidiyor.com
 0.0.0.0 aff1.gittigidiyor.com
@@ -15851,6 +15853,7 @@
 0.0.0.0 www.whateyeweight8.live
 0.0.0.0 zaktualizacja.zapiszu.live
 0.0.0.0 www.zaktualizacja.zapiszu.live
+0.0.0.0 niggerson.loan
 0.0.0.0 apps9039.super-your-prize33.loan
 0.0.0.0 youtube.local
 0.0.0.0 localhost.localdomain
