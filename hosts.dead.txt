@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Tuesday 09 November 2021
+# Date: 06:02 AM Wednesday 10 November 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -12276,6 +12276,7 @@
 0.0.0.0 ad.womensforum.com
 0.0.0.0 content.womensforum.com
 0.0.0.0 track.msadcenter.won.com
+0.0.0.0 management.wonderworldinstitute.com
 0.0.0.0 www.wordplaywhiz.com
 0.0.0.0 s.stats.wordpress.com
 0.0.0.0 adnet.worldreviewer.com
@@ -22306,6 +22307,7 @@
 0.0.0.0 teachiefislate.space
 0.0.0.0 ustedpicklyba.space
 0.0.0.0 wieszjakjestrodakku.space
+0.0.0.0 xfilesruzxpnew4af.space
 0.0.0.0 ysensionlatio.space
 0.0.0.0 www.090334.space
 0.0.0.0 inpost-pl.118115.space
@@ -23440,6 +23442,7 @@
 0.0.0.0 dersindical.xyz
 0.0.0.0 dertyn.xyz
 0.0.0.0 diesta.xyz
+0.0.0.0 dnrwepreovuqsj.xyz
 0.0.0.0 dobrydzien.xyz
 0.0.0.0 doplac-teraz.xyz
 0.0.0.0 doplac-teraz24.xyz
