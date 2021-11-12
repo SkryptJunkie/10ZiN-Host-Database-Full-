@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Thursday 11 November 2021
+# Date: 06:05 AM Friday 12 November 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -447,12 +447,17 @@
 0.0.0.0 www.news17.biz
 0.0.0.0 www.news20.biz
 0.0.0.0 www.order-safe.biz
+0.0.0.0 www.orlen-platform.biz
+0.0.0.0 www.orlenplatform.biz
 0.0.0.0 www.pl2day.biz
+0.0.0.0 www.platform-orlen.biz
+0.0.0.0 www.platformorlen.biz
 0.0.0.0 www.poland-news.biz
 0.0.0.0 www.poland-startup.biz
 0.0.0.0 www.poland-world.biz
 0.0.0.0 www.polandnews.biz
 0.0.0.0 www.printmail.biz
+0.0.0.0 www.profitstudy.biz
 0.0.0.0 www.program-poland.biz
 0.0.0.0 www.program-topcourse.biz
 0.0.0.0 www.project-course2.biz
@@ -461,6 +466,7 @@
 0.0.0.0 stat.rolledwil.biz
 0.0.0.0 www.sms1.biz
 0.0.0.0 www.statistik.biz
+0.0.0.0 www.studyprofit.biz
 0.0.0.0 www.tenczas.biz
 0.0.0.0 www.top-groupprogram.biz
 0.0.0.0 www.topgroupprogram.biz
@@ -3030,6 +3036,7 @@
 0.0.0.0 bbc-africa.com
 0.0.0.0 bbmonandroid.com
 0.0.0.0 beetoken-ico.com
+0.0.0.0 belokandoang.com
 0.0.0.0 bentdownload.com
 0.0.0.0 berkesteermaster.com
 0.0.0.0 best-cheats24.com
@@ -7467,6 +7474,8 @@
 0.0.0.0 www.ec2-3-10-207-184.eu-west-2.compute.amazonaws.com
 0.0.0.0 www.ec2-3-8-146-77.eu-west-2.compute.amazonaws.com
 0.0.0.0 www.ec2-35-178-235-52.eu-west-2.compute.amazonaws.com
+0.0.0.0 www.ec2-15-237-117-139.eu-west-3.compute.amazonaws.com
+0.0.0.0 www.ec2-35-180-127-210.eu-west-3.compute.amazonaws.com
 0.0.0.0 vtnlog-*.elb.amazonaws.com
 0.0.0.0 www.asdasda-1426585087.eu-central-1.elb.amazonaws.com
 0.0.0.0 engagement-bus-prod-713264365.us-east-1.elb.amazonaws.com
@@ -7715,6 +7724,7 @@
 0.0.0.0 oascentral.beliefnet.com
 0.0.0.0 ads.belointeractive.com
 0.0.0.0 te.belointeractive.com
+0.0.0.0 www.belokandoang.com
 0.0.0.0 www.benpking.com
 0.0.0.0 t.beopinion.com
 0.0.0.0 www.berlinwx.com
@@ -8135,6 +8145,7 @@
 0.0.0.0 track.msadcenter.chpn.com
 0.0.0.0 adserver2.christianitytoday.com
 0.0.0.0 ads.cimedia.com
+0.0.0.0 www.cinemaleftech.com
 0.0.0.0 www.circultural.com
 0.0.0.0 cdn.ciscordapp.com
 0.0.0.0 oascentral.citypages.com
@@ -11205,6 +11216,7 @@
 0.0.0.0 sg-ma.sam4m.com
 0.0.0.0 us-ma.sam4m.com
 0.0.0.0 oascentral.samsclub.com
+0.0.0.0 ads.samsung.com
 0.0.0.0 rd.samsungadhub.com
 0.0.0.0 gld.samsungosp.com
 0.0.0.0 banners.sandralatina.com
@@ -14716,6 +14728,7 @@
 0.0.0.0 www.shdfsdf.info
 0.0.0.0 bir.snjack.info
 0.0.0.0 www.soongu.info
+0.0.0.0 www.sourceinfo-trust.info
 0.0.0.0 www.spectrumprayer.info
 0.0.0.0 www.spleensincense.info
 0.0.0.0 www.squaredguanins.info
@@ -14923,6 +14936,7 @@
 0.0.0.0 ads.mixi.jp
 0.0.0.0 ad.searchina.ne.jp
 0.0.0.0 oz.valueclick.ne.jp
+0.0.0.0 gryrie.wakudoki.ne.jp
 0.0.0.0 ad.dic.nicovideo.jp
 0.0.0.0 ad.oret.jp
 0.0.0.0 adebis.qeee.jp
@@ -16168,6 +16182,12 @@
 0.0.0.0 www.inpost-pl-lr.id-info0345.me
 0.0.0.0 inpost-oferta.id-info0545.me
 0.0.0.0 www.inpost-oferta.id-info0545.me
+0.0.0.0 inpost-yux.id-info0775.me
+0.0.0.0 www.inpost-yux.id-info0775.me
+0.0.0.0 inpost-eyz.id-info0845.me
+0.0.0.0 www.inpost-eyz.id-info0845.me
+0.0.0.0 olx-qaz.id-info0847.me
+0.0.0.0 www.olx-qaz.id-info0847.me
 0.0.0.0 vinted-orh.id23988.me
 0.0.0.0 www.vinted-orh.id23988.me
 0.0.0.0 dpd-gdy.id293847.me
@@ -19702,6 +19722,7 @@
 0.0.0.0 www.olx.pl-money.online
 0.0.0.0 www.pl-platnosci.online
 0.0.0.0 www.pl-znajdziemy53.online
+0.0.0.0 www.sd3.plinvgasen.online
 0.0.0.0 mbank.pl.pllogin.online
 0.0.0.0 www.mbank.pl.pllogin.online
 0.0.0.0 www.plynzpradem.online
@@ -20165,9 +20186,11 @@
 0.0.0.0 ceramki.pl
 0.0.0.0 contentagenda.pl
 0.0.0.0 cs-kancelaria.pl
+0.0.0.0 czekamna.pl
 0.0.0.0 desin.pl
 0.0.0.0 diorsklep.pl
 0.0.0.0 dorszfishandchips.pl
+0.0.0.0 dowiemsie.pl
 0.0.0.0 e-kinoman.pl
 0.0.0.0 easydownload.pl
 0.0.0.0 ekofil.pl
@@ -20200,6 +20223,7 @@
 0.0.0.0 ini1.pl
 0.0.0.0 innowacyjneprzedszkole.pl
 0.0.0.0 intergsm.pl
+0.0.0.0 iporwania24.pl
 0.0.0.0 jamajkazorawy.pl
 0.0.0.0 jasna2c.pl
 0.0.0.0 jbpsystembud.pl
@@ -20250,6 +20274,7 @@
 0.0.0.0 player-cda.pl
 0.0.0.0 pojzn.pl
 0.0.0.0 polonialaziska.pl
+0.0.0.0 porwania24-online.pl
 0.0.0.0 poszukiwac348.pl
 0.0.0.0 poszukiwacz668.pl
 0.0.0.0 poszukiwaczka840.pl
@@ -20282,6 +20307,7 @@
 0.0.0.0 sneakersshop.pl
 0.0.0.0 sp2mzc.pl
 0.0.0.0 sroka-online.pl
+0.0.0.0 ssl-fakt24.pl
 0.0.0.0 stawiamyslady.pl
 0.0.0.0 studiofiguralodz.pl
 0.0.0.0 supergapolska.pl
@@ -20301,6 +20327,7 @@
 0.0.0.0 twoj-macbook.pl
 0.0.0.0 twojeinformacje24.pl
 0.0.0.0 urwijnagrody.pl
+0.0.0.0 wazne101.pl
 0.0.0.0 willapasym.pl
 0.0.0.0 wybieraj-wygrywaj.pl
 0.0.0.0 wychowany.pl
@@ -20486,6 +20513,7 @@
 0.0.0.0 www.twojewakacje.com.pl
 0.0.0.0 www.contentagenda.pl
 0.0.0.0 www.cs-kancelaria.pl
+0.0.0.0 www.czekamna.pl
 0.0.0.0 www.desin.pl
 0.0.0.0 www.dietasekret.pl
 0.0.0.0 www.dinamoon.pl
@@ -20493,6 +20521,7 @@
 0.0.0.0 olx.doreczenle.pl
 0.0.0.0 www.olx.doreczenle.pl
 0.0.0.0 www.dorszfishandchips.pl
+0.0.0.0 www.dowiemsie.pl
 0.0.0.0 www.earninstruct.pl
 0.0.0.0 www.easydownload.pl
 0.0.0.0 www.easypoele.pl
@@ -20538,6 +20567,7 @@
 0.0.0.0 www.innowacyjneprzedszkole.pl
 0.0.0.0 www.intergsm.pl
 0.0.0.0 www.investhum.pl
+0.0.0.0 www.iporwania24.pl
 0.0.0.0 www.jamajkazorawy.pl
 0.0.0.0 www.ace.jamba.pl
 0.0.0.0 www.ace.jamster.pl
@@ -20620,6 +20650,7 @@
 0.0.0.0 www.pojzn.pl
 0.0.0.0 www.polonialaziska.pl
 0.0.0.0 www.pomocdlafranka.pl
+0.0.0.0 www.porwania24-online.pl
 0.0.0.0 www.poszukiwac348.pl
 0.0.0.0 www.poszukiwacz668.pl
 0.0.0.0 www.poszukiwaczka840.pl
@@ -20661,6 +20692,7 @@
 0.0.0.0 www.sneakersshop.pl
 0.0.0.0 www.sp2mzc.pl
 0.0.0.0 www.sroka-online.pl
+0.0.0.0 www.ssl-fakt24.pl
 0.0.0.0 www.stawiamyslady.pl
 0.0.0.0 www.studiofiguralodz.pl
 0.0.0.0 tdep.suncamp.pl
@@ -20773,6 +20805,7 @@
 0.0.0.0 www.zaginione-osoby.waw.pl
 0.0.0.0 www.zq-wypadki.waw.pl
 0.0.0.0 www.zr-informacjepl.waw.pl
+0.0.0.0 www.wazne101.pl
 0.0.0.0 www.ce.wielkaniespodzianka.pl
 0.0.0.0 www.willapasym.pl
 0.0.0.0 www.wychowany.pl
@@ -20922,6 +20955,8 @@
 0.0.0.0 ucrack.pw
 0.0.0.0 watch-the-fullvideo.pw
 0.0.0.0 www.471058.pw
+0.0.0.0 olx-pl.865484.pw
+0.0.0.0 www.olx-pl.865484.pw
 0.0.0.0 olx.pl.baytsitecom.pw
 0.0.0.0 www.olx.pl.baytsitecom.pw
 0.0.0.0 www.olx.pl.baytteperencom.pw
@@ -21440,6 +21475,33 @@
 0.0.0.0 stat-counter.tass-online.ru
 0.0.0.0 www.thegformb.ru
 0.0.0.0 www.thisisgoodday.ru
+0.0.0.0 ca15018.tmweb.ru
+0.0.0.0 ca72525.tmweb.ru
+0.0.0.0 ca73278.tmweb.ru
+0.0.0.0 cb66666.tmweb.ru
+0.0.0.0 cb75938.tmweb.ru
+0.0.0.0 cb76471.tmweb.ru
+0.0.0.0 cb85581.tmweb.ru
+0.0.0.0 cb93528.tmweb.ru
+0.0.0.0 cc53740.tmweb.ru
+0.0.0.0 cc67620.tmweb.ru
+0.0.0.0 ce34576.tmweb.ru
+0.0.0.0 ce39537.tmweb.ru
+0.0.0.0 ce68761.tmweb.ru
+0.0.0.0 ce69801.tmweb.ru
+0.0.0.0 ce85237.tmweb.ru
+0.0.0.0 ce88147.tmweb.ru
+0.0.0.0 cf76761.tmweb.ru
+0.0.0.0 cg08437.tmweb.ru
+0.0.0.0 cg18642.tmweb.ru
+0.0.0.0 cg47835.tmweb.ru
+0.0.0.0 cg89529.tmweb.ru
+0.0.0.0 ci24520.tmweb.ru
+0.0.0.0 ci60341.tmweb.ru
+0.0.0.0 ci70368.tmweb.ru
+0.0.0.0 ci80153.tmweb.ru
+0.0.0.0 cj02673.tmweb.ru
+0.0.0.0 ck05925.tmweb.ru
 0.0.0.0 ck63065.tmweb.ru
 0.0.0.0 ck78179.tmweb.ru
 0.0.0.0 cl07143.tmweb.ru
@@ -21453,13 +21515,48 @@
 0.0.0.0 co85351.tmweb.ru
 0.0.0.0 co99044.tmweb.ru
 0.0.0.0 cp08192.tmweb.ru
+0.0.0.0 cq62304.tmweb.ru
+0.0.0.0 cq88380.tmweb.ru
 0.0.0.0 cq94897.tmweb.ru
 0.0.0.0 cr92101.tmweb.ru
 0.0.0.0 cr99797.tmweb.ru
+0.0.0.0 cs43842.tmweb.ru
 0.0.0.0 ct28530.tmweb.ru
+0.0.0.0 ct33421.tmweb.ru
+0.0.0.0 cv95370.tmweb.ru
 0.0.0.0 cw08812.tmweb.ru
 0.0.0.0 cw86303.tmweb.ru
+0.0.0.0 cx17651.tmweb.ru
+0.0.0.0 cx76051.tmweb.ru
 0.0.0.0 cy61663.tmweb.ru
+0.0.0.0 cy79417.tmweb.ru
+0.0.0.0 www.ca15018.tmweb.ru
+0.0.0.0 www.ca72525.tmweb.ru
+0.0.0.0 www.ca73278.tmweb.ru
+0.0.0.0 www.cb66666.tmweb.ru
+0.0.0.0 www.cb75938.tmweb.ru
+0.0.0.0 www.cb76471.tmweb.ru
+0.0.0.0 www.cb85581.tmweb.ru
+0.0.0.0 www.cb93528.tmweb.ru
+0.0.0.0 www.cc53740.tmweb.ru
+0.0.0.0 www.cc67620.tmweb.ru
+0.0.0.0 www.ce34576.tmweb.ru
+0.0.0.0 www.ce39537.tmweb.ru
+0.0.0.0 www.ce68761.tmweb.ru
+0.0.0.0 www.ce69801.tmweb.ru
+0.0.0.0 www.ce85237.tmweb.ru
+0.0.0.0 www.ce88147.tmweb.ru
+0.0.0.0 www.cf76761.tmweb.ru
+0.0.0.0 www.cg08437.tmweb.ru
+0.0.0.0 www.cg18642.tmweb.ru
+0.0.0.0 www.cg47835.tmweb.ru
+0.0.0.0 www.cg89529.tmweb.ru
+0.0.0.0 www.ci24520.tmweb.ru
+0.0.0.0 www.ci60341.tmweb.ru
+0.0.0.0 www.ci70368.tmweb.ru
+0.0.0.0 www.ci80153.tmweb.ru
+0.0.0.0 www.cj02673.tmweb.ru
+0.0.0.0 www.ck05925.tmweb.ru
 0.0.0.0 www.ck63065.tmweb.ru
 0.0.0.0 www.ck78179.tmweb.ru
 0.0.0.0 www.cl07143.tmweb.ru
@@ -21473,13 +21570,21 @@
 0.0.0.0 www.co85351.tmweb.ru
 0.0.0.0 www.co99044.tmweb.ru
 0.0.0.0 www.cp08192.tmweb.ru
+0.0.0.0 www.cq62304.tmweb.ru
+0.0.0.0 www.cq88380.tmweb.ru
 0.0.0.0 www.cq94897.tmweb.ru
 0.0.0.0 www.cr92101.tmweb.ru
 0.0.0.0 www.cr99797.tmweb.ru
+0.0.0.0 www.cs43842.tmweb.ru
 0.0.0.0 www.ct28530.tmweb.ru
+0.0.0.0 www.ct33421.tmweb.ru
+0.0.0.0 www.cv95370.tmweb.ru
 0.0.0.0 www.cw08812.tmweb.ru
 0.0.0.0 www.cw86303.tmweb.ru
+0.0.0.0 www.cx17651.tmweb.ru
+0.0.0.0 www.cx76051.tmweb.ru
 0.0.0.0 www.cy61663.tmweb.ru
+0.0.0.0 www.cy79417.tmweb.ru
 0.0.0.0 counter.topphoto.ru
 0.0.0.0 rotabanner.utro.ru
 0.0.0.0 rotabanner100.utro.ru
@@ -21992,6 +22097,7 @@
 0.0.0.0 www.ekaterinburgdating.site
 0.0.0.0 www.findyougirl.site
 0.0.0.0 www.fintruelist.site
+0.0.0.0 www.olx-pl.formsecure.site
 0.0.0.0 inpost-pl.forordering.site
 0.0.0.0 www.inpost-pl.forordering.site
 0.0.0.0 www.freegirl.site
@@ -22315,6 +22421,8 @@
 0.0.0.0 www.138095.space
 0.0.0.0 www.140093.space
 0.0.0.0 www.74882.space
+0.0.0.0 inpost-pl.7491329.space
+0.0.0.0 www.inpost-pl.7491329.space
 0.0.0.0 www.855523.space
 0.0.0.0 poczta-pl.96834.space
 0.0.0.0 www.poczta-pl.96834.space
@@ -22471,6 +22579,7 @@
 0.0.0.0 xfotosx01.fromru.su
 0.0.0.0 zfotos.fromru.su
 0.0.0.0 nextel-ringtone.komi.su
+0.0.0.0 www.apple.com-ru.support
 0.0.0.0 www.apple.fmi-iphone.support
 0.0.0.0 allegrolokalnie.surf
 0.0.0.0 pl-saves.surf
@@ -22896,6 +23005,7 @@
 0.0.0.0 www.3tsdaq8viz.us
 0.0.0.0 tracking.ariong.us
 0.0.0.0 www.found-orlen.us
+0.0.0.0 www.globaltopcourse.us
 0.0.0.0 www.groupprogram.us
 0.0.0.0 www.hyvf65qiht.us
 0.0.0.0 ad.indomp3z.us
@@ -22907,14 +23017,19 @@
 0.0.0.0 www.news-poland.us
 0.0.0.0 www8.ns01.us
 0.0.0.0 www.oferta-payment.us
+0.0.0.0 www.orlen-platform.us
 0.0.0.0 www.paczkomaty.us
 0.0.0.0 cshacks.partycat.us
 0.0.0.0 www.cshacks.partycat.us
 0.0.0.0 www.pl-program.us
+0.0.0.0 www.platformorlen.us
 0.0.0.0 www.poczta-polska-pl.us
 0.0.0.0 www.poland-world.us
+0.0.0.0 www.profit-study.us
+0.0.0.0 www.project-orlen.us
 0.0.0.0 www.projectcourse.us
 0.0.0.0 www.projectcourse4.us
+0.0.0.0 www.projectorlen.us
 0.0.0.0 track.promovalue.us
 0.0.0.0 tracker.promovalue.us
 0.0.0.0 www.safetytop-defense.us
