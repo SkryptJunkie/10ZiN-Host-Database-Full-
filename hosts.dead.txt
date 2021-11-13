@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:05 AM Friday 12 November 2021
+# Date: 06:02 AM Saturday 13 November 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -9309,6 +9309,7 @@
 0.0.0.0 aff1.gittigidiyor.com
 0.0.0.0 aff2.gittigidiyor.com
 0.0.0.0 aff4.gittigidiyor.com
+0.0.0.0 ga.giuem.com
 0.0.0.0 www.giveforgetmenots.com
 0.0.0.0 oascentral.globalpost.com
 0.0.0.0 ox-d.globalpost.com
@@ -13934,6 +13935,7 @@
 0.0.0.0 www2.settypesoftaflash.icu
 0.0.0.0 www.polska.unface.icu
 0.0.0.0 settingupdate.yourgoodflashupgradingmain.icu
+0.0.0.0 harmais.co.id
 0.0.0.0 impots.gouv.fr.remboursement.jabra.id
 0.0.0.0 rizalrinaldi.mengguruweb.my.id
 0.0.0.0 ping.rasset.ie
