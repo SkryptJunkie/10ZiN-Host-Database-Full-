@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Sunday 14 November 2021
+# Date: 06:03 AM Monday 15 November 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -449,6 +449,7 @@
 0.0.0.0 www.order-safe.biz
 0.0.0.0 www.orlen-platform.biz
 0.0.0.0 www.orlenplatform.biz
+0.0.0.0 www.orlentrust.biz
 0.0.0.0 www.pl2day.biz
 0.0.0.0 www.platform-orlen.biz
 0.0.0.0 www.platformorlen.biz
@@ -470,6 +471,7 @@
 0.0.0.0 www.tenczas.biz
 0.0.0.0 www.top-groupprogram.biz
 0.0.0.0 www.topgroupprogram.biz
+0.0.0.0 www.trustorlen.biz
 0.0.0.0 www.world-poland.biz
 0.0.0.0 0.wwserch43.biz
 0.0.0.0 1.wwserch43.biz
@@ -7543,6 +7545,7 @@
 0.0.0.0 www.art-photo-music-premiumblvd.com
 0.0.0.0 www.art-photo-music-rewardempire.com
 0.0.0.0 www.art-photo-music-savingblvd.com
+0.0.0.0 www.artachesh.com
 0.0.0.0 adserver.artempireindustries.com
 0.0.0.0 oascentral.artistdirect.com
 0.0.0.0 oascentral.artistirect.com
@@ -20399,6 +20402,7 @@
 0.0.0.0 www.ceramki.pl
 0.0.0.0 www.dhl-track.cfolks.pl
 0.0.0.0 www.niecodzienna.cfolks.pl
+0.0.0.0 www.obywatelskie.cfolks.pl
 0.0.0.0 www.publiczne.cfolks.pl
 0.0.0.0 www.wirtualna-polska-pl.cfolks.pl
 0.0.0.0 aranzujemy.co.pl
@@ -22287,6 +22291,7 @@
 0.0.0.0 www.orlenpl.roscoc.site
 0.0.0.0 www.rozmowywtokku.site
 0.0.0.0 www.safety-dellivery.site
+0.0.0.0 www.dpd-pl.sec-transaction.site
 0.0.0.0 www.servetean.site
 0.0.0.0 www.sexualdating.site
 0.0.0.0 www.smoggyorlen.site
@@ -23537,6 +23542,7 @@
 0.0.0.0 butbecause.xyz
 0.0.0.0 cennik-paczkl.xyz
 0.0.0.0 cepolska.xyz
+0.0.0.0 chingchong.xyz
 0.0.0.0 cklipce.xyz
 0.0.0.0 click-online.xyz
 0.0.0.0 colegnica.xyz
@@ -24728,6 +24734,7 @@
 0.0.0.0 www.podobnedonas.xyz
 0.0.0.0 www.podstawk.xyz
 0.0.0.0 www.podzvonimo.xyz
+0.0.0.0 www.polovane.xyz
 0.0.0.0 inpost.polska-oferdo.xyz
 0.0.0.0 www.inpost.polska-oferdo.xyz
 0.0.0.0 cct3.polska-pro1.xyz
