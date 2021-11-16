@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:03 AM Monday 15 November 2021
+# Date: 06:02 AM Tuesday 16 November 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -19540,6 +19540,8 @@
 0.0.0.0 www.inpost.pl-safety.service-secure.one
 0.0.0.0 www.pln.sms-safe.one
 0.0.0.0 www.re.sms-safe.one
+0.0.0.0 pixel.archivecaslytosk.onion
+0.0.0.0 pixel.archiveiya74codqgiixo33q62qlrqtkgmcitqx5u2oeqnmn5bpcbiyd.onion
 0.0.0.0 allegro-llokallnie.online
 0.0.0.0 bagsonsale.online
 0.0.0.0 bravoservices.online
