@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Tuesday 16 November 2021
+# Date: 06:02 AM Wednesday 17 November 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -21984,6 +21984,7 @@
 0.0.0.0 olxpl-transfer.site
 0.0.0.0 omisegonetwork.site
 0.0.0.0 online-exchange.site
+0.0.0.0 onlinemanager.site
 0.0.0.0 orlen-pl-syst.site
 0.0.0.0 pl-lotos.site
 0.0.0.0 pl-paidoffer.site
