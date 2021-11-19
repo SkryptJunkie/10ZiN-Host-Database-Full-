@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:05 AM Thursday 18 November 2021
+# Date: 06:02 AM Friday 19 November 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -23655,6 +23655,7 @@
 0.0.0.0 instacode.xyz
 0.0.0.0 jbbwtetv.xyz
 0.0.0.0 jondir.xyz
+0.0.0.0 jprvhcoroir.xyz
 0.0.0.0 juliasi.xyz
 0.0.0.0 kalota.xyz
 0.0.0.0 kapolska.xyz
