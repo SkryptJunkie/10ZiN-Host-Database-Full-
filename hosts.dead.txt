@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:03 AM Saturday 20 November 2021
+# Date: 06:02 AM Sunday 21 November 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -23547,6 +23547,7 @@
 0.0.0.0 alorians.xyz
 0.0.0.0 altyn.xyz
 0.0.0.0 aplcolutions.xyz
+0.0.0.0 aqntswfhpxwlifl.xyz
 0.0.0.0 aresboot.xyz
 0.0.0.0 atomisons.xyz
 0.0.0.0 bapakmu12.xyz
@@ -23609,6 +23610,7 @@
 0.0.0.0 ermita.xyz
 0.0.0.0 eshirt.xyz
 0.0.0.0 etherapps.xyz
+0.0.0.0 euovfldsups.xyz
 0.0.0.0 extrafastip.xyz
 0.0.0.0 facebook-account.xyz
 0.0.0.0 fastiv.xyz
@@ -23653,6 +23655,7 @@
 0.0.0.0 hulas.xyz
 0.0.0.0 icloudunlock.xyz
 0.0.0.0 instacode.xyz
+0.0.0.0 iuhtdqylroanuxg.xyz
 0.0.0.0 jbbwtetv.xyz
 0.0.0.0 jondir.xyz
 0.0.0.0 jprvhcoroir.xyz
