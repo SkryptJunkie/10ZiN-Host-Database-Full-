@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Sunday 21 November 2021
+# Date: 06:30 AM Monday 22 November 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -7892,6 +7892,7 @@
 0.0.0.0 dc.bizjournals.com
 0.0.0.0 img.bizjournals.com
 0.0.0.0 www.bizopprewards.com
+0.0.0.0 www2.blablacar.com
 0.0.0.0 oascentral.blackenterprise.com
 0.0.0.0 iad-*.blaze.com
 0.0.0.0 bserver.blick.com
@@ -8396,6 +8397,7 @@
 0.0.0.0 tour.cybererotica.com
 0.0.0.0 e5o28q264rbh.www.cybernetman.com
 0.0.0.0 mi4jdd1t8cbb.www.cybernetman.com
+0.0.0.0 ydebxdmkcaqn.www.cybernetman.com
 0.0.0.0 ads.cybertrader.com
 0.0.0.0 oascentral.cygnusb2b.com
 0.0.0.0 www.czilladx.com
@@ -9109,6 +9111,8 @@
 0.0.0.0 look.fjfiln.com
 0.0.0.0 493ro63z3fka.fjlaboratories.com
 0.0.0.0 odhu6wtcj8nv.fjlaboratories.com
+0.0.0.0 uvq11tqz3u8g.fjlaboratories.com
+0.0.0.0 m25pscvzgvdv.www.fjlaboratories.com
 0.0.0.0 m57zv59mcfkj.www.fjlaboratories.com
 0.0.0.0 psaun1b37e2k.www.fjlaboratories.com
 0.0.0.0 swt1rl9gtciq.www.fjlaboratories.com
@@ -15181,6 +15185,7 @@
 0.0.0.0 traveltogether.link
 0.0.0.0 www.eu.adyen.link
 0.0.0.0 www.koralboos.link
+0.0.0.0 www.olx-pl.painfo-221r.link
 0.0.0.0 www.pomkalo.link
 0.0.0.0 www.blablacar-pl.s-wallet.link
 0.0.0.0 www.blablacar-sk.s-wallet.link
@@ -16597,6 +16602,7 @@
 0.0.0.0 freexboxlivegoldcodes.net
 0.0.0.0 freexxxpages.net
 0.0.0.0 ftwcraft.net
+0.0.0.0 furgonetka.net
 0.0.0.0 furry-drop.net
 0.0.0.0 fxlayer.net
 0.0.0.0 g-wizzads.net
@@ -18859,6 +18865,7 @@
 0.0.0.0 www.friend-greetings.net
 0.0.0.0 ads.fulltraffic.net
 0.0.0.0 ox.furaffinity.net
+0.0.0.0 www.furgonetka.net
 0.0.0.0 ad-vanx.fuseplatform.net
 0.0.0.0 admin-portal.fuseplatform.net
 0.0.0.0 adop.fuseplatform.net
@@ -19244,6 +19251,7 @@
 0.0.0.0 dinoadserver2.roka.net
 0.0.0.0 www.rozliczenie-pradu.net
 0.0.0.0 www.kullant.ru.net
+0.0.0.0 www.tranquilboots.ru.net
 0.0.0.0 pixel.rubiconproject.net
 0.0.0.0 7x7.ruwe.net
 0.0.0.0 www.rwpads.net
@@ -19696,6 +19704,8 @@
 0.0.0.0 www.kazdyjakoszaczyna.online
 0.0.0.0 www.ke-res.online
 0.0.0.0 www.kurier-wpiata.online
+0.0.0.0 olx.lucky-pay.online
+0.0.0.0 www.olx.lucky-pay.online
 0.0.0.0 www.manipulatewer.online
 0.0.0.0 pl.mbank-cz.online
 0.0.0.0 www.mbank-cz.online
@@ -20395,6 +20405,7 @@
 0.0.0.0 www.alise.pl
 0.0.0.0 www.alisz.pl
 0.0.0.0 www.all-tube.pl
+0.0.0.0 www.aniadzi.pl
 0.0.0.0 www.apartamentytoday.pl
 0.0.0.0 www.aptecznypunkt.pl
 0.0.0.0 www.armia-pana.pl
@@ -20633,6 +20644,7 @@
 0.0.0.0 www.naturalcelltherapy.pl
 0.0.0.0 findprofile.net.pl
 0.0.0.0 zalukaj.net.pl
+0.0.0.0 www.anastazja.net.pl
 0.0.0.0 1933611911.findprofile.net.pl
 0.0.0.0 3663333633.findprofile.net.pl
 0.0.0.0 5306.findprofile.net.pl
@@ -21725,6 +21737,7 @@
 0.0.0.0 polsko-oferta.shop
 0.0.0.0 rikardesie.shop
 0.0.0.0 vectorcaremedicals.shop
+0.0.0.0 www.inpost.bezpieczna-oferta.shop
 0.0.0.0 www.delivery-merchantpln.shop
 0.0.0.0 www.erogen-x.shop
 0.0.0.0 dpd-c.fastexpress.shop
@@ -22448,10 +22461,16 @@
 0.0.0.0 www.140093.space
 0.0.0.0 www.inpost-pl.164069.space
 0.0.0.0 www.poczta-polska-pl.164069.space
+0.0.0.0 sms.vinted-pl.274182.space
+0.0.0.0 www.sms.vinted-pl.274182.space
 0.0.0.0 www.inpost-pl.477745.space
 0.0.0.0 www.74882.space
 0.0.0.0 inpost-pl.7491329.space
 0.0.0.0 www.inpost-pl.7491329.space
+0.0.0.0 inpost-pl.794534.space
+0.0.0.0 olx-pl.794534.space
+0.0.0.0 www.inpost-pl.794534.space
+0.0.0.0 www.olx-pl.794534.space
 0.0.0.0 www.855523.space
 0.0.0.0 poczta-pl.96834.space
 0.0.0.0 www.poczta-pl.96834.space
@@ -22507,6 +22526,7 @@
 0.0.0.0 www.planujswojezycieibiznes.space
 0.0.0.0 www.pokaz-mozna24.space
 0.0.0.0 www.polik.space
+0.0.0.0 www.progress-center.space
 0.0.0.0 www.rotanger.space
 0.0.0.0 www.poczta.safe-onet.space
 0.0.0.0 ahror.safin.space
@@ -22874,6 +22894,7 @@
 0.0.0.0 reklamer.com.ua
 0.0.0.0 partner.join.com.ua
 0.0.0.0 ads.mp3-online.com.ua
+0.0.0.0 www.gremlimes9.in.ua
 0.0.0.0 a.0day.kiev.ua
 0.0.0.0 hit.meta.ua
 0.0.0.0 ipkobiznes.uk
@@ -23646,6 +23667,7 @@
 0.0.0.0 heforuam.xyz
 0.0.0.0 hendbounde.xyz
 0.0.0.0 herosuby.xyz
+0.0.0.0 hgwpchwcqvf.xyz
 0.0.0.0 hodime.xyz
 0.0.0.0 holapola.xyz
 0.0.0.0 homnio.xyz
@@ -23654,6 +23676,7 @@
 0.0.0.0 htmlhubing.xyz
 0.0.0.0 hulas.xyz
 0.0.0.0 icloudunlock.xyz
+0.0.0.0 iixhmsjwjervgj.xyz
 0.0.0.0 instacode.xyz
 0.0.0.0 iuhtdqylroanuxg.xyz
 0.0.0.0 jbbwtetv.xyz
@@ -23675,6 +23698,7 @@
 0.0.0.0 kugero.xyz
 0.0.0.0 kugo.xyz
 0.0.0.0 kuponline480147.xyz
+0.0.0.0 kyhqycthhcy.xyz
 0.0.0.0 ladingde.xyz
 0.0.0.0 lasda.xyz
 0.0.0.0 leadhealth.xyz
@@ -23705,6 +23729,7 @@
 0.0.0.0 miirta.xyz
 0.0.0.0 milegodnia.xyz
 0.0.0.0 millano.xyz
+0.0.0.0 mmyjyhkiov.xyz
 0.0.0.0 mozliwosc-firmy.xyz
 0.0.0.0 mtefxnujk.xyz
 0.0.0.0 municipal-placement.xyz
@@ -23823,6 +23848,7 @@
 0.0.0.0 pl-savepost.xyz
 0.0.0.0 plinjo.xyz
 0.0.0.0 ploferta24.xyz
+0.0.0.0 pndmtgmcxnks.xyz
 0.0.0.0 pobezh.xyz
 0.0.0.0 podgdanskiem.xyz
 0.0.0.0 podgdynia.xyz
@@ -23857,6 +23883,7 @@
 0.0.0.0 rossmanie.xyz
 0.0.0.0 rotell.xyz
 0.0.0.0 rowsea.xyz
+0.0.0.0 rqoudmwlw.xyz
 0.0.0.0 rvdjybxr.xyz
 0.0.0.0 rwwynfpwdnorsg.xyz
 0.0.0.0 ryghopl.xyz
@@ -23922,6 +23949,7 @@
 0.0.0.0 vikmot.xyz
 0.0.0.0 vincenzodellavecchia.xyz
 0.0.0.0 vtvcab.xyz
+0.0.0.0 vytnnoshcvgw.xyz
 0.0.0.0 wasdas.xyz
 0.0.0.0 wawjguuy.xyz
 0.0.0.0 waytravel.xyz
@@ -24182,6 +24210,7 @@
 0.0.0.0 www.manio.xyz
 0.0.0.0 www.masac.xyz
 0.0.0.0 www.mastardo.xyz
+0.0.0.0 www.mbchainmonnba.xyz
 0.0.0.0 www.meet4love.xyz
 0.0.0.0 www.meotrego.xyz
 0.0.0.0 mmbeta.messbook.xyz
