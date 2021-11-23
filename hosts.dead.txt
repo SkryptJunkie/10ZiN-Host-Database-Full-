@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:30 AM Monday 22 November 2021
+# Date: 06:02 AM Tuesday 23 November 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -14829,6 +14829,7 @@
 0.0.0.0 zeepln.io
 0.0.0.0 a.affil.io
 0.0.0.0 track.analyticsbridge.io
+0.0.0.0 prod.bidr.io
 0.0.0.0 stinger-ad.bidr.io
 0.0.0.0 event.prod.bidr.io
 0.0.0.0 us-east-1.stinger-ad.bidr.io
@@ -23787,6 +23788,7 @@
 0.0.0.0 onet-pomocy.xyz
 0.0.0.0 onetrader.xyz
 0.0.0.0 onioq.xyz
+0.0.0.0 oottjaxnyuqt.xyz
 0.0.0.0 opritho.xyz
 0.0.0.0 oradom.xyz
 0.0.0.0 orlenhagoapl.xyz
@@ -23879,6 +23881,7 @@
 0.0.0.0 renegry.xyz
 0.0.0.0 repolsk.xyz
 0.0.0.0 rervensone.xyz
+0.0.0.0 rffrdnfwfsoid.xyz
 0.0.0.0 rococos.xyz
 0.0.0.0 rossmanie.xyz
 0.0.0.0 rotell.xyz
@@ -23907,6 +23910,7 @@
 0.0.0.0 stenosent.xyz
 0.0.0.0 stopat.xyz
 0.0.0.0 swiftinglight.xyz
+0.0.0.0 tairjrqmdkjjb.xyz
 0.0.0.0 takado.xyz
 0.0.0.0 teacriss-edlechs.xyz
 0.0.0.0 teacus.xyz
@@ -23977,6 +23981,7 @@
 0.0.0.0 wydaniefaktypofaktach.xyz
 0.0.0.0 xabeyangex.xyz
 0.0.0.0 xcena.xyz
+0.0.0.0 xemtvdrx.xyz
 0.0.0.0 yournicegirl.xyz
 0.0.0.0 zalium.xyz
 0.0.0.0 zastava.xyz
