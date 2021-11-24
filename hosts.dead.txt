@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Tuesday 23 November 2021
+# Date: 06:02 AM Wednesday 24 November 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -10334,6 +10334,7 @@
 0.0.0.0 www.meeting4you-here.com
 0.0.0.0 www.meetonlyhot.com
 0.0.0.0 www.meetsexlady2.com
+0.0.0.0 nt.meetsusolutions.com
 0.0.0.0 www.meetyour-ladyhere1.com
 0.0.0.0 cdn.mega-tags.com
 0.0.0.0 mega.vast.mega-tags.com
