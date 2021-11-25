@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Wednesday 24 November 2021
+# Date: 06:02 AM Thursday 25 November 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -23613,6 +23613,7 @@
 0.0.0.0 dersindical.xyz
 0.0.0.0 dertyn.xyz
 0.0.0.0 diesta.xyz
+0.0.0.0 dnoqfytgvhtux.xyz
 0.0.0.0 dnrwepreovuqsj.xyz
 0.0.0.0 dobrydzien.xyz
 0.0.0.0 doplac-teraz.xyz
@@ -23680,6 +23681,7 @@
 0.0.0.0 icloudunlock.xyz
 0.0.0.0 iixhmsjwjervgj.xyz
 0.0.0.0 instacode.xyz
+0.0.0.0 itcayxlwnpowlo.xyz
 0.0.0.0 iuhtdqylroanuxg.xyz
 0.0.0.0 jbbwtetv.xyz
 0.0.0.0 jondir.xyz
@@ -23887,6 +23889,7 @@
 0.0.0.0 rossmanie.xyz
 0.0.0.0 rotell.xyz
 0.0.0.0 rowsea.xyz
+0.0.0.0 rqbmritxfcfefsp.xyz
 0.0.0.0 rqoudmwlw.xyz
 0.0.0.0 rvdjybxr.xyz
 0.0.0.0 rwwynfpwdnorsg.xyz
@@ -23918,6 +23921,7 @@
 0.0.0.0 tenzamosc.xyz
 0.0.0.0 termin-odbloru.xyz
 0.0.0.0 ternoluq.xyz
+0.0.0.0 tgthmchjswws.xyz
 0.0.0.0 theplost.xyz
 0.0.0.0 thepostowanie.xyz
 0.0.0.0 theverto.xyz
