@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Thursday 25 November 2021
+# Date: 06:02 AM Friday 26 November 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -22781,6 +22781,10 @@
 0.0.0.0 topgamecrack.top
 0.0.0.0 tradebot.top
 0.0.0.0 tradecsgo.top
+0.0.0.0 uumcxajak.top
+0.0.0.0 uxrawyfinqpogkp.top
+0.0.0.0 vwkkkpjk.top
+0.0.0.0 woejyyygdvdpdgy.top
 0.0.0.0 wylotbuty.top
 0.0.0.0 you-have-0ne-messsagehe0.top
 0.0.0.0 zikdrop.top
@@ -23568,6 +23572,7 @@
 0.0.0.0 aheadfinance.xyz
 0.0.0.0 airpowers.xyz
 0.0.0.0 alorians.xyz
+0.0.0.0 alrfdtkpmxmv.xyz
 0.0.0.0 altyn.xyz
 0.0.0.0 aplcolutions.xyz
 0.0.0.0 aqntswfhpxwlifl.xyz
@@ -23944,6 +23949,7 @@
 0.0.0.0 tvoyagrupa.xyz
 0.0.0.0 twojpakunek.xyz
 0.0.0.0 typedash.xyz
+0.0.0.0 ufyiqypf.xyz
 0.0.0.0 uhoklin.xyz
 0.0.0.0 ultraministry.xyz
 0.0.0.0 ultramole.xyz
