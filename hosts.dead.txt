@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Friday 26 November 2021
+# Date: 06:02 AM Saturday 27 November 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -13561,6 +13561,7 @@
 0.0.0.0 m-order.fun
 0.0.0.0 oaoiqwhodbfkwe.fun
 0.0.0.0 oisugfoiwuhowe.fun
+0.0.0.0 photo-blog.fun
 0.0.0.0 pl-papajohns.fun
 0.0.0.0 properatersch.fun
 0.0.0.0 sdofierre.fun
@@ -22745,6 +22746,7 @@
 0.0.0.0 dobrzebuty.top
 0.0.0.0 eatmenticha.top
 0.0.0.0 entiethmenti.top
+0.0.0.0 eoeoxemiyckg.top
 0.0.0.0 epic-drop.top
 0.0.0.0 galaxydrop.top
 0.0.0.0 genergyothe.top
@@ -22772,6 +22774,7 @@
 0.0.0.0 olqdh.top
 0.0.0.0 pokemongogiveaways.top
 0.0.0.0 privatix.top
+0.0.0.0 qqchmapkqumvetl.top
 0.0.0.0 relatable.top
 0.0.0.0 sklepbuty.top
 0.0.0.0 skydrop.top
@@ -23227,6 +23230,7 @@
 0.0.0.0 lili24.website
 0.0.0.0 lookitupnow.website
 0.0.0.0 machine-err0r-dial-startup-sdd.website
+0.0.0.0 mizban.website
 0.0.0.0 nicniemusiszalemozesz.website
 0.0.0.0 novapolskasensnacja.website
 0.0.0.0 odnasdokladniedlawas.website
@@ -23954,6 +23958,7 @@
 0.0.0.0 ultraministry.xyz
 0.0.0.0 ultramole.xyz
 0.0.0.0 unlockers.xyz
+0.0.0.0 uqcxdtodqv.xyz
 0.0.0.0 urbani.xyz
 0.0.0.0 urbanie.xyz
 0.0.0.0 uregulowanie-naleznosci-24.xyz
