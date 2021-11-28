@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Saturday 27 November 2021
+# Date: 06:02 AM Sunday 28 November 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -10368,6 +10368,7 @@
 0.0.0.0 affiliates.mgmmirage.com
 0.0.0.0 ads.mgnetwork.com
 0.0.0.0 te.mgnetwork.com
+0.0.0.0 log.mgtv.com
 0.0.0.0 staging.admin.e.mi.com
 0.0.0.0 browser.mi-img.com
 0.0.0.0 track.mia-base.com
@@ -22789,6 +22790,7 @@
 0.0.0.0 vwkkkpjk.top
 0.0.0.0 woejyyygdvdpdgy.top
 0.0.0.0 wylotbuty.top
+0.0.0.0 xafcgsfxkhavry.top
 0.0.0.0 you-have-0ne-messsagehe0.top
 0.0.0.0 zikdrop.top
 0.0.0.0 free-movies.3xp4e3kno6.top
