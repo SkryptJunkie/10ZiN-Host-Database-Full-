@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Sunday 28 November 2021
+# Date: 06:02 AM Monday 29 November 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -13686,6 +13686,7 @@
 0.0.0.0 energetyczna.host
 0.0.0.0 favgroup.host
 0.0.0.0 irina.host
+0.0.0.0 mavrodi.host
 0.0.0.0 milas.host
 0.0.0.0 platnosc-posylka.host
 0.0.0.0 privateclub.host
