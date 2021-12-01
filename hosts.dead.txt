@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:09 AM Tuesday 30 November 2021
+# Date: 06:04 AM Wednesday 01 December 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -513,6 +513,7 @@
 0.0.0.0 macconsorcioscom.br
 0.0.0.0 aclmagazine.com.br
 0.0.0.0 adsr3pg.com.br
+0.0.0.0 estudosadistancia.com.br
 0.0.0.0 globalro.com.br
 0.0.0.0 phorm.com.br
 0.0.0.0 pslrn.com.br
@@ -8539,6 +8540,8 @@
 0.0.0.0 www.creativegofd1c1blogd98bd9dfc5b.com
 0.0.0.0 ads.creativematch.com
 0.0.0.0 kiskegyed.creatorword.com
+0.0.0.0 makeonline.crewcarelogistics.com
+0.0.0.0 www.makeonline.crewcarelogistics.com
 0.0.0.0 ads.cricbuzz.com
 0.0.0.0 ads1.cricbuzz.com
 0.0.0.0 oascentral.crimelibrary.com
@@ -8847,6 +8850,7 @@
 0.0.0.0 oascentral.encyclopedia.com
 0.0.0.0 www.enddebtharassment.com
 0.0.0.0 trk.enecto.com
+0.0.0.0 nord-vpn.energia-wesolve.com
 0.0.0.0 b.engadget.com
 0.0.0.0 ext1.engageya.com
 0.0.0.0 c.enhance.com
@@ -23106,6 +23110,7 @@
 0.0.0.0 apple-id-cziphone.top
 0.0.0.0 ariatpolska.top
 0.0.0.0 bongadrop.top
+0.0.0.0 bonisiple.top
 0.0.0.0 crewardscyprus.top
 0.0.0.0 crllmzsy.top
 0.0.0.0 crocspromocja.top
@@ -23117,6 +23122,7 @@
 0.0.0.0 csgoneo.top
 0.0.0.0 csgoswaps.top
 0.0.0.0 cstrader.top
+0.0.0.0 diuikhnmpdu.top
 0.0.0.0 dobrzebuty.top
 0.0.0.0 eatmenticha.top
 0.0.0.0 entiethmenti.top
@@ -23136,11 +23142,13 @@
 0.0.0.0 inpost-paczka.top
 0.0.0.0 instamore.top
 0.0.0.0 kkukrstvykj.top
+0.0.0.0 krmwbimfpndwui.top
 0.0.0.0 licitventiethv.top
 0.0.0.0 lightdrop.top
 0.0.0.0 localsexy11.top
 0.0.0.0 macheaper.top
 0.0.0.0 mahiwal18.top
+0.0.0.0 manurabos.top
 0.0.0.0 mydiatec.top
 0.0.0.0 nowoffer.top
 0.0.0.0 numdfs.top
@@ -23151,6 +23159,7 @@
 0.0.0.0 privatix.top
 0.0.0.0 qqchmapkqumvetl.top
 0.0.0.0 relatable.top
+0.0.0.0 remnjkim.top
 0.0.0.0 sklepbuty.top
 0.0.0.0 skydrop.top
 0.0.0.0 sundrop.top
@@ -24082,6 +24091,7 @@
 0.0.0.0 fifa16freecoins.xyz
 0.0.0.0 fkart.xyz
 0.0.0.0 flaster.xyz
+0.0.0.0 flriorwf.xyz
 0.0.0.0 foodeezone.xyz
 0.0.0.0 forumpoznan.xyz
 0.0.0.0 freeclashofclansresourcesgenerators.xyz
@@ -24159,6 +24169,7 @@
 0.0.0.0 lotkopty.xyz
 0.0.0.0 loutam.xyz
 0.0.0.0 lovare.xyz
+0.0.0.0 lqbrelfmigiqv.xyz
 0.0.0.0 maddenmobilehackcheats.xyz
 0.0.0.0 mahieutin.xyz
 0.0.0.0 mails4all.xyz
@@ -24317,6 +24328,7 @@
 0.0.0.0 poznanie.xyz
 0.0.0.0 prismaliquld.xyz
 0.0.0.0 probabday.xyz
+0.0.0.0 qiqoyogx.xyz
 0.0.0.0 quantro.xyz
 0.0.0.0 rabotami.xyz
 0.0.0.0 raccourir.xyz
@@ -24347,6 +24359,7 @@
 0.0.0.0 seobookmark.xyz
 0.0.0.0 showmovie.xyz
 0.0.0.0 siteis.xyz
+0.0.0.0 sjlnavdtlyxu.xyz
 0.0.0.0 slooom.xyz
 0.0.0.0 snohmtegam.xyz
 0.0.0.0 socialclub55.xyz
@@ -24358,6 +24371,7 @@
 0.0.0.0 swiftinglight.xyz
 0.0.0.0 tairjrqmdkjjb.xyz
 0.0.0.0 takado.xyz
+0.0.0.0 teachingcenter.xyz
 0.0.0.0 teacriss-edlechs.xyz
 0.0.0.0 teacus.xyz
 0.0.0.0 tenzamosc.xyz
