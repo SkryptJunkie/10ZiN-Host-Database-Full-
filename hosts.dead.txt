@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:04 AM Wednesday 01 December 2021
+# Date: 06:03 AM Thursday 02 December 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -12354,7 +12354,9 @@
 0.0.0.0 adserver.viagogo.com
 0.0.0.0 www.viagra-home.com
 0.0.0.0 affiliate.viator.com
+0.0.0.0 locp-ir.viber.com
 0.0.0.0 ads.aws.viber.com
+0.0.0.0 ads.cdn.viber.com
 0.0.0.0 itxt.vibrantmedia.com
 0.0.0.0 usads.vibrantmedia.com
 0.0.0.0 ads.victoriaadvocate.com
@@ -24139,6 +24141,7 @@
 0.0.0.0 kalota.xyz
 0.0.0.0 kapolska.xyz
 0.0.0.0 karteli.xyz
+0.0.0.0 kgdocoxt.xyz
 0.0.0.0 kilowo.xyz
 0.0.0.0 kladowa.xyz
 0.0.0.0 klinko24.xyz
