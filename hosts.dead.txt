@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Friday 03 December 2021
+# Date: 06:03 AM Saturday 04 December 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -2805,6 +2805,7 @@
 0.0.0.0 50dollargiftcard.com
 0.0.0.0 50nuancesdegrey-lefilm-vf.com
 0.0.0.0 521e8140df2aa97.com
+0.0.0.0 5df48854b1.com
 0.0.0.0 5pr1sfzsl9.com
 0.0.0.0 5x5i5tj2u97w.com
 0.0.0.0 60pictures.com
@@ -3265,6 +3266,7 @@
 0.0.0.0 c2280b9a3b4c.com
 0.0.0.0 c2path.com
 0.0.0.0 c43dc32a8c0.com
+0.0.0.0 c9e5089374.com
 0.0.0.0 c9f1b98644.com
 0.0.0.0 ca24-login.com
 0.0.0.0 ca24-logowanie.com
@@ -22434,6 +22436,7 @@
 0.0.0.0 wszystkodoobbrzepolska.site
 0.0.0.0 wygrajjzyciie.site
 0.0.0.0 yhoiport.site
+0.0.0.0 yollowsun.site
 0.0.0.0 yspicb.site
 0.0.0.0 zorientujsiewtemacie.site
 0.0.0.0 zrethol.site
@@ -22740,6 +22743,7 @@
 0.0.0.0 www.wszystkodoobbrzepolska.site
 0.0.0.0 www.wygrajjzyciie.site
 0.0.0.0 www.yhoiport.site
+0.0.0.0 df.yollowsun.site
 0.0.0.0 www.zorientujsiewtemacie.site
 0.0.0.0 www.zrethol.site
 0.0.0.0 najautobaterie.sk
@@ -23112,6 +23116,7 @@
 0.0.0.0 apple-icloud-lost.top
 0.0.0.0 apple-id-cziphone.top
 0.0.0.0 ariatpolska.top
+0.0.0.0 bklbgojd.top
 0.0.0.0 bongadrop.top
 0.0.0.0 bonisiple.top
 0.0.0.0 crewardscyprus.top
@@ -23174,6 +23179,7 @@
 0.0.0.0 uumcxajak.top
 0.0.0.0 uxrawyfinqpogkp.top
 0.0.0.0 vwkkkpjk.top
+0.0.0.0 wnedmpewmyv.top
 0.0.0.0 woejyyygdvdpdgy.top
 0.0.0.0 wylotbuty.top
 0.0.0.0 xafcgsfxkhavry.top
@@ -24059,6 +24065,7 @@
 0.0.0.0 derpost.xyz
 0.0.0.0 dersindical.xyz
 0.0.0.0 dertyn.xyz
+0.0.0.0 dfhchdbnhayw.xyz
 0.0.0.0 diesta.xyz
 0.0.0.0 dnoqfytgvhtux.xyz
 0.0.0.0 dnrwepreovuqsj.xyz
@@ -24106,6 +24113,7 @@
 0.0.0.0 gedos.xyz
 0.0.0.0 geminies.xyz
 0.0.0.0 geniusfund.xyz
+0.0.0.0 ggiiccahqryslp.xyz
 0.0.0.0 googlesierai.xyz
 0.0.0.0 gorettent.xyz
 0.0.0.0 grabpokecoins.xyz
@@ -24451,6 +24459,7 @@
 0.0.0.0 xcena.xyz
 0.0.0.0 xemtvdrx.xyz
 0.0.0.0 xkuoleawntycfoq.xyz
+0.0.0.0 ybgduoac.xyz
 0.0.0.0 yournicegirl.xyz
 0.0.0.0 zalium.xyz
 0.0.0.0 zastava.xyz
