@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:03 AM Saturday 04 December 2021
+# Date: 06:02 AM Sunday 05 December 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -11,6 +11,7 @@
 ###
 
 
+0.0.0.0 collector.hamsterix.*
 0.0.0.0 version="1.0"
 0.0.0.0 213.32.101.1525
 0.0.0.0 eos.ac
@@ -23119,6 +23120,7 @@
 0.0.0.0 bklbgojd.top
 0.0.0.0 bongadrop.top
 0.0.0.0 bonisiple.top
+0.0.0.0 cixyuvcwifp.top
 0.0.0.0 crewardscyprus.top
 0.0.0.0 crllmzsy.top
 0.0.0.0 crocspromocja.top
@@ -24138,6 +24140,7 @@
 0.0.0.0 htmlhubing.xyz
 0.0.0.0 hulas.xyz
 0.0.0.0 icloudunlock.xyz
+0.0.0.0 igvhhdyr.xyz
 0.0.0.0 iixhmsjwjervgj.xyz
 0.0.0.0 instacode.xyz
 0.0.0.0 itcayxlwnpowlo.xyz
@@ -24160,6 +24163,7 @@
 0.0.0.0 kontopl.xyz
 0.0.0.0 korespodencja-platnosc.xyz
 0.0.0.0 krasovice.xyz
+0.0.0.0 ksqnrkhrvoxjclr.xyz
 0.0.0.0 kugero.xyz
 0.0.0.0 kugo.xyz
 0.0.0.0 kuponline480147.xyz
@@ -24287,6 +24291,7 @@
 0.0.0.0 orlenpromogfagim.xyz
 0.0.0.0 osmovie.xyz
 0.0.0.0 oulipiste.xyz
+0.0.0.0 owrpeyfdbg.xyz
 0.0.0.0 pacificnet.xyz
 0.0.0.0 pandapopcheats.xyz
 0.0.0.0 parkevish.xyz
@@ -24358,6 +24363,7 @@
 0.0.0.0 rqoudmwlw.xyz
 0.0.0.0 rvdjybxr.xyz
 0.0.0.0 rwwynfpwdnorsg.xyz
+0.0.0.0 rxsvyxhwkxqgj.xyz
 0.0.0.0 ryghopl.xyz
 0.0.0.0 s4d.xyz
 0.0.0.0 samtegoniezrobiisz.xyz
@@ -24369,6 +24375,7 @@
 0.0.0.0 securitas611maximus.xyz
 0.0.0.0 seloskaz.xyz
 0.0.0.0 seobookmark.xyz
+0.0.0.0 sglsccpjqnummmg.xyz
 0.0.0.0 showmovie.xyz
 0.0.0.0 siteis.xyz
 0.0.0.0 sjlnavdtlyxu.xyz
@@ -24461,6 +24468,7 @@
 0.0.0.0 xkuoleawntycfoq.xyz
 0.0.0.0 ybgduoac.xyz
 0.0.0.0 yournicegirl.xyz
+0.0.0.0 yphlxtsgnpq.xyz
 0.0.0.0 zalium.xyz
 0.0.0.0 zastava.xyz
 0.0.0.0 zenj.xyz
