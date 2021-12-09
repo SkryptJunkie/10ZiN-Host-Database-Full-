@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:03 AM Wednesday 08 December 2021
+# Date: 06:02 AM Thursday 09 December 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -14183,6 +14183,7 @@
 0.0.0.0 odhu6wtcj8nv.fjlaboratories.com
 0.0.0.0 u7eij7sroji7.fjlaboratories.com
 0.0.0.0 uvq11tqz3u8g.fjlaboratories.com
+0.0.0.0 v87p9d3uxu13.fjlaboratories.com
 0.0.0.0 vpm4dla7q83q.fjlaboratories.com
 0.0.0.0 wy886nacmkg2.fjlaboratories.com
 0.0.0.0 m25pscvzgvdv.www.fjlaboratories.com
@@ -27301,6 +27302,7 @@
 0.0.0.0 definicjabiznesu.online
 0.0.0.0 deninno70.online
 0.0.0.0 desgroup.online
+0.0.0.0 digitalhardik.online
 0.0.0.0 dimestore.online
 0.0.0.0 dostava24.online
 0.0.0.0 dota2traders.online
@@ -27320,6 +27322,7 @@
 0.0.0.0 foundation-education.online
 0.0.0.0 foundation-newbussines.online
 0.0.0.0 foundation-newedu.online
+0.0.0.0 foursigns.online
 0.0.0.0 free-dating-girls.online
 0.0.0.0 gameargon.online
 0.0.0.0 garminupdatenow.online
@@ -27576,6 +27579,7 @@
 0.0.0.0 www.regulamin-email.online
 0.0.0.0 www.regulamin-mail.online
 0.0.0.0 www.rich-pay.online
+0.0.0.0 insurance.showcase-dengage.online
 0.0.0.0 www.sitebetsmarts.online
 0.0.0.0 www.skyflip.online
 0.0.0.0 www.superpozhta.online
