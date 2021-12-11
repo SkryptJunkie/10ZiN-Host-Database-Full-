@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:07 AM Friday 10 December 2021
+# Date: 06:02 AM Saturday 11 December 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -3268,6 +3268,7 @@
 0.0.0.0 lndnserror6.wo.com.cn
 0.0.0.0 lndnserror7.wo.com.cn
 0.0.0.0 wap.cttol.cn
+0.0.0.0 datacollector-dra.dt.dbankcloud.cn
 0.0.0.0 photo.domainrank.cn
 0.0.0.0 c.domob.cn
 0.0.0.0 r.domob.cn
@@ -8450,6 +8451,7 @@
 0.0.0.0 ntadnddfgogpse.com
 0.0.0.0 nthfundog.com
 0.0.0.0 nuclearpurposely.com
+0.0.0.0 nuclef.com
 0.0.0.0 nude-webcams.com
 0.0.0.0 nuevotristan.com
 0.0.0.0 nuibunsonglong.com
@@ -13813,6 +13815,7 @@
 0.0.0.0 www.experclick.com
 0.0.0.0 tracking.experience.com
 0.0.0.0 www.experteerads.com
+0.0.0.0 boombit-api.exponea.com
 0.0.0.0 www.expresovo.com
 0.0.0.0 banners.expressindia.com
 0.0.0.0 www.expresspaczki.com
@@ -34077,6 +34080,7 @@
 0.0.0.0 aheadfinance.xyz
 0.0.0.0 aliclonepro.xyz
 0.0.0.0 alientrust.xyz
+0.0.0.0 alkmxckjqnghn.xyz
 0.0.0.0 alrfdtkpmxmv.xyz
 0.0.0.0 amzon-241512.xyz
 0.0.0.0 andorranisas.xyz
@@ -34659,6 +34663,7 @@
 0.0.0.0 reurbanisant.xyz
 0.0.0.0 reviolenteriez.xyz
 0.0.0.0 rffrdnfwfsoid.xyz
+0.0.0.0 rhrfjehy.xyz
 0.0.0.0 rlbbvrcnu.xyz
 0.0.0.0 rljgidrfcnir.xyz
 0.0.0.0 rokomo.xyz
