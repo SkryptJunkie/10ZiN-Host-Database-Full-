@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Sunday 12 December 2021
+# Date: 06:02 AM Monday 13 December 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -12024,6 +12024,7 @@
 0.0.0.0 www.ec2-35-178-235-52.eu-west-2.compute.amazonaws.com
 0.0.0.0 www.ec2-15-237-117-139.eu-west-3.compute.amazonaws.com
 0.0.0.0 www.ec2-35-180-127-210.eu-west-3.compute.amazonaws.com
+0.0.0.0 www.ec2-52-47-123-197.eu-west-3.compute.amazonaws.com
 0.0.0.0 vtnlog-*.elb.amazonaws.com
 0.0.0.0 www.asdasda-1426585087.eu-central-1.elb.amazonaws.com
 0.0.0.0 engagement-bus-prod-713264365.us-east-1.elb.amazonaws.com
@@ -14186,6 +14187,7 @@
 0.0.0.0 www.filmobo.com
 0.0.0.0 demr.opt.fimserve.com
 0.0.0.0 desk.opt.fimserve.com
+0.0.0.0 www.final-technology.com
 0.0.0.0 www.financejoin.com
 0.0.0.0 www.financial-advice-books.com
 0.0.0.0 bitcoinscodepro.financialmarketsworld.com
@@ -14569,6 +14571,7 @@
 0.0.0.0 personalization.centech.glulive.com
 0.0.0.0 revid.centech.glulive.com
 0.0.0.0 track.msadcenter.gmiy.com
+0.0.0.0 www.gnawinglymunicipalizing.com
 0.0.0.0 www.gns-cm.com
 0.0.0.0 www.gns-consola.com
 0.0.0.0 3ps.go.com
@@ -16440,6 +16443,7 @@
 0.0.0.0 www.northgabandtuxes.com
 0.0.0.0 www.nosnore-pl.com
 0.0.0.0 www.nothing-but-value.com
+0.0.0.0 www.inpost-pl-safe.notification-eu.com
 0.0.0.0 www.novainvests.com
 0.0.0.0 svisitor.pharma.us.novartis.com
 0.0.0.0 www.nowgifttown.com
@@ -20772,6 +20776,7 @@
 0.0.0.0 www.inpost-pl.id685932.icu
 0.0.0.0 olx-pl.id839421.icu
 0.0.0.0 www.olx-pl.id839421.icu
+0.0.0.0 www.inpostpl.kontonline-me5125.icu
 0.0.0.0 www.top.naturgood.icu
 0.0.0.0 firefox.net-secure-update.icu
 0.0.0.0 www.inpost-pl.offering-pay.icu
@@ -32215,13 +32220,18 @@
 0.0.0.0 olx-pl.549084.space
 0.0.0.0 www.olx-pl.549084.space
 0.0.0.0 www.58732.space
+0.0.0.0 www.olx.657448.space
 0.0.0.0 www.6839312.space
+0.0.0.0 www.inpost-pl.732490.space
+0.0.0.0 www.dpd-pl.740374.space
 0.0.0.0 www.74882.space
+0.0.0.0 www.poczta-polska-pl.77544.space
 0.0.0.0 inpost-pl.785923.space
 0.0.0.0 www.inpost-pl.785923.space
 0.0.0.0 www.855523.space
 0.0.0.0 olx.856436.space
 0.0.0.0 www.olx.856436.space
+0.0.0.0 www.inpost-pl.876584.space
 0.0.0.0 allegrolokalnie-pl.88654.space
 0.0.0.0 www.allegrolokalnie-pl.88654.space
 0.0.0.0 sms.vinted-pl.94382.space
@@ -33625,7 +33635,13 @@
 0.0.0.0 d0007starpage.co.vu
 0.0.0.0 eljunkszabadon.co.vu
 0.0.0.0 hotpixel.co.vu
+0.0.0.0 www.aswsdpagesah.co.vu
 0.0.0.0 www.d0007starpage.co.vu
+0.0.0.0 www.leitetanksejati.co.vu
+0.0.0.0 www.marmalming.co.vu
+0.0.0.0 www.marmalming1.co.vu
+0.0.0.0 www.marmalming2.co.vu
+0.0.0.0 www.marsingboloung.co.vu
 0.0.0.0 buy-vicodin.dd.vu
 0.0.0.0 adboost.de.vu
 0.0.0.0 dl.neodownload.webcam
@@ -34138,6 +34154,7 @@
 0.0.0.0 covidflix19.xyz
 0.0.0.0 cp2srvng.xyz
 0.0.0.0 craqueteriez.xyz
+0.0.0.0 cugylkeqvdfrwi.xyz
 0.0.0.0 cuse.xyz
 0.0.0.0 czesc.xyz
 0.0.0.0 d99sure.xyz
@@ -34213,6 +34230,7 @@
 0.0.0.0 forumpoznan.xyz
 0.0.0.0 freeclashofclansresourcesgenerators.xyz
 0.0.0.0 freeforward.xyz
+0.0.0.0 furqlnidq.xyz
 0.0.0.0 fwlrdkhh.xyz
 0.0.0.0 game-tools.xyz
 0.0.0.0 gamercenter.xyz
@@ -34308,6 +34326,7 @@
 0.0.0.0 kontopl.xyz
 0.0.0.0 kopter.xyz
 0.0.0.0 korespodencja-platnosc.xyz
+0.0.0.0 kqkimvrqxf.xyz
 0.0.0.0 ksqnrkhrvoxjclr.xyz
 0.0.0.0 kuponline480147.xyz
 0.0.0.0 kyhqycthhcy.xyz
@@ -34569,6 +34588,7 @@
 0.0.0.0 oulipiste.xyz
 0.0.0.0 outstandlpopi.xyz
 0.0.0.0 owrpeyfdbg.xyz
+0.0.0.0 oxcstaahgqlyani.xyz
 0.0.0.0 pachminas.xyz
 0.0.0.0 pacificnet.xyz
 0.0.0.0 pakunek.xyz
@@ -34629,6 +34649,8 @@
 0.0.0.0 pseudoreseaux.xyz
 0.0.0.0 pymsqjixir.xyz
 0.0.0.0 pyroguanites.xyz
+0.0.0.0 qaxkfmexoqy.xyz
+0.0.0.0 qcqirqaqdq.xyz
 0.0.0.0 qiqoyogx.xyz
 0.0.0.0 quantical.xyz
 0.0.0.0 quantro.xyz
@@ -34701,6 +34723,7 @@
 0.0.0.0 shiltern.xyz
 0.0.0.0 shopdocuments.xyz
 0.0.0.0 showmovie.xyz
+0.0.0.0 shuxqvgp.xyz
 0.0.0.0 simonbird.xyz
 0.0.0.0 siteis.xyz
 0.0.0.0 sjlnavdtlyxu.xyz
@@ -34842,6 +34865,7 @@
 0.0.0.0 worldstravel.xyz
 0.0.0.0 woundred.xyz
 0.0.0.0 wowreally.xyz
+0.0.0.0 wqxnbtlvo.xyz
 0.0.0.0 writeratic.xyz
 0.0.0.0 wsparcie.xyz
 0.0.0.0 wstrzymana-paczka-paczkomat.xyz
@@ -34885,10 +34909,13 @@
 0.0.0.0 www.4k.123moviesfox.xyz
 0.0.0.0 secure.160117rd.xyz
 0.0.0.0 www.27careers.xyz
+0.0.0.0 www.inpost-pl.4876134-pieniadze-info.xyz
 0.0.0.0 www.inpost-pl.5476128-order.xyz
+0.0.0.0 www.dpd-pl.5691597-pieniadze-info.xyz
 0.0.0.0 j9yvvyc.591books.xyz
 0.0.0.0 www.j9yvvyc.591books.xyz
 0.0.0.0 www.84blog.xyz
+0.0.0.0 www.inpost-pl.9473873-info-mycash.xyz
 0.0.0.0 d3.adsplay.xyz
 0.0.0.0 d6.adsplay.xyz
 0.0.0.0 log3.adsplay.xyz
@@ -35153,6 +35180,8 @@
 0.0.0.0 www.niedovviarypolska.xyz
 0.0.0.0 www.niepsodziewanki24.xyz
 0.0.0.0 www.noromendo.xyz
+0.0.0.0 www.inpost-pl.notification-sender.xyz
+0.0.0.0 www.inpost-pl-safe.notification-sender.xyz
 0.0.0.0 www.nowapoczta.xyz
 0.0.0.0 www.oblodno.xyz
 0.0.0.0 www.oferta000123.xyz
@@ -36592,6 +36621,17 @@
 0.0.0.0 www.xokldfa3rmogi9gkdsp.xyz
 0.0.0.0 www.youorlen.xyz
 0.0.0.0 www.yournicegirl.xyz
+0.0.0.0 www.yuchaingijnejr.xyz
+0.0.0.0 www.yuchaingijneoi.xyz
+0.0.0.0 www.yuchaingijneor.xyz
+0.0.0.0 www.yuchaingijngij.xyz
+0.0.0.0 www.yuchaingijnypr.xyz
+0.0.0.0 www.yuchaintuebbc.xyz
+0.0.0.0 www.yuchaintuebcz.xyz
+0.0.0.0 www.yuchaintuebfr.xyz
+0.0.0.0 www.yuchaintuebot.xyz
+0.0.0.0 www.yuchaintuebra.xyz
+0.0.0.0 www.yuchaintuebro.xyz
 0.0.0.0 www.yusta.xyz
 0.0.0.0 www.zaplac-paczkomat24.xyz
 0.0.0.0 www.zapllac-teraz-inpost.xyz
