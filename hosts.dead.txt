@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Monday 13 December 2021
+# Date: 06:03 AM Tuesday 14 December 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -2158,6 +2158,7 @@
 0.0.0.0 www.inpost-pl-safe.id-safety.click
 0.0.0.0 sg.lansweeps.click
 0.0.0.0 www.lumos.click
+0.0.0.0 www.dpd-pl.przeslanie-pndz.click
 0.0.0.0 www.szybkie.click
 0.0.0.0 www.thegroup.click
 0.0.0.0 allegrolokalnie.cloud
@@ -11776,6 +11777,7 @@
 0.0.0.0 www.advancedmactools.com
 0.0.0.0 www.advancedsoftwaresupport.com
 0.0.0.0 www.adventuresinnetmarketing.com
+0.0.0.0 tng0r8sd8p1n.boxoffice.adventuretix.com
 0.0.0.0 exityield.advertise.com
 0.0.0.0 ads.advertisespace.com
 0.0.0.0 adserver.advertisespace.com
@@ -12025,6 +12027,7 @@
 0.0.0.0 www.ec2-15-237-117-139.eu-west-3.compute.amazonaws.com
 0.0.0.0 www.ec2-35-180-127-210.eu-west-3.compute.amazonaws.com
 0.0.0.0 www.ec2-52-47-123-197.eu-west-3.compute.amazonaws.com
+0.0.0.0 www.ec2-54-149-151-196.us-west-2.compute.amazonaws.com
 0.0.0.0 vtnlog-*.elb.amazonaws.com
 0.0.0.0 www.asdasda-1426585087.eu-central-1.elb.amazonaws.com
 0.0.0.0 engagement-bus-prod-713264365.us-east-1.elb.amazonaws.com
@@ -12218,6 +12221,7 @@
 0.0.0.0 livestats.atlanta-airport.com
 0.0.0.0 ads.atlantamotorspeedway.com
 0.0.0.0 www.atlantol.com
+0.0.0.0 ivshamxknklc.www.atlaslane.com
 0.0.0.0 www.atpanel.com
 0.0.0.0 www.att91.com
 0.0.0.0 www.atto365.com
@@ -15721,6 +15725,7 @@
 0.0.0.0 www.loltrk.com
 0.0.0.0 c.lomadee.com
 0.0.0.0 www.longshotnews.com
+0.0.0.0 www.looking4fuck.com
 0.0.0.0 www.looknetflix.com
 0.0.0.0 banners.looksmart.com
 0.0.0.0 beseenad.looksmart.com
@@ -28851,6 +28856,7 @@
 0.0.0.0 www.catnip.pl
 0.0.0.0 www.cdpa.pl
 0.0.0.0 www.dhl-track.cfolks.pl
+0.0.0.0 www.service-kunde.cfolks.pl
 0.0.0.0 www.chlopaki-do-wziecia.pl
 0.0.0.0 www.chuckbutyonline.pl
 0.0.0.0 www.ciaglebrak.pl
@@ -30604,6 +30610,7 @@
 0.0.0.0 zigzagkazino.ru
 0.0.0.0 sochi.095hotel.ru
 0.0.0.0 vk.18sexporn.ru
+0.0.0.0 www.hu.2021store.ru
 0.0.0.0 www.7thlegion.ru
 0.0.0.0 jur.unn.ac.ru
 0.0.0.0 buy-adipex.aca.ru
@@ -31480,6 +31487,7 @@
 0.0.0.0 monogronto.site
 0.0.0.0 movieskub.site
 0.0.0.0 naszepieknemiasstto.site
+0.0.0.0 nathanielhawthorne.site
 0.0.0.0 newsproduct.site
 0.0.0.0 nobodyinfinity.site
 0.0.0.0 nowinka786.site
@@ -32225,6 +32233,7 @@
 0.0.0.0 www.inpost-pl.732490.space
 0.0.0.0 www.dpd-pl.740374.space
 0.0.0.0 www.74882.space
+0.0.0.0 www.dpd.756347.space
 0.0.0.0 www.poczta-polska-pl.77544.space
 0.0.0.0 inpost-pl.785923.space
 0.0.0.0 www.inpost-pl.785923.space
@@ -33638,10 +33647,13 @@
 0.0.0.0 www.aswsdpagesah.co.vu
 0.0.0.0 www.d0007starpage.co.vu
 0.0.0.0 www.leitetanksejati.co.vu
+0.0.0.0 www.marhitasuragit.co.vu
 0.0.0.0 www.marmalming.co.vu
 0.0.0.0 www.marmalming1.co.vu
 0.0.0.0 www.marmalming2.co.vu
 0.0.0.0 www.marsingboloung.co.vu
+0.0.0.0 www.martalunghabitats.co.vu
+0.0.0.0 www.pikiranmsjsdg.co.vu
 0.0.0.0 buy-vicodin.dd.vu
 0.0.0.0 adboost.de.vu
 0.0.0.0 dl.neodownload.webcam
@@ -34091,6 +34103,7 @@
 0.0.0.0 adblockdetect.xyz
 0.0.0.0 adjectivates.xyz
 0.0.0.0 adobeflashplayerb.xyz
+0.0.0.0 aejwwnkhulyqi.xyz
 0.0.0.0 afekiryj.xyz
 0.0.0.0 afsasdfa33.xyz
 0.0.0.0 aheadfinance.xyz
@@ -34925,6 +34938,7 @@
 0.0.0.0 www.nws.amsonk0in.xyz
 0.0.0.0 www.wk.amsonk0in.xyz
 0.0.0.0 sandbox.anjasmara.xyz
+0.0.0.0 agent.apacheorg.xyz
 0.0.0.0 www.aplcolutions.xyz
 0.0.0.0 www.applejuice.xyz
 0.0.0.0 booking.autopayed.xyz
@@ -35014,6 +35028,12 @@
 0.0.0.0 www.doplac-teraz.xyz
 0.0.0.0 www.doplac-teraz24.xyz
 0.0.0.0 www.doslaska.xyz
+0.0.0.0 dpdpl.dostawa-obdior-9874536.xyz
+0.0.0.0 lnpostpl.dostawa-obdior-9874536.xyz
+0.0.0.0 www.dpdpl.dostawa-obdior-9874536.xyz
+0.0.0.0 www.lnpostpl.dostawa-obdior-9874536.xyz
+0.0.0.0 www.dpdpl.dostawa-order-6744132.xyz
+0.0.0.0 www.dpdpi.dostawa-polska-789436532.xyz
 0.0.0.0 www.dtrck.xyz
 0.0.0.0 www.dziiendobrypollska.xyz
 0.0.0.0 www.dzisiejszyszczecin.xyz
@@ -35061,6 +35081,7 @@
 0.0.0.0 www.id3439549515.xyz
 0.0.0.0 www.imcamilla.xyz
 0.0.0.0 www.infbiztr.xyz
+0.0.0.0 www.lnpostpl.info-dostawa-46378232.xyz
 0.0.0.0 www.inpost-pl.info-trackcode-id565732.xyz
 0.0.0.0 www.inpost-pl.info-trackcode-id789543.xyz
 0.0.0.0 www.infobore.xyz
@@ -35161,6 +35182,7 @@
 0.0.0.0 www.musimypomoc.xyz
 0.0.0.0 open.muskprogram.xyz
 0.0.0.0 www.open.muskprogram.xyz
+0.0.0.0 www.myorder-info-984636.xyz
 0.0.0.0 inpost.myowndostawa24.xyz
 0.0.0.0 olx.myowndostawa24.xyz
 0.0.0.0 olx-pl.myowndostawa24.xyz
@@ -35246,6 +35268,7 @@
 0.0.0.0 youtube.dwis.onomovie.xyz
 0.0.0.0 youtube.wandi.onomovie.xyz
 0.0.0.0 www.opritho.xyz
+0.0.0.0 www.lnpostpl.order-dostawa-64738213.xyz
 0.0.0.0 bit.orlen-btk.xyz
 0.0.0.0 www.bit.orlen-btk.xyz
 0.0.0.0 www.orlencorpgijavr.xyz
@@ -36444,6 +36467,8 @@
 0.0.0.0 www.podobnedonas.xyz
 0.0.0.0 www.podzvonimo.xyz
 0.0.0.0 www.polovane.xyz
+0.0.0.0 vlntedpl.polska-dostawa-9874615.xyz
+0.0.0.0 www.vlntedpl.polska-dostawa-9874615.xyz
 0.0.0.0 inpost.polska-oferdo.xyz
 0.0.0.0 www.inpost.polska-oferdo.xyz
 0.0.0.0 cct3.polska-pro1.xyz
@@ -36616,6 +36641,7 @@
 0.0.0.0 www.wowly.xyz
 0.0.0.0 www.wsparcie.xyz
 0.0.0.0 www.wstrzymana-paczka-paczkomat.xyz
+0.0.0.0 www.dpd-pl.wybierzsposub-tu.xyz
 0.0.0.0 www.xabeyangex.xyz
 0.0.0.0 www.xcena.xyz
 0.0.0.0 www.xokldfa3rmogi9gkdsp.xyz
@@ -36632,6 +36658,7 @@
 0.0.0.0 www.yuchaintuebot.xyz
 0.0.0.0 www.yuchaintuebra.xyz
 0.0.0.0 www.yuchaintuebro.xyz
+0.0.0.0 www.yuchaintuecld.xyz
 0.0.0.0 www.yusta.xyz
 0.0.0.0 www.zaplac-paczkomat24.xyz
 0.0.0.0 www.zapllac-teraz-inpost.xyz
