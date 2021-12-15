@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:03 AM Tuesday 14 December 2021
+# Date: 06:02 AM Wednesday 15 December 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -22638,6 +22638,7 @@
 0.0.0.0 wildwolf.minter.io
 0.0.0.0 ads.missena.io
 0.0.0.0 stats.nodehub.io
+0.0.0.0 sdk-monitoring.ogury.io
 0.0.0.0 prod.cloud.ogury.io
 0.0.0.0 www.poolup.io
 0.0.0.0 sdk.predic.io
@@ -34316,6 +34317,7 @@
 0.0.0.0 iuhtdqylroanuxg.xyz
 0.0.0.0 ivemwjkbkjtb.xyz
 0.0.0.0 iyozokiz.xyz
+0.0.0.0 iyuxivdsvyvjmkk.xyz
 0.0.0.0 janae.xyz
 0.0.0.0 jbbwtetv.xyz
 0.0.0.0 jhorapatarastana.xyz
