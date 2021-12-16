@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Wednesday 15 December 2021
+# Date: 06:02 AM Thursday 16 December 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -27424,6 +27424,7 @@
 0.0.0.0 lesbonnesaffaires.online
 0.0.0.0 load44ont.online
 0.0.0.0 loadnot.online
+0.0.0.0 loadsinstallcube.online
 0.0.0.0 lotosgrupapl.online
 0.0.0.0 marmotstore.online
 0.0.0.0 mbank-cz.online
