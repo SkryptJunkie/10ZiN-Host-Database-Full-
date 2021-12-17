@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Thursday 16 December 2021
+# Date: 06:03 AM Friday 17 December 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -782,6 +782,7 @@
 0.0.0.0 www.startuppge.biz
 0.0.0.0 www.statistik.biz
 0.0.0.0 www.tenczas.biz
+0.0.0.0 www.totowatch.biz
 0.0.0.0 www.trampolina.biz
 0.0.0.0 www.trampoliny.biz
 0.0.0.0 www.trust-orlen.biz
@@ -2161,6 +2162,8 @@
 0.0.0.0 www.dpd-pl.przeslanie-pndz.click
 0.0.0.0 www.szybkie.click
 0.0.0.0 www.thegroup.click
+0.0.0.0 www.allegro-pl.zakupy-internetowe.click
+0.0.0.0 www.inpostpl.zakupy-internetowe.click
 0.0.0.0 allegrolokalnie.cloud
 0.0.0.0 candg-amazon3.cloud
 0.0.0.0 cerrajerossantander.cloud
@@ -15240,6 +15243,7 @@
 0.0.0.0 www.activatelearningonline.instructure.com
 0.0.0.0 www.angela.instructure.com
 0.0.0.0 www.bridgeportisd.instructure.com
+0.0.0.0 www.casecat.instructure.com
 0.0.0.0 www.fillmorecentral.instructure.com
 0.0.0.0 www.gavirtualpd.instructure.com
 0.0.0.0 www.lincolninst.instructure.com
@@ -20168,6 +20172,7 @@
 0.0.0.0 www.drukmarket.eu
 0.0.0.0 www.drukmet.eu
 0.0.0.0 adv.dynamic-design.eu
+0.0.0.0 www.dzialamytu.eu
 0.0.0.0 www.fakt-news24.eu
 0.0.0.0 www.fellent.eu
 0.0.0.0 www.fenixsecurities.eu
@@ -20191,6 +20196,7 @@
 0.0.0.0 woiewz.mass-zone.eu
 0.0.0.0 www.miesieczne-glosowanko.eu
 0.0.0.0 www.moje-informacje24.eu
+0.0.0.0 www.niepytajo.eu
 0.0.0.0 www.ogarniamy-rzeczy.eu
 0.0.0.0 www.ogloszenie-nagrod.eu
 0.0.0.0 www.olx24.eu
@@ -27589,6 +27595,8 @@
 0.0.0.0 www.my-payment.online
 0.0.0.0 www.myjustdoitinvest.online
 0.0.0.0 www.mysweethoney.online
+0.0.0.0 www.dpd-pl.nadanie-przesylki.online
+0.0.0.0 www.olx-pl.nadanie-przesylki.online
 0.0.0.0 www.najwiekszagazetapolska.online
 0.0.0.0 www.online.natenczas.online
 0.0.0.0 www.online1.natenczas.online
@@ -29664,8 +29672,12 @@
 0.0.0.0 www.bloginfo.waw.pl
 0.0.0.0 www.bs-wypadki.waw.pl
 0.0.0.0 www.businessinsider.waw.pl
+0.0.0.0 www.ciekaweto.waw.pl
+0.0.0.0 www.czasemjest.waw.pl
+0.0.0.0 www.czuwamtu.waw.pl
 0.0.0.0 www.d8-informacjepl.waw.pl
 0.0.0.0 www.dobre-porady.waw.pl
+0.0.0.0 www.dzialamy.waw.pl
 0.0.0.0 www.dziennik-poranny.waw.pl
 0.0.0.0 www.e0-informacjepl.waw.pl
 0.0.0.0 www.elektro.waw.pl
@@ -29691,13 +29703,17 @@
 0.0.0.0 www.l6-wypadki.waw.pl
 0.0.0.0 www.lp-informacjepl.waw.pl
 0.0.0.0 www.md-informacjepl.waw.pl
+0.0.0.0 www.miarka.waw.pl
 0.0.0.0 www.miejscowe-wiadomosci.waw.pl
 0.0.0.0 www.monitoring-energylandia.waw.pl
+0.0.0.0 www.myslimy.waw.pl
 0.0.0.0 www.na-biezaco24.waw.pl
 0.0.0.0 www.najnowsze-informacje.waw.pl
 0.0.0.0 www.napowaznie.waw.pl
 0.0.0.0 www.nowe-wiadomosci24.waw.pl
 0.0.0.0 www.o2-info.waw.pl
+0.0.0.0 www.oczekiwania.waw.pl
+0.0.0.0 www.parelat.waw.pl
 0.0.0.0 www.ph-informacjepl.waw.pl
 0.0.0.0 www.poczta-onet.waw.pl
 0.0.0.0 www.pogadajmy24.waw.pl
@@ -29711,6 +29727,7 @@
 0.0.0.0 www.rf-informacjepl.waw.pl
 0.0.0.0 www.s0-wypadki.waw.pl
 0.0.0.0 www.s5-wypadki.waw.pl
+0.0.0.0 www.sagatrwa.waw.pl
 0.0.0.0 www.serwis-niedziela.waw.pl
 0.0.0.0 www.serwis-poniedzialek.waw.pl
 0.0.0.0 www.serwis-wiadomosci.waw.pl
@@ -29741,11 +29758,13 @@
 0.0.0.0 www.wiadomosci-niedziela.waw.pl
 0.0.0.0 www.wiadomosci-wygrana.waw.pl
 0.0.0.0 www.wieczorne-info24.waw.pl
+0.0.0.0 www.woleinne.waw.pl
 0.0.0.0 www.wp-finanse.waw.pl
 0.0.0.0 www.wydarzenia-online.waw.pl
 0.0.0.0 www.wydarzenie-tygodnia.waw.pl
 0.0.0.0 www.wypadki-info.waw.pl
 0.0.0.0 www.yh-informacjepl.waw.pl
+0.0.0.0 www.zaczekaj.waw.pl
 0.0.0.0 www.zaginione-osoby.waw.pl
 0.0.0.0 www.zestolicy.waw.pl
 0.0.0.0 www.zq-wypadki.waw.pl
@@ -32231,6 +32250,7 @@
 0.0.0.0 www.olx-pl.549084.space
 0.0.0.0 www.58732.space
 0.0.0.0 www.olx.657448.space
+0.0.0.0 www.inpost.66645.space
 0.0.0.0 www.6839312.space
 0.0.0.0 www.inpost-pl.732490.space
 0.0.0.0 www.dpd-pl.740374.space
@@ -32410,6 +32430,7 @@
 0.0.0.0 domwpm.stream
 0.0.0.0 mv0129.stream
 0.0.0.0 netflix-on.stream
+0.0.0.0 www.top.flixmax.stream
 0.0.0.0 a.net-bt32.stream
 0.0.0.0 www.netflix-on.stream
 0.0.0.0 check.thealwaysnewandfreeupdating.stream
@@ -33450,6 +33471,7 @@
 0.0.0.0 www.securityscan.us
 0.0.0.0 xanax-online.sms2.us
 0.0.0.0 stats.street-jeni.us
+0.0.0.0 www.watch.theflix.us
 0.0.0.0 www.vb1rc5l52n.us
 0.0.0.0 www.vipcheats.us
 0.0.0.0 ekipamuebles.com.uy
@@ -35028,6 +35050,7 @@
 0.0.0.0 www.aquashrk.developerak.xyz
 0.0.0.0 www.dfggdfwiewufw.xyz
 0.0.0.0 www.diesta.xyz
+0.0.0.0 www.doomsdayerportholes.xyz
 0.0.0.0 www.doplac-teraz.xyz
 0.0.0.0 www.doplac-teraz24.xyz
 0.0.0.0 www.doslaska.xyz
@@ -35037,6 +35060,7 @@
 0.0.0.0 www.lnpostpl.dostawa-obdior-9874536.xyz
 0.0.0.0 www.dpdpl.dostawa-order-6744132.xyz
 0.0.0.0 www.dpdpi.dostawa-polska-789436532.xyz
+0.0.0.0 www.dostawapoland-info.xyz
 0.0.0.0 www.dtrck.xyz
 0.0.0.0 www.dziiendobrypollska.xyz
 0.0.0.0 www.dzisiejszyszczecin.xyz
@@ -35158,6 +35182,8 @@
 0.0.0.0 www.kuponline480147.xyz
 0.0.0.0 www.inpost-pl.kurier-id8965471.xyz
 0.0.0.0 www.latoriel.xyz
+0.0.0.0 www.mail.leadingdonations.xyz
+0.0.0.0 www.mail.leadingmidsagittal.xyz
 0.0.0.0 oill.libracoinofficial-company.xyz
 0.0.0.0 pol.libracoinofficial-company.xyz
 0.0.0.0 www.oill.libracoinofficial-company.xyz
@@ -35176,6 +35202,7 @@
 0.0.0.0 orl.lukoil-inv.xyz
 0.0.0.0 www.orl.lukoil-inv.xyz
 0.0.0.0 www.mastardo.xyz
+0.0.0.0 www.me-dstwpl.xyz
 0.0.0.0 www.meet4love.xyz
 0.0.0.0 bot.messbook.xyz
 0.0.0.0 mmbeta.messbook.xyz
@@ -35427,6 +35454,7 @@
 0.0.0.0 www.pelorian.xyz
 0.0.0.0 www.pgrupa.xyz
 0.0.0.0 www.pinmova.xyz
+0.0.0.0 www.lnpost.pl-16290125.xyz
 0.0.0.0 www.pl-buy.xyz
 0.0.0.0 inpost.pl-buyedorder.xyz
 0.0.0.0 www.inpost.pl-buyedorder.xyz
@@ -36446,6 +36474,7 @@
 0.0.0.0 olx.pl-wellpayment.xyz
 0.0.0.0 www.inpost.pl-wellpayment.xyz
 0.0.0.0 www.olx.pl-wellpayment.xyz
+0.0.0.0 www.inpost.plaretor.xyz
 0.0.0.0 www.plinjo.xyz
 0.0.0.0 www.ploferta24.xyz
 0.0.0.0 prog2.plsystem6.xyz
@@ -36469,6 +36498,7 @@
 0.0.0.0 www.podadwait.xyz
 0.0.0.0 www.podobnedonas.xyz
 0.0.0.0 www.podzvonimo.xyz
+0.0.0.0 www.poland-transfer.xyz
 0.0.0.0 www.polovane.xyz
 0.0.0.0 vlntedpl.polska-dostawa-9874615.xyz
 0.0.0.0 www.vlntedpl.polska-dostawa-9874615.xyz
@@ -36487,12 +36517,14 @@
 0.0.0.0 www.porntranslation.xyz
 0.0.0.0 www.porowok.xyz
 0.0.0.0 www.poscavie.xyz
+0.0.0.0 www.post-certificate.xyz
 0.0.0.0 one.postofin.xyz
 0.0.0.0 www.one.postofin.xyz
 0.0.0.0 www.potwierdzeniawiekowe.xyz
 0.0.0.0 paygate.potwierdzenie-postpay.xyz
 0.0.0.0 www.paygate.potwierdzenie-postpay.xyz
 0.0.0.0 www.poznanie.xyz
+0.0.0.0 www.predesignateshaversack.xyz
 0.0.0.0 www.prismaliquld.xyz
 0.0.0.0 www.pro-lifemax.xyz
 0.0.0.0 www.probabday.xyz
@@ -36623,6 +36655,8 @@
 0.0.0.0 www.vikmot.xyz
 0.0.0.0 www.vsdcq-930219caqw.xyz
 0.0.0.0 www.wasdas.xyz
+0.0.0.0 www.waterfowlerdonations.xyz
+0.0.0.0 www.mail.waterfowlerdonations.xyz
 0.0.0.0 sr5.webplanbd.xyz
 0.0.0.0 www.welcomepozhta.xyz
 0.0.0.0 www.weroz.xyz
@@ -36644,7 +36678,9 @@
 0.0.0.0 www.wowly.xyz
 0.0.0.0 www.wsparcie.xyz
 0.0.0.0 www.wstrzymana-paczka-paczkomat.xyz
+0.0.0.0 inpostpl.wybierzsposub-tu.xyz
 0.0.0.0 www.dpd-pl.wybierzsposub-tu.xyz
+0.0.0.0 www.inpostpl.wybierzsposub-tu.xyz
 0.0.0.0 www.xabeyangex.xyz
 0.0.0.0 www.xcena.xyz
 0.0.0.0 www.xokldfa3rmogi9gkdsp.xyz
