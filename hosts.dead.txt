@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:03 AM Friday 17 December 2021
+# Date: 06:02 AM Saturday 18 December 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -9803,6 +9803,7 @@
 0.0.0.0 spiraldigitalinc.com
 0.0.0.0 spirtualcenteruk.com
 0.0.0.0 spiteaside.com
+0.0.0.0 spkoevngk.com
 0.0.0.0 splendle.com
 0.0.0.0 splinter-cell-blacklist-keygen.com
 0.0.0.0 spo7h3ktdvy5.com
@@ -34420,6 +34421,7 @@
 0.0.0.0 mochkin.xyz
 0.0.0.0 moonpower.xyz
 0.0.0.0 moulieres.xyz
+0.0.0.0 movetolight.xyz
 0.0.0.0 mozliwosc-firmy.xyz
 0.0.0.0 mrddz.xyz
 0.0.0.0 musimypomoc.xyz
@@ -34932,6 +34934,7 @@
 0.0.0.0 ysgqfroqbqk.xyz
 0.0.0.0 ytymetuw.xyz
 0.0.0.0 yusta.xyz
+0.0.0.0 ywhopagmyel.xyz
 0.0.0.0 zalium.xyz
 0.0.0.0 zaplac-paczkomat24.xyz
 0.0.0.0 zapllac-teraz-inpost.xyz
