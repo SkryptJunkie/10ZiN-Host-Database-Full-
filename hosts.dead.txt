@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Sunday 19 December 2021
+# Date: 06:02 AM Monday 20 December 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -2184,6 +2184,7 @@
 0.0.0.0 olx.pl-safety.oferta-payment.cloud
 0.0.0.0 www.olx.pl-safety.oferta-payment.cloud
 0.0.0.0 www.orleninfo.cloud
+0.0.0.0 www.doloreaidenti.ideandum.tanto.cloud
 0.0.0.0 test-adblock.tgc.cloud
 0.0.0.0 31768.club
 0.0.0.0 abeforeign.club
@@ -3506,6 +3507,7 @@
 0.0.0.0 www.olx-pt.co
 0.0.0.0 www.olympusholding.co
 0.0.0.0 t.omkt.co
+0.0.0.0 www.wf.agakhanacademies.optimizia.co
 0.0.0.0 www.parisboutique.co
 0.0.0.0 servt.playbuzz.co
 0.0.0.0 ortc-ws2-useast1-s0005.realtime.co
@@ -12024,6 +12026,7 @@
 0.0.0.0 aan.amazon-adsystem.com
 0.0.0.0 ws-ea.amazon-adsystem.com
 0.0.0.0 analytics-beacon-*.amazonaws.com
+0.0.0.0 www.ec2-54-246-59-57.eu-west-1.compute.amazonaws.com
 0.0.0.0 www.ec2-18-133-158-255.eu-west-2.compute.amazonaws.com
 0.0.0.0 www.ec2-3-10-207-184.eu-west-2.compute.amazonaws.com
 0.0.0.0 www.ec2-3-8-146-77.eu-west-2.compute.amazonaws.com
@@ -15577,6 +15580,8 @@
 0.0.0.0 paypal.kunden-020x1600-verifikation.com
 0.0.0.0 www.kurdish-homes.com
 0.0.0.0 kuad.kusogi.com
+0.0.0.0 platnosci.netflix.kutuasetat.com
+0.0.0.0 www.platnosci.netflix.kutuasetat.com
 0.0.0.0 ad3.l3go.com
 0.0.0.0 s.l8l9.com
 0.0.0.0 www.la-furniture.com
@@ -20556,6 +20561,8 @@
 0.0.0.0 www.aogvfoiqoiwue.fun
 0.0.0.0 www.cashmaster-summer.fun
 0.0.0.0 www.eccobutyoutlet.fun
+0.0.0.0 dpd.formularz.fun
+0.0.0.0 www.dpd.formularz.fun
 0.0.0.0 www.gupsuhphw.fun
 0.0.0.0 www.hoidfhower.fun
 0.0.0.0 www.hotgirlsignupfree-datenow.fun
@@ -20971,6 +20978,8 @@
 0.0.0.0 www.inpost-pl.secure3ds.icu
 0.0.0.0 inpost-pl.security-delivery.icu
 0.0.0.0 www.inpost-pl.security-delivery.icu
+0.0.0.0 www.inpostpl.serwis-szybki5512.icu
+0.0.0.0 www.olx-pl.serwis-szybki5512.icu
 0.0.0.0 www2.setdealoriginalaflash.icu
 0.0.0.0 www2.settypesoftaflash.icu
 0.0.0.0 www.traffichot.icu
@@ -27056,6 +27065,7 @@
 0.0.0.0 www.via22.net
 0.0.0.0 www.video-perc.net
 0.0.0.0 ads.vimg.net
+0.0.0.0 www.images.vinted.net
 0.0.0.0 adserver.virgin.net
 0.0.0.0 media.viwii.net
 0.0.0.0 www.volanstudio.net
@@ -29138,6 +29148,7 @@
 0.0.0.0 www.gethc.pl
 0.0.0.0 www.gimnazjumlyski.pl
 0.0.0.0 ad.glossymedia.pl
+0.0.0.0 www.gorsklep.pl
 0.0.0.0 ad.gra.pl
 0.0.0.0 www.greenpatio.pl
 0.0.0.0 www.gryonline24h.pl
@@ -30833,6 +30844,27 @@
 0.0.0.0 662bd114b7c9.onceedge.ru
 0.0.0.0 go.oneund.ru
 0.0.0.0 www.oneund.ru
+0.0.0.0 www.onlinediscount2021.ru
+0.0.0.0 www.shop1.onlinediscount2021.ru
+0.0.0.0 www.shop10.onlinediscount2021.ru
+0.0.0.0 www.shop11.onlinediscount2021.ru
+0.0.0.0 www.shop12.onlinediscount2021.ru
+0.0.0.0 www.shop13.onlinediscount2021.ru
+0.0.0.0 www.shop14.onlinediscount2021.ru
+0.0.0.0 www.shop15.onlinediscount2021.ru
+0.0.0.0 www.shop16.onlinediscount2021.ru
+0.0.0.0 www.shop17.onlinediscount2021.ru
+0.0.0.0 www.shop18.onlinediscount2021.ru
+0.0.0.0 www.shop19.onlinediscount2021.ru
+0.0.0.0 www.shop2.onlinediscount2021.ru
+0.0.0.0 www.shop20.onlinediscount2021.ru
+0.0.0.0 www.shop3.onlinediscount2021.ru
+0.0.0.0 www.shop4.onlinediscount2021.ru
+0.0.0.0 www.shop5.onlinediscount2021.ru
+0.0.0.0 www.shop6.onlinediscount2021.ru
+0.0.0.0 www.shop7.onlinediscount2021.ru
+0.0.0.0 www.shop8.onlinediscount2021.ru
+0.0.0.0 www.shop9.onlinediscount2021.ru
 0.0.0.0 www.onlineshops2021.ru
 0.0.0.0 www.shop1.onlineshops2021.ru
 0.0.0.0 www.shop10.onlineshops2021.ru
@@ -31116,6 +31148,7 @@
 0.0.0.0 www.olx-pls.dostawa-safety.sbs
 0.0.0.0 www.poczta-pla.dostawa-safety.sbs
 0.0.0.0 www.poczta-ple.dostawa-safety.sbs
+0.0.0.0 www.inpostpl.konto-klasyczne.sbs
 0.0.0.0 www.mozliwosc-firmy.sbs
 0.0.0.0 credit-agricole.mybank.sbs
 0.0.0.0 ipko.mybank.sbs
@@ -32255,11 +32288,15 @@
 0.0.0.0 www.6839312.space
 0.0.0.0 www.inpost-pl.732490.space
 0.0.0.0 www.dpd-pl.740374.space
+0.0.0.0 olx-pl.743366.space
+0.0.0.0 www.olx-pl.743366.space
 0.0.0.0 www.74882.space
 0.0.0.0 www.dpd.756347.space
 0.0.0.0 www.poczta-polska-pl.77544.space
 0.0.0.0 inpost-pl.785923.space
 0.0.0.0 www.inpost-pl.785923.space
+0.0.0.0 www.inpost.78790.space
+0.0.0.0 www.olx.78790.space
 0.0.0.0 www.855523.space
 0.0.0.0 olx.856436.space
 0.0.0.0 www.olx.856436.space
@@ -32293,6 +32330,8 @@
 0.0.0.0 www.inpost-pay-pl.id-21736.space
 0.0.0.0 inpost-pl.id-34362.space
 0.0.0.0 www.inpost-pl.id-34362.space
+0.0.0.0 inpost-pl.id73743.space
+0.0.0.0 www.inpost-pl.id73743.space
 0.0.0.0 www.dpd-pl.id738095.space
 0.0.0.0 www.olx-pl.id738095.space
 0.0.0.0 www.investfond.space
@@ -32301,6 +32340,8 @@
 0.0.0.0 www.inwestpl9.space
 0.0.0.0 stats.jatan.space
 0.0.0.0 www.jgirls.space
+0.0.0.0 www.inpostpl.konto24-serwis.space
+0.0.0.0 www.lnpost.kontogivecash-inform.space
 0.0.0.0 www.kottonlok.space
 0.0.0.0 www.libaliba.space
 0.0.0.0 www.lillove.space
@@ -33670,14 +33711,23 @@
 0.0.0.0 eljunkszabadon.co.vu
 0.0.0.0 hotpixel.co.vu
 0.0.0.0 www.aswsdpagesah.co.vu
+0.0.0.0 www.candsashjd.co.vu
 0.0.0.0 www.d0007starpage.co.vu
+0.0.0.0 www.herindasmantul.co.vu
+0.0.0.0 www.kitagaslagi3.co.vu
 0.0.0.0 www.leitetanksejati.co.vu
 0.0.0.0 www.marhitasuragit.co.vu
 0.0.0.0 www.marmalming.co.vu
 0.0.0.0 www.marmalming1.co.vu
 0.0.0.0 www.marmalming2.co.vu
+0.0.0.0 www.marpusingmalam.co.vu
+0.0.0.0 www.marpusingmalam1.co.vu
+0.0.0.0 www.marpusingmalam2.co.vu
 0.0.0.0 www.marsingboloung.co.vu
 0.0.0.0 www.martalunghabitats.co.vu
+0.0.0.0 www.martanggukikan.co.vu
+0.0.0.0 www.martumbang.co.vu
+0.0.0.0 www.maspusabd.co.vu
 0.0.0.0 www.pikiranmsjsdg.co.vu
 0.0.0.0 buy-vicodin.dd.vu
 0.0.0.0 adboost.de.vu
@@ -35108,16 +35158,19 @@
 0.0.0.0 www.heforuam.xyz
 0.0.0.0 www.herosuby.xyz
 0.0.0.0 www.inpost.id-track-pl43582364.xyz
+0.0.0.0 www.inpost-pl.id10304.xyz
 0.0.0.0 www.id3439549515.xyz
 0.0.0.0 www.imcamilla.xyz
 0.0.0.0 www.infbiztr.xyz
 0.0.0.0 www.lnpostpl.info-dostawa-46378232.xyz
+0.0.0.0 www.inpost.info-payingorder-me.xyz
 0.0.0.0 www.inpost-pl.info-trackcode-id565732.xyz
 0.0.0.0 www.inpost-pl.info-trackcode-id789543.xyz
 0.0.0.0 www.infobore.xyz
 0.0.0.0 www.investingly.xyz
 0.0.0.0 www.inwestujepl24.xyz
 0.0.0.0 www.inwestycjepl24.xyz
+0.0.0.0 www.inpost.ipposting-loveshapa.xyz
 0.0.0.0 www.jailbsearch.xyz
 0.0.0.0 www.jobalti.xyz
 0.0.0.0 www.juliasi.xyz
@@ -35302,6 +35355,7 @@
 0.0.0.0 youtube.wandi.onomovie.xyz
 0.0.0.0 www.opritho.xyz
 0.0.0.0 www.lnpostpl.order-dostawa-64738213.xyz
+0.0.0.0 www.dpd.orderingpl-meinfo.xyz
 0.0.0.0 bit.orlen-btk.xyz
 0.0.0.0 www.bit.orlen-btk.xyz
 0.0.0.0 www.orlencorpgijavr.xyz
@@ -35454,6 +35508,7 @@
 0.0.0.0 booking.paymentsaves.xyz
 0.0.0.0 www.booking.paymentsaves.xyz
 0.0.0.0 www.pays-secure-online.xyz
+0.0.0.0 www.lnpost.paysell-inform.xyz
 0.0.0.0 www.pelorian.xyz
 0.0.0.0 www.pgrupa.xyz
 0.0.0.0 www.pinmova.xyz
@@ -36610,6 +36665,7 @@
 0.0.0.0 infoigl.spasing.xyz
 0.0.0.0 www.infoigl.spasing.xyz
 0.0.0.0 www.sprzedaz-aiiegro.xyz
+0.0.0.0 www.dpd-pl.srodkido-odebraniatu.xyz
 0.0.0.0 mac.stampp.xyz
 0.0.0.0 www.mac.stampp.xyz
 0.0.0.0 www.stopat.xyz
