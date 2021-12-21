@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Monday 20 December 2021
+# Date: 06:04 AM Tuesday 21 December 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -9558,6 +9558,7 @@
 0.0.0.0 shonoctri.com
 0.0.0.0 shopiamproject.com
 0.0.0.0 shopmjn.com
+0.0.0.0 shoporan.com
 0.0.0.0 shoppingsiterewards.com
 0.0.0.0 shops-malls-rewardpath.com
 0.0.0.0 shopsofe.com
@@ -15479,6 +15480,7 @@
 0.0.0.0 ads.kazaa.com
 0.0.0.0 adserver.kcilink.com
 0.0.0.0 gavzad.keenspot.com
+0.0.0.0 www.keeotinoger.com
 0.0.0.0 www.kelasmenujuhalal.com
 0.0.0.0 www.kellymoses.com
 0.0.0.0 www.kendallme.com
@@ -20572,6 +20574,7 @@
 0.0.0.0 www.iugfioegoweo.fun
 0.0.0.0 www.jessica-sex.fun
 0.0.0.0 www.kasyno-pl.fun
+0.0.0.0 www.dpd-pl.konto-wcy.fun
 0.0.0.0 www.leyber.fun
 0.0.0.0 www.lokalnie-dostawa.fun
 0.0.0.0 www.losngay248.fun
@@ -26955,6 +26958,7 @@
 0.0.0.0 cdn.shoppingminds.net
 0.0.0.0 ad.showbizz.net
 0.0.0.0 ads.simtel.net
+0.0.0.0 www.skywa.net
 0.0.0.0 stats.snacktools.net
 0.0.0.0 collector.snplow.net
 0.0.0.0 com-geckoboard-main.collector.snplow.net
@@ -32277,6 +32281,7 @@
 0.0.0.0 inpost-pl.23440.space
 0.0.0.0 www.dpd-pl.23440.space
 0.0.0.0 www.inpost-pl.23440.space
+0.0.0.0 www.inpost.28636.space
 0.0.0.0 inpost-pl.54563.space
 0.0.0.0 www.inpost-pl.54563.space
 0.0.0.0 www.548739.space
@@ -34858,6 +34863,7 @@
 0.0.0.0 teacriss-edlechs.xyz
 0.0.0.0 teacross-edtechs.xyz
 0.0.0.0 teacus.xyz
+0.0.0.0 techhelper.xyz
 0.0.0.0 technewsforever.xyz
 0.0.0.0 tefumiji.xyz
 0.0.0.0 terephtalate.xyz
