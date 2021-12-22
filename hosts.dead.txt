@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:04 AM Tuesday 21 December 2021
+# Date: 06:02 AM Wednesday 22 December 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -8461,6 +8461,7 @@
 0.0.0.0 nude-webcams.com
 0.0.0.0 nuevotristan.com
 0.0.0.0 nuibunsonglong.com
+0.0.0.0 nukkt.com
 0.0.0.0 numerai-token.com
 0.0.0.0 numerikart.com
 0.0.0.0 nutpond.com
@@ -10071,6 +10072,7 @@
 0.0.0.0 teennostrils.com
 0.0.0.0 teenswhoswallow.com
 0.0.0.0 teenxxxpictures.com
+0.0.0.0 teinline.com
 0.0.0.0 tek-tek-trek.com
 0.0.0.0 telcomvoip.com
 0.0.0.0 telecharger-gratuit-pirate-jeux.com
@@ -10373,6 +10375,7 @@
 0.0.0.0 twiteers.com
 0.0.0.0 twitfast.com
 0.0.0.0 twittergiveaways.com
+0.0.0.0 twonl.com
 0.0.0.0 twtdesigns.com
 0.0.0.0 txwha3vuso66.com
 0.0.0.0 tyranprototypeoats.com
@@ -10778,6 +10781,7 @@
 0.0.0.0 worldsofhacks.com
 0.0.0.0 worldwid-dates2.com
 0.0.0.0 worldzgamez.com
+0.0.0.0 wotheshop.com
 0.0.0.0 wpadsx.com
 0.0.0.0 wpadx.com
 0.0.0.0 wqgdajjozr.com
@@ -12562,6 +12566,7 @@
 0.0.0.0 ad.blackystars.com
 0.0.0.0 jsl.blankbase.com
 0.0.0.0 www.blankrefer.com
+0.0.0.0 www.blanshops.com
 0.0.0.0 iad-*.blaze.com
 0.0.0.0 bserver.blick.com
 0.0.0.0 openx.blindferret.com
@@ -13406,6 +13411,7 @@
 0.0.0.0 ads1.destructoid.com
 0.0.0.0 gcirm.detnews.com
 0.0.0.0 ads.developershed.com
+0.0.0.0 broadway.devotedgolfer.com
 0.0.0.0 adserver.devx.com
 0.0.0.0 www.dezlive.com
 0.0.0.0 www.dgfggy.com
@@ -17599,6 +17605,7 @@
 0.0.0.0 www.shc-rebates.com
 0.0.0.0 howwevacation.sheltonpropertiesllc.com
 0.0.0.0 www.shglegle.com
+0.0.0.0 www.shi-ash.com
 0.0.0.0 www.shift-holdings.com
 0.0.0.0 openx.shinyads.com
 0.0.0.0 panda.shiomiya.com
@@ -27383,6 +27390,7 @@
 0.0.0.0 calldata.online
 0.0.0.0 candymatches.online
 0.0.0.0 cerrajerossantander.online
+0.0.0.0 chat-animator.online
 0.0.0.0 cinems.online
 0.0.0.0 coinsforfree.online
 0.0.0.0 coswtymmusibyc.online
@@ -31496,6 +31504,7 @@
 0.0.0.0 fullhdvideopleyerizle348.site
 0.0.0.0 fullhdvideopleyerizle42853.site
 0.0.0.0 fullhdvideopleyerizle4326.site
+0.0.0.0 fullhdvideositeresmi3215.site
 0.0.0.0 gaynovosibirsk.site
 0.0.0.0 gd-l.site
 0.0.0.0 gdansk-l.site
