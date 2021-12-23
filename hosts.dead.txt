@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Wednesday 22 December 2021
+# Date: 06:03 AM Thursday 23 December 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -7513,6 +7513,7 @@
 0.0.0.0 khzbeucrltin.com
 0.0.0.0 kiaowadubai.com
 0.0.0.0 kikmessengerforpcwindows.com
+0.0.0.0 kilikiliadventure.com
 0.0.0.0 killa-hacks.com
 0.0.0.0 killcsgo.com
 0.0.0.0 kimhaynesphoto.com
@@ -28037,6 +28038,7 @@
 0.0.0.0 placeofentertainment.org
 0.0.0.0 playstation3emulator.org
 0.0.0.0 playstation4jailbreak.org
+0.0.0.0 pnopes-bitaharilimam.org
 0.0.0.0 pokecoinshacked.org
 0.0.0.0 powerstrike.org
 0.0.0.0 preferring.org
@@ -34202,6 +34204,7 @@
 0.0.0.0 alrfdtkpmxmv.xyz
 0.0.0.0 amzon-241512.xyz
 0.0.0.0 andorranisas.xyz
+0.0.0.0 anhonqpgvlp.xyz
 0.0.0.0 antiguais.xyz
 0.0.0.0 apggstomeelt.xyz
 0.0.0.0 aplcolutions.xyz
@@ -34411,6 +34414,7 @@
 0.0.0.0 jhorapatarastana.xyz
 0.0.0.0 jimbro.xyz
 0.0.0.0 jjdtrliuftaouhg.xyz
+0.0.0.0 jkhixbsssankhvc.xyz
 0.0.0.0 jobalti.xyz
 0.0.0.0 jojude.xyz
 0.0.0.0 jprvhcoroir.xyz
