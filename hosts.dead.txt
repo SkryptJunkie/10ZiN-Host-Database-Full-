@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:03 AM Thursday 23 December 2021
+# Date: 06:03 AM Friday 24 December 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -13079,6 +13079,7 @@
 0.0.0.0 js.coinisrsdelivery.com
 0.0.0.0 www.coinverti.com
 0.0.0.0 www.coinvisitor.com
+0.0.0.0 estudeoline.colegioomega.com
 0.0.0.0 www.collective-media.com
 0.0.0.0 ads.collegehumor.com
 0.0.0.0 admanager1.collegepublisher.com
@@ -27387,6 +27388,7 @@
 0.0.0.0 betweenstep.online
 0.0.0.0 bobarmale.online
 0.0.0.0 bravoservices.online
+0.0.0.0 busking.online
 0.0.0.0 buywithyou.online
 0.0.0.0 calldata.online
 0.0.0.0 candymatches.online
@@ -27406,8 +27408,10 @@
 0.0.0.0 csgomix.online
 0.0.0.0 csgoswapper.online
 0.0.0.0 csgovulcano.online
+0.0.0.0 cvagear.online
 0.0.0.0 damulki.online
 0.0.0.0 danyhazo.online
+0.0.0.0 daynice.online
 0.0.0.0 definicjabiznesu.online
 0.0.0.0 deninno70.online
 0.0.0.0 desgroup.online
@@ -27438,6 +27442,8 @@
 0.0.0.0 gift-today85.online
 0.0.0.0 h1z1trade.online
 0.0.0.0 hackig.online
+0.0.0.0 haotao.online
+0.0.0.0 heyok.online
 0.0.0.0 hotwebgirls.online
 0.0.0.0 income-tax.online
 0.0.0.0 infofpolska.online
@@ -27482,6 +27488,8 @@
 0.0.0.0 ogarnietezyciie.online
 0.0.0.0 ogladaj.online
 0.0.0.0 ogloszenie-elektronika.online
+0.0.0.0 okaybuy.online
+0.0.0.0 okbay.online
 0.0.0.0 opencase.online
 0.0.0.0 ostatniaminutapl.online
 0.0.0.0 outbutypt.online
@@ -28062,6 +28070,7 @@
 0.0.0.0 roac-wagn.org
 0.0.0.0 rotaryclubofsonarpur.org
 0.0.0.0 rotaryeclubcoastal.org
+0.0.0.0 rredgh.org
 0.0.0.0 safeappz.org
 0.0.0.0 safetynett.org
 0.0.0.0 saidahanwar.org
@@ -34317,6 +34326,7 @@
 0.0.0.0 etherapps.xyz
 0.0.0.0 euovfldsups.xyz
 0.0.0.0 euphoniserent.xyz
+0.0.0.0 evdpguuavas.xyz
 0.0.0.0 eventcaca.xyz
 0.0.0.0 extrafastip.xyz
 0.0.0.0 facebook-account.xyz
@@ -34447,6 +34457,7 @@
 0.0.0.0 latonia.xyz
 0.0.0.0 latoriel.xyz
 0.0.0.0 leadhealth.xyz
+0.0.0.0 leatherbags.xyz
 0.0.0.0 lejerome.xyz
 0.0.0.0 lightblog.xyz
 0.0.0.0 lili24.xyz
