@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:03 AM Friday 24 December 2021
+# Date: 06:02 AM Saturday 25 December 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -21033,6 +21033,7 @@
 0.0.0.0 sutekihome.co.id
 0.0.0.0 www.donic.co.id
 0.0.0.0 www.dutadharma.co.id
+0.0.0.0 audio.genf.co.id
 0.0.0.0 ims.huile-indonesia.co.id
 0.0.0.0 koptia.trans-intra-asia.co.id
 0.0.0.0 www.dreamcolorlens.id
@@ -21049,6 +21050,7 @@
 0.0.0.0 www.merishopee.id
 0.0.0.0 hubed.my.id
 0.0.0.0 windyzone.my.id
+0.0.0.0 digi.bgskr-project.my.id
 0.0.0.0 pegawai.karimunweb.my.id
 0.0.0.0 rizalrinaldi.mengguruweb.my.id
 0.0.0.0 adkasi.or.id
@@ -26075,6 +26077,8 @@
 0.0.0.0 www.appleid-privacy.net
 0.0.0.0 www.appleindia.net
 0.0.0.0 www.applestoreid.net
+0.0.0.0 erp.aptcloud.net
+0.0.0.0 eshop.aptcloud.net
 0.0.0.0 ads.arkitera.net
 0.0.0.0 cdn.accelerator.arsdev.net
 0.0.0.0 www.art-offer.net
@@ -27442,7 +27446,10 @@
 0.0.0.0 gift-today85.online
 0.0.0.0 h1z1trade.online
 0.0.0.0 hackig.online
+0.0.0.0 haobai.online
+0.0.0.0 haobuys.online
 0.0.0.0 haotao.online
+0.0.0.0 henyoupin.online
 0.0.0.0 heyok.online
 0.0.0.0 hotwebgirls.online
 0.0.0.0 income-tax.online
@@ -27472,6 +27479,7 @@
 0.0.0.0 musicloud.online
 0.0.0.0 my-payment.online
 0.0.0.0 myfreecharge.online
+0.0.0.0 mygoodday.online
 0.0.0.0 mypostservice.online
 0.0.0.0 mysweethoney.online
 0.0.0.0 n1ora14.online
@@ -32348,6 +32356,7 @@
 0.0.0.0 www.foreignme.space
 0.0.0.0 www.fromthenight.space
 0.0.0.0 www.gmchicks.space
+0.0.0.0 www.gouslugi.space
 0.0.0.0 www.hemesyqydy.space
 0.0.0.0 www.heylove.space
 0.0.0.0 www.hightlover.space
