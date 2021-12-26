@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Saturday 25 December 2021
+# Date: 06:03 AM Sunday 26 December 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -12138,6 +12138,7 @@
 0.0.0.0 www.appledoubts.com
 0.0.0.0 www.appleflavour.com
 0.0.0.0 www.applefmi-us.com
+0.0.0.0 www.appleid-map.com
 0.0.0.0 ads.appleinsider.com
 0.0.0.0 www.appleiphone11.com
 0.0.0.0 www.appleiphone8plus.com
@@ -13660,6 +13661,7 @@
 0.0.0.0 knight.economist.com
 0.0.0.0 ads.ecosalon.com
 0.0.0.0 virtual.ecowaykis.com
+0.0.0.0 www.dsr.eddyhunt.com
 0.0.0.0 ads.edirectme.com
 0.0.0.0 irs.editbd.com
 0.0.0.0 www.irs.editbd.com
@@ -16550,6 +16552,7 @@
 0.0.0.0 api.oneaudience.com
 0.0.0.0 www.pay.onebip.com
 0.0.0.0 dubstep.onedumb.com
+0.0.0.0 www.oneminutedistraction.com
 0.0.0.0 fp.oneshotdate.com
 0.0.0.0 www.stenplus.onewaywinner.com
 0.0.0.0 www.online-apple.com
@@ -21018,6 +21021,7 @@
 0.0.0.0 toppingcloths.id
 0.0.0.0 ultragames.id
 0.0.0.0 uniqasik.id
+0.0.0.0 www.nec.nusamandiri.ac.id
 0.0.0.0 uukbpp.ft.ub.ac.id
 0.0.0.0 mbupress.umbjm.ac.id
 0.0.0.0 www.aldoshop.id
@@ -28222,8 +28226,10 @@
 0.0.0.0 dca.district9211.org
 0.0.0.0 cdn.doxbin.org
 0.0.0.0 w0.drag0n.org
+0.0.0.0 c050de22a6a501954d4a6d42be45129d.duckdns.org
 0.0.0.0 mastervisacloudesystemprtomicrosftwareus.duckdns.org
 0.0.0.0 pancinhabrasil.duckdns.org
+0.0.0.0 www.c050de22a6a501954d4a6d42be45129d.duckdns.org
 0.0.0.0 www.dvtuksouthwest.org
 0.0.0.0 www.dynamicyouth.org
 0.0.0.0 adv.easyurl.org
@@ -28512,6 +28518,7 @@
 0.0.0.0 cyfrowepotwory.pl
 0.0.0.0 czytaj-info.pl
 0.0.0.0 daromusic.pl
+0.0.0.0 demoniatanio.pl
 0.0.0.0 dgntransport.pl
 0.0.0.0 diorsklep.pl
 0.0.0.0 dodajogloszenia.pl
@@ -28554,6 +28561,7 @@
 0.0.0.0 giftcode.pl
 0.0.0.0 gimnazjumlyski.pl
 0.0.0.0 glebokiegardla.pl
+0.0.0.0 gov-covid.pl
 0.0.0.0 greenpatio.pl
 0.0.0.0 gryonline24h.pl
 0.0.0.0 hacks24.pl
@@ -28757,6 +28765,7 @@
 0.0.0.0 uggbootspolska.pl
 0.0.0.0 ulotnilem.pl
 0.0.0.0 uvy3.pl
+0.0.0.0 vejatanio.pl
 0.0.0.0 veroniss.pl
 0.0.0.0 vision2020.pl
 0.0.0.0 w-polsce.pl
@@ -29118,6 +29127,7 @@
 0.0.0.0 www.weeknews24.czest.pl
 0.0.0.0 www.wyborcza-biznes.czest.pl
 0.0.0.0 www.czytaj-info.pl
+0.0.0.0 www.demoniatanio.pl
 0.0.0.0 www.dietasekret.pl
 0.0.0.0 www.dinamoon.pl
 0.0.0.0 www.diorsklep.pl
@@ -29180,6 +29190,7 @@
 0.0.0.0 www.gimnazjumlyski.pl
 0.0.0.0 ad.glossymedia.pl
 0.0.0.0 www.gorsklep.pl
+0.0.0.0 www.gov-covid.pl
 0.0.0.0 ad.gra.pl
 0.0.0.0 www.greenpatio.pl
 0.0.0.0 www.gryonline24h.pl
@@ -29554,6 +29565,7 @@
 0.0.0.0 www.xbdui5uhgh.vdl.pl
 0.0.0.0 www.y3bfndilkswfg.vdl.pl
 0.0.0.0 www.yfbnmkid4fn.vdl.pl
+0.0.0.0 www.vejatanio.pl
 0.0.0.0 www.veroniss.pl
 0.0.0.0 www.vision2020.pl
 0.0.0.0 brudna-prawda.vot.pl
@@ -32319,6 +32331,8 @@
 0.0.0.0 www.olx.657448.space
 0.0.0.0 www.inpost.66645.space
 0.0.0.0 www.6839312.space
+0.0.0.0 inpost-pl.68972.space
+0.0.0.0 www.inpost-pl.68972.space
 0.0.0.0 www.inpost-pl.732490.space
 0.0.0.0 www.dpd-pl.740374.space
 0.0.0.0 olx-pl.743366.space
@@ -32349,6 +32363,7 @@
 0.0.0.0 www.awiectakieopowiidanie.space
 0.0.0.0 www.cashmaster-summer.space
 0.0.0.0 www.celer.space
+0.0.0.0 www.olx.custom-packageinfobiz.space
 0.0.0.0 www.datingnearby.space
 0.0.0.0 www.demot.space
 0.0.0.0 www.dlugosiieootymmowi.space
@@ -32401,6 +32416,7 @@
 0.0.0.0 www.new-payment.space
 0.0.0.0 www.newgirlstiti.space
 0.0.0.0 aptitude.newversionupdatefreshand4you.space
+0.0.0.0 www.lavash.nextweb.space
 0.0.0.0 www.niemarnujswojegoczasu.space
 0.0.0.0 www.nietrzzrzebazatopllacic.space
 0.0.0.0 afisa.nolsab.space
@@ -32487,6 +32503,7 @@
 0.0.0.0 www.olx-pl.dostawa-safety.store
 0.0.0.0 www.dyskonto.store
 0.0.0.0 www.energetyczna.store
+0.0.0.0 www.inpostpl.ho-tiq.store
 0.0.0.0 www.inpost.store
 0.0.0.0 www.justdoitinvest.store
 0.0.0.0 www.koleno.store
@@ -32636,8 +32653,10 @@
 0.0.0.0 damamaty.tk
 0.0.0.0 dynamic-goose.tk
 0.0.0.0 eavgwy5suy.tk
+0.0.0.0 etramindcarsubstung.tk
 0.0.0.0 friendly-community.tk
 0.0.0.0 funny-morning.tk
+0.0.0.0 gaudisnolis.tk
 0.0.0.0 huckgreenenudfoun.tk
 0.0.0.0 iconexus.tk
 0.0.0.0 ishara-dilshan.tk
@@ -32648,6 +32667,7 @@
 0.0.0.0 microratings.tk
 0.0.0.0 nonames.tk
 0.0.0.0 oinkinns.tk
+0.0.0.0 remori.tk
 0.0.0.0 ruchira.tk
 0.0.0.0 sdfhdw34gr2wdq2d2r567s.tk
 0.0.0.0 smalodysmyto.tk
@@ -32661,6 +32681,8 @@
 0.0.0.0 www.bannerpro.tk
 0.0.0.0 www.biztbulnuofakul.tk
 0.0.0.0 www.boxiredarkreg.tk
+0.0.0.0 www.etramindcarsubstung.tk
+0.0.0.0 www.gaudisnolis.tk
 0.0.0.0 www.huckgreenenudfoun.tk
 0.0.0.0 blog.iroha.tk
 0.0.0.0 www.idp.sfsu.edu.itll.tk
@@ -32668,6 +32690,7 @@
 0.0.0.0 www.lendachicelsu.tk
 0.0.0.0 demo.lunchbox.tk
 0.0.0.0 www.nonames.tk
+0.0.0.0 www.remori.tk
 0.0.0.0 autoecole-hammamet.tn
 0.0.0.0 doustourna.tn
 0.0.0.0 omra-tunisie.tn
@@ -33745,11 +33768,14 @@
 0.0.0.0 eljunkszabadon.co.vu
 0.0.0.0 hotpixel.co.vu
 0.0.0.0 www.aswsdpagesah.co.vu
+0.0.0.0 www.awerisman.co.vu
 0.0.0.0 www.candsashjd.co.vu
 0.0.0.0 www.d0007starpage.co.vu
 0.0.0.0 www.herindasmantul.co.vu
+0.0.0.0 www.kinisemuaa.co.vu
 0.0.0.0 www.kitagaslagi3.co.vu
 0.0.0.0 www.leitetanksejati.co.vu
+0.0.0.0 www.marhadaphadapan.co.vu
 0.0.0.0 www.marhitasuragit.co.vu
 0.0.0.0 www.marmalming.co.vu
 0.0.0.0 www.marmalming1.co.vu
@@ -33757,12 +33783,18 @@
 0.0.0.0 www.marpusingmalam.co.vu
 0.0.0.0 www.marpusingmalam1.co.vu
 0.0.0.0 www.marpusingmalam2.co.vu
+0.0.0.0 www.marsiangpening.co.vu
+0.0.0.0 www.marsiangpening1.co.vu
 0.0.0.0 www.marsingboloung.co.vu
 0.0.0.0 www.martalunghabitats.co.vu
 0.0.0.0 www.martanggukikan.co.vu
+0.0.0.0 www.martumbalisa.co.vu
 0.0.0.0 www.martumbang.co.vu
 0.0.0.0 www.maspusabd.co.vu
 0.0.0.0 www.pikiranmsjsdg.co.vu
+0.0.0.0 www.siangsiang.co.vu
+0.0.0.0 www.sirmakutlusti.co.vu
+0.0.0.0 www.tiadakata.co.vu
 0.0.0.0 buy-vicodin.dd.vu
 0.0.0.0 adboost.de.vu
 0.0.0.0 dl.neodownload.webcam
@@ -35132,10 +35164,12 @@
 0.0.0.0 pucouueioduc.cucouuiodu.xyz
 0.0.0.0 www.pucouueioduc.cucouuiodu.xyz
 0.0.0.0 www.cuse.xyz
+0.0.0.0 www.lnpost.custompl-shipping.xyz
 0.0.0.0 www.czesc.xyz
 0.0.0.0 meine.commerzbank.de-id198341zbdbv1vadsbv1zvd8vad1zu8g1va71.xyz
 0.0.0.0 meine.santander.de-id1nd81he1dbdv1vvadv1vag7d1vasvdd172dv7agseg1d1ds.xyz
 0.0.0.0 www.delenie.xyz
+0.0.0.0 www.dpd.deliveryuser-ptr.xyz
 0.0.0.0 www.denverktrade.xyz
 0.0.0.0 www.deresta.xyz
 0.0.0.0 www.derpost.xyz
@@ -35190,22 +35224,26 @@
 0.0.0.0 inpost-pl.getcashorder.xyz
 0.0.0.0 www.inpost-pl.getcashorder.xyz
 0.0.0.0 www.gigantus.xyz
+0.0.0.0 www.inpost.goldcashpl-inforrtg.xyz
 0.0.0.0 yrxyhtx.golovanskyin.xyz
 0.0.0.0 www.greese.xyz
 0.0.0.0 www.grools.xyz
 0.0.0.0 www.gwweqasdzxc523dawe.xyz
 0.0.0.0 www.heforuam.xyz
 0.0.0.0 www.herosuby.xyz
+0.0.0.0 www.allegrolokaine.htpsell-origin.xyz
 0.0.0.0 www.inpost.id-track-pl43582364.xyz
 0.0.0.0 www.inpost-pl.id10304.xyz
 0.0.0.0 www.id3439549515.xyz
 0.0.0.0 www.imcamilla.xyz
+0.0.0.0 www.allegrolokaine.importcash-id837592.xyz
 0.0.0.0 www.infbiztr.xyz
 0.0.0.0 www.lnpostpl.info-dostawa-46378232.xyz
 0.0.0.0 www.inpost.info-payingorder-me.xyz
 0.0.0.0 www.inpost-pl.info-trackcode-id565732.xyz
 0.0.0.0 www.inpost-pl.info-trackcode-id789543.xyz
 0.0.0.0 www.infobore.xyz
+0.0.0.0 www.dpdpl-info.informationabout-parcelpl.xyz
 0.0.0.0 www.investingly.xyz
 0.0.0.0 www.inwestujepl24.xyz
 0.0.0.0 www.inwestycjepl24.xyz
@@ -35394,6 +35432,8 @@
 0.0.0.0 youtube.wandi.onomovie.xyz
 0.0.0.0 www.opritho.xyz
 0.0.0.0 www.lnpostpl.order-dostawa-64738213.xyz
+0.0.0.0 www.allegrolokalnie.ordering-parcelinfo.xyz
+0.0.0.0 www.dpdpoland.orderingdlvry-courierpoland.xyz
 0.0.0.0 www.dpd.orderingpl-meinfo.xyz
 0.0.0.0 bit.orlen-btk.xyz
 0.0.0.0 www.bit.orlen-btk.xyz
@@ -35534,6 +35574,7 @@
 0.0.0.0 www.osocar.xyz
 0.0.0.0 olx.p1-aukcja.xyz
 0.0.0.0 www.olx.p1-aukcja.xyz
+0.0.0.0 www.dpd.packageinfo-money.xyz
 0.0.0.0 www.pakunek.xyz
 0.0.0.0 www.panigoanalyticsgfabza.xyz
 0.0.0.0 www.paribnks.xyz
@@ -36495,6 +36536,7 @@
 0.0.0.0 www.olx.pl-oferfa.xyz
 0.0.0.0 inpost.pl-ofert0.xyz
 0.0.0.0 www.inpost.pl-ofert0.xyz
+0.0.0.0 www.inpost.pl-oplata-form-id457854.xyz
 0.0.0.0 www.pl-ordered.xyz
 0.0.0.0 inpost.pl-paid.xyz
 0.0.0.0 www.inpost.pl-paid.xyz
@@ -36561,6 +36603,8 @@
 0.0.0.0 www.inpost.pl-trackcode-info-id745611.xyz
 0.0.0.0 www.inpost.pl-trackcode-info-id785634.xyz
 0.0.0.0 www.inpost.pl-trackcode-info-id983713.xyz
+0.0.0.0 www.inpost.pl-tracking-475296.xyz
+0.0.0.0 www.inpost.pl-tracknumber458775.xyz
 0.0.0.0 inpost.pl-wallet002.xyz
 0.0.0.0 www.inpost.pl-wallet002.xyz
 0.0.0.0 inpost.pl-wellorder.xyz
