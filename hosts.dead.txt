@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Monday 27 December 2021
+# Date: 06:02 AM Tuesday 28 December 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -32598,6 +32598,7 @@
 0.0.0.0 freezemac.tech
 0.0.0.0 gifto.tech
 0.0.0.0 greatmacsoft.tech
+0.0.0.0 informativomexicoofficial.tech
 0.0.0.0 inghts.tech
 0.0.0.0 keretkos.tech
 0.0.0.0 kiff.tech
