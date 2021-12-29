@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Tuesday 28 December 2021
+# Date: 06:02 AM Wednesday 29 December 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -3639,6 +3639,7 @@
 0.0.0.0 2a34919c07.com
 0.0.0.0 2bluemountain.com
 0.0.0.0 2c0dad36bdb9eb859f0.com
+0.0.0.0 2c5f9ab9f4.com
 0.0.0.0 2d52156c065481.com
 0.0.0.0 2dbd87c7a091b.com
 0.0.0.0 2dee7f1db0d07.com
@@ -34847,6 +34848,7 @@
 0.0.0.0 reviolenteriez.xyz
 0.0.0.0 rffrdnfwfsoid.xyz
 0.0.0.0 rhrfjehy.xyz
+0.0.0.0 rjsbnqgxktkjjd.xyz
 0.0.0.0 rlbbvrcnu.xyz
 0.0.0.0 rljgidrfcnir.xyz
 0.0.0.0 rokomo.xyz
