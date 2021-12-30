@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Wednesday 29 December 2021
+# Date: 06:02 AM Thursday 30 December 2021
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -34762,6 +34762,7 @@
 0.0.0.0 pays-secure-online.xyz
 0.0.0.0 pdlbox.xyz
 0.0.0.0 pelorian.xyz
+0.0.0.0 penismonkey.xyz
 0.0.0.0 periously.xyz
 0.0.0.0 peruglobal.xyz
 0.0.0.0 pgrupa.xyz
