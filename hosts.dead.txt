@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Sunday 02 January 2022
+# Date: 06:02 AM Monday 03 January 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -23,6 +23,7 @@
 0.0.0.0 csgo.ae
 0.0.0.0 royalintgulf.ae
 0.0.0.0 smetrics.htm.ae
+0.0.0.0 www.familytree.swantech.ae
 0.0.0.0 boredpanda.agency
 0.0.0.0 chakavak.agency
 0.0.0.0 keyhole.agency
@@ -3503,6 +3504,7 @@
 0.0.0.0 coinbase.com.eslogin.co
 0.0.0.0 my.ether-wallet.co
 0.0.0.0 stream1.marketwatch.fyre.co
+0.0.0.0 www.galaxytrade.co
 0.0.0.0 a.goatgame.co
 0.0.0.0 web.nyc.ads.juno.co
 0.0.0.0 kin.kikpro.co
@@ -12560,6 +12562,7 @@
 0.0.0.0 www.bit-capitals.com
 0.0.0.0 www.bitbay-net.com
 0.0.0.0 www.bitcoeraappl.com
+0.0.0.0 www.bitcoin-evolutionpro.com
 0.0.0.0 www.bitcoinerapro.com
 0.0.0.0 www.bitcoinprofitpro.com
 0.0.0.0 www.bitcoins-profit.com
@@ -13502,6 +13505,7 @@
 0.0.0.0 marketing.discoversaintcharles.com
 0.0.0.0 ads.discovery.com
 0.0.0.0 oascentral.discovery.com
+0.0.0.0 www.disordsnltros.com
 0.0.0.0 adsrv.dispatch.com
 0.0.0.0 oas.dispatch.com
 0.0.0.0 www.displaybrowser.com
@@ -20667,7 +20671,10 @@
 0.0.0.0 robux.gift
 0.0.0.0 applestore.com-mobile.gift
 0.0.0.0 allegrolokalnie.gifts
+0.0.0.0 dlsordnltros.gifts
 0.0.0.0 www.allegrolokalnie.gifts
+0.0.0.0 www.dlsordnltros.gifts
+0.0.0.0 www.claim.nitro.gives
 0.0.0.0 watchdog.goodbyeads
 0.0.0.0 stats.ssa.gov
 0.0.0.0 searchstats.usa.gov
@@ -21360,6 +21367,7 @@
 0.0.0.0 7videos.info
 0.0.0.0 87w.info
 0.0.0.0 abrogatesdv.info
+0.0.0.0 account-location.info
 0.0.0.0 accounts-adworlds.info
 0.0.0.0 adblaster.info
 0.0.0.0 addenly.info
@@ -22063,6 +22071,7 @@
 0.0.0.0 err2.9939118.info
 0.0.0.0 err3.9939118.info
 0.0.0.0 www.abrogatesdv.info
+0.0.0.0 www.account-location.info
 0.0.0.0 paypal.com-security-access-updates.acount-customer.info
 0.0.0.0 ofni.al0ne.info
 0.0.0.0 www.allegrolokalnie.info
@@ -32502,6 +32511,7 @@
 0.0.0.0 www.training-scrutinize.space
 0.0.0.0 olx.pl.transfers-id.space
 0.0.0.0 www.olx.pl.transfers-id.space
+0.0.0.0 www.allegro-fxyd.umowa-3ds.space
 0.0.0.0 setupdate24.updateworkfreshandnew.space
 0.0.0.0 iwbubcs.v01aelux.space
 0.0.0.0 i4eg76.vindicated-shelter.space
@@ -33106,6 +33116,7 @@
 0.0.0.0 www.acena.top
 0.0.0.0 www.ariatpolska.top
 0.0.0.0 www.best-games4you.top
+0.0.0.0 www.bezpieczny-transfer.top
 0.0.0.0 vip.bitcoinspring.top
 0.0.0.0 bak.btc.top
 0.0.0.0 bakok.btc.top
@@ -33832,6 +33843,8 @@
 0.0.0.0 www.candsashjd.co.vu
 0.0.0.0 www.d0007starpage.co.vu
 0.0.0.0 www.herindasmantul.co.vu
+0.0.0.0 www.ibrani1123.co.vu
+0.0.0.0 www.karugaterkuatmage.co.vu
 0.0.0.0 www.kinisemuaa.co.vu
 0.0.0.0 www.kitagaslagi3.co.vu
 0.0.0.0 www.leitetanksejati.co.vu
@@ -33843,6 +33856,8 @@
 0.0.0.0 www.marpusingmalam.co.vu
 0.0.0.0 www.marpusingmalam1.co.vu
 0.0.0.0 www.marpusingmalam2.co.vu
+0.0.0.0 www.marpusingpagi.co.vu
+0.0.0.0 www.marpusingtujuhkeliling1.co.vu
 0.0.0.0 www.marsiangpening.co.vu
 0.0.0.0 www.marsiangpening1.co.vu
 0.0.0.0 www.marsingboloung.co.vu
@@ -33854,7 +33869,9 @@
 0.0.0.0 www.pikiranmsjsdg.co.vu
 0.0.0.0 www.siangsiang.co.vu
 0.0.0.0 www.sirmakutlusti.co.vu
+0.0.0.0 www.therealamamu.co.vu
 0.0.0.0 www.tiadakata.co.vu
+0.0.0.0 www.tratatata.co.vu
 0.0.0.0 buy-vicodin.dd.vu
 0.0.0.0 adboost.de.vu
 0.0.0.0 dl.neodownload.webcam
@@ -35300,6 +35317,8 @@
 0.0.0.0 www.heforuam.xyz
 0.0.0.0 www.herosuby.xyz
 0.0.0.0 www.allegrolokaine.htpsell-origin.xyz
+0.0.0.0 allegrolokalnie-pl.id-5161677.xyz
+0.0.0.0 www.allegrolokalnie-pl.id-5161677.xyz
 0.0.0.0 www.inpost.id-track-pl43582364.xyz
 0.0.0.0 www.inpost-pl.id10304.xyz
 0.0.0.0 www.id3439549515.xyz
