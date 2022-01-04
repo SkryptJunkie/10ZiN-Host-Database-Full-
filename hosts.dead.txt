@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Monday 03 January 2022
+# Date: 06:02 AM Tuesday 04 January 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -32877,6 +32877,7 @@
 0.0.0.0 endsensura.top
 0.0.0.0 engingalon.top
 0.0.0.0 eniousirre.top
+0.0.0.0 enqxmgodgkxfoxs.top
 0.0.0.0 entiethmenti.top
 0.0.0.0 entpressent.top
 0.0.0.0 entsbecaus.top
@@ -32904,11 +32905,13 @@
 0.0.0.0 geuniveruls.top
 0.0.0.0 gferhrolklm.top
 0.0.0.0 gkoszt.top
+0.0.0.0 gledqadsdaw.top
 0.0.0.0 gprofessiv.top
 0.0.0.0 gthhumili.top
 0.0.0.0 guccigang.top
 0.0.0.0 guemechan.top
 0.0.0.0 gwatchestfe.top
+0.0.0.0 gyjyjkhp.top
 0.0.0.0 hailsserien.top
 0.0.0.0 happycase.top
 0.0.0.0 hethereasso.top
@@ -32932,6 +32935,7 @@
 0.0.0.0 jppost-cti.top
 0.0.0.0 kbirdsind.top
 0.0.0.0 kiafailersov.top
+0.0.0.0 kieuqepq.top
 0.0.0.0 kingshape.top
 0.0.0.0 kiptcellow.top
 0.0.0.0 kkukrstvykj.top
@@ -32973,6 +32977,7 @@
 0.0.0.0 nislanelibrar.top
 0.0.0.0 niteratebefo.top
 0.0.0.0 nityannoun.top
+0.0.0.0 njijavxhkio.top
 0.0.0.0 nmentsce.top
 0.0.0.0 nomicidenti.top
 0.0.0.0 nowbenefits.top
@@ -33087,6 +33092,7 @@
 0.0.0.0 tradecsgo.top
 0.0.0.0 tratefirearly.top
 0.0.0.0 tretionsp.top
+0.0.0.0 tshaphjgd.top
 0.0.0.0 ucatedcanc.top
 0.0.0.0 ueaggress.top
 0.0.0.0 uilsplentialde.top
@@ -33095,11 +33101,13 @@
 0.0.0.0 uumcxajak.top
 0.0.0.0 uxrawyfinqpogkp.top
 0.0.0.0 vamhgx07.top
+0.0.0.0 vbksrculvld.top
 0.0.0.0 vwkkkpjk.top
 0.0.0.0 wallinside.top
 0.0.0.0 wellsource.top
 0.0.0.0 winenp09.top
 0.0.0.0 withough.top
+0.0.0.0 wjguxqsiuwta.top
 0.0.0.0 woejyyygdvdpdgy.top
 0.0.0.0 workedlew.top
 0.0.0.0 wtfdrop.top
@@ -35041,6 +35049,7 @@
 0.0.0.0 travellertoday.xyz
 0.0.0.0 trireacteurs.xyz
 0.0.0.0 trislee.xyz
+0.0.0.0 trmbwfxxj.xyz
 0.0.0.0 trompaillames.xyz
 0.0.0.0 ttaqsrkkmcc.xyz
 0.0.0.0 tugdansk.xyz
