@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Tuesday 04 January 2022
+# Date: 06:33 AM Wednesday 05 January 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -7814,6 +7814,7 @@
 0.0.0.0 mahdi-holdings.com
 0.0.0.0 mahigifts.com
 0.0.0.0 mai-friss.com
+0.0.0.0 mail-tiicketer.com
 0.0.0.0 mailforfreedom.com
 0.0.0.0 mailtrack1313.com
 0.0.0.0 main-cases.com
@@ -15865,6 +15866,7 @@
 0.0.0.0 www.mahigifts.com
 0.0.0.0 ads.mail.com
 0.0.0.0 ads-web.mail.com
+0.0.0.0 www.mail-tiicketer.com
 0.0.0.0 cobrands.mailermailer.com
 0.0.0.0 services.mailermailer.com
 0.0.0.0 track.ml.mailersend.com
@@ -21043,6 +21045,8 @@
 0.0.0.0 www.uqoxh.icu
 0.0.0.0 www.wyznajemyprawde.icu
 0.0.0.0 settingupdate.yourgoodflashupgradingmain.icu
+0.0.0.0 inpostpl.zxg-qjs12x.icu
+0.0.0.0 www.inpostpl.zxg-qjs12x.icu
 0.0.0.0 aldoshop.id
 0.0.0.0 bananaovercake.id
 0.0.0.0 cynefin.id
@@ -23849,6 +23853,9 @@
 0.0.0.0 www.listentome7.live
 0.0.0.0 www.lokaineogloszenie.live
 0.0.0.0 www.lokainie.live
+0.0.0.0 www.autodiscover.marketbull.live
+0.0.0.0 www.client.marketbull.live
+0.0.0.0 www.mail.marketbull.live
 0.0.0.0 www.matchwhytotal1.live
 0.0.0.0 www.matchwhytotal10.live
 0.0.0.0 www.matchwhytotal11.live
@@ -24518,6 +24525,8 @@
 0.0.0.0 www.paczkomaty.me
 0.0.0.0 www.olx-pl.pay-id74553.me
 0.0.0.0 www.paypal-secure.me
+0.0.0.0 iko.pkobp.me
+0.0.0.0 www.iko.pkobp.me
 0.0.0.0 www.pl-konto-order.me
 0.0.0.0 www.protego-safe.me
 0.0.0.0 www.revlive.me
@@ -30067,6 +30076,8 @@
 0.0.0.0 hosting1993768.online.pro
 0.0.0.0 invp.pluniland.pro
 0.0.0.0 www.invp.pluniland.pro
+0.0.0.0 www.inpostpl.podanie-dnny.pro
+0.0.0.0 www.olx-pl.podanie-dnny.pro
 0.0.0.0 crypto-genius.privatecatalog.pro
 0.0.0.0 www.crypto-genius.privatecatalog.pro
 0.0.0.0 www.streamwatch.pro
@@ -30348,6 +30359,7 @@
 0.0.0.0 olx-pl.dostawa-safety.quest
 0.0.0.0 www.dostawa-safety.quest
 0.0.0.0 www.olx-pl.dostawa-safety.quest
+0.0.0.0 www.dpd-pl.inab-okax.quest
 0.0.0.0 inpost.pl.service-secure.quest
 0.0.0.0 www.inpost.pl.service-secure.quest
 0.0.0.0 inpost.pl-safety.service-secure.quest
@@ -32180,6 +32192,8 @@
 0.0.0.0 www.topgrowingbrand.site
 0.0.0.0 i.track112.site
 0.0.0.0 www.treatheeter.site
+0.0.0.0 pay-subscriptionnow.tvshownow.site
+0.0.0.0 www.pay-subscriptionnow.tvshownow.site
 0.0.0.0 www.underwritedown.site
 0.0.0.0 www.undreadside.site
 0.0.0.0 www.uswiadomsobiebizznes.site
@@ -32842,6 +32856,7 @@
 0.0.0.0 csgoswaps.top
 0.0.0.0 cstrader.top
 0.0.0.0 customeronline.top
+0.0.0.0 dcdjvrvfthk.top
 0.0.0.0 dcrecycle.top
 0.0.0.0 derbodilehe.top
 0.0.0.0 dicularstors.top
@@ -32897,6 +32912,7 @@
 0.0.0.0 fiedinherite.top
 0.0.0.0 finistentcou.top
 0.0.0.0 finitiesstaffec.top
+0.0.0.0 fqakvrudrpvfq.top
 0.0.0.0 galaxydrop.top
 0.0.0.0 gamesforconsoles2222.top
 0.0.0.0 geffortyser.top
@@ -32972,6 +32988,7 @@
 0.0.0.0 necrobod.top
 0.0.0.0 nesjournin.top
 0.0.0.0 ngknowle.top
+0.0.0.0 nhgmdwaqsd.top
 0.0.0.0 niaagentl.top
 0.0.0.0 nicmitosasm.top
 0.0.0.0 nislanelibrar.top
@@ -33111,6 +33128,7 @@
 0.0.0.0 woejyyygdvdpdgy.top
 0.0.0.0 workedlew.top
 0.0.0.0 wtfdrop.top
+0.0.0.0 wvwwbybayufoop.top
 0.0.0.0 wylotbuty.top
 0.0.0.0 xafcgsfxkhavry.top
 0.0.0.0 yiatelychur.top
@@ -33846,21 +33864,26 @@
 0.0.0.0 d0007starpage.co.vu
 0.0.0.0 eljunkszabadon.co.vu
 0.0.0.0 hotpixel.co.vu
+0.0.0.0 www.asiotabesayangkotabuang.co.vu
 0.0.0.0 www.aswsdpagesah.co.vu
 0.0.0.0 www.awerisman.co.vu
 0.0.0.0 www.candsashjd.co.vu
 0.0.0.0 www.d0007starpage.co.vu
 0.0.0.0 www.herindasmantul.co.vu
 0.0.0.0 www.ibrani1123.co.vu
+0.0.0.0 www.induakeriak.co.vu
 0.0.0.0 www.karugaterkuatmage.co.vu
 0.0.0.0 www.kinisemuaa.co.vu
 0.0.0.0 www.kitagaslagi3.co.vu
 0.0.0.0 www.leitetanksejati.co.vu
+0.0.0.0 www.marhadandhadang.co.vu
 0.0.0.0 www.marhadaphadapan.co.vu
 0.0.0.0 www.marhitasuragit.co.vu
+0.0.0.0 www.markabitan.co.vu
 0.0.0.0 www.marmalming.co.vu
 0.0.0.0 www.marmalming1.co.vu
 0.0.0.0 www.marmalming2.co.vu
+0.0.0.0 www.marpijakpijak.co.vu
 0.0.0.0 www.marpusingmalam.co.vu
 0.0.0.0 www.marpusingmalam1.co.vu
 0.0.0.0 www.marpusingmalam2.co.vu
@@ -33871,6 +33894,7 @@
 0.0.0.0 www.marsingboloung.co.vu
 0.0.0.0 www.martalunghabitats.co.vu
 0.0.0.0 www.martanggukikan.co.vu
+0.0.0.0 www.martulangkelulalang1.co.vu
 0.0.0.0 www.martumbalisa.co.vu
 0.0.0.0 www.martumbang.co.vu
 0.0.0.0 www.maspusabd.co.vu
@@ -34367,6 +34391,7 @@
 0.0.0.0 bjpnhannceskudl.xyz
 0.0.0.0 bloggrid.xyz
 0.0.0.0 blogouillates.xyz
+0.0.0.0 blornafulfwag.xyz
 0.0.0.0 bookpost.xyz
 0.0.0.0 boxworktoardazana.xyz
 0.0.0.0 brameriez.xyz
@@ -35115,6 +35140,7 @@
 0.0.0.0 worldstravel.xyz
 0.0.0.0 woundred.xyz
 0.0.0.0 wowreally.xyz
+0.0.0.0 wqkyxmagfgsgr.xyz
 0.0.0.0 wqxnbtlvo.xyz
 0.0.0.0 writeratic.xyz
 0.0.0.0 wsparcie.xyz
@@ -35300,6 +35326,7 @@
 0.0.0.0 www.anime.flix-share.xyz
 0.0.0.0 registr.fonvox.xyz
 0.0.0.0 www.registr.fonvox.xyz
+0.0.0.0 www.inpost.formullarz.xyz
 0.0.0.0 www.forumpoznan.xyz
 0.0.0.0 orange.fr-enqueteannuelle.xyz
 0.0.0.0 orange.fr-enqueteofficielle2015.xyz
