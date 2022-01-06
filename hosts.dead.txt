@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:33 AM Wednesday 05 January 2022
+# Date: 06:02 AM Thursday 06 January 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -32854,6 +32854,7 @@
 0.0.0.0 csgomix.top
 0.0.0.0 csgoneo.top
 0.0.0.0 csgoswaps.top
+0.0.0.0 cslcjaoerfbuxrq.top
 0.0.0.0 cstrader.top
 0.0.0.0 customeronline.top
 0.0.0.0 dcdjvrvfthk.top
@@ -32930,6 +32931,7 @@
 0.0.0.0 gyjyjkhp.top
 0.0.0.0 hailsserien.top
 0.0.0.0 happycase.top
+0.0.0.0 hcwloycadkpcva.top
 0.0.0.0 hethereasso.top
 0.0.0.0 hinatorhypoc.top
 0.0.0.0 hinksdeba.top
@@ -32949,6 +32951,7 @@
 0.0.0.0 jientlysome.top
 0.0.0.0 jingwatch.top
 0.0.0.0 jppost-cti.top
+0.0.0.0 jytetnyuauwiwgf.top
 0.0.0.0 kbirdsind.top
 0.0.0.0 kiafailersov.top
 0.0.0.0 kieuqepq.top
@@ -32988,6 +32991,7 @@
 0.0.0.0 necrobod.top
 0.0.0.0 nesjournin.top
 0.0.0.0 ngknowle.top
+0.0.0.0 nhfhqcbtmj.top
 0.0.0.0 nhgmdwaqsd.top
 0.0.0.0 niaagentl.top
 0.0.0.0 nicmitosasm.top
@@ -33029,6 +33033,7 @@
 0.0.0.0 patagoniapolska.top
 0.0.0.0 pednorthe.top
 0.0.0.0 pennisdising.top
+0.0.0.0 peymdpws.top
 0.0.0.0 piski.top
 0.0.0.0 pitegirlfridg.top
 0.0.0.0 pointpopu.top
@@ -33043,6 +33048,8 @@
 0.0.0.0 privatix.top
 0.0.0.0 prjslxhtx005.top
 0.0.0.0 purrenches.top
+0.0.0.0 qistgfokje.top
+0.0.0.0 qjhtdsstyrbc.top
 0.0.0.0 qqchmapkqumvetl.top
 0.0.0.0 ragenessed.top
 0.0.0.0 rditatehapp.top
