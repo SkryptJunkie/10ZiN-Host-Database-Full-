@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Thursday 06 January 2022
+# Date: 06:02 AM Friday 07 January 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -32825,6 +32825,7 @@
 0.0.0.0 ateddiscr.top
 0.0.0.0 athsexten.top
 0.0.0.0 ationcomp.top
+0.0.0.0 bburpouuh.top
 0.0.0.0 best-browser.top
 0.0.0.0 bingtonwr.top
 0.0.0.0 biolaker.top
@@ -32835,6 +32836,7 @@
 0.0.0.0 bonisiple.top
 0.0.0.0 cationsys.top
 0.0.0.0 cepractliq.top
+0.0.0.0 ceulyvxnrhmm.top
 0.0.0.0 chaserwit.top
 0.0.0.0 checkwp.top
 0.0.0.0 ciendsbusi.top
@@ -32932,6 +32934,7 @@
 0.0.0.0 hailsserien.top
 0.0.0.0 happycase.top
 0.0.0.0 hcwloycadkpcva.top
+0.0.0.0 hejdivvgm.top
 0.0.0.0 hethereasso.top
 0.0.0.0 hinatorhypoc.top
 0.0.0.0 hinksdeba.top
@@ -32964,6 +32967,7 @@
 0.0.0.0 lainswitche.top
 0.0.0.0 lativenayl.top
 0.0.0.0 legedlunchar.top
+0.0.0.0 lgvxvudj.top
 0.0.0.0 licitventiethv.top
 0.0.0.0 lightdrop.top
 0.0.0.0 lingchallersh.top
@@ -33109,6 +33113,7 @@
 0.0.0.0 tfatalonepres.top
 0.0.0.0 tificanaccou.top
 0.0.0.0 tistianmaga.top
+0.0.0.0 tnecgrgp.top
 0.0.0.0 tnfclothed.top
 0.0.0.0 topgamecrack.top
 0.0.0.0 tpatrongva.top
@@ -34547,6 +34552,7 @@
 0.0.0.0 houseoffunfreecoins.xyz
 0.0.0.0 howtomakemoneyingta5.xyz
 0.0.0.0 howugche.xyz
+0.0.0.0 hsejtwpipx.xyz
 0.0.0.0 htmlhubing.xyz
 0.0.0.0 hugcha.xyz
 0.0.0.0 hulyyabo.xyz
