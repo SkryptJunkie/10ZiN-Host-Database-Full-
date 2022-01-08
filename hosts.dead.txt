@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Friday 07 January 2022
+# Date: 06:02 AM Saturday 08 January 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -18147,6 +18147,7 @@
 0.0.0.0 ads.theindependent.com
 0.0.0.0 adimg.theinsider.com
 0.0.0.0 mads.theinsider.com
+0.0.0.0 www.moon.theinterrupt.com
 0.0.0.0 sudeep.theinversionstudios.com
 0.0.0.0 gcirm.theithacajournal.com
 0.0.0.0 gcirm.thejournalnews.com
@@ -20830,6 +20831,7 @@
 0.0.0.0 inpost.bezpieczna-oferta.icu
 0.0.0.0 www.inpost.bezpieczna-oferta.icu
 0.0.0.0 www.cerine-posals.icu
+0.0.0.0 www.inpostpl.cxoza-tiww12.icu
 0.0.0.0 mac-safety-check.com.ppikkoyfug.db3irlfl8g2nrljgxnlsoqmvb1s.icu
 0.0.0.0 olx-pl.dealings-safe.icu
 0.0.0.0 www.olx-pl.dealings-safe.icu
@@ -29078,6 +29080,7 @@
 0.0.0.0 madraglowa.com.pl
 0.0.0.0 marinacape.com.pl
 0.0.0.0 masazstarogard.com.pl
+0.0.0.0 mimistore.com.pl
 0.0.0.0 naprawadachu.com.pl
 0.0.0.0 nek.com.pl
 0.0.0.0 newsgwalt24.com.pl
@@ -29143,6 +29146,7 @@
 0.0.0.0 www.masazstarogard.com.pl
 0.0.0.0 oddam-kotki17.microhost.com.pl
 0.0.0.0 www.oddam-kotki17.microhost.com.pl
+0.0.0.0 www.mimistore.com.pl
 0.0.0.0 www.naprawadachu.com.pl
 0.0.0.0 www.nek.com.pl
 0.0.0.0 www.newsgwalt24.com.pl
@@ -32826,6 +32830,7 @@
 0.0.0.0 athsexten.top
 0.0.0.0 ationcomp.top
 0.0.0.0 bburpouuh.top
+0.0.0.0 bdyuewmk.top
 0.0.0.0 best-browser.top
 0.0.0.0 bingtonwr.top
 0.0.0.0 biolaker.top
@@ -32934,6 +32939,7 @@
 0.0.0.0 hailsserien.top
 0.0.0.0 happycase.top
 0.0.0.0 hcwloycadkpcva.top
+0.0.0.0 hejbwnwj.top
 0.0.0.0 hejdivvgm.top
 0.0.0.0 hethereasso.top
 0.0.0.0 hinatorhypoc.top
@@ -33017,6 +33023,7 @@
 0.0.0.0 ofertabuty.top
 0.0.0.0 oicretarifiedy.top
 0.0.0.0 oinvalentpriv.top
+0.0.0.0 okjaneyoeiejabe.top
 0.0.0.0 ollectusdign.top
 0.0.0.0 olqdh.top
 0.0.0.0 ongassume.top
@@ -33083,6 +33090,7 @@
 0.0.0.0 sepost-q.top
 0.0.0.0 sepost-r.top
 0.0.0.0 sepost-u.top
+0.0.0.0 sgljbadfoe.top
 0.0.0.0 shsistnovem.top
 0.0.0.0 simengwl.top
 0.0.0.0 singpost-j.top
@@ -33597,6 +33605,7 @@
 0.0.0.0 mature-pussy.us
 0.0.0.0 microsoftpointsgenerator.us
 0.0.0.0 mochandmade.us
+0.0.0.0 moneyinstall.us
 0.0.0.0 moviebuzzer.us
 0.0.0.0 movieheadline.us
 0.0.0.0 moviehitz.us
@@ -34579,6 +34588,7 @@
 0.0.0.0 interloquent.xyz
 0.0.0.0 inwestujepl24.xyz
 0.0.0.0 inwestycjepl24.xyz
+0.0.0.0 isvpekploceny.xyz
 0.0.0.0 itcayxlwnpowlo.xyz
 0.0.0.0 iuhtdqylroanuxg.xyz
 0.0.0.0 ivemwjkbkjtb.xyz
@@ -36797,6 +36807,7 @@
 0.0.0.0 www.inpost.plaretor.xyz
 0.0.0.0 www.plinjo.xyz
 0.0.0.0 www.ploferta24.xyz
+0.0.0.0 www.inpost.plpuygt.xyz
 0.0.0.0 prog2.plsystem6.xyz
 0.0.0.0 uk.plsystem6.xyz
 0.0.0.0 www.prog2.plsystem6.xyz
