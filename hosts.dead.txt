@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Monday 10 January 2022
+# Date: 06:02 AM Tuesday 11 January 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -32827,8 +32827,10 @@
 0.0.0.0 arxistenthe.top
 0.0.0.0 ashingcontro.top
 0.0.0.0 ateddiscr.top
+0.0.0.0 athcqkvqgg.top
 0.0.0.0 athsexten.top
 0.0.0.0 ationcomp.top
+0.0.0.0 avnkyihuljucsnw.top
 0.0.0.0 bburpouuh.top
 0.0.0.0 bdyuewmk.top
 0.0.0.0 best-browser.top
@@ -32850,6 +32852,7 @@
 0.0.0.0 cilcountee.top
 0.0.0.0 cixyuvcwifp.top
 0.0.0.0 concesspon.top
+0.0.0.0 cqtydjqc.top
 0.0.0.0 crewardscyprus.top
 0.0.0.0 crllmzsy.top
 0.0.0.0 crocspromocja.top
@@ -32954,6 +32957,7 @@
 0.0.0.0 hurtbuty.top
 0.0.0.0 icloud-lockes.top
 0.0.0.0 idealnybuty.top
+0.0.0.0 iepipdqgwpbqd.top
 0.0.0.0 inpost-paczka.top
 0.0.0.0 instamore.top
 0.0.0.0 jhasisinvolvo.top
@@ -33058,6 +33062,7 @@
 0.0.0.0 privatede.top
 0.0.0.0 privatix.top
 0.0.0.0 prjslxhtx005.top
+0.0.0.0 pupecyjnh.top
 0.0.0.0 purrenches.top
 0.0.0.0 qistgfokje.top
 0.0.0.0 qjhtdsstyrbc.top
@@ -33100,6 +33105,7 @@
 0.0.0.0 snormida.top
 0.0.0.0 sohui.top
 0.0.0.0 sonicfopase.top
+0.0.0.0 srlrshurw.top
 0.0.0.0 ssumeras.top
 0.0.0.0 sthingtonwr.top
 0.0.0.0 sthourselft.top
@@ -33140,6 +33146,7 @@
 0.0.0.0 vamhgx07.top
 0.0.0.0 vbksrculvld.top
 0.0.0.0 vwkkkpjk.top
+0.0.0.0 vxcxlnkowga.top
 0.0.0.0 wallinside.top
 0.0.0.0 wellsource.top
 0.0.0.0 winenp09.top
@@ -33151,10 +33158,12 @@
 0.0.0.0 wvwwbybayufoop.top
 0.0.0.0 wylotbuty.top
 0.0.0.0 xafcgsfxkhavry.top
+0.0.0.0 xqegfvlesmvc.top
 0.0.0.0 yiatelychur.top
 0.0.0.0 yincreate.top
 0.0.0.0 you-have-0ne-messsagehe0.top
 0.0.0.0 yprbybdj.top
+0.0.0.0 yseexhwcuc.top
 0.0.0.0 zikdrop.top
 0.0.0.0 zingtormanc.top
 0.0.0.0 free-movies.3xp4e3kno6.top
@@ -34372,6 +34381,7 @@
 0.0.0.0 achbiz.xyz
 0.0.0.0 activefollowerz.xyz
 0.0.0.0 adblockdetect.xyz
+0.0.0.0 adcyahvxb.xyz
 0.0.0.0 adjectivates.xyz
 0.0.0.0 adobeflashplayerb.xyz
 0.0.0.0 aejwwnkhulyqi.xyz
@@ -34898,6 +34908,7 @@
 0.0.0.0 periously.xyz
 0.0.0.0 peruglobal.xyz
 0.0.0.0 pgrupa.xyz
+0.0.0.0 pifrpkpvkp.xyz
 0.0.0.0 pinmova.xyz
 0.0.0.0 pl-buy.xyz
 0.0.0.0 pl-getcash.xyz
@@ -35176,6 +35187,7 @@
 0.0.0.0 xcsyeytcjyyt.xyz
 0.0.0.0 xemtvdrx.xyz
 0.0.0.0 xin9.xyz
+0.0.0.0 xispmyctc.xyz
 0.0.0.0 xkuoleawntycfoq.xyz
 0.0.0.0 xleetaz.xyz
 0.0.0.0 xn--u9j258kr4ag4t6x2bdktgnf.xyz
