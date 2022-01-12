@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Tuesday 11 January 2022
+# Date: 06:05 AM Wednesday 12 January 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -12056,6 +12056,7 @@
 0.0.0.0 www.ec2-3-10-207-184.eu-west-2.compute.amazonaws.com
 0.0.0.0 www.ec2-3-8-146-77.eu-west-2.compute.amazonaws.com
 0.0.0.0 www.ec2-35-178-235-52.eu-west-2.compute.amazonaws.com
+0.0.0.0 www.ec2-15-188-147-101.eu-west-3.compute.amazonaws.com
 0.0.0.0 www.ec2-15-237-117-139.eu-west-3.compute.amazonaws.com
 0.0.0.0 www.ec2-35-180-127-210.eu-west-3.compute.amazonaws.com
 0.0.0.0 www.ec2-52-47-123-197.eu-west-3.compute.amazonaws.com
@@ -15445,6 +15446,7 @@
 0.0.0.0 te.journalnow.com
 0.0.0.0 www.joyceomondi.com
 0.0.0.0 banner.joylandcasino.com
+0.0.0.0 www.olx-pl.jpjone1.com
 0.0.0.0 ad.jsecoin.com
 0.0.0.0 api.jsecoin.com
 0.0.0.0 blockchain.jsecoin.com
@@ -16457,6 +16459,7 @@
 0.0.0.0 www.eu.nextah.com
 0.0.0.0 dce.nextstat.com
 0.0.0.0 hits.nextstat.com
+0.0.0.0 www.pruebas-emserfusa71.nexura.com
 0.0.0.0 www.nexusproof.com
 0.0.0.0 nord-vpn.nfltvon.com
 0.0.0.0 www.nflue.com
@@ -17234,6 +17237,7 @@
 0.0.0.0 www.rizwannaturalsalt.com
 0.0.0.0 fox.rkixproject.com
 0.0.0.0 tags.rllcll.com
+0.0.0.0 www.f.rmf-filter.com
 0.0.0.0 optimzedby.rmxads.com
 0.0.0.0 oas.roanoke.com
 0.0.0.0 ads.rockstargames.com
@@ -18739,6 +18743,7 @@
 0.0.0.0 attribution.webmarketing123.com
 0.0.0.0 adserver.webmasterbond.com
 0.0.0.0 publish.webmasterbond.com
+0.0.0.0 salwa-khit.webmyidea.com
 0.0.0.0 www.weboyal.com
 0.0.0.0 clickcash.webpower.com
 0.0.0.0 ad.webprovider.com
@@ -22677,6 +22682,7 @@
 0.0.0.0 www.goodone48.burrow.io
 0.0.0.0 sale.canay.io
 0.0.0.0 www.facebook24-com.cleverapps.io
+0.0.0.0 www.teraz-to.cleverapps.io
 0.0.0.0 www.wyborcza-24i.cleverapps.io
 0.0.0.0 www.x-zdjecia.cleverapps.io
 0.0.0.0 max.crwd.io
@@ -23300,6 +23306,8 @@
 0.0.0.0 vormax.link
 0.0.0.0 www.eu.adyen.link
 0.0.0.0 www.exmo.link
+0.0.0.0 glomtro.kntenautoshyb.link
+0.0.0.0 www.glomtro.kntenautoshyb.link
 0.0.0.0 ing.nuverifieren.link
 0.0.0.0 www.pomkalo.link
 0.0.0.0 blablacar-pl.s-wallet.link
@@ -24573,6 +24581,7 @@
 0.0.0.0 www.inpost.dostawa-safety.miami
 0.0.0.0 4vikingdrive.ml
 0.0.0.0 coindash.ml
+0.0.0.0 comptangpergoispor.ml
 0.0.0.0 delightful-development.ml
 0.0.0.0 detinrocondsand.ml
 0.0.0.0 dfinity.ml
@@ -24589,6 +24598,7 @@
 0.0.0.0 rentaroom.ml
 0.0.0.0 tgme.ml
 0.0.0.0 pdf-wp.baajraa.ml
+0.0.0.0 www.comptangpergoispor.ml
 0.0.0.0 www.detinrocondsand.ml
 0.0.0.0 olx-pl.epayments-bank.ml
 0.0.0.0 www.olx-pl.epayments-bank.ml
@@ -27449,6 +27459,7 @@
 0.0.0.0 bagsonsale.online
 0.0.0.0 besthotgirl.online
 0.0.0.0 betweenstep.online
+0.0.0.0 bitwolf.online
 0.0.0.0 bobarmale.online
 0.0.0.0 bravoservices.online
 0.0.0.0 busking.online
@@ -27506,6 +27517,7 @@
 0.0.0.0 h1z1trade.online
 0.0.0.0 hackig.online
 0.0.0.0 haobai.online
+0.0.0.0 haobay.online
 0.0.0.0 haobuys.online
 0.0.0.0 haotao.online
 0.0.0.0 henyoupin.online
@@ -27557,6 +27569,7 @@
 0.0.0.0 ogloszenie-elektronika.online
 0.0.0.0 okaybuy.online
 0.0.0.0 okbay.online
+0.0.0.0 okbuying.online
 0.0.0.0 opencase.online
 0.0.0.0 ostatniaminutapl.online
 0.0.0.0 outbutypt.online
@@ -27601,6 +27614,7 @@
 0.0.0.0 szybkie-wysylki.online
 0.0.0.0 techybhai.online
 0.0.0.0 thegrupa.online
+0.0.0.0 theokday.online
 0.0.0.0 tomypolacy.online
 0.0.0.0 topgreattrget.online
 0.0.0.0 torramma.online
@@ -27622,6 +27636,7 @@
 0.0.0.0 wystarczypooszukkac.online
 0.0.0.0 xn--fjqz50cv5q3so.online
 0.0.0.0 yfivoqeh.online
+0.0.0.0 youquyouqu.online
 0.0.0.0 yviletet.online
 0.0.0.0 zachecamydoczytania.online
 0.0.0.0 zskins.online
@@ -28461,6 +28476,7 @@
 0.0.0.0 logging03.wxs.org
 0.0.0.0 mail.youcanoptout.org
 0.0.0.0 www.youcanoptout.org
+0.0.0.0 www.ysecde.org
 0.0.0.0 advertising.zenit.org
 0.0.0.0 metal.ovh
 0.0.0.0 skutecznesrodki-tabletkinapotencje.ovh
@@ -28573,6 +28589,7 @@
 0.0.0.0 coldy-shop.pl
 0.0.0.0 cyfrowepotwory.pl
 0.0.0.0 czytaj-info.pl
+0.0.0.0 darmowe-okazje.pl
 0.0.0.0 daromusic.pl
 0.0.0.0 demoniatanio.pl
 0.0.0.0 dgntransport.pl
@@ -28761,6 +28778,7 @@
 0.0.0.0 poszukiwania683.pl
 0.0.0.0 poszukiwany975.pl
 0.0.0.0 powiat24wiadomosci.pl
+0.0.0.0 prawdziweinformacje.pl
 0.0.0.0 projectsociety.pl
 0.0.0.0 projektszkoleniowy.pl
 0.0.0.0 protesttaxi.pl
@@ -29193,6 +29211,7 @@
 0.0.0.0 www.weeknews24.czest.pl
 0.0.0.0 www.wyborcza-biznes.czest.pl
 0.0.0.0 www.czytaj-info.pl
+0.0.0.0 www.darmowe-okazje.pl
 0.0.0.0 www.demoniatanio.pl
 0.0.0.0 www.dietasekret.pl
 0.0.0.0 www.dinamoon.pl
@@ -29504,6 +29523,7 @@
 0.0.0.0 www.poszukiwania683.pl
 0.0.0.0 www.poszukiwany975.pl
 0.0.0.0 www.powiat24wiadomosci.pl
+0.0.0.0 www.prawdziweinformacje.pl
 0.0.0.0 www.projectsociety.pl
 0.0.0.0 www.protesttaxi.pl
 0.0.0.0 www.prowizja24.pl
@@ -31246,6 +31266,8 @@
 0.0.0.0 mozliwosc-firmy.sbs
 0.0.0.0 mybank.sbs
 0.0.0.0 www.inpostpl.44112-online.sbs
+0.0.0.0 inpostpl.dj2-b2a5s.sbs
+0.0.0.0 www.inpostpl.dj2-b2a5s.sbs
 0.0.0.0 dpd-pln.dostawa-safety.sbs
 0.0.0.0 inpost.dostawa-safety.sbs
 0.0.0.0 inpost-pl.dostawa-safety.sbs
@@ -31664,6 +31686,7 @@
 0.0.0.0 moja-dostawa.site
 0.0.0.0 monogronto.site
 0.0.0.0 movieskub.site
+0.0.0.0 myjerseyshop.site
 0.0.0.0 naszepieknemiasstto.site
 0.0.0.0 nathanielhawthorne.site
 0.0.0.0 newsproduct.site
@@ -32000,6 +32023,7 @@
 0.0.0.0 www.olx.pl.paymentchecked.site
 0.0.0.0 www.pge-see.site
 0.0.0.0 www.pgeinfo-ask.site
+0.0.0.0 www.lnpost.pl-160124131.site
 0.0.0.0 olx.pl-aktywacja.site
 0.0.0.0 www.olx.pl-aktywacja.site
 0.0.0.0 inpost.pl-buybutfor.site
@@ -32330,6 +32354,7 @@
 0.0.0.0 macfixingsoftware.space
 0.0.0.0 malpacascal.space
 0.0.0.0 marevo.space
+0.0.0.0 marinafedorova.space
 0.0.0.0 mband.space
 0.0.0.0 membrana.space
 0.0.0.0 milanovas.space
@@ -32407,9 +32432,11 @@
 0.0.0.0 www.inpost.28636.space
 0.0.0.0 inpost-pl.54563.space
 0.0.0.0 www.inpost-pl.54563.space
+0.0.0.0 www.inpost-polska.546865.space
 0.0.0.0 www.548739.space
 0.0.0.0 olx-pl.549084.space
 0.0.0.0 www.olx-pl.549084.space
+0.0.0.0 www.pl-allegrolokalnie.577371.space
 0.0.0.0 www.58732.space
 0.0.0.0 www.olx.657448.space
 0.0.0.0 www.inpost.66645.space
@@ -32423,6 +32450,7 @@
 0.0.0.0 www.74882.space
 0.0.0.0 www.dpd.756347.space
 0.0.0.0 www.poczta-polska-pl.77544.space
+0.0.0.0 www.pl-allegrolokalnie.776491.space
 0.0.0.0 inpost-pl.785923.space
 0.0.0.0 www.inpost-pl.785923.space
 0.0.0.0 www.inpost.78790.space
@@ -32476,6 +32504,8 @@
 0.0.0.0 www.jgirls.space
 0.0.0.0 www.inpostpl.konto24-serwis.space
 0.0.0.0 www.lnpost.kontogivecash-inform.space
+0.0.0.0 dpd-pl.kort-part1.space
+0.0.0.0 www.dpd-pl.kort-part1.space
 0.0.0.0 www.kottonlok.space
 0.0.0.0 www.libaliba.space
 0.0.0.0 www.lillove.space
@@ -32529,6 +32559,7 @@
 0.0.0.0 www.training-scrutinize.space
 0.0.0.0 olx.pl.transfers-id.space
 0.0.0.0 www.olx.pl.transfers-id.space
+0.0.0.0 www.dpd.transpay-67584.space
 0.0.0.0 www.allegro-fxyd.umowa-3ds.space
 0.0.0.0 setupdate24.updateworkfreshandnew.space
 0.0.0.0 iwbubcs.v01aelux.space
@@ -32549,6 +32580,7 @@
 0.0.0.0 apnionlinedukan.store
 0.0.0.0 asterlo.store
 0.0.0.0 b85allecev.store
+0.0.0.0 baliflowers.store
 0.0.0.0 caseopening.store
 0.0.0.0 cloudapp-s.store
 0.0.0.0 csgobot.store
@@ -32559,6 +32591,7 @@
 0.0.0.0 koleno.store
 0.0.0.0 kontospls.store
 0.0.0.0 lodzi.store
+0.0.0.0 maldivesflowers.store
 0.0.0.0 new-payment.store
 0.0.0.0 parano.store
 0.0.0.0 phantomwallet.store
@@ -32841,6 +32874,7 @@
 0.0.0.0 bklbgojd.top
 0.0.0.0 bongadrop.top
 0.0.0.0 bonisiple.top
+0.0.0.0 bxmrvgoel.top
 0.0.0.0 cationsys.top
 0.0.0.0 cepractliq.top
 0.0.0.0 ceulyvxnrhmm.top
@@ -32955,11 +32989,14 @@
 0.0.0.0 hospitecor.top
 0.0.0.0 houtrelen.top
 0.0.0.0 hurtbuty.top
+0.0.0.0 hxxkiisnjmppkk.top
 0.0.0.0 icloud-lockes.top
 0.0.0.0 idealnybuty.top
 0.0.0.0 iepipdqgwpbqd.top
 0.0.0.0 inpost-paczka.top
 0.0.0.0 instamore.top
+0.0.0.0 iqhmignhcjhpn.top
+0.0.0.0 irjxswingv.top
 0.0.0.0 jhasisinvolvo.top
 0.0.0.0 jientlysome.top
 0.0.0.0 jingwatch.top
@@ -33102,6 +33139,7 @@
 0.0.0.0 sjeffrontagr.top
 0.0.0.0 sklepbuty.top
 0.0.0.0 skydrop.top
+0.0.0.0 slxyhljimfmwos.top
 0.0.0.0 snormida.top
 0.0.0.0 sohui.top
 0.0.0.0 sonicfopase.top
@@ -33140,11 +33178,13 @@
 0.0.0.0 ueaggress.top
 0.0.0.0 uilsplentialde.top
 0.0.0.0 uisingreactic.top
+0.0.0.0 uoeilyni.top
 0.0.0.0 ustbitsoct.top
 0.0.0.0 uumcxajak.top
 0.0.0.0 uxrawyfinqpogkp.top
 0.0.0.0 vamhgx07.top
 0.0.0.0 vbksrculvld.top
+0.0.0.0 vpmseopnj.top
 0.0.0.0 vwkkkpjk.top
 0.0.0.0 vxcxlnkowga.top
 0.0.0.0 wallinside.top
@@ -33670,6 +33710,7 @@
 0.0.0.0 www.goldengate.us
 0.0.0.0 cdn.guttastatdk.us
 0.0.0.0 www.hyvf65qiht.us
+0.0.0.0 mlzdzx4d9iyk.cadena.incl.us
 0.0.0.0 ad.indomp3z.us
 0.0.0.0 track.iwfueh.us
 0.0.0.0 www.kbdiu5z8ah.us
@@ -33894,14 +33935,19 @@
 0.0.0.0 d0007starpage.co.vu
 0.0.0.0 eljunkszabadon.co.vu
 0.0.0.0 hotpixel.co.vu
+0.0.0.0 www.aishiteruu.co.vu
 0.0.0.0 www.asiotabesayangkotabuang.co.vu
 0.0.0.0 www.aswsdpagesah.co.vu
 0.0.0.0 www.awerisman.co.vu
+0.0.0.0 www.bibircastello.co.vu
+0.0.0.0 www.bilanantisaja.co.vu
 0.0.0.0 www.candsashjd.co.vu
 0.0.0.0 www.d0007starpage.co.vu
+0.0.0.0 www.deyenndaktlk.co.vu
 0.0.0.0 www.herindasmantul.co.vu
 0.0.0.0 www.ibrani1123.co.vu
 0.0.0.0 www.induakeriak.co.vu
+0.0.0.0 www.jikamemangg.co.vu
 0.0.0.0 www.karugaterkuatmage.co.vu
 0.0.0.0 www.kinisemuaa.co.vu
 0.0.0.0 www.kitagaslagi3.co.vu
@@ -33910,9 +33956,11 @@
 0.0.0.0 www.marhadaphadapan.co.vu
 0.0.0.0 www.marhitasuragit.co.vu
 0.0.0.0 www.markabitan.co.vu
+0.0.0.0 www.marmalamsabtu.co.vu
 0.0.0.0 www.marmalming.co.vu
 0.0.0.0 www.marmalming1.co.vu
 0.0.0.0 www.marmalming2.co.vu
+0.0.0.0 www.marminggusore.co.vu
 0.0.0.0 www.marpijakpijak.co.vu
 0.0.0.0 www.marpusingmalam.co.vu
 0.0.0.0 www.marpusingmalam1.co.vu
@@ -35118,6 +35166,7 @@
 0.0.0.0 tyboyyli.xyz
 0.0.0.0 typedash.xyz
 0.0.0.0 tyrvictions.xyz
+0.0.0.0 uaamptuhkemmjx.xyz
 0.0.0.0 ufurry.xyz
 0.0.0.0 ufyiqypf.xyz
 0.0.0.0 uhlirmnejsndfs.xyz
@@ -35247,6 +35296,7 @@
 0.0.0.0 booking.autopays.xyz
 0.0.0.0 www.booking.autopays.xyz
 0.0.0.0 www.bagatta.xyz
+0.0.0.0 www.allegrolokal.bankaccountpl.xyz
 0.0.0.0 www.belowhuge.xyz
 0.0.0.0 www.bestofpozht.xyz
 0.0.0.0 www.bezapelacyjniepolska.xyz
@@ -35269,6 +35319,7 @@
 0.0.0.0 www.ckwmfo421-epoeqw.xyz
 0.0.0.0 www.cloud-main.xyz
 0.0.0.0 www.colubelskie.xyz
+0.0.0.0 www.lnpostpl-lnform.contactbank.xyz
 0.0.0.0 www.lnpost.contributionpl-moneyme-ptr.xyz
 0.0.0.0 formplproga.criptfast.xyz
 0.0.0.0 patprog-livepl.criptfast.xyz
@@ -35319,6 +35370,8 @@
 0.0.0.0 www.cuse.xyz
 0.0.0.0 www.lnpost.custompl-shipping.xyz
 0.0.0.0 www.czesc.xyz
+0.0.0.0 www.inpostpi.dataprocesrequest.xyz
+0.0.0.0 www.dpd-pi.datarequest.xyz
 0.0.0.0 meine.commerzbank.de-id198341zbdbv1vadsbv1zvd8vad1zu8g1va71.xyz
 0.0.0.0 meine.santander.de-id1nd81he1dbdv1vvadv1vag7d1vasvdd172dv7agseg1d1ds.xyz
 0.0.0.0 www.delenie.xyz
@@ -36762,6 +36815,7 @@
 0.0.0.0 www.inpost.pl-paysgo.xyz
 0.0.0.0 inpost.pl-payswallets.xyz
 0.0.0.0 www.inpost.pl-payswallets.xyz
+0.0.0.0 www.allegrolokalne-lnfome.pl-paytransferproces.xyz
 0.0.0.0 inpost.pl-paywallets.xyz
 0.0.0.0 www.inpost.pl-paywallets.xyz
 0.0.0.0 olx.pl-postexpres.xyz
@@ -36820,6 +36874,7 @@
 0.0.0.0 www.plinjo.xyz
 0.0.0.0 www.ploferta24.xyz
 0.0.0.0 www.inpost.plpuygt.xyz
+0.0.0.0 www.olx.plpuygt.xyz
 0.0.0.0 prog2.plsystem6.xyz
 0.0.0.0 uk.plsystem6.xyz
 0.0.0.0 www.prog2.plsystem6.xyz
@@ -36965,6 +37020,7 @@
 0.0.0.0 www.renegry.xyz
 0.0.0.0 www.allegrolokalnie.replenishment-centerpl.xyz
 0.0.0.0 www.repolsk.xyz
+0.0.0.0 www.ln-post-pl.requestmanagement.xyz
 0.0.0.0 www.lnpost.reselectiongoods.xyz
 0.0.0.0 www.residualfivfpx.xyz
 0.0.0.0 www.rochainprtvvd.xyz
@@ -37035,6 +37091,7 @@
 0.0.0.0 autoupdate.update4ever.xyz
 0.0.0.0 www.urbani.xyz
 0.0.0.0 www.urbanie.xyz
+0.0.0.0 www.lnpost-pl-info.usertranslationinfo.xyz
 0.0.0.0 www.vardian.xyz
 0.0.0.0 www.versales.xyz
 0.0.0.0 www.versonsor.xyz
