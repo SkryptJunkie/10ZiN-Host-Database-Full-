@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:05 AM Wednesday 12 January 2022
+# Date: 06:02 AM Thursday 13 January 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -32872,6 +32872,7 @@
 0.0.0.0 bishedlesb.top
 0.0.0.0 bitdrop.top
 0.0.0.0 bklbgojd.top
+0.0.0.0 bkyflsjdsraeba.top
 0.0.0.0 bongadrop.top
 0.0.0.0 bonisiple.top
 0.0.0.0 bxmrvgoel.top
@@ -32886,6 +32887,7 @@
 0.0.0.0 cilcountee.top
 0.0.0.0 cixyuvcwifp.top
 0.0.0.0 concesspon.top
+0.0.0.0 cpnomnojtrt.top
 0.0.0.0 cqtydjqc.top
 0.0.0.0 crewardscyprus.top
 0.0.0.0 crllmzsy.top
@@ -33101,6 +33103,7 @@
 0.0.0.0 prjslxhtx005.top
 0.0.0.0 pupecyjnh.top
 0.0.0.0 purrenches.top
+0.0.0.0 qdawavxvrcnkg.top
 0.0.0.0 qistgfokje.top
 0.0.0.0 qjhtdsstyrbc.top
 0.0.0.0 qqchmapkqumvetl.top
@@ -33122,6 +33125,7 @@
 0.0.0.0 salesnksportsqy.top
 0.0.0.0 saliencege.top
 0.0.0.0 saventireri.top
+0.0.0.0 scbgujdxdscub.top
 0.0.0.0 sdarotil.top
 0.0.0.0 seativeflypa.top
 0.0.0.0 sepost-d.top
@@ -34586,6 +34590,7 @@
 0.0.0.0 gazetawielkopolska.xyz
 0.0.0.0 geniusfund.xyz
 0.0.0.0 ggiiccahqryslp.xyz
+0.0.0.0 ghrqxdvmqcisfy.xyz
 0.0.0.0 giwefepy.xyz
 0.0.0.0 gonapysa.xyz
 0.0.0.0 googlesierai.xyz
