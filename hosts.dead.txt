@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Friday 14 January 2022
+# Date: 06:02 AM Saturday 15 January 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -32934,6 +32934,7 @@
 0.0.0.0 elektro-max.top
 0.0.0.0 elessecsta.top
 0.0.0.0 elprogresse.top
+0.0.0.0 emjxsblxmxfdvqx.top
 0.0.0.0 emotificc.top
 0.0.0.0 endriawoolr.top
 0.0.0.0 endsensura.top
@@ -32955,6 +32956,7 @@
 0.0.0.0 eswaterialw.top
 0.0.0.0 everyindus.top
 0.0.0.0 expresentc.top
+0.0.0.0 fcfkdnnul.top
 0.0.0.0 ferentshugge.top
 0.0.0.0 fiedinherite.top
 0.0.0.0 finistentcou.top
@@ -33052,6 +33054,7 @@
 0.0.0.0 niteratebefo.top
 0.0.0.0 nityannoun.top
 0.0.0.0 njijavxhkio.top
+0.0.0.0 njwamkdbrntij.top
 0.0.0.0 nmentsce.top
 0.0.0.0 nomicidenti.top
 0.0.0.0 nowbenefits.top
@@ -33064,6 +33067,7 @@
 0.0.0.0 nvergetpatr.top
 0.0.0.0 ofelite.top
 0.0.0.0 ofertabuty.top
+0.0.0.0 ogeyrtwfkfv.top
 0.0.0.0 oicretarifiedy.top
 0.0.0.0 oinvalentpriv.top
 0.0.0.0 okjaneyoeiejabe.top
@@ -33106,6 +33110,7 @@
 0.0.0.0 qdawavxvrcnkg.top
 0.0.0.0 qistgfokje.top
 0.0.0.0 qjhtdsstyrbc.top
+0.0.0.0 qljuamcgrpriu.top
 0.0.0.0 qqchmapkqumvetl.top
 0.0.0.0 ragenessed.top
 0.0.0.0 rditatehapp.top
@@ -33201,7 +33206,9 @@
 0.0.0.0 wtfdrop.top
 0.0.0.0 wvwwbybayufoop.top
 0.0.0.0 wylotbuty.top
+0.0.0.0 wyuvlwhhbehmvb.top
 0.0.0.0 xafcgsfxkhavry.top
+0.0.0.0 xebivrctvq.top
 0.0.0.0 xqegfvlesmvc.top
 0.0.0.0 yiatelychur.top
 0.0.0.0 yincreate.top
@@ -34624,6 +34631,7 @@
 0.0.0.0 houseoffunfreecoins.xyz
 0.0.0.0 howtomakemoneyingta5.xyz
 0.0.0.0 howugche.xyz
+0.0.0.0 hpsuswohhguu.xyz
 0.0.0.0 hsejtwpipx.xyz
 0.0.0.0 htmlhubing.xyz
 0.0.0.0 hugcha.xyz
@@ -35011,6 +35019,7 @@
 0.0.0.0 qaxkfmexoqy.xyz
 0.0.0.0 qcqirqaqdq.xyz
 0.0.0.0 qiqoyogx.xyz
+0.0.0.0 qldecsavpgti.xyz
 0.0.0.0 quantical.xyz
 0.0.0.0 quantro.xyz
 0.0.0.0 quicklesvad.xyz
