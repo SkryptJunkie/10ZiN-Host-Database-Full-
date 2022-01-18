@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Monday 17 January 2022
+# Date: 06:02 AM Tuesday 18 January 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -11,6 +11,7 @@
 ###
 
 
+0.0.0.0 0056.0151.0121.0114
 0.0.0.0 eos.ac
 0.0.0.0 rarlabarchiver.ac
 0.0.0.0 ap76rmx3.accountant
@@ -32993,6 +32994,7 @@
 0.0.0.0 hospitecor.top
 0.0.0.0 houtrelen.top
 0.0.0.0 hurtbuty.top
+0.0.0.0 hwrymjyfhkhifk.top
 0.0.0.0 hxxkiisnjmppkk.top
 0.0.0.0 icloud-lockes.top
 0.0.0.0 idealnybuty.top
@@ -33193,6 +33195,7 @@
 0.0.0.0 uxrawyfinqpogkp.top
 0.0.0.0 vamhgx07.top
 0.0.0.0 vbksrculvld.top
+0.0.0.0 vkqsivsajx.top
 0.0.0.0 vpmseopnj.top
 0.0.0.0 vwkkkpjk.top
 0.0.0.0 vxcxlnkowga.top
@@ -34479,6 +34482,7 @@
 0.0.0.0 bestofpozht.xyz
 0.0.0.0 bezapelacyjniepolska.xyz
 0.0.0.0 bjpnhannceskudl.xyz
+0.0.0.0 bjwhpwjbf.xyz
 0.0.0.0 bloggrid.xyz
 0.0.0.0 blogouillates.xyz
 0.0.0.0 blornafulfwag.xyz
@@ -34609,6 +34613,7 @@
 0.0.0.0 grools.xyz
 0.0.0.0 gsmdqrmqddqtuv.xyz
 0.0.0.0 gta5onlinemoneyhack.xyz
+0.0.0.0 gwuvckdivchoo.xyz
 0.0.0.0 hachara.xyz
 0.0.0.0 hackfbmessenger.xyz
 0.0.0.0 haharley.xyz
