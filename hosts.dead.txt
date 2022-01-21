@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:03 AM Thursday 20 January 2022
+# Date: 06:02 AM Friday 21 January 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -31879,6 +31879,7 @@
 0.0.0.0 xn--get-s0ee83g.cryptobrowser.site
 0.0.0.0 www.decathlon-pl.site
 0.0.0.0 www.destava.site
+0.0.0.0 spiss.digitaloctane.site
 0.0.0.0 www.dliugahistoriapolakkow.site
 0.0.0.0 www.dostawa-1613762161.site
 0.0.0.0 www.dostawa-1618864121.site
