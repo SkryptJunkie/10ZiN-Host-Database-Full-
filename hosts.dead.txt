@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Friday 21 January 2022
+# Date: 06:03 AM Saturday 22 January 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -359,6 +359,7 @@
 0.0.0.0 linkstat.bar
 0.0.0.0 m-olx.bar
 0.0.0.0 maksimum824.bar
+0.0.0.0 medialines.bar
 0.0.0.0 przytulacsie483.bar
 0.0.0.0 www.9cah1gsbcu.bar
 0.0.0.0 www.ayh389f0ifhuj.bar
@@ -807,6 +808,7 @@
 0.0.0.0 www.trustorlen.biz
 0.0.0.0 www.venturedeposit.biz
 0.0.0.0 www.wall-orlen.biz
+0.0.0.0 www.work2tesla.biz
 0.0.0.0 www.world-safety.biz
 0.0.0.0 0.wwserch43.biz
 0.0.0.0 1.wwserch43.biz
@@ -2097,6 +2099,8 @@
 0.0.0.0 www.inpost-pl-3dsecure.id-safety.cfd
 0.0.0.0 www.inpost-pl-3dseif.id-safety.cfd
 0.0.0.0 www.inpost-pl-3dssl.id-safety.cfd
+0.0.0.0 verify-now.tvshowsapp.cfd
+0.0.0.0 www.verify-now.tvshowsapp.cfd
 0.0.0.0 auxquatrecoinsdumonde.ch
 0.0.0.0 eysins-equitable.ch
 0.0.0.0 generationinternet.ch
@@ -2164,6 +2168,8 @@
 0.0.0.0 www.spott.cl
 0.0.0.0 www.techmatic.cl
 0.0.0.0 www.testargames.cl
+0.0.0.0 mabanque.bnpparibas.valvalle.cl
+0.0.0.0 www.mabanque.bnpparibas.valvalle.cl
 0.0.0.0 dealitright.click
 0.0.0.0 etherblog.click
 0.0.0.0 gemini.click
@@ -9392,6 +9398,7 @@
 0.0.0.0 rustleobtainedflute.com
 0.0.0.0 rustyellow.com
 0.0.0.0 rvnc72k.com
+0.0.0.0 rvtrck.com
 0.0.0.0 ryslaw.com
 0.0.0.0 rytechreviews.com
 0.0.0.0 rythmxchange.com
@@ -12070,6 +12077,7 @@
 0.0.0.0 www.ec2-35-178-235-52.eu-west-2.compute.amazonaws.com
 0.0.0.0 www.ec2-15-188-147-101.eu-west-3.compute.amazonaws.com
 0.0.0.0 www.ec2-15-237-117-139.eu-west-3.compute.amazonaws.com
+0.0.0.0 www.ec2-15-237-49-21.eu-west-3.compute.amazonaws.com
 0.0.0.0 www.ec2-35-180-127-210.eu-west-3.compute.amazonaws.com
 0.0.0.0 www.ec2-52-47-123-197.eu-west-3.compute.amazonaws.com
 0.0.0.0 www.ec2-54-149-151-196.us-west-2.compute.amazonaws.com
@@ -13145,6 +13153,7 @@
 0.0.0.0 stats.complex.com
 0.0.0.0 cdn.complexmedianetwork.com
 0.0.0.0 www.complexsurgicaloncology.com
+0.0.0.0 www.compliersmeager.com
 0.0.0.0 tags.compuhot.com
 0.0.0.0 ads.web.compuserve.com
 0.0.0.0 www.computers-electronics-rewardpath.com
@@ -23726,6 +23735,7 @@
 0.0.0.0 www.apple-map.live
 0.0.0.0 www.best-prizes-here.live
 0.0.0.0 www.betheprime2.live
+0.0.0.0 www.ca-gastrading-oil.live
 0.0.0.0 www.apple.com-clean-macbook.live
 0.0.0.0 www.apple.com-clean-macbook-system.live
 0.0.0.0 www.apple.com-shield-guard.live
@@ -23940,6 +23950,7 @@
 0.0.0.0 www.occurthousandlast9.live
 0.0.0.0 inwestenergia.3.offsite.live
 0.0.0.0 www.inwestenergia.3.offsite.live
+0.0.0.0 www.open-project.live
 0.0.0.0 www.outlook365.live
 0.0.0.0 www.payageround-1.live
 0.0.0.0 www.payageround-10.live
@@ -24124,6 +24135,7 @@
 0.0.0.0 xn--fjqz50cv5q3so.ltd
 0.0.0.0 www.assistanceapple.ltd
 0.0.0.0 usersys.data.blerg.ltd
+0.0.0.0 www.nameyq.ltd
 0.0.0.0 www.plus-500.ltd
 0.0.0.0 www.plus500.ltd
 0.0.0.0 d.sdgndsfajfsdf.ltd
@@ -26312,6 +26324,7 @@
 0.0.0.0 display.ad.g.daum.net
 0.0.0.0 kyson.ad.g.daum.net
 0.0.0.0 servamain.ddns.net
+0.0.0.0 www.poczta-polska.ddns.net
 0.0.0.0 www.pppe.ddns.net
 0.0.0.0 collect12717rnssg.deltadna.net
 0.0.0.0 collect82532756ggplc.deltadna.net
@@ -26625,6 +26638,7 @@
 0.0.0.0 www.gradsm-ci.net
 0.0.0.0 track.greatofferstoyou.net
 0.0.0.0 a1.greenadworks.net
+0.0.0.0 www.greenfieldinvestment.net
 0.0.0.0 media.gsimedia.net
 0.0.0.0 beacon.gu-web.net
 0.0.0.0 linebot.gugame.net
@@ -27815,6 +27829,7 @@
 0.0.0.0 wwww.8cr.purredheanb.online
 0.0.0.0 www.pxd-pay.online
 0.0.0.0 www.quilk.online
+0.0.0.0 www.reacttion.online
 0.0.0.0 www.redirectsys.online
 0.0.0.0 www.regulamin-email.online
 0.0.0.0 www.regulamin-mail.online
@@ -30114,6 +30129,10 @@
 0.0.0.0 www.bitpool.pro
 0.0.0.0 www.chocoslim.pro
 0.0.0.0 apple.com-supportcenter.pro
+0.0.0.0 dpd-pl.dsajj-dajqti12.pro
+0.0.0.0 vinted-pl.dsajj-dajqti12.pro
+0.0.0.0 www.dpd-pl.dsajj-dajqti12.pro
+0.0.0.0 www.vinted-pl.dsajj-dajqti12.pro
 0.0.0.0 www.edland.pro
 0.0.0.0 www.fenix-funds.pro
 0.0.0.0 www.firstclick.pro
@@ -30741,6 +30760,7 @@
 0.0.0.0 ingadream.ru
 0.0.0.0 installcb.ru
 0.0.0.0 invoice7mukszq9nbpa7online.ru
+0.0.0.0 jizekea.ru
 0.0.0.0 jjbabskoe.ru
 0.0.0.0 jwwhsqz.ru
 0.0.0.0 kabele.ru
@@ -32074,6 +32094,7 @@
 0.0.0.0 www.olx.pl.paymentchecked.site
 0.0.0.0 www.pge-see.site
 0.0.0.0 www.pgeinfo-ask.site
+0.0.0.0 www.lnpost.pl-1529100.site
 0.0.0.0 www.lnpost.pl-160124131.site
 0.0.0.0 olx.pl-aktywacja.site
 0.0.0.0 www.olx.pl-aktywacja.site
@@ -32484,6 +32505,7 @@
 0.0.0.0 www.dpd-pl.23440.space
 0.0.0.0 www.inpost-pl.23440.space
 0.0.0.0 www.inpost.28636.space
+0.0.0.0 www.polska-inpost.436844.space
 0.0.0.0 inpost-pl.54563.space
 0.0.0.0 www.inpost-pl.54563.space
 0.0.0.0 www.inpost-polska.546865.space
@@ -32493,6 +32515,7 @@
 0.0.0.0 inpost-pl.566868.space
 0.0.0.0 www.inpost-pl.566868.space
 0.0.0.0 www.pl-allegrolokalnie.577371.space
+0.0.0.0 www.olx-pl.581851.space
 0.0.0.0 www.58732.space
 0.0.0.0 www.inpost-pl.601133.space
 0.0.0.0 inpost-pl.654721.space
@@ -32967,6 +32990,7 @@
 0.0.0.0 csgoswaps.top
 0.0.0.0 cslcjaoerfbuxrq.top
 0.0.0.0 cstrader.top
+0.0.0.0 csvrufji.top
 0.0.0.0 customeronline.top
 0.0.0.0 dcdjvrvfthk.top
 0.0.0.0 dcrecycle.top
@@ -33104,6 +33128,7 @@
 0.0.0.0 mentredu.top
 0.0.0.0 mgmuklgpbfvasrq.top
 0.0.0.0 minaconfli.top
+0.0.0.0 mjsjmyend.top
 0.0.0.0 monakind.top
 0.0.0.0 municalwarn.top
 0.0.0.0 mydiatec.top
@@ -33276,6 +33301,7 @@
 0.0.0.0 woejyyygdvdpdgy.top
 0.0.0.0 workedlew.top
 0.0.0.0 wtfdrop.top
+0.0.0.0 wtilhfyhcsmelk.top
 0.0.0.0 wvwwbybayufoop.top
 0.0.0.0 wylotbuty.top
 0.0.0.0 wyuvlwhhbehmvb.top
@@ -33287,6 +33313,7 @@
 0.0.0.0 you-have-0ne-messsagehe0.top
 0.0.0.0 yprbybdj.top
 0.0.0.0 yseexhwcuc.top
+0.0.0.0 yviynhgxtyn.top
 0.0.0.0 zikdrop.top
 0.0.0.0 zingtormanc.top
 0.0.0.0 free-movies.3xp4e3kno6.top
@@ -34559,6 +34586,7 @@
 0.0.0.0 blornafulfwag.xyz
 0.0.0.0 bookpost.xyz
 0.0.0.0 boxworktoardazana.xyz
+0.0.0.0 bpesbkipynaf.xyz
 0.0.0.0 brameriez.xyz
 0.0.0.0 bsonus.xyz
 0.0.0.0 btxmufth.xyz
@@ -34611,6 +34639,7 @@
 0.0.0.0 dmfadb.xyz
 0.0.0.0 dnoqfytgvhtux.xyz
 0.0.0.0 dnrwepreovuqsj.xyz
+0.0.0.0 dns-eu-east-32.xyz
 0.0.0.0 domainanalyzing.xyz
 0.0.0.0 doplac-teraz.xyz
 0.0.0.0 doplac-teraz24.xyz
@@ -34625,6 +34654,7 @@
 0.0.0.0 dzisiejszyszczecin.xyz
 0.0.0.0 dzisiejszywroclaw.xyz
 0.0.0.0 earzone.xyz
+0.0.0.0 eaykgndeqrv.xyz
 0.0.0.0 ebooksfile.xyz
 0.0.0.0 ebosseraient.xyz
 0.0.0.0 ednagroup.xyz
@@ -34714,6 +34744,7 @@
 0.0.0.0 hugcha.xyz
 0.0.0.0 hulyyabo.xyz
 0.0.0.0 hw2sss.xyz
+0.0.0.0 hwgkaxhkjulyuyn.xyz
 0.0.0.0 hyperserial.xyz
 0.0.0.0 icloudunlock.xyz
 0.0.0.0 id3439549515.xyz
@@ -35401,6 +35432,7 @@
 0.0.0.0 www.proji.biztro.xyz
 0.0.0.0 www.boxworktoardazana.xyz
 0.0.0.0 www.bsonus.xyz
+0.0.0.0 www.in-po-st.carddetails.xyz
 0.0.0.0 www.cennik-paczkl.xyz
 0.0.0.0 www.cennlk.xyz
 0.0.0.0 www.lnpost.centerparcel-collectionpl.xyz
@@ -35471,12 +35503,14 @@
 0.0.0.0 www.olx.deliveryuser-deniedpl.xyz
 0.0.0.0 www.dpd.deliveryuser-ptr.xyz
 0.0.0.0 www.denverktrade.xyz
+0.0.0.0 www.ln-p-ost.departurenum586.xyz
 0.0.0.0 www.deresta.xyz
 0.0.0.0 www.derpost.xyz
 0.0.0.0 www.aquashrk.developerak.xyz
 0.0.0.0 www.dfggdfwiewufw.xyz
 0.0.0.0 www.diesta.xyz
 0.0.0.0 www.olx.distributionfundspl-ptr.xyz
+0.0.0.0 www.dns-eu-east-32.xyz
 0.0.0.0 www.doomsdayerportholes.xyz
 0.0.0.0 www.doplac-teraz.xyz
 0.0.0.0 www.doplac-teraz24.xyz
@@ -35541,6 +35575,8 @@
 0.0.0.0 www.inpost.id-track-pl43582364.xyz
 0.0.0.0 www.inpost-pl.id10304.xyz
 0.0.0.0 www.id3439549515.xyz
+0.0.0.0 www.inpost-pl-3dsec.id4331.xyz
+0.0.0.0 www.inpost-pl-safe.id4331.xyz
 0.0.0.0 www.imcamilla.xyz
 0.0.0.0 www.allegrolokaine.importcash-id837592.xyz
 0.0.0.0 www.infbiztr.xyz
@@ -35640,6 +35676,8 @@
 0.0.0.0 www.lovare.xyz
 0.0.0.0 orl.lukoil-inv.xyz
 0.0.0.0 www.orl.lukoil-inv.xyz
+0.0.0.0 dpd-inf0biz.managingpaypage.xyz
+0.0.0.0 www.dpd-inf0biz.managingpaypage.xyz
 0.0.0.0 www.mastardo.xyz
 0.0.0.0 aaj.maymaxy.xyz
 0.0.0.0 askuy.maymaxy.xyz
@@ -35685,6 +35723,7 @@
 0.0.0.0 mmbeta.messbook.xyz
 0.0.0.0 www.mochkin.xyz
 0.0.0.0 www.lnpost.money-orderinfo.xyz
+0.0.0.0 www.vlntedpl.movementoffunds.xyz
 0.0.0.0 www.moviego4k.xyz
 0.0.0.0 www.mozliwosc-firmy.xyz
 0.0.0.0 www.musimypomoc.xyz
@@ -36928,6 +36967,7 @@
 0.0.0.0 www.pl-receivepays.xyz
 0.0.0.0 inpost.pl-refundcash.xyz
 0.0.0.0 www.inpost.pl-refundcash.xyz
+0.0.0.0 www.inpos-t.pl-remittance.xyz
 0.0.0.0 www.pl-safedeal.xyz
 0.0.0.0 www.pl-safelypay.xyz
 0.0.0.0 www.pl-safepay.xyz
@@ -36970,6 +37010,7 @@
 0.0.0.0 allegro-lokalnie.placepay.xyz
 0.0.0.0 www.allegro-lokalnie.placepay.xyz
 0.0.0.0 www.inpost.plaretor.xyz
+0.0.0.0 www.googleplay.playpltop.xyz
 0.0.0.0 www.plinjo.xyz
 0.0.0.0 www.ploferta24.xyz
 0.0.0.0 www.inpost.plpuygt.xyz
@@ -37011,6 +37052,11 @@
 0.0.0.0 www.polska-to-9k8.xyz
 0.0.0.0 www.polska-to-cb3.xyz
 0.0.0.0 www.polska-to-g1s.xyz
+0.0.0.0 www.polskabitcoincmghxc.xyz
+0.0.0.0 www.polskabitcoindfjkwv.xyz
+0.0.0.0 www.polskabitcoinfuxmxl.xyz
+0.0.0.0 www.polskabitcoinouccxh.xyz
+0.0.0.0 www.polskabitcoinounrsb.xyz
 0.0.0.0 www.porntranslation.xyz
 0.0.0.0 www.porowok.xyz
 0.0.0.0 www.poscavie.xyz
@@ -37142,6 +37188,7 @@
 0.0.0.0 www.inpost.pl.secure-dostawa.xyz
 0.0.0.0 www.secure-getinbank.xyz
 0.0.0.0 www.seloskaz.xyz
+0.0.0.0 www.allegrolokane.sendingreq.xyz
 0.0.0.0 allegr0lokalnie.shippguarantee.xyz
 0.0.0.0 www.allegr0lokalnie.shippguarantee.xyz
 0.0.0.0 www.skateboardfivzgg.xyz
@@ -37182,6 +37229,7 @@
 0.0.0.0 www.togliwice.xyz
 0.0.0.0 www.tokielce.xyz
 0.0.0.0 www.tokrakow.xyz
+0.0.0.0 www.poczta-pl.toku-cvc.xyz
 0.0.0.0 www.topinncohe.xyz
 0.0.0.0 www.tordado.xyz
 0.0.0.0 www.tores.xyz
