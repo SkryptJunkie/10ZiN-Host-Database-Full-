@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Monday 31 January 2022
+# Date: 06:03 AM Tuesday 01 February 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -7594,6 +7594,7 @@
 0.0.0.0 knotsgekkekaartendagen.com
 0.0.0.0 koin-design.com
 0.0.0.0 kokilammatriminy.com
+0.0.0.0 kompresory-max.com
 0.0.0.0 kompresory150.com
 0.0.0.0 kompresory180.com
 0.0.0.0 kompresory200.com
@@ -15563,7 +15564,9 @@
 0.0.0.0 will.kasraz.com
 0.0.0.0 oascentral.katv.com
 0.0.0.0 ads.kazaa.com
+0.0.0.0 olx-pl.kbjhszl612.com
 0.0.0.0 www.inpostpl.kbjhszl612.com
+0.0.0.0 www.olx-pl.kbjhszl612.com
 0.0.0.0 www.poczta-pl.kbjhszl612.com
 0.0.0.0 adserver.kcilink.com
 0.0.0.0 gavzad.keenspot.com
@@ -15617,6 +15620,7 @@
 0.0.0.0 ads5.kompasads.com
 0.0.0.0 ads6.kompasads.com
 0.0.0.0 ads8.kompasads.com
+0.0.0.0 www.kompresory-max.com
 0.0.0.0 www.kompresory150.com
 0.0.0.0 www.kompresory180.com
 0.0.0.0 www.kompresory200.com
@@ -24048,6 +24052,10 @@
 0.0.0.0 www.probablerootport-6.live
 0.0.0.0 www.probablerootport-7.live
 0.0.0.0 www.probablerootport-8.live
+0.0.0.0 dpd-pl.qwz51-5u1zxn.live
+0.0.0.0 inpostpl.qwz51-5u1zxn.live
+0.0.0.0 www.dpd-pl.qwz51-5u1zxn.live
+0.0.0.0 www.inpostpl.qwz51-5u1zxn.live
 0.0.0.0 www.rainxpose10.live
 0.0.0.0 www.rainxpose11.live
 0.0.0.0 www.rainxpose12.live
@@ -27858,6 +27866,7 @@
 0.0.0.0 platnosci-aktualizacja.netfixcenter.online
 0.0.0.0 www.platnosci-aktualizacja.netfixcenter.online
 0.0.0.0 www.newswave.online
+0.0.0.0 shop.ngondang.online
 0.0.0.0 www.nieuciekaj.online
 0.0.0.0 www.niezabardzowiadomo.online
 0.0.0.0 www.nniesamovitewiesci.online
@@ -31841,6 +31850,7 @@
 0.0.0.0 inforadiogazeta.site
 0.0.0.0 inpost-oplata.site
 0.0.0.0 inpost-payouts.site
+0.0.0.0 ishrak.site
 0.0.0.0 jakmoznatakzyc.site
 0.0.0.0 jakwidacwprogramie.site
 0.0.0.0 javnasoba.site
@@ -32221,6 +32231,7 @@
 0.0.0.0 www.lnpost.pl-1529100.site
 0.0.0.0 www.lnpost.pl-157210012.site
 0.0.0.0 www.lnpost.pl-158212400.site
+0.0.0.0 www.lnpost.pl-1585120112.site
 0.0.0.0 www.lnpost.pl-160124131.site
 0.0.0.0 olx.pl-aktywacja.site
 0.0.0.0 www.olx.pl-aktywacja.site
@@ -33407,6 +33418,7 @@
 0.0.0.0 bitdrop.top
 0.0.0.0 bklbgojd.top
 0.0.0.0 bkyflsjdsraeba.top
+0.0.0.0 blcjqrkmufydoxl.top
 0.0.0.0 bongadrop.top
 0.0.0.0 bonisiple.top
 0.0.0.0 btjqldwrhaecrto.top
@@ -35886,6 +35898,7 @@
 0.0.0.0 www.polska-olx.74256.xyz
 0.0.0.0 www.84blog.xyz
 0.0.0.0 www.dpd-pl.876127.xyz
+0.0.0.0 www.olx-pl.876127.xyz
 0.0.0.0 www.inpost-pl.9473873-info-mycash.xyz
 0.0.0.0 d3.adsplay.xyz
 0.0.0.0 d6.adsplay.xyz
