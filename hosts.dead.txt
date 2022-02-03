@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Wednesday 02 February 2022
+# Date: 06:02 AM Thursday 03 February 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -361,6 +361,7 @@
 0.0.0.0 m-olx.bar
 0.0.0.0 maksimum824.bar
 0.0.0.0 medialines.bar
+0.0.0.0 premiumlines.bar
 0.0.0.0 przytulacsie483.bar
 0.0.0.0 www.9cah1gsbcu.bar
 0.0.0.0 www.ayh389f0ifhuj.bar
@@ -15621,6 +15622,7 @@
 0.0.0.0 cdn.komoona.com
 0.0.0.0 s.komoona.com
 0.0.0.0 stat.komoona.com
+0.0.0.0 chathub.kompanions.com
 0.0.0.0 ads3.kompasads.com
 0.0.0.0 ads4.kompasads.com
 0.0.0.0 ads5.kompasads.com
@@ -27763,6 +27765,7 @@
 0.0.0.0 skinxchange.online
 0.0.0.0 skyflip.online
 0.0.0.0 sportupdates.online
+0.0.0.0 stata2021.online
 0.0.0.0 superpozhta.online
 0.0.0.0 support--icloud.online
 0.0.0.0 support--iphone.online
@@ -31800,6 +31803,7 @@
 0.0.0.0 zdravje.mopas.si
 0.0.0.0 tracking.nkbm.si
 0.0.0.0 ads.wave.si
+0.0.0.0 68bets.site
 0.0.0.0 7news.site
 0.0.0.0 aideia.site
 0.0.0.0 allianze.site
@@ -31962,6 +31966,7 @@
 0.0.0.0 ssl-verified.site
 0.0.0.0 standingorlen.site
 0.0.0.0 starajsieotozebybylo.site
+0.0.0.0 stata2021.site
 0.0.0.0 sterlemo.site
 0.0.0.0 storageclear.site
 0.0.0.0 strentys.site
@@ -33596,6 +33601,7 @@
 0.0.0.0 kingshape.top
 0.0.0.0 kiptcellow.top
 0.0.0.0 kkukrstvykj.top
+0.0.0.0 kmwapcfunvhqk.top
 0.0.0.0 kntdjvwod.top
 0.0.0.0 krmwbimfpndwui.top
 0.0.0.0 l7r0sgc0.top
@@ -33724,6 +33730,7 @@
 0.0.0.0 saliencege.top
 0.0.0.0 saventireri.top
 0.0.0.0 scbgujdxdscub.top
+0.0.0.0 scblqvoiypcoy.top
 0.0.0.0 sdarotil.top
 0.0.0.0 seativeflypa.top
 0.0.0.0 sepost-d.top
@@ -33781,6 +33788,7 @@
 0.0.0.0 ueaggress.top
 0.0.0.0 uilsplentialde.top
 0.0.0.0 uisingreactic.top
+0.0.0.0 ulfsxurk.top
 0.0.0.0 uoeilyni.top
 0.0.0.0 ustbitsoct.top
 0.0.0.0 uumcxajak.top
@@ -33788,7 +33796,9 @@
 0.0.0.0 uxrawyfinqpogkp.top
 0.0.0.0 vamhgx07.top
 0.0.0.0 vbksrculvld.top
+0.0.0.0 viyuieubw.top
 0.0.0.0 vkqsivsajx.top
+0.0.0.0 vmjmpwdupi.top
 0.0.0.0 vpmseopnj.top
 0.0.0.0 vrptgslcxm.top
 0.0.0.0 vwkkkpjk.top
