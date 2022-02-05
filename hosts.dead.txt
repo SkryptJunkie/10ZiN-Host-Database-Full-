@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Thursday 03 February 2022
+# Date: 06:03 AM Saturday 05 February 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -7605,6 +7605,7 @@
 0.0.0.0 koramaghreb.com
 0.0.0.0 korizza-club.com
 0.0.0.0 kozoysnsx.com
+0.0.0.0 kqeehoptcroxf.com
 0.0.0.0 krabbendamphotography.com
 0.0.0.0 kraken-wallet.com
 0.0.0.0 krankenversicherungvergleich24.com
@@ -21453,6 +21454,7 @@
 0.0.0.0 www.socialfact.in
 0.0.0.0 www.uniquepaints.in
 0.0.0.0 www.vikad.in
+0.0.0.0 goyaluat.vmesh.in
 0.0.0.0 multisite.zluck.in
 0.0.0.0 www.inf
 0.0.0.0 12u.info
@@ -27795,6 +27797,7 @@
 0.0.0.0 workbus.online
 0.0.0.0 wystarczypooszukkac.online
 0.0.0.0 xn--fjqz50cv5q3so.online
+0.0.0.0 xxden.online
 0.0.0.0 yfivoqeh.online
 0.0.0.0 youquyouqu.online
 0.0.0.0 yviletet.online
@@ -33152,6 +33155,7 @@
 0.0.0.0 inpost.store
 0.0.0.0 koleno.store
 0.0.0.0 kontospls.store
+0.0.0.0 lapalette.store
 0.0.0.0 lodzi.store
 0.0.0.0 maldivesflowers.store
 0.0.0.0 new-payment.store
@@ -33416,6 +33420,7 @@
 0.0.0.0 aaload05.top
 0.0.0.0 abadrease.top
 0.0.0.0 acena.top
+0.0.0.0 acgrykbppg.top
 0.0.0.0 adifficiente.top
 0.0.0.0 aintyjarde.top
 0.0.0.0 alaccinalcom.top
@@ -33596,6 +33601,7 @@
 0.0.0.0 jppost-cti.top
 0.0.0.0 jytetnyuauwiwgf.top
 0.0.0.0 kbirdsind.top
+0.0.0.0 kbwrsxnmhmm.top
 0.0.0.0 kiafailersov.top
 0.0.0.0 kieuqepq.top
 0.0.0.0 kingshape.top
@@ -33645,6 +33651,7 @@
 0.0.0.0 nhgmdwaqsd.top
 0.0.0.0 niaagentl.top
 0.0.0.0 nicmitosasm.top
+0.0.0.0 ninobkfvyxdot.top
 0.0.0.0 nislanelibrar.top
 0.0.0.0 niteratebefo.top
 0.0.0.0 nityannoun.top
@@ -33709,7 +33716,9 @@
 0.0.0.0 qjhtdsstyrbc.top
 0.0.0.0 qljuamcgrpriu.top
 0.0.0.0 qloistjaveujfe.top
+0.0.0.0 qpbmcpchkohnpyf.top
 0.0.0.0 qqchmapkqumvetl.top
+0.0.0.0 qqotmtadpamrwho.top
 0.0.0.0 ragenessed.top
 0.0.0.0 rditatehapp.top
 0.0.0.0 recheriend.top
@@ -33774,6 +33783,7 @@
 0.0.0.0 tfatalonepres.top
 0.0.0.0 tificanaccou.top
 0.0.0.0 tistianmaga.top
+0.0.0.0 tkpahnsxlda.top
 0.0.0.0 tnecgrgp.top
 0.0.0.0 tnfclothed.top
 0.0.0.0 topgamecrack.top
