@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:04 AM Tuesday 08 February 2022
+# Date: 06:02 AM Wednesday 09 February 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -5900,6 +5900,7 @@
 0.0.0.0 erendri.com
 0.0.0.0 erevtljvo.com
 0.0.0.0 eriqbrooklyn.com
+0.0.0.0 erolmutfak.com
 0.0.0.0 error-warning-alert-critical-5x.com
 0.0.0.0 errsensordiscourse.com
 0.0.0.0 ertigaclubindonesia.com
@@ -33689,6 +33690,7 @@
 0.0.0.0 geuniveruls.top
 0.0.0.0 gferhrolklm.top
 0.0.0.0 gilhgiotmsv.top
+0.0.0.0 gkatxaoerueusa.top
 0.0.0.0 gkoszt.top
 0.0.0.0 gledqadsdaw.top
 0.0.0.0 gmiuxfmrwi.top
@@ -33756,6 +33758,7 @@
 0.0.0.0 llerscover.top
 0.0.0.0 llqss.top
 0.0.0.0 llsidealthhou.top
+0.0.0.0 llyxtecgcmhaqd.top
 0.0.0.0 lplesacciner.top
 0.0.0.0 macheaper.top
 0.0.0.0 mahiwal18.top
