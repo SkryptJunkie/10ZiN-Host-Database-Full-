@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Wednesday 09 February 2022
+# Date: 06:02 AM Thursday 10 February 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -27820,6 +27820,7 @@
 0.0.0.0 shopkaro.online
 0.0.0.0 skinxchange.online
 0.0.0.0 skyflip.online
+0.0.0.0 solidformsteeltrading.online
 0.0.0.0 sportupdates.online
 0.0.0.0 stata2021.online
 0.0.0.0 superpozhta.online
@@ -33563,6 +33564,7 @@
 0.0.0.0 apesstration.top
 0.0.0.0 apple-icloud-lost.top
 0.0.0.0 apple-id-cziphone.top
+0.0.0.0 aqqfntqejiva.top
 0.0.0.0 ariatpolska.top
 0.0.0.0 arxistenthe.top
 0.0.0.0 ashingcontro.top
@@ -33929,6 +33931,7 @@
 0.0.0.0 tradecsgo.top
 0.0.0.0 tratefirearly.top
 0.0.0.0 tretionsp.top
+0.0.0.0 truetruetruetruetruetruetruetruetrue.top
 0.0.0.0 tshaphjgd.top
 0.0.0.0 ucatedcanc.top
 0.0.0.0 ueaggress.top
@@ -35531,6 +35534,7 @@
 0.0.0.0 lovare.xyz
 0.0.0.0 lqbrelfmigiqv.xyz
 0.0.0.0 lsex.xyz
+0.0.0.0 lsxrasthvajxx.xyz
 0.0.0.0 lujxmxlmdfwhauw.xyz
 0.0.0.0 luqas.xyz
 0.0.0.0 maddenmobilehackcheats.xyz
