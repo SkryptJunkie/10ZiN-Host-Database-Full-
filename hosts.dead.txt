@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Friday 11 February 2022
+# Date: 06:02 AM Saturday 12 February 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -2249,6 +2249,7 @@
 0.0.0.0 addression.club
 0.0.0.0 aditingunfav.club
 0.0.0.0 adpay.club
+0.0.0.0 adtrack1.club
 0.0.0.0 advantscivile.club
 0.0.0.0 advisorded.club
 0.0.0.0 adwenturehelp.club
@@ -33893,6 +33894,7 @@
 0.0.0.0 sepost-u.top
 0.0.0.0 sgljbadfoe.top
 0.0.0.0 shsistnovem.top
+0.0.0.0 siflpwdfjimwig.top
 0.0.0.0 simengwl.top
 0.0.0.0 singpost-j.top
 0.0.0.0 sjeffrontagr.top
@@ -33936,6 +33938,7 @@
 0.0.0.0 tretionsp.top
 0.0.0.0 truetruetruetruetruetruetruetruetrue.top
 0.0.0.0 tshaphjgd.top
+0.0.0.0 twwfxwgvlnc.top
 0.0.0.0 ucatedcanc.top
 0.0.0.0 ueaggress.top
 0.0.0.0 uilsplentialde.top
