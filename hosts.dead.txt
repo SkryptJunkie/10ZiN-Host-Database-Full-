@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:04 AM Sunday 13 February 2022
+# Date: 06:02 AM Monday 14 February 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -20395,6 +20395,7 @@
 0.0.0.0 ad.onad.eu
 0.0.0.0 www.onetfakt24.eu
 0.0.0.0 www.paesuri.eu
+0.0.0.0 www.inpost.pl-dostawa55.eu
 0.0.0.0 www.gov.pl-wsparcie.eu
 0.0.0.0 www.poczta-polska.eu
 0.0.0.0 www.poczta-polska24.eu
@@ -20891,6 +20892,7 @@
 0.0.0.0 polgroup.host
 0.0.0.0 privateclub.host
 0.0.0.0 prostagroup.host
+0.0.0.0 wesfor.host
 0.0.0.0 www.cristal2017.argo.host
 0.0.0.0 tracker.cdn-analytics.host
 0.0.0.0 apple.com------support.host
@@ -20909,6 +20911,7 @@
 0.0.0.0 www.privateclub.host
 0.0.0.0 www.prostagroup.host
 0.0.0.0 www.thewiadomosci.host
+0.0.0.0 www.wesfor.host
 0.0.0.0 myetherwallet.com.ht
 0.0.0.0 adware.hu
 0.0.0.0 bumper-ball.hu
@@ -24385,12 +24388,22 @@
 0.0.0.0 www.inpost-polska-dv.10494992.me
 0.0.0.0 dpd-polska-dq.10582992.me
 0.0.0.0 www.dpd-polska-dq.10582992.me
+0.0.0.0 inpost-hssd.1092648592.me
+0.0.0.0 www.inpost-hssd.1092648592.me
 0.0.0.0 inpost-rghl.2584902.me
 0.0.0.0 www.inpost-rghl.2584902.me
 0.0.0.0 oferta-100.29485929.me
 0.0.0.0 www.oferta-100.29485929.me
+0.0.0.0 dpd-polska-pzi.29495939.me
+0.0.0.0 inpost-polska-ezu.29495939.me
+0.0.0.0 www.dpd-polska-pzi.29495939.me
+0.0.0.0 www.inpost-polska-ezu.29495939.me
 0.0.0.0 oferta-236.29594929.me
 0.0.0.0 www.oferta-236.29594929.me
+0.0.0.0 inpost-polska-ay.30584929.me
+0.0.0.0 www.inpost-polska-ay.30584929.me
+0.0.0.0 dpd-sfsg.39583919.me
+0.0.0.0 www.dpd-sfsg.39583919.me
 0.0.0.0 inpost-pl.637737.me
 0.0.0.0 www.inpost-pl.637737.me
 0.0.0.0 inpost-polska-trn.98589500.me
@@ -26401,7 +26414,9 @@
 0.0.0.0 wiadomosci-02.azureedge.net
 0.0.0.0 www.awazne-o2.azureedge.net
 0.0.0.0 www.inspiracja-24.azureedge.net
+0.0.0.0 www.okropneto.azureedge.net
 0.0.0.0 www.poszukiwania-warszawa.azureedge.net
+0.0.0.0 www.szukaj-24.azureedge.net
 0.0.0.0 www.wazne-o2.azureedge.net
 0.0.0.0 www.wiadomosci-02.azureedge.net
 0.0.0.0 www.wiadomosci-wp-pl-7.azureedge.net
@@ -34798,10 +34813,12 @@
 0.0.0.0 www.sberbank.vote
 0.0.0.0 46186911.vtt
 0.0.0.0 80055404.vtt
+0.0.0.0 acnsprtmetafbscrt.co.vu
 0.0.0.0 d0007starpage.co.vu
 0.0.0.0 eljunkszabadon.co.vu
 0.0.0.0 hotpixel.co.vu
 0.0.0.0 spyderco.co.vu
+0.0.0.0 www.acnsprtmetafbscrt.co.vu
 0.0.0.0 www.adiakkojoo.co.vu
 0.0.0.0 www.aishiteruu.co.vu
 0.0.0.0 www.asiotabesayangkotabuang.co.vu
@@ -35469,6 +35486,7 @@
 0.0.0.0 felmsdin.xyz
 0.0.0.0 fifa-free-coins.xyz
 0.0.0.0 fifa16freecoins.xyz
+0.0.0.0 fillnort.xyz
 0.0.0.0 fiqzil.xyz
 0.0.0.0 flaster.xyz
 0.0.0.0 floraltaperiez.xyz
@@ -36213,6 +36231,9 @@
 0.0.0.0 j9yvvyc.591books.xyz
 0.0.0.0 www.j9yvvyc.591books.xyz
 0.0.0.0 www.pl-alegrolokalnle.63294.xyz
+0.0.0.0 www.inpost-pl.713412.xyz
+0.0.0.0 pl-inpost.732534.xyz
+0.0.0.0 www.pl-inpost.732534.xyz
 0.0.0.0 inpost-pl.734534.xyz
 0.0.0.0 www.inpost-pl.734534.xyz
 0.0.0.0 www.polska-olx.74256.xyz
@@ -36373,6 +36394,7 @@
 0.0.0.0 www.felmsdin.xyz
 0.0.0.0 tttipsplnewin.fforni6.xyz
 0.0.0.0 www.tttipsplnewin.fforni6.xyz
+0.0.0.0 www.fillnort.xyz
 0.0.0.0 www.findingspl.xyz
 0.0.0.0 www.fiqzil.xyz
 0.0.0.0 tv.fixerror.xyz
@@ -36897,6 +36919,7 @@
 0.0.0.0 olx.pl-easyshop.xyz
 0.0.0.0 www.inpost.pl-easyshop.xyz
 0.0.0.0 www.olx.pl-easyshop.xyz
+0.0.0.0 www.1npost.pl-expenses.xyz
 0.0.0.0 olx.pl-expresspaid.xyz
 0.0.0.0 www.olx.pl-expresspaid.xyz
 0.0.0.0 olx.pl-expresspays.xyz
