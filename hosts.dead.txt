@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Monday 14 February 2022
+# Date: 06:02 AM Tuesday 15 February 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -13511,6 +13511,7 @@
 0.0.0.0 ads1.destructoid.com
 0.0.0.0 gcirm.detnews.com
 0.0.0.0 ads.developershed.com
+0.0.0.0 getcoin.development-india.com
 0.0.0.0 broadway.devotedgolfer.com
 0.0.0.0 adserver.devx.com
 0.0.0.0 www.dezlive.com
@@ -33682,6 +33683,7 @@
 0.0.0.0 cationsys.top
 0.0.0.0 cepractliq.top
 0.0.0.0 ceulyvxnrhmm.top
+0.0.0.0 cfwchydynfc.top
 0.0.0.0 chaserwit.top
 0.0.0.0 checkwp.top
 0.0.0.0 ciendsbusi.top
@@ -33823,6 +33825,7 @@
 0.0.0.0 iqhmignhcjhpn.top
 0.0.0.0 irjxswingv.top
 0.0.0.0 iwmrwktlqet.top
+0.0.0.0 jfvmafyksfj.top
 0.0.0.0 jhasisinvolvo.top
 0.0.0.0 jientlysome.top
 0.0.0.0 jingwatch.top
@@ -33830,6 +33833,7 @@
 0.0.0.0 jytetnyuauwiwgf.top
 0.0.0.0 kbirdsind.top
 0.0.0.0 kbwrsxnmhmm.top
+0.0.0.0 kfxfcofkumv.top
 0.0.0.0 kiafailersov.top
 0.0.0.0 kieuqepq.top
 0.0.0.0 kingshape.top
