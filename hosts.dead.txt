@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Tuesday 15 February 2022
+# Date: 06:02 AM Wednesday 16 February 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -33848,6 +33848,7 @@
 0.0.0.0 lativenayl.top
 0.0.0.0 legedlunchar.top
 0.0.0.0 lgvxvudj.top
+0.0.0.0 lhxacerjwpbd.top
 0.0.0.0 licitventiethv.top
 0.0.0.0 lightdrop.top
 0.0.0.0 lingchallersh.top
