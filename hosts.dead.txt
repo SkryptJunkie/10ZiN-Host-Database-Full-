@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Wednesday 16 February 2022
+# Date: 06:02 AM Thursday 17 February 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -3923,6 +3923,7 @@
 0.0.0.0 abetran.com
 0.0.0.0 abhipsapradhan.com
 0.0.0.0 abikurier.com
+0.0.0.0 abouthemes.com
 0.0.0.0 abpeet.com
 0.0.0.0 abrazzak.com
 0.0.0.0 absolutelyfreeeroticstories.com
@@ -27882,6 +27883,7 @@
 0.0.0.0 sportupdates.online
 0.0.0.0 stata2021.online
 0.0.0.0 superpozhta.online
+0.0.0.0 suppercubeinstals.online
 0.0.0.0 support--icloud.online
 0.0.0.0 support--iphone.online
 0.0.0.0 szukammysuckesu.online
@@ -33842,6 +33844,7 @@
 0.0.0.0 kmwapcfunvhqk.top
 0.0.0.0 kntdjvwod.top
 0.0.0.0 krmwbimfpndwui.top
+0.0.0.0 kugqfhqi.top
 0.0.0.0 l7r0sgc0.top
 0.0.0.0 ladiumdh.top
 0.0.0.0 lainswitche.top
@@ -33860,6 +33863,7 @@
 0.0.0.0 llyxtecgcmhaqd.top
 0.0.0.0 lplesacciner.top
 0.0.0.0 lsrvvoqobu.top
+0.0.0.0 lufwwghtsil.top
 0.0.0.0 macheaper.top
 0.0.0.0 mahiwal18.top
 0.0.0.0 manycham.top
@@ -33956,6 +33960,7 @@
 0.0.0.0 qqchmapkqumvetl.top
 0.0.0.0 qqotmtadpamrwho.top
 0.0.0.0 ragenessed.top
+0.0.0.0 rcbblalajsgdar.top
 0.0.0.0 rditatehapp.top
 0.0.0.0 recheriend.top
 0.0.0.0 reducatedc.top
