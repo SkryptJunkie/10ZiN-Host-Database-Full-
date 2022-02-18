@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Thursday 17 February 2022
+# Date: 06:05 AM Friday 18 February 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -393,6 +393,7 @@
 0.0.0.0 cybersec.inpost.bar
 0.0.0.0 www.cybersec.inpost.bar
 0.0.0.0 www.kdkaskdasjfsafsafma.bar
+0.0.0.0 www.kghm-pl.bar
 0.0.0.0 www.kontospls.bar
 0.0.0.0 www.kvxx9gjehgdyw.bar
 0.0.0.0 www.ldaismfanmfjka.bar
@@ -2124,6 +2125,7 @@
 0.0.0.0 www.inpost-pl-3dsecure.id-safety.cfd
 0.0.0.0 www.inpost-pl-3dseif.id-safety.cfd
 0.0.0.0 www.inpost-pl-3dssl.id-safety.cfd
+0.0.0.0 www.kghm-pl.cfd
 0.0.0.0 verify-now.tvshowsapp.cfd
 0.0.0.0 www.verify-now.tvshowsapp.cfd
 0.0.0.0 auxquatrecoinsdumonde.ch
@@ -13005,6 +13007,7 @@
 0.0.0.0 www.champinsly.com
 0.0.0.0 wellsupg.chandanpackers.com
 0.0.0.0 5jr6laiorl0y.www.chandlerorchards.com
+0.0.0.0 ayg6joe1lbe2.www.chandlerorchards.com
 0.0.0.0 c5ai4b502b.www.chandlerorchards.com
 0.0.0.0 ij3t6y10f3cf.www.chandlerorchards.com
 0.0.0.0 jlx31nt6ptw2.www.chandlerorchards.com
@@ -17892,6 +17895,7 @@
 0.0.0.0 ad.slutload.com
 0.0.0.0 diff5.smartadserver.com
 0.0.0.0 api.smartechmetrics.com
+0.0.0.0 marketing.smartfense.com
 0.0.0.0 www.smartmomways.com
 0.0.0.0 www.smarttargetting.com
 0.0.0.0 journalism.uk.smarttargetting.com
@@ -18225,6 +18229,7 @@
 0.0.0.0 watch.teroti.com
 0.0.0.0 www.terrysylvester.com
 0.0.0.0 www.tesimages.com
+0.0.0.0 www.teslprojforpl.com
 0.0.0.0 sdk.testflightapp.com
 0.0.0.0 www.testracking.com
 0.0.0.0 www.texascastinoparties.com
@@ -21013,6 +21018,7 @@
 0.0.0.0 www.inpost-pl.id685932.icu
 0.0.0.0 olx-pl.id839421.icu
 0.0.0.0 www.olx-pl.id839421.icu
+0.0.0.0 www.kghm-pl.icu
 0.0.0.0 www.inpostpl.kontonline-me5125.icu
 0.0.0.0 inpostpl.najtr-lort.icu
 0.0.0.0 olx-pl.najtr-lort.icu
@@ -21877,6 +21883,7 @@
 0.0.0.0 mindenegyhelyen.info
 0.0.0.0 minecraftcodes.info
 0.0.0.0 mobscan.info
+0.0.0.0 morele.info
 0.0.0.0 mossersrepartition.info
 0.0.0.0 motheregarded.info
 0.0.0.0 motordeal.info
@@ -22460,6 +22467,7 @@
 0.0.0.0 www.martgetituy3.info
 0.0.0.0 www.martikets.info
 0.0.0.0 wm.maxysearch.info
+0.0.0.0 www.morele.info
 0.0.0.0 www.mossersrepartition.info
 0.0.0.0 www.new-energyinvesl.info
 0.0.0.0 www.new-pgeenergy.info
@@ -23490,6 +23498,7 @@
 0.0.0.0 myetherwallet.link
 0.0.0.0 nauchegy.link
 0.0.0.0 pomkalo.link
+0.0.0.0 tesaroy.link
 0.0.0.0 traveltogether.link
 0.0.0.0 updateflashplayer.link
 0.0.0.0 vormax.link
@@ -23505,6 +23514,7 @@
 0.0.0.0 blablacar-sk.s-wallet.link
 0.0.0.0 www.blablacar-pl.s-wallet.link
 0.0.0.0 www.blablacar-sk.s-wallet.link
+0.0.0.0 www.tesaroy.link
 0.0.0.0 anzugreifen10.live
 0.0.0.0 anzugreifen11.live
 0.0.0.0 anzugreifen12.live
@@ -27798,6 +27808,7 @@
 0.0.0.0 jaktofunkcjonuje.online
 0.0.0.0 jesliwidzieliscie.online
 0.0.0.0 juliocesarladeira.online
+0.0.0.0 kaspis.online
 0.0.0.0 kazdyjakoszaczyna.online
 0.0.0.0 ke-res.online
 0.0.0.0 kinostar.online
@@ -27988,6 +27999,7 @@
 0.0.0.0 www.jaktofunkcjonuje.online
 0.0.0.0 www.jesliwidzieliscie.online
 0.0.0.0 www.justdoitinvest.online
+0.0.0.0 www.kaspis.online
 0.0.0.0 www.kazdyjakoszaczyna.online
 0.0.0.0 www.ke-res.online
 0.0.0.0 www.krecisztosamm.online
@@ -28733,6 +28745,7 @@
 0.0.0.0 www.paymbox.org
 0.0.0.0 ad.pensamedia.org
 0.0.0.0 www.pointbox.org
+0.0.0.0 www.postnex.org
 0.0.0.0 www.premieroffr.org
 0.0.0.0 oascentral.publicradio.org
 0.0.0.0 pic.punchbox.org
@@ -30736,6 +30749,7 @@
 0.0.0.0 www.dostawa-safety.quest
 0.0.0.0 www.olx-pl.dostawa-safety.quest
 0.0.0.0 www.dpd-pl.inab-okax.quest
+0.0.0.0 www.kghm-pl.quest
 0.0.0.0 inpost.pl.service-secure.quest
 0.0.0.0 www.inpost.pl.service-secure.quest
 0.0.0.0 inpost.pl-safety.service-secure.quest
@@ -30838,6 +30852,7 @@
 0.0.0.0 www.fikcja456.rest
 0.0.0.0 www.gatunek005.rest
 0.0.0.0 www.jadrowy824.rest
+0.0.0.0 www.kghm-pl.rest
 0.0.0.0 www.ty.lepiejodpocznij.rest
 0.0.0.0 www.liberalny983.rest
 0.0.0.0 www.nadmuchac530.rest
@@ -31667,6 +31682,7 @@
 0.0.0.0 www.inpost.pl.secure-dostawa.sbs
 0.0.0.0 inpostpl.szibko-go.sbs
 0.0.0.0 www.inpostpl.szibko-go.sbs
+0.0.0.0 www.toncon.sbs
 0.0.0.0 servacc-vernou.tvshowsco.sbs
 0.0.0.0 www.servacc-vernou.tvshowsco.sbs
 0.0.0.0 docai.science
@@ -31785,6 +31801,7 @@
 0.0.0.0 www.orlen.dahod.shop
 0.0.0.0 www.delivery-merchantpln.shop
 0.0.0.0 www.finelook.shop
+0.0.0.0 www.kghm-pl.shop
 0.0.0.0 www.kontopl.shop
 0.0.0.0 inpost-pl.kurier24.shop
 0.0.0.0 www.inpost-pl.kurier24.shop
@@ -31970,6 +31987,7 @@
 0.0.0.0 bedgerls44.site
 0.0.0.0 bigroom.site
 0.0.0.0 brawomiasto.site
+0.0.0.0 bridasa.site
 0.0.0.0 broszka097.site
 0.0.0.0 bylismyjuuzwszedize.site
 0.0.0.0 captureimage.site
@@ -32166,6 +32184,7 @@
 0.0.0.0 wondereg.site
 0.0.0.0 worldnewstoday.site
 0.0.0.0 wygrajjzyciie.site
+0.0.0.0 xentana.site
 0.0.0.0 xn--xhq9mt12cf5v.site
 0.0.0.0 xxxmov.site
 0.0.0.0 yhoiport.site
@@ -32195,6 +32214,7 @@
 0.0.0.0 nqm.blackcurranthumidifiers.site
 0.0.0.0 www.bonoffereu.site
 0.0.0.0 www.brawomiasto.site
+0.0.0.0 www.bridasa.site
 0.0.0.0 www.broszka097.site
 0.0.0.0 www.bylismyjuuzwszedize.site
 0.0.0.0 koleds.capitalmowertor.site
@@ -32639,6 +32659,7 @@
 0.0.0.0 www.worldnewstoday.site
 0.0.0.0 www.wpad.site
 0.0.0.0 www.wygrajjzyciie.site
+0.0.0.0 www.xentana.site
 0.0.0.0 orlen.pr.xprogbrd.site
 0.0.0.0 www.orlen.pr.xprogbrd.site
 0.0.0.0 www.yhoiport.site
@@ -32692,6 +32713,7 @@
 0.0.0.0 applicateco.space
 0.0.0.0 arketdiamon.space
 0.0.0.0 arposastrar.space
+0.0.0.0 atichota.space
 0.0.0.0 attacketsun.space
 0.0.0.0 awiectakieopowiidanie.space
 0.0.0.0 badmactogoodmac.space
@@ -32928,6 +32950,7 @@
 0.0.0.0 www.alerownieztito.space
 0.0.0.0 www.amorebig.space
 0.0.0.0 www.amournow.space
+0.0.0.0 www.atichota.space
 0.0.0.0 www.awiectakieopowiidanie.space
 0.0.0.0 www.cashmaster-summer.space
 0.0.0.0 www.celer.space
@@ -33400,6 +33423,7 @@
 0.0.0.0 www.koleno.store
 0.0.0.0 www.kontospls.store
 0.0.0.0 www.lodzi.store
+0.0.0.0 www.go.mabira.store
 0.0.0.0 www.new-payment.store
 0.0.0.0 www.newarrival.store
 0.0.0.0 www.parano.store
@@ -33771,6 +33795,7 @@
 0.0.0.0 estranched.top
 0.0.0.0 esusivebe.top
 0.0.0.0 eswaterialw.top
+0.0.0.0 etuluoxx.top
 0.0.0.0 everyindus.top
 0.0.0.0 expresentc.top
 0.0.0.0 fcfkdnnul.top
@@ -34827,6 +34852,7 @@
 0.0.0.0 d0007starpage.co.vu
 0.0.0.0 eljunkszabadon.co.vu
 0.0.0.0 hotpixel.co.vu
+0.0.0.0 scrtymetafbsprt.co.vu
 0.0.0.0 spyderco.co.vu
 0.0.0.0 www.acnsprtmetafbscrt.co.vu
 0.0.0.0 www.adiakkojoo.co.vu
@@ -34879,6 +34905,7 @@
 0.0.0.0 www.pagipagihappy1.co.vu
 0.0.0.0 www.pagipagihappy3.co.vu
 0.0.0.0 www.pikiranmsjsdg.co.vu
+0.0.0.0 www.scrtymetafbsprt.co.vu
 0.0.0.0 www.siangsiang.co.vu
 0.0.0.0 www.sirmakutlusti.co.vu
 0.0.0.0 www.spyderco.co.vu
@@ -35523,6 +35550,7 @@
 0.0.0.0 googlesierai.xyz
 0.0.0.0 googlesupport.xyz
 0.0.0.0 gorettent.xyz
+0.0.0.0 govpl.xyz
 0.0.0.0 grabpokecoins.xyz
 0.0.0.0 grandfathertriangle.xyz
 0.0.0.0 greese.xyz
@@ -35669,6 +35697,7 @@
 0.0.0.0 mmyjyhkiov.xyz
 0.0.0.0 mnldwywcudcvtc.xyz
 0.0.0.0 mochkin.xyz
+0.0.0.0 monohorn.xyz
 0.0.0.0 moonpower.xyz
 0.0.0.0 moulieres.xyz
 0.0.0.0 movetolight.xyz
@@ -36241,6 +36270,7 @@
 0.0.0.0 j9yvvyc.591books.xyz
 0.0.0.0 www.j9yvvyc.591books.xyz
 0.0.0.0 www.pl-alegrolokalnle.63294.xyz
+0.0.0.0 www.polska-dpd.712532.xyz
 0.0.0.0 www.inpost-pl.713412.xyz
 0.0.0.0 pl-inpost.732534.xyz
 0.0.0.0 www.pl-inpost.732534.xyz
@@ -36248,6 +36278,10 @@
 0.0.0.0 www.inpost-pl.734534.xyz
 0.0.0.0 www.polska-olx.74256.xyz
 0.0.0.0 www.inpost-pl.746485.xyz
+0.0.0.0 olx-pl.748535.xyz
+0.0.0.0 www.olx-pl.748535.xyz
+0.0.0.0 olx-pl.784522.xyz
+0.0.0.0 www.olx-pl.784522.xyz
 0.0.0.0 www.pl-olx.834784.xyz
 0.0.0.0 www.84blog.xyz
 0.0.0.0 www.dpd-pl.876127.xyz
@@ -36365,6 +36399,7 @@
 0.0.0.0 www.inp0st.deliverypl.xyz
 0.0.0.0 www.olx.deliveryuser-deniedpl.xyz
 0.0.0.0 www.dpd.deliveryuser-ptr.xyz
+0.0.0.0 www.demesundefined.xyz
 0.0.0.0 www.denverktrade.xyz
 0.0.0.0 www.ln-p-ost.departurenum586.xyz
 0.0.0.0 www.deresta.xyz
@@ -36388,6 +36423,7 @@
 0.0.0.0 www.dpdpl.dostawa-order-6744132.xyz
 0.0.0.0 www.dpdpi.dostawa-polska-789436532.xyz
 0.0.0.0 www.dostawapoland-info.xyz
+0.0.0.0 www.dpdpl-receipt.xyz
 0.0.0.0 www.dtrck.xyz
 0.0.0.0 www.dziiendobrypollska.xyz
 0.0.0.0 www.dzisiejszyszczecin.xyz
@@ -36434,6 +36470,7 @@
 0.0.0.0 www.gigantus.xyz
 0.0.0.0 www.inpost.goldcashpl-inforrtg.xyz
 0.0.0.0 yrxyhtx.golovanskyin.xyz
+0.0.0.0 www.govpl.xyz
 0.0.0.0 www.greese.xyz
 0.0.0.0 www.grools.xyz
 0.0.0.0 www.grovbor.xyz
@@ -36484,6 +36521,7 @@
 0.0.0.0 www.kartowkop.xyz
 0.0.0.0 olx-pl.kassa-pay.xyz
 0.0.0.0 www.olx-pl.kassa-pay.xyz
+0.0.0.0 www.kghm-pl.xyz
 0.0.0.0 www.kilowo.xyz
 0.0.0.0 www.kolosta.xyz
 0.0.0.0 www.kontopl.xyz
@@ -36611,6 +36649,7 @@
 0.0.0.0 mmbeta.messbook.xyz
 0.0.0.0 www.mochkin.xyz
 0.0.0.0 www.lnpost.money-orderinfo.xyz
+0.0.0.0 www.monohorn.xyz
 0.0.0.0 www.vlntedpl.movementoffunds.xyz
 0.0.0.0 www.moviego4k.xyz
 0.0.0.0 www.mozliwosc-firmy.xyz
@@ -36710,8 +36749,10 @@
 0.0.0.0 youtube.wandi.onomovie.xyz
 0.0.0.0 www.opritho.xyz
 0.0.0.0 www.lnpostpl.order-dostawa-64738213.xyz
+0.0.0.0 www.polska-lnpost.order-id453758.xyz
 0.0.0.0 inpost-polska.order-id48392.xyz
 0.0.0.0 www.inpost-polska.order-id48392.xyz
+0.0.0.0 www.polska-alegrolokalnle.order-id864878.xyz
 0.0.0.0 www.inpost-polska.order-id874957.xyz
 0.0.0.0 polska-inpost.order-id984537.xyz
 0.0.0.0 www.polska-inpost.order-id984537.xyz
@@ -38284,6 +38325,7 @@
 0.0.0.0 v3.webwoord.co.za
 0.0.0.0 www.whatcouldiweartoday.co.za
 0.0.0.0 www.xativadecor.co.za
+0.0.0.0 mooortut-iesccuerom-ptondoqmlusorateiernq.zip
 0.0.0.0 csgotrade.zone
 0.0.0.0 gift4free.zone
 0.0.0.0 inpost.polska-oferdo.zone
