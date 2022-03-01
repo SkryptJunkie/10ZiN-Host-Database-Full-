@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Monday 28 February 2022
+# Date: 06:02 AM Tuesday 01 March 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -33869,6 +33869,7 @@
 0.0.0.0 bburpouuh.top
 0.0.0.0 bdyuewmk.top
 0.0.0.0 best-browser.top
+0.0.0.0 biisonalmflevqg.top
 0.0.0.0 bingtonwr.top
 0.0.0.0 biolaker.top
 0.0.0.0 bishedlesb.top
