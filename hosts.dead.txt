@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Saturday 05 March 2022
+# Date: 06:02 AM Sunday 06 March 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -8837,6 +8837,7 @@
 0.0.0.0 personalkapital.com
 0.0.0.0 perukiwarszawa.com
 0.0.0.0 pes15cheats.com
+0.0.0.0 pesterbdd.com
 0.0.0.0 petmovea.com
 0.0.0.0 petoweflip.com
 0.0.0.0 petsarlaaafru.com
