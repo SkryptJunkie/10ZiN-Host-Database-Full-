@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:08 AM Monday 07 March 2022
+# Date: 06:03 AM Tuesday 08 March 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -16422,6 +16422,7 @@
 0.0.0.0 www.mycelloffer.com
 0.0.0.0 www.mycleanerpc.com
 0.0.0.0 c.mydirectweb.com
+0.0.0.0 www.mydirtytinders.com
 0.0.0.0 www.myehtearwallet.com
 0.0.0.0 www.myetherwalt.com
 0.0.0.0 www.myezgear.com
@@ -20964,6 +20965,7 @@
 0.0.0.0 polgroup.host
 0.0.0.0 privateclub.host
 0.0.0.0 prostagroup.host
+0.0.0.0 redbulconfirm.host
 0.0.0.0 wesfor.host
 0.0.0.0 www.cristal2017.argo.host
 0.0.0.0 tracker.cdn-analytics.host
@@ -24497,6 +24499,8 @@
 0.0.0.0 www.inpost-polska-ay.30584929.me
 0.0.0.0 dpd-sfsg.39583919.me
 0.0.0.0 www.dpd-sfsg.39583919.me
+0.0.0.0 inpost-polska-js.44455.me
+0.0.0.0 www.inpost-polska-js.44455.me
 0.0.0.0 inpost-polska-zgm.455224.me
 0.0.0.0 www.inpost-polska-zgm.455224.me
 0.0.0.0 inpost-pl.637737.me
@@ -29823,6 +29827,7 @@
 0.0.0.0 www.genotypstudio.pl
 0.0.0.0 www.geodeta-lodz.pl
 0.0.0.0 www.gethc.pl
+0.0.0.0 www.facebook.gges.pl
 0.0.0.0 www.gimnazjumlyski.pl
 0.0.0.0 ad.glossymedia.pl
 0.0.0.0 www.gorsklep.pl
@@ -34028,6 +34033,7 @@
 0.0.0.0 dketrade.top
 0.0.0.0 dkpost-a.top
 0.0.0.0 dluvkidobcpap.top
+0.0.0.0 dmtaohwdjv.top
 0.0.0.0 dobrzebuty.top
 0.0.0.0 docsecure.top
 0.0.0.0 doesok.top
@@ -34301,6 +34307,7 @@
 0.0.0.0 sepost-q.top
 0.0.0.0 sepost-r.top
 0.0.0.0 sepost-u.top
+0.0.0.0 sfstgoxjupjjoyb.top
 0.0.0.0 sgljbadfoe.top
 0.0.0.0 shsistnovem.top
 0.0.0.0 siflpwdfjimwig.top
@@ -36259,6 +36266,7 @@
 0.0.0.0 pndmtgmcxnks.xyz
 0.0.0.0 pobezh.xyz
 0.0.0.0 podadwait.xyz
+0.0.0.0 podgapol.xyz
 0.0.0.0 podobnedonas.xyz
 0.0.0.0 podzvonimo.xyz
 0.0.0.0 porntranslation.xyz
@@ -36589,6 +36597,9 @@
 0.0.0.0 inpost-pay-pl.651534.xyz
 0.0.0.0 www.inpost-pay-pl.651534.xyz
 0.0.0.0 www.polska-dpd.65734.xyz
+0.0.0.0 pl-pay-olx.676355.xyz
+0.0.0.0 www.pl-pay-olx.676355.xyz
+0.0.0.0 www.1np-ost.699854.xyz
 0.0.0.0 www.polska-dpd.712532.xyz
 0.0.0.0 www.inpost-pl.713412.xyz
 0.0.0.0 polska-pay-inpost.725243.xyz
@@ -36603,6 +36614,7 @@
 0.0.0.0 www.olx-pl.748535.xyz
 0.0.0.0 olx-pl.784522.xyz
 0.0.0.0 www.olx-pl.784522.xyz
+0.0.0.0 www.polska-olx.815314.xyz
 0.0.0.0 www.pl-olx.834784.xyz
 0.0.0.0 inpost-pl.847541.xyz
 0.0.0.0 www.inpost-pl.847541.xyz
@@ -38334,6 +38346,7 @@
 0.0.0.0 www.pobezh.xyz
 0.0.0.0 www.pobilipsa.xyz
 0.0.0.0 www.podadwait.xyz
+0.0.0.0 www.podgapol.xyz
 0.0.0.0 www.podobnedonas.xyz
 0.0.0.0 www.podzvonimo.xyz
 0.0.0.0 www.poland-transfer.xyz
