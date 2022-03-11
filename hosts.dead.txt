@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:03 AM Thursday 10 March 2022
+# Date: 06:02 AM Friday 11 March 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -34137,6 +34137,7 @@
 0.0.0.0 finistentcou.top
 0.0.0.0 finitiesstaffec.top
 0.0.0.0 fqakvrudrpvfq.top
+0.0.0.0 fqulqwti.top
 0.0.0.0 galaxydrop.top
 0.0.0.0 gamesforconsoles2222.top
 0.0.0.0 geffortyser.top
@@ -34202,6 +34203,7 @@
 0.0.0.0 kkukrstvykj.top
 0.0.0.0 kmwapcfunvhqk.top
 0.0.0.0 kntdjvwod.top
+0.0.0.0 kreerxjjvoylur.top
 0.0.0.0 krmwbimfpndwui.top
 0.0.0.0 kugqfhqi.top
 0.0.0.0 l7r0sgc0.top
@@ -34416,6 +34418,7 @@
 0.0.0.0 uxrawyfinqpogkp.top
 0.0.0.0 vamhgx07.top
 0.0.0.0 vbksrculvld.top
+0.0.0.0 vflxuivefnkn.top
 0.0.0.0 viyuieubw.top
 0.0.0.0 vkqsivsajx.top
 0.0.0.0 vmjmpwdupi.top
@@ -35832,6 +35835,7 @@
 0.0.0.0 diesta.xyz
 0.0.0.0 diorqq.xyz
 0.0.0.0 dkujqutm.xyz
+0.0.0.0 dkwtfnnebkmlf.xyz
 0.0.0.0 dmfadb.xyz
 0.0.0.0 dnoqfytgvhtux.xyz
 0.0.0.0 dnrwepreovuqsj.xyz
