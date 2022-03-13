@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Saturday 12 March 2022
+# Date: 06:03 AM Sunday 13 March 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -2120,6 +2120,7 @@
 0.0.0.0 neverending-story.cf
 0.0.0.0 pekethe.cf
 0.0.0.0 www.atovwhacba.cf
+0.0.0.0 www.bionighkamarrocon.cf
 0.0.0.0 www.cobustchadeababer.cf
 0.0.0.0 bittrex.com11648724328774.cf
 0.0.0.0 www.critoganew.cf
@@ -13656,6 +13657,8 @@
 0.0.0.0 theinternetworksltd-news.t.domdex.com
 0.0.0.0 oascentral.dominionenterprises.com
 0.0.0.0 www.dompodarunkow.com
+0.0.0.0 inpostpl.domr-dostw.com
+0.0.0.0 www.inpostpl.domr-dostw.com
 0.0.0.0 www.donfraysoftware.com
 0.0.0.0 ads.dontpanicmedia.com
 0.0.0.0 www.doodream.com
@@ -20116,6 +20119,7 @@
 0.0.0.0 www.ntdesk.de
 0.0.0.0 cct2.o2online.de
 0.0.0.0 adserver1.ogilvy-interactive.de
+0.0.0.0 www.oilprofit.de
 0.0.0.0 d.omsnative.de
 0.0.0.0 www.onlinewebservice3.de
 0.0.0.0 assets.oomz.de
@@ -20862,10 +20866,12 @@
 0.0.0.0 kick-lake.ga
 0.0.0.0 ladtada.ga
 0.0.0.0 largetfarget.ga
+0.0.0.0 phativetbuo.ga
 0.0.0.0 porlichtlesspickkona.ga
 0.0.0.0 practicalmarketics.ga
 0.0.0.0 promassager.ga
 0.0.0.0 redirecionador.ga
+0.0.0.0 terscolatocoja.ga
 0.0.0.0 thertiakirssotre.ga
 0.0.0.0 tiomape.ga
 0.0.0.0 www.abenuc.ga
@@ -20874,8 +20880,10 @@
 0.0.0.0 www.ladtada.ga
 0.0.0.0 www.largetfarget.ga
 0.0.0.0 www.montobestsimiwun.ga
+0.0.0.0 www.phativetbuo.ga
 0.0.0.0 www.porlichtlesspickkona.ga
 0.0.0.0 www.prevhote.ga
+0.0.0.0 www.terscolatocoja.ga
 0.0.0.0 www.thertiakirssotre.ga
 0.0.0.0 www.tiomape.ga
 0.0.0.0 www.wobancrorebols.ga
@@ -22799,6 +22807,7 @@
 0.0.0.0 www.pmarketigiti6.info
 0.0.0.0 www.poczta-profil-wp.info
 0.0.0.0 www.polnd-news.info
+0.0.0.0 www.polyspermatous.info
 0.0.0.0 www.postep-pl.info
 0.0.0.0 www.posturenursery.info
 0.0.0.0 www.precisionattention.info
@@ -23972,6 +23981,7 @@
 0.0.0.0 your-prize-ready.live
 0.0.0.0 www.inpost-pl.596126.live
 0.0.0.0 www.inpost-pl-safe.596126.live
+0.0.0.0 www.olx-pl.895124.live
 0.0.0.0 www.inpost-pl.95126.live
 0.0.0.0 www.pltesla.3.absolutelynew.live
 0.0.0.0 www.pltesla.4.absolutelynew.live
@@ -24500,6 +24510,8 @@
 0.0.0.0 inpost-hssd.1092648592.me
 0.0.0.0 www.inpost-hssd.1092648592.me
 0.0.0.0 www.12918212.me
+0.0.0.0 oferta-43.2424513.me
+0.0.0.0 www.oferta-43.2424513.me
 0.0.0.0 inpost-rghl.2584902.me
 0.0.0.0 www.inpost-rghl.2584902.me
 0.0.0.0 oferta-100.29485929.me
@@ -26569,6 +26581,7 @@
 0.0.0.0 www.fakty-wp-86874360518.azureedge.net
 0.0.0.0 www.fakty-wp-93064934991.azureedge.net
 0.0.0.0 www.guikhkps.azureedge.net
+0.0.0.0 www.informacje-interia-20433903321.azureedge.net
 0.0.0.0 www.informacje-polsat-73936775591.azureedge.net
 0.0.0.0 www.informacje-swietokrzyskie-54838926355.azureedge.net
 0.0.0.0 www.informacje-swietokrzyskie-68811099862.azureedge.net
@@ -28029,6 +28042,7 @@
 0.0.0.0 krecisztosamm.online
 0.0.0.0 kubetgame.online
 0.0.0.0 kurier-wpiata.online
+0.0.0.0 landkar.online
 0.0.0.0 lesbonnesaffaires.online
 0.0.0.0 load44ont.online
 0.0.0.0 loadnot.online
@@ -28222,6 +28236,7 @@
 0.0.0.0 www.ke-res.online
 0.0.0.0 www.krecisztosamm.online
 0.0.0.0 www.kurier-wpiata.online
+0.0.0.0 www.landkar.online
 0.0.0.0 www.lotosgrupapl.online
 0.0.0.0 olx.lucky-pay.online
 0.0.0.0 www.olx.lucky-pay.online
@@ -32114,6 +32129,8 @@
 0.0.0.0 olx.pl-gopays.shop
 0.0.0.0 www.olx.pl-gopays.shop
 0.0.0.0 www.pl-gotpaid.shop
+0.0.0.0 inpostpl.pl-id0678196.shop
+0.0.0.0 www.inpostpl.pl-id0678196.shop
 0.0.0.0 inpost.pl-livemoney.shop
 0.0.0.0 olx.pl-livemoney.shop
 0.0.0.0 www.inpost.pl-livemoney.shop
@@ -32272,6 +32289,7 @@
 0.0.0.0 glosnosiezrobilo.site
 0.0.0.0 godevelopers.site
 0.0.0.0 gorfoxit.site
+0.0.0.0 gybnol.site
 0.0.0.0 handel-pro.site
 0.0.0.0 hdvideoresmiuygulama7288.site
 0.0.0.0 iconfoundation.site
@@ -32312,6 +32330,7 @@
 0.0.0.0 lts-grp.site
 0.0.0.0 lts-inf.site
 0.0.0.0 mac-helper.site
+0.0.0.0 maehal.site
 0.0.0.0 mobile-olx.site
 0.0.0.0 moja-dostawa.site
 0.0.0.0 monogronto.site
@@ -32367,6 +32386,7 @@
 0.0.0.0 safety-dellivery.site
 0.0.0.0 sandefit.site
 0.0.0.0 sandisw.site
+0.0.0.0 sanstard.site
 0.0.0.0 screencapture.site
 0.0.0.0 screenpictures.site
 0.0.0.0 serviziopostale.site
@@ -32491,6 +32511,7 @@
 0.0.0.0 inpost.pl-safety.dostawa-secure.site
 0.0.0.0 www.inpost.pl-safety.dostawa-secure.site
 0.0.0.0 app2.downloadmacsoft.site
+0.0.0.0 www.dpd-lnfodelibery.site
 0.0.0.0 www.dshkaorlova.site
 0.0.0.0 www.e-mail-regulamin.site
 0.0.0.0 www.e-mailprywatnosc.site
@@ -32522,6 +32543,7 @@
 0.0.0.0 www.gorfoxit.site
 0.0.0.0 booking.com.gpaytrans.site
 0.0.0.0 www.booking.com.gpaytrans.site
+0.0.0.0 www.gybnol.site
 0.0.0.0 moneyup.handel-pro.site
 0.0.0.0 www.handel-pro.site
 0.0.0.0 www.moneyup.handel-pro.site
@@ -32614,6 +32636,7 @@
 0.0.0.0 olx.m-inposta.site
 0.0.0.0 pl.m-inposta.site
 0.0.0.0 www.olx.m-inposta.site
+0.0.0.0 www.maehal.site
 0.0.0.0 kulchinves.miktrppl0.site
 0.0.0.0 wqrthninv.miktrppl0.site
 0.0.0.0 www.kulchinves.miktrppl0.site
@@ -32841,6 +32864,7 @@
 0.0.0.0 www.safety-dellivery.site
 0.0.0.0 www.sandefit.site
 0.0.0.0 www.sandisw.site
+0.0.0.0 www.sanstard.site
 0.0.0.0 dpd-pl.sec-transaction.site
 0.0.0.0 www.dpd-pl.sec-transaction.site
 0.0.0.0 www.servetean.site
@@ -33851,6 +33875,7 @@
 0.0.0.0 butchirolopa.tk
 0.0.0.0 buuhigguttparmosy.tk
 0.0.0.0 chicusbigomo.tk
+0.0.0.0 concjoomtifir.tk
 0.0.0.0 contregpiedovetoo.tk
 0.0.0.0 creative-banana.tk
 0.0.0.0 cwcwcw.tk
@@ -33861,6 +33886,7 @@
 0.0.0.0 eavgwy5suy.tk
 0.0.0.0 etramindcarsubstung.tk
 0.0.0.0 exigun.tk
+0.0.0.0 exsapahardcons.tk
 0.0.0.0 friendly-community.tk
 0.0.0.0 funny-morning.tk
 0.0.0.0 gaudisnolis.tk
@@ -33892,9 +33918,12 @@
 0.0.0.0 spirforhoutetousubs.tk
 0.0.0.0 surfel.tk
 0.0.0.0 tacarilsudi.tk
+0.0.0.0 taiconni.tk
 0.0.0.0 tempprenmis.tk
 0.0.0.0 test-memorial.tk
+0.0.0.0 tingdepee.tk
 0.0.0.0 tiodoodmebert.tk
+0.0.0.0 tlichreibrecelem.tk
 0.0.0.0 uninhypzatannigg.tk
 0.0.0.0 urevapconraico.tk
 0.0.0.0 usagreencard.tk
@@ -33914,6 +33943,7 @@
 0.0.0.0 www.chicusbigomo.tk
 0.0.0.0 www.cingmoses.tk
 0.0.0.0 www.clasbeschsandfloorma.tk
+0.0.0.0 www.concjoomtifir.tk
 0.0.0.0 www.contregpiedovetoo.tk
 0.0.0.0 www.cuddtonan.tk
 0.0.0.0 www.derlorbgrifwinsaluhr.tk
@@ -33921,6 +33951,7 @@
 0.0.0.0 www.dribnetdsponiniriv.tk
 0.0.0.0 www.etramindcarsubstung.tk
 0.0.0.0 www.exigun.tk
+0.0.0.0 www.exsapahardcons.tk
 0.0.0.0 www.fanido.tk
 0.0.0.0 www.gastcontsanzical.tk
 0.0.0.0 www.gaudisnolis.tk
@@ -33954,9 +33985,12 @@
 0.0.0.0 www.spirforhoutetousubs.tk
 0.0.0.0 www.stiricigbreath.tk
 0.0.0.0 www.tacarilsudi.tk
+0.0.0.0 www.taiconni.tk
 0.0.0.0 www.tauheartvebafme.tk
 0.0.0.0 www.tempprenmis.tk
+0.0.0.0 www.tingdepee.tk
 0.0.0.0 www.tiodoodmebert.tk
+0.0.0.0 www.tlichreibrecelem.tk
 0.0.0.0 www.uninhypzatannigg.tk
 0.0.0.0 www.urevapconraico.tk
 0.0.0.0 www.vathatpecernsi.tk
@@ -34872,7 +34906,9 @@
 0.0.0.0 detios.uno
 0.0.0.0 ghedno.uno
 0.0.0.0 jabasnko.uno
+0.0.0.0 kolagank.uno
 0.0.0.0 lansart.uno
+0.0.0.0 sonaril.uno
 0.0.0.0 waaskorson.uno
 0.0.0.0 wansoter.uno
 0.0.0.0 yvosdo.uno
@@ -34880,8 +34916,10 @@
 0.0.0.0 www.ghedno.uno
 0.0.0.0 www.ilink.uno
 0.0.0.0 www.jabasnko.uno
+0.0.0.0 www.kolagank.uno
 0.0.0.0 www.lansart.uno
 0.0.0.0 www.keitaro.slab.uno
+0.0.0.0 www.sonaril.uno
 0.0.0.0 www.waaskorson.uno
 0.0.0.0 www.wansoter.uno
 0.0.0.0 www.yvosdo.uno
@@ -35909,6 +35947,7 @@
 0.0.0.0 geniusfund.xyz
 0.0.0.0 ggiiccahqryslp.xyz
 0.0.0.0 ghrqxdvmqcisfy.xyz
+0.0.0.0 gichtarsi.xyz
 0.0.0.0 giwefepy.xyz
 0.0.0.0 gonapysa.xyz
 0.0.0.0 googlesierai.xyz
@@ -35991,6 +36030,7 @@
 0.0.0.0 jprvhcoroir.xyz
 0.0.0.0 juliasi.xyz
 0.0.0.0 kartowkop.xyz
+0.0.0.0 katars.xyz
 0.0.0.0 katharyn.xyz
 0.0.0.0 katherin.xyz
 0.0.0.0 kewuruve.xyz
@@ -36001,6 +36041,7 @@
 0.0.0.0 kionishop.xyz
 0.0.0.0 kka20si.xyz
 0.0.0.0 kolosta.xyz
+0.0.0.0 konasder.xyz
 0.0.0.0 kontopl.xyz
 0.0.0.0 kopter.xyz
 0.0.0.0 korespodencja-platnosc.xyz
@@ -36414,6 +36455,7 @@
 0.0.0.0 sendmaker.xyz
 0.0.0.0 seobookmark.xyz
 0.0.0.0 sequestrassent.xyz
+0.0.0.0 sersher.xyz
 0.0.0.0 sglsccpjqnummmg.xyz
 0.0.0.0 shiltern.xyz
 0.0.0.0 shopdocuments.xyz
@@ -36651,6 +36693,7 @@
 0.0.0.0 inpost-pay-pl.651534.xyz
 0.0.0.0 www.inpost-pay-pl.651534.xyz
 0.0.0.0 www.polska-dpd.65734.xyz
+0.0.0.0 www.1np0st.65945-dispatch.xyz
 0.0.0.0 www.65978-delivery.xyz
 0.0.0.0 pl-pay-olx.676355.xyz
 0.0.0.0 www.pl-pay-olx.676355.xyz
@@ -36677,6 +36720,7 @@
 0.0.0.0 www.dpd-pl.876127.xyz
 0.0.0.0 www.olx-pl.876127.xyz
 0.0.0.0 www.inpost-pl.9473873-info-mycash.xyz
+0.0.0.0 www.lnpost-pl.985646.xyz
 0.0.0.0 polska-inpost.986956.xyz
 0.0.0.0 www.inpost-polska.986956.xyz
 0.0.0.0 www.polska-inpost.986956.xyz
@@ -36866,6 +36910,7 @@
 0.0.0.0 inpost-pl.getcashorder.xyz
 0.0.0.0 www.inpost-pl.getcashorder.xyz
 0.0.0.0 www.p1-inp0st.getinformation.xyz
+0.0.0.0 www.gichtarsi.xyz
 0.0.0.0 www.gigantus.xyz
 0.0.0.0 www.inpost.goldcashpl-inforrtg.xyz
 0.0.0.0 yrxyhtx.golovanskyin.xyz
@@ -36922,9 +36967,11 @@
 0.0.0.0 www.kartowkop.xyz
 0.0.0.0 olx-pl.kassa-pay.xyz
 0.0.0.0 www.olx-pl.kassa-pay.xyz
+0.0.0.0 www.katars.xyz
 0.0.0.0 www.kghm-pl.xyz
 0.0.0.0 www.kilowo.xyz
 0.0.0.0 www.kolosta.xyz
+0.0.0.0 www.konasder.xyz
 0.0.0.0 www.kontopl.xyz
 0.0.0.0 www.korespodencja-platnosc.xyz
 0.0.0.0 oni.krinta.xyz
@@ -36992,6 +37039,7 @@
 0.0.0.0 www.lili24.xyz
 0.0.0.0 www.liltrade.xyz
 0.0.0.0 www.ln-post-purchaser.xyz
+0.0.0.0 www.lnfodispatch.xyz
 0.0.0.0 www.logowanie-potwierdz.xyz
 0.0.0.0 www.logowanie-wieku.xyz
 0.0.0.0 www.lojho.xyz
@@ -38566,6 +38614,7 @@
 0.0.0.0 www.v-inted.sendingfunct.xyz
 0.0.0.0 www.allegrolokane.sendingreq.xyz
 0.0.0.0 www.lnpostpl.sendinguserinform.xyz
+0.0.0.0 www.sersher.xyz
 0.0.0.0 allegr0lokalnie.shippguarantee.xyz
 0.0.0.0 www.allegr0lokalnie.shippguarantee.xyz
 0.0.0.0 www.skateboardfivzgg.xyz
