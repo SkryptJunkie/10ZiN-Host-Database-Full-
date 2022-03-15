@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Monday 14 March 2022
+# Date: 06:06 AM Tuesday 15 March 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -2124,6 +2124,7 @@
 0.0.0.0 www.cobustchadeababer.cf
 0.0.0.0 bittrex.com11648724328774.cf
 0.0.0.0 www.critoganew.cf
+0.0.0.0 www.eroogloperchove.cf
 0.0.0.0 www.feuwilmiruplato.cf
 0.0.0.0 www.forbelyde.cf
 0.0.0.0 www.gesphymeacardgo.cf
@@ -2132,6 +2133,7 @@
 0.0.0.0 www.mietigouhara.cf
 0.0.0.0 www.nedonjo.cf
 0.0.0.0 www.nustiosulonglimas.cf
+0.0.0.0 www.oggezlitoleeslea.cf
 0.0.0.0 www.pekethe.cf
 0.0.0.0 www.rchelanrealrestmuwin.cf
 0.0.0.0 instagram.com.ukradene-slike.cf
@@ -3836,6 +3838,7 @@
 0.0.0.0 700xxx.com
 0.0.0.0 7017042b83a65ea.com
 0.0.0.0 72-news.com
+0.0.0.0 725119419f.com
 0.0.0.0 72b8869dfc34690.com
 0.0.0.0 72hdownload.com
 0.0.0.0 72impala.com
@@ -10299,6 +10302,7 @@
 0.0.0.0 titangelsales.com
 0.0.0.0 titokterminal.com
 0.0.0.0 tivvitter.com
+0.0.0.0 tjcttxdfrlb.com
 0.0.0.0 tk-autoshop.com
 0.0.0.0 tlcmoto.com
 0.0.0.0 tmakinternational.com
@@ -14288,6 +14292,8 @@
 0.0.0.0 www.facebookmails.com
 0.0.0.0 ads.factorymedia.com
 0.0.0.0 asfand.fahadmarketing.com
+0.0.0.0 www.dpd-pl.fair1z-port.com
+0.0.0.0 www.inpostpl.fair1z-port.com
 0.0.0.0 vs.faithbase.com
 0.0.0.0 www.faithbuilderconstruction.com
 0.0.0.0 track.msadcenter.fal.com
@@ -19520,6 +19526,7 @@
 0.0.0.0 inpostpl.qowitgyvx.creditcard
 0.0.0.0 www.inpostpl.qowitgyvx.creditcard
 0.0.0.0 cd8iw9mh.cricket
+0.0.0.0 praachichemfood.cvom
 0.0.0.0 777marketer.cyou
 0.0.0.0 babcia.cyou
 0.0.0.0 bedacjuzprzytym.cyou
@@ -20927,6 +20934,7 @@
 0.0.0.0 www.backscancetlasep.gq
 0.0.0.0 www.bizroethropunes.gq
 0.0.0.0 www.kudisrusttradzag.gq
+0.0.0.0 www.mamnatip.gq
 0.0.0.0 www.mangtipuma.gq
 0.0.0.0 www.nategefpuzuscha.gq
 0.0.0.0 www.newstalaswindning.gq
@@ -23979,6 +23987,7 @@
 0.0.0.0 waterdiepattern9.live
 0.0.0.0 whateyeweight8.live
 0.0.0.0 your-prize-ready.live
+0.0.0.0 www.inpost-pl-safe.590283.live
 0.0.0.0 www.inpost-pl.596126.live
 0.0.0.0 www.inpost-pl-safe.596126.live
 0.0.0.0 www.olx-pl.895124.live
@@ -24950,6 +24959,7 @@
 0.0.0.0 4vikingdrive.ml
 0.0.0.0 banolphcivodfaile.ml
 0.0.0.0 besnointer.ml
+0.0.0.0 breathsembwatini.ml
 0.0.0.0 coindash.ml
 0.0.0.0 comlealorarbaylwat.ml
 0.0.0.0 comptangpergoispor.ml
@@ -24983,6 +24993,7 @@
 0.0.0.0 pdf-wp.baajraa.ml
 0.0.0.0 www.banolphcivodfaile.ml
 0.0.0.0 www.besnointer.ml
+0.0.0.0 www.breathsembwatini.ml
 0.0.0.0 www.comlealorarbaylwat.ml
 0.0.0.0 www.comptangpergoispor.ml
 0.0.0.0 www.coutisnerari.ml
@@ -28303,6 +28314,7 @@
 0.0.0.0 www.pllots.online
 0.0.0.0 www.plynzpradem.online
 0.0.0.0 www.poczta-email.online
+0.0.0.0 www.pomagam-pl.online
 0.0.0.0 www.pomyslynazzycie.online
 0.0.0.0 www.porannynewsik10.online
 0.0.0.0 www.prawdziwebiznessypolska.online
@@ -29538,6 +29550,7 @@
 0.0.0.0 www.agenciq.pl
 0.0.0.0 www.agencja-aspro.pl
 0.0.0.0 www.agmar-zdg.pl
+0.0.0.0 www.ajeks.pl
 0.0.0.0 www.akwadrago.pl
 0.0.0.0 www.alanjula.pl
 0.0.0.0 www.alclean.pl
@@ -30260,6 +30273,7 @@
 0.0.0.0 www.y3bfndilkswfg.vdl.pl
 0.0.0.0 www.yfbnmkid4fn.vdl.pl
 0.0.0.0 www.vejatanio.pl
+0.0.0.0 www.verkontos.pl
 0.0.0.0 www.veroniss.pl
 0.0.0.0 www.vision2020.pl
 0.0.0.0 brudna-prawda.vot.pl
@@ -32727,6 +32741,7 @@
 0.0.0.0 inpost.pl-info-odbior.site
 0.0.0.0 www.inpost.pl-info-odbior.site
 0.0.0.0 www.pl-info3.site
+0.0.0.0 www.inpost.pl-infov.site
 0.0.0.0 inpost.pl-konto-id70.site
 0.0.0.0 www.inpost.pl-konto-id70.site
 0.0.0.0 inpost.pl-konto-id803.site
@@ -32754,6 +32769,7 @@
 0.0.0.0 inpost.pl-odbior-info-konto-info.site
 0.0.0.0 www.inpost.pl-odbior-info-konto-info.site
 0.0.0.0 www.pl-paidoffer.site
+0.0.0.0 www.inpost.pl-pass.site
 0.0.0.0 olx.pl-payforitcom.site
 0.0.0.0 www.olx.pl-payforitcom.site
 0.0.0.0 inpost.pl-produkt7.site
@@ -32798,6 +32814,7 @@
 0.0.0.0 www.pl-1q.poland-pro-one.site
 0.0.0.0 www.plsk.poland-pro-one.site
 0.0.0.0 www.polska-anketierowanie.site
+0.0.0.0 www.pomagam-pl.site
 0.0.0.0 www.pomokale.site
 0.0.0.0 www.lnpost-pl.powiadomienie.site
 0.0.0.0 www.pracevlacz.site
@@ -33925,6 +33942,7 @@
 0.0.0.0 tiodoodmebert.tk
 0.0.0.0 tlichreibrecelem.tk
 0.0.0.0 uninhypzatannigg.tk
+0.0.0.0 unquicor.tk
 0.0.0.0 urevapconraico.tk
 0.0.0.0 usagreencard.tk
 0.0.0.0 welcoming-carpets.tk
@@ -33935,6 +33953,7 @@
 0.0.0.0 www.apseresolego.tk
 0.0.0.0 www.bannerpro.tk
 0.0.0.0 www.barlatellmartempward.tk
+0.0.0.0 www.bexylda.tk
 0.0.0.0 www.biztbulnuofakul.tk
 0.0.0.0 www.boxiredarkreg.tk
 0.0.0.0 www.butadamesca.tk
@@ -33982,6 +34001,7 @@
 0.0.0.0 www.rendsodab.tk
 0.0.0.0 www.reysmoothsomwordkamp.tk
 0.0.0.0 www.siolegbuhonkasttos.tk
+0.0.0.0 www.sovenphopabi.tk
 0.0.0.0 www.spirforhoutetousubs.tk
 0.0.0.0 www.stiricigbreath.tk
 0.0.0.0 www.tacarilsudi.tk
@@ -33992,6 +34012,7 @@
 0.0.0.0 www.tiodoodmebert.tk
 0.0.0.0 www.tlichreibrecelem.tk
 0.0.0.0 www.uninhypzatannigg.tk
+0.0.0.0 www.unquicor.tk
 0.0.0.0 www.urevapconraico.tk
 0.0.0.0 www.vathatpecernsi.tk
 0.0.0.0 www.zenganggran.tk
@@ -34211,6 +34232,7 @@
 0.0.0.0 hurtbuty.top
 0.0.0.0 hwrymjyfhkhifk.top
 0.0.0.0 hxxkiisnjmppkk.top
+0.0.0.0 iardxdnc.top
 0.0.0.0 icloud-lockes.top
 0.0.0.0 idealnybuty.top
 0.0.0.0 iepipdqgwpbqd.top
@@ -34300,6 +34322,7 @@
 0.0.0.0 nowoffer.top
 0.0.0.0 nrietybac.top
 0.0.0.0 nstructhow.top
+0.0.0.0 ntdoaaoh.top
 0.0.0.0 ntracksno.top
 0.0.0.0 ntymurmud.top
 0.0.0.0 numdfs.top
@@ -34473,6 +34496,7 @@
 0.0.0.0 wtfdrop.top
 0.0.0.0 wtilhfyhcsmelk.top
 0.0.0.0 wvwwbybayufoop.top
+0.0.0.0 wvxqasbwj.top
 0.0.0.0 wylotbuty.top
 0.0.0.0 wyuvlwhhbehmvb.top
 0.0.0.0 xafcgsfxkhavry.top
@@ -35801,6 +35825,7 @@
 0.0.0.0 auberginises.xyz
 0.0.0.0 autoremerciez.xyz
 0.0.0.0 awkmzvii39ei4.xyz
+0.0.0.0 axntukohodlaoi.xyz
 0.0.0.0 baagikkol.xyz
 0.0.0.0 backup-recovery33.xyz
 0.0.0.0 bagatta.xyz
@@ -35939,6 +35964,7 @@
 0.0.0.0 fwlrdkhh.xyz
 0.0.0.0 game-tools.xyz
 0.0.0.0 gamercenter.xyz
+0.0.0.0 gaskaro.xyz
 0.0.0.0 gazeta-gdansk.xyz
 0.0.0.0 gazeta-szczecin.xyz
 0.0.0.0 gazetalubelska.xyz
@@ -36312,6 +36338,7 @@
 0.0.0.0 orlentienft.xyz
 0.0.0.0 osmovie.xyz
 0.0.0.0 osocar.xyz
+0.0.0.0 otrima.xyz
 0.0.0.0 oulipiste.xyz
 0.0.0.0 outstandlpopi.xyz
 0.0.0.0 owrpeyfdbg.xyz
@@ -36373,6 +36400,7 @@
 0.0.0.0 poznanie.xyz
 0.0.0.0 ppp369.xyz
 0.0.0.0 praesumes.xyz
+0.0.0.0 premine.xyz
 0.0.0.0 print-in.xyz
 0.0.0.0 prismaliquld.xyz
 0.0.0.0 probabday.xyz
@@ -36692,6 +36720,8 @@
 0.0.0.0 www.pl-alegrolokalnle.63294.xyz
 0.0.0.0 inpost-pay-pl.651534.xyz
 0.0.0.0 www.inpost-pay-pl.651534.xyz
+0.0.0.0 1npost.656577.xyz
+0.0.0.0 www.1npost.656577.xyz
 0.0.0.0 www.polska-dpd.65734.xyz
 0.0.0.0 www.1np0st.65945-dispatch.xyz
 0.0.0.0 www.65978-delivery.xyz
@@ -36714,6 +36744,7 @@
 0.0.0.0 www.olx-pl.784522.xyz
 0.0.0.0 www.polska-olx.815314.xyz
 0.0.0.0 www.pl-olx.834784.xyz
+0.0.0.0 www.inpost-pl.8403534.xyz
 0.0.0.0 inpost-pl.847541.xyz
 0.0.0.0 www.inpost-pl.847541.xyz
 0.0.0.0 www.84blog.xyz
@@ -36835,6 +36866,7 @@
 0.0.0.0 www.1npost.delivery-51265.xyz
 0.0.0.0 www.jnpost.deliveryfee.xyz
 0.0.0.0 www.lnpo-st.deliveryinfo-6598.xyz
+0.0.0.0 www.deliverylnfo.xyz
 0.0.0.0 inp0st.deliverypl.xyz
 0.0.0.0 www.inp0st.deliverypl.xyz
 0.0.0.0 1npost-lnfo.deliveryprocess.xyz
@@ -36898,6 +36930,7 @@
 0.0.0.0 orange.fr-felicitations.xyz
 0.0.0.0 orange.fr-votre-opinion.xyz
 0.0.0.0 orange.fr-votreopinion.xyz
+0.0.0.0 www.gaskaro.xyz
 0.0.0.0 paygate.gate-potwierdzenie.xyz
 0.0.0.0 www.paygate.gate-potwierdzenie.xyz
 0.0.0.0 www.gaz-flee.xyz
@@ -36931,6 +36964,9 @@
 0.0.0.0 www.id3439549515.xyz
 0.0.0.0 www.inpost-pl-3dsec.id4331.xyz
 0.0.0.0 www.inpost-pl-safe.id4331.xyz
+0.0.0.0 inpost-pl.id945860.xyz
+0.0.0.0 www.inpost-pl.id945860.xyz
+0.0.0.0 www.inpost-polska.id945860.xyz
 0.0.0.0 www.imcamilla.xyz
 0.0.0.0 www.allegrolokaine.importcash-id837592.xyz
 0.0.0.0 www.infbiztr.xyz
@@ -37352,6 +37388,7 @@
 0.0.0.0 www.orlenpromogfagim.xyz
 0.0.0.0 www.orlentienft.xyz
 0.0.0.0 www.osocar.xyz
+0.0.0.0 www.otrima.xyz
 0.0.0.0 www.inpostpl.oyt-irw581.xyz
 0.0.0.0 olx.p1-aukcja.xyz
 0.0.0.0 www.olx.p1-aukcja.xyz
@@ -38484,6 +38521,7 @@
 0.0.0.0 www.paygate.potwierdzenie-postpay.xyz
 0.0.0.0 www.poznanie.xyz
 0.0.0.0 www.predesignateshaversack.xyz
+0.0.0.0 www.premine.xyz
 0.0.0.0 www.prismaliquld.xyz
 0.0.0.0 www.pro-lifemax.xyz
 0.0.0.0 www.probabday.xyz
