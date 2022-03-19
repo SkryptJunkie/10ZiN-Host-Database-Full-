@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Friday 18 March 2022
+# Date: 06:03 AM Saturday 19 March 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -3648,6 +3648,7 @@
 0.0.0.0 0937jyg.com
 0.0.0.0 093qpeuqpmz6ebfa.com
 0.0.0.0 0a0qetx8et.com
+0.0.0.0 0c0s04.com
 0.0.0.0 0d20bff8143.com
 0.0.0.0 0daygameparadise.com
 0.0.0.0 0dc3c6535c5.com
@@ -3870,6 +3871,7 @@
 0.0.0.0 7f3ad7d6ad52.com
 0.0.0.0 7f6383e2d7.com
 0.0.0.0 7hlp.com
+0.0.0.0 7ogf.com
 0.0.0.0 7pud.com
 0.0.0.0 7softwaredreams.com
 0.0.0.0 7vws1j1j.com
@@ -4785,6 +4787,7 @@
 0.0.0.0 buywellnaija.com
 0.0.0.0 buzzcpm.com
 0.0.0.0 bvbi-infotech.com
+0.0.0.0 bvyekx.com
 0.0.0.0 bysang.com
 0.0.0.0 byzantiumfork.com
 0.0.0.0 bzupload.com
@@ -5445,6 +5448,7 @@
 0.0.0.0 d2-roulette.com
 0.0.0.0 d2crazy.com
 0.0.0.0 d2fe475c69.com
+0.0.0.0 d2g7i.com
 0.0.0.0 d2hit.com
 0.0.0.0 d2sweet.com
 0.0.0.0 d31ea41705818c9.com
@@ -5631,6 +5635,7 @@
 0.0.0.0 djelfanews.com
 0.0.0.0 djstools.com
 0.0.0.0 dkdmygipll.com
+0.0.0.0 dkgql3.com
 0.0.0.0 dkspqpprnsmmte.com
 0.0.0.0 dl-plugin.com
 0.0.0.0 dl3dsemulator.com
@@ -5784,6 +5789,7 @@
 0.0.0.0 e4f024c087.com
 0.0.0.0 e521d17fa185a2.com
 0.0.0.0 e6916adeb7e46a883.com
+0.0.0.0 e6x7o.com
 0.0.0.0 e76f4baacb.com
 0.0.0.0 e820a3345b7.com
 0.0.0.0 e8934fbbed0495.com
@@ -5887,6 +5893,7 @@
 0.0.0.0 embracepart.com
 0.0.0.0 emeraldfiles.com
 0.0.0.0 emergingupdates.com
+0.0.0.0 emi8c.com
 0.0.0.0 emily-morrow.com
 0.0.0.0 emiratesminning.com
 0.0.0.0 emlakbook.com
@@ -6034,6 +6041,7 @@
 0.0.0.0 ezuploaded.com
 0.0.0.0 f17a5ff6bf31.com
 0.0.0.0 f18a35cc33ee29a.com
+0.0.0.0 f22c4b.com
 0.0.0.0 f2phacks.com
 0.0.0.0 f338113ad0.com
 0.0.0.0 f35c5dba3b0b5b017.com
@@ -7277,6 +7285,7 @@
 0.0.0.0 ifyourloveistravel.com
 0.0.0.0 ig-free-follows.com
 0.0.0.0 iggamestop.com
+0.0.0.0 igh02.com
 0.0.0.0 igiheonline.com
 0.0.0.0 ignitiontigercamera.com
 0.0.0.0 ignoranttools.com
@@ -7518,6 +7527,7 @@
 0.0.0.0 jirafe.com
 0.0.0.0 jisengineer.com
 0.0.0.0 jjd33.com
+0.0.0.0 jjlktn.com
 0.0.0.0 jl29jd25sm24mc29.com
 0.0.0.0 jlylc393333.com
 0.0.0.0 jmb-photography.com
@@ -7540,6 +7550,7 @@
 0.0.0.0 journal-des-bourses.com
 0.0.0.0 joyceomondi.com
 0.0.0.0 joyfullysacrificeralph.com
+0.0.0.0 jpuxk.com
 0.0.0.0 jrcompanyhack.com
 0.0.0.0 jrlatimer.com
 0.0.0.0 jscoinminer.com
@@ -7638,6 +7649,7 @@
 0.0.0.0 knivestuitionconsequence.com
 0.0.0.0 knoozroom.com
 0.0.0.0 knotsgekkekaartendagen.com
+0.0.0.0 koev0.com
 0.0.0.0 koin-design.com
 0.0.0.0 kokilammatriminy.com
 0.0.0.0 kompresory-max.com
@@ -7672,6 +7684,7 @@
 0.0.0.0 l-iceberg.com
 0.0.0.0 l2wisd9g5d9u.com
 0.0.0.0 l5fvoqimjfug.com
+0.0.0.0 l7ka.com
 0.0.0.0 l8ea1nesmb0e.com
 0.0.0.0 la-furniture.com
 0.0.0.0 labartin6.com
@@ -7846,6 +7859,7 @@
 0.0.0.0 lpcloudsvr405.com
 0.0.0.0 lqeevjgkjjwi.com
 0.0.0.0 lsasswininfo.com
+0.0.0.0 lt0k.com
 0.0.0.0 ltdome.com
 0.0.0.0 lubedlegionpea.com
 0.0.0.0 lubricantentrance.com
@@ -8552,6 +8566,7 @@
 0.0.0.0 noy-95.com
 0.0.0.0 nozomstore.com
 0.0.0.0 npbstudios.com
+0.0.0.0 npt5.com
 0.0.0.0 nrelievedbrand.com
 0.0.0.0 nrrxxpvgtf.com
 0.0.0.0 nskoxgsb.com
@@ -9243,6 +9258,7 @@
 0.0.0.0 quntstamp.com
 0.0.0.0 quoram.com
 0.0.0.0 qwlltztcbwif.com
+0.0.0.0 r6i547.com
 0.0.0.0 r7mediar.com
 0.0.0.0 raahie.com
 0.0.0.0 radegamble.com
@@ -9473,6 +9489,7 @@
 0.0.0.0 s-b-d-s-in.com
 0.0.0.0 s2wx75gol2m8.com
 0.0.0.0 s4yxaqyq95.com
+0.0.0.0 s6ukyz.com
 0.0.0.0 saavetamedico.com
 0.0.0.0 sadiqtv.com
 0.0.0.0 sadlyfortunesgame.com
@@ -10712,6 +10729,7 @@
 0.0.0.0 vulkanvegas38.com
 0.0.0.0 vweva.com
 0.0.0.0 vznntmjdb.com
+0.0.0.0 w2ddk.com
 0.0.0.0 wackyloombands.com
 0.0.0.0 wadakir.com
 0.0.0.0 waffleswithnutella.com
@@ -11294,6 +11312,7 @@
 0.0.0.0 youtube-newscompilation.com
 0.0.0.0 youyoumw.com
 0.0.0.0 yowlcapkegs.com
+0.0.0.0 yqb6a.com
 0.0.0.0 ysassilaw.com
 0.0.0.0 yujiangchu.com
 0.0.0.0 yusufmall.com
@@ -28165,6 +28184,7 @@
 0.0.0.0 workbus.online
 0.0.0.0 wystarczypooszukkac.online
 0.0.0.0 xn--fjqz50cv5q3so.online
+0.0.0.0 xpressomusics.online
 0.0.0.0 xxden.online
 0.0.0.0 yagnosk.online
 0.0.0.0 yfivoqeh.online
@@ -34208,6 +34228,7 @@
 0.0.0.0 gledqadsdaw.top
 0.0.0.0 gmiuxfmrwi.top
 0.0.0.0 gprofessiv.top
+0.0.0.0 grbandhlitu.top
 0.0.0.0 gthhumili.top
 0.0.0.0 guccigang.top
 0.0.0.0 guemechan.top
