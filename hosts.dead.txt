@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:03 AM Sunday 20 March 2022
+# Date: 06:02 AM Monday 21 March 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -6378,6 +6378,7 @@
 0.0.0.0 freebesthack.com
 0.0.0.0 freebetadownload.com
 0.0.0.0 freebf4.com
+0.0.0.0 freebingpops.com
 0.0.0.0 freebitmoney.com
 0.0.0.0 freecallofdutyserver.com
 0.0.0.0 freecameraonus.com
@@ -12683,6 +12684,7 @@
 0.0.0.0 www.bioanalisisibague.com
 0.0.0.0 employee.biotexuspharma.com
 0.0.0.0 www.bit-capitals.com
+0.0.0.0 stats.bitban.com
 0.0.0.0 www.bitbay-net.com
 0.0.0.0 www.bitcoeraappl.com
 0.0.0.0 www.bitcoin-evolutionpro.com
