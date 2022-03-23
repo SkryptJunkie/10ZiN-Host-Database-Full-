@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Tuesday 22 March 2022
+# Date: 06:02 AM Wednesday 23 March 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -3809,6 +3809,7 @@
 0.0.0.0 55tupro.com
 0.0.0.0 563015cf3d.com
 0.0.0.0 56clicks.com
+0.0.0.0 5735fda733.com
 0.0.0.0 58f7c1ff30eb.com
 0.0.0.0 5a60bfdc522.com
 0.0.0.0 5c43cbc0f41.com
@@ -7675,6 +7676,7 @@
 0.0.0.0 ksi55.com
 0.0.0.0 ksjrehefupsrkz.com
 0.0.0.0 ktrackdata.com
+0.0.0.0 kttarmufti.com
 0.0.0.0 ktunions.com
 0.0.0.0 kuldeepyadavworld.com
 0.0.0.0 kungfumasterwang.com
@@ -34563,6 +34565,7 @@
 0.0.0.0 xafcgsfxkhavry.top
 0.0.0.0 xebivrctvq.top
 0.0.0.0 xjsuiyemaxsuu.top
+0.0.0.0 xmdborrjxmmt.top
 0.0.0.0 xqegfvlesmvc.top
 0.0.0.0 yakrhmkgl.top
 0.0.0.0 yiatelychur.top
