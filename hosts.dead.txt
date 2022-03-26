@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:52 AM Friday 25 March 2022
+# Date: 06:02 AM Saturday 26 March 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -6216,6 +6216,7 @@
 0.0.0.0 fc2b9b7ce3165.com
 0.0.0.0 fcfd5de4b3be3.com
 0.0.0.0 fdbtvavxtfvpbx.com
+0.0.0.0 fdf1aacd86.com
 0.0.0.0 fdistus.com
 0.0.0.0 fdownload52.com
 0.0.0.0 feaecebook.com
@@ -10614,6 +10615,7 @@
 0.0.0.0 underpantsadmiringcaress.com
 0.0.0.0 underpressurecomic.com
 0.0.0.0 underworldblushtuition.com
+0.0.0.0 unfaithfulmakeryeary.com
 0.0.0.0 unfitemergency.com
 0.0.0.0 ungripyourphone.com
 0.0.0.0 unhackableetherwallets.com
@@ -34640,6 +34642,7 @@
 0.0.0.0 vkqsivsajx.top
 0.0.0.0 vmjmpwdupi.top
 0.0.0.0 vpmseopnj.top
+0.0.0.0 vpvbojamkoxo.top
 0.0.0.0 vpyigbyjony.top
 0.0.0.0 vrptgslcxm.top
 0.0.0.0 vwkkkpjk.top
@@ -35243,6 +35246,7 @@
 0.0.0.0 4seasons.uz
 0.0.0.0 rozstroy.uz
 0.0.0.0 hello.hpstore.uz
+0.0.0.0 test.vast
 0.0.0.0 myetherwallet.com.vc
 0.0.0.0 zatu.vps.co.ve
 0.0.0.0 pkgo.com.ve
