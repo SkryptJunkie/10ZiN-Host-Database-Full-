@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:03 AM Tuesday 29 March 2022
+# Date: 06:11 AM Wednesday 30 March 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -2135,6 +2135,7 @@
 0.0.0.0 www.nustiosulonglimas.cf
 0.0.0.0 www.oggezlitoleeslea.cf
 0.0.0.0 www.pekethe.cf
+0.0.0.0 www.plicothtotocomti.cf
 0.0.0.0 www.rchelanrealrestmuwin.cf
 0.0.0.0 instagram.com.ukradene-slike.cf
 0.0.0.0 www.instagram.com.ukradene-slike.cf
@@ -3619,6 +3620,8 @@
 0.0.0.0 www.email-checkdomainmailbox29.endorsement4.repl.co
 0.0.0.0 www.mailserverhosting10.hostingserver.repl.co
 0.0.0.0 www.mailserverhosting7.hostingserver.repl.co
+0.0.0.0 www.discord.hypesquad-invite.repl.co
+0.0.0.0 www.discord.hypesquad-invite-forms.repl.co
 0.0.0.0 www.wellinformedmonumentalequipment.jkht.repl.co
 0.0.0.0 www.mailserverhosting11.mailservercheck.repl.co
 0.0.0.0 www.mailserverhosting12.mailservercheck.repl.co
@@ -3629,6 +3632,7 @@
 0.0.0.0 www.mailserverhosting3.servicechckmail.repl.co
 0.0.0.0 www.mailserverhosting4.servicechckmail.repl.co
 0.0.0.0 www.mailserverhosting5.servicechckmail.repl.co
+0.0.0.0 www.discord.teamhypesquad.repl.co
 0.0.0.0 www.checkmaildetail1.validatehbk.repl.co
 0.0.0.0 www.checkmaildetail2.validatehbk.repl.co
 0.0.0.0 www.checkmaildetail3.validatehbk.repl.co
@@ -20977,6 +20981,7 @@
 0.0.0.0 www.terscolatocoja.ga
 0.0.0.0 www.thertiakirssotre.ga
 0.0.0.0 www.tiomape.ga
+0.0.0.0 www.unterlisibatch.ga
 0.0.0.0 www.verchefulge.ga
 0.0.0.0 www.wobancrorebols.ga
 0.0.0.0 stats.leadership.garden
@@ -22582,6 +22587,12 @@
 0.0.0.0 www.heavenmonstrous.info
 0.0.0.0 www.heckcallohertons.info
 0.0.0.0 www.hymnodist.info
+0.0.0.0 inpostpl.id05608948965.info
+0.0.0.0 olx-pl.id05608948965.info
+0.0.0.0 vinted-pl.id05608948965.info
+0.0.0.0 www.inpostpl.id05608948965.info
+0.0.0.0 www.olx-pl.id05608948965.info
+0.0.0.0 www.vinted-pl.id05608948965.info
 0.0.0.0 www.imarketingsuita5.info
 0.0.0.0 www.inbreedingscallow.info
 0.0.0.0 www.inbreedingspulverizations.info
@@ -22926,6 +22937,7 @@
 0.0.0.0 www.rapemultimedia.info
 0.0.0.0 www.readauditor.info
 0.0.0.0 www.recomposition.info
+0.0.0.0 www.reflexs.info
 0.0.0.0 www.repartitionredbones.info
 0.0.0.0 www.rkinvestpl.info
 0.0.0.0 backoffice.roitracking.info
@@ -24195,6 +24207,7 @@
 0.0.0.0 www.fingermilkorgan7.live
 0.0.0.0 www.fingermilkorgan8.live
 0.0.0.0 www.finlay.live
+0.0.0.0 www.inpostpl.ft06984510485130.live
 0.0.0.0 www.garternal12.live
 0.0.0.0 www.garternal17.live
 0.0.0.0 www.garternal20.live
@@ -25119,6 +25132,7 @@
 0.0.0.0 www.melodic.ml
 0.0.0.0 www.nagergacyc.ml
 0.0.0.0 www.nobillbintga.ml
+0.0.0.0 www.pinshyni.ml
 0.0.0.0 allegro.pl-oferta.ml
 0.0.0.0 www.allegro.pl-oferta.ml
 0.0.0.0 fast.rentaroom.ml
@@ -25129,6 +25143,7 @@
 0.0.0.0 www.inpost-pl.system-pay2344.ml
 0.0.0.0 www.tgme.ml
 0.0.0.0 www.tioprimmacalldorhou.ml
+0.0.0.0 www.wintopdfromringmentde.ml
 0.0.0.0 www.trade.gov.mm
 0.0.0.0 ad-house.mobi
 0.0.0.0 alphagirlz.mobi
@@ -26704,6 +26719,7 @@
 0.0.0.0 www.fakt24-ukraina.azureedge.net
 0.0.0.0 www.fakty-online.azureedge.net
 0.0.0.0 www.fakty-swiat-24.azureedge.net
+0.0.0.0 www.fakty-wp-70912143553.azureedge.net
 0.0.0.0 www.fakty-wp-86874360518.azureedge.net
 0.0.0.0 www.fakty-wp-93064934991.azureedge.net
 0.0.0.0 www.guikhkps.azureedge.net
@@ -26741,6 +26757,7 @@
 0.0.0.0 www.newsy-onet-74457966795.azureedge.net
 0.0.0.0 www.newsy-onet-79807026429.azureedge.net
 0.0.0.0 www.newsy-polsat-60039400056.azureedge.net
+0.0.0.0 www.newsy-wazne-97870590135.azureedge.net
 0.0.0.0 www.newsy-wp-82730712497.azureedge.net
 0.0.0.0 www.nowiny-mazowieckie-64932482901.azureedge.net
 0.0.0.0 www.nowiny-miasto-37203460169.azureedge.net
@@ -26748,9 +26765,16 @@
 0.0.0.0 www.obrona24.azureedge.net
 0.0.0.0 www.okropneto.azureedge.net
 0.0.0.0 www.onet-polska.azureedge.net
+0.0.0.0 www.pomponik-polsat-55444564284.azureedge.net
+0.0.0.0 www.pomponik-polsat-82044640356.azureedge.net
 0.0.0.0 www.pomponik-tlen-42643802402.azureedge.net
 0.0.0.0 www.portal-interia-22062423913.azureedge.net
 0.0.0.0 www.portal-warszawa-93447926418.azureedge.net
+0.0.0.0 www.portal-wazne-12263482559.azureedge.net
+0.0.0.0 www.portal-wazne-27493299311.azureedge.net
+0.0.0.0 www.portal-wazne-38571000339.azureedge.net
+0.0.0.0 www.portal-wazne-55176816732.azureedge.net
+0.0.0.0 www.portal-wazne-74085372495.azureedge.net
 0.0.0.0 www.poszukiwani-ludzie-lublin-46980995160.azureedge.net
 0.0.0.0 www.poszukiwani-ludzie-lublin-47969875680.azureedge.net
 0.0.0.0 www.poszukiwani-ludzie-polsat-55600923817.azureedge.net
@@ -30939,6 +30963,8 @@
 0.0.0.0 www.471058.pw
 0.0.0.0 inpost-pl.743894.pw
 0.0.0.0 www.inpost-pl.743894.pw
+0.0.0.0 lnpost-polska-pay.834719.pw
+0.0.0.0 www.lnpost-polska-pay.834719.pw
 0.0.0.0 md9.9sjm.pw
 0.0.0.0 olx.pl.baypaycitacom.pw
 0.0.0.0 www.olx.pl.baypaycitacom.pw
@@ -31614,6 +31640,7 @@
 0.0.0.0 www.clearancesale2021.ru
 0.0.0.0 www.hr.clearancesale2021.ru
 0.0.0.0 cat.clx.ru
+0.0.0.0 www.steamcommynityj.com.ru
 0.0.0.0 www.wpad.com.ru
 0.0.0.0 www.commercialclientsgroup.ru
 0.0.0.0 qy.corrmedic.ru
@@ -32614,6 +32641,9 @@
 0.0.0.0 zrethol.site
 0.0.0.0 allegro.2checkout.site
 0.0.0.0 www.allegro.2checkout.site
+0.0.0.0 polska-lnpost.381945.site
+0.0.0.0 www.polska-lnpost.381945.site
+0.0.0.0 www.polska-pay-olx.381945.site
 0.0.0.0 www.aktuali.site
 0.0.0.0 www.apphubsystems.site
 0.0.0.0 www.apphubworld.site
@@ -32689,6 +32719,8 @@
 0.0.0.0 www.frantto.site
 0.0.0.0 www.freegirl.site
 0.0.0.0 www.gaming001.site
+0.0.0.0 gate2login-tvshow.gate2us.site
+0.0.0.0 www.gate2login-tvshow.gate2us.site
 0.0.0.0 www.gaynovosibirsk.site
 0.0.0.0 www.gd-l.site
 0.0.0.0 www.gdansk-l.site
@@ -33320,6 +33352,7 @@
 0.0.0.0 www.allegrolokalnie-pl.257951.space
 0.0.0.0 www.inpost-pl.257951.space
 0.0.0.0 www.inpost.28636.space
+0.0.0.0 www.polska-lnpost.294367.space
 0.0.0.0 www.inpost-pl.346667.space
 0.0.0.0 www.polska-inpost.436844.space
 0.0.0.0 inpost-pay-pl.451353.space
@@ -33363,6 +33396,8 @@
 0.0.0.0 www.olx-pl.743366.space
 0.0.0.0 www.74882.space
 0.0.0.0 www.dpd.756347.space
+0.0.0.0 olx-pl.767577.space
+0.0.0.0 www.olx-pl.767577.space
 0.0.0.0 www.poczta-polska-pl.77544.space
 0.0.0.0 www.pl-allegrolokalnie.776491.space
 0.0.0.0 inpost-pl.785335.space
@@ -33375,6 +33410,7 @@
 0.0.0.0 www.pl-inpost.832475.space
 0.0.0.0 pl-olx.832949.space
 0.0.0.0 www.pl-olx.832949.space
+0.0.0.0 www.lnpost-pl.847319.space
 0.0.0.0 www.855523.space
 0.0.0.0 olx.856436.space
 0.0.0.0 www.olx.856436.space
@@ -34150,6 +34186,7 @@
 0.0.0.0 www.nonames.tk
 0.0.0.0 www.orileluhmea.tk
 0.0.0.0 www.orinatlegershes.tk
+0.0.0.0 www.outevunab.tk
 0.0.0.0 www.peaselose.tk
 0.0.0.0 www.priztaiheatray.tk
 0.0.0.0 www.raitravag.tk
@@ -34161,6 +34198,8 @@
 0.0.0.0 www.sovenphopabi.tk
 0.0.0.0 www.spirforhoutetousubs.tk
 0.0.0.0 www.stiricigbreath.tk
+0.0.0.0 www.swanlaywell.tk
+0.0.0.0 www.sweetocjuicorta.tk
 0.0.0.0 www.tacarilsudi.tk
 0.0.0.0 www.taiconni.tk
 0.0.0.0 www.tauheartvebafme.tk
@@ -34428,6 +34467,7 @@
 0.0.0.0 lativenayl.top
 0.0.0.0 legedlunchar.top
 0.0.0.0 lgvxvudj.top
+0.0.0.0 lhmmhobckftdcfx.top
 0.0.0.0 lhxacerjwpbd.top
 0.0.0.0 licitventiethv.top
 0.0.0.0 lightdrop.top
@@ -36914,9 +36954,12 @@
 0.0.0.0 www.polska-olx.815314.xyz
 0.0.0.0 www.pl-olx.834784.xyz
 0.0.0.0 www.inpost-pl.8403534.xyz
+0.0.0.0 www.oix-delivery.84621.xyz
 0.0.0.0 inpost-pl.847541.xyz
 0.0.0.0 www.inpost-pl.847541.xyz
 0.0.0.0 www.84blog.xyz
+0.0.0.0 lnpost-polska.861634.xyz
+0.0.0.0 www.lnpost-polska.861634.xyz
 0.0.0.0 www.dpd-pl.876127.xyz
 0.0.0.0 www.olx-pl.876127.xyz
 0.0.0.0 www.inpost-pl.9473873-info-mycash.xyz
@@ -37034,6 +37077,8 @@
 0.0.0.0 meine.santander.de-id1nd81he1dbdv1vvadv1vag7d1vasvdd172dv7agseg1d1ds.xyz
 0.0.0.0 www.delenie.xyz
 0.0.0.0 www.1npost.delivery-51265.xyz
+0.0.0.0 ihpost.delivery-954.xyz
+0.0.0.0 www.ihpost.delivery-954.xyz
 0.0.0.0 www.jnpost.deliveryfee.xyz
 0.0.0.0 www.dpd.deliveryinfo-2365.xyz
 0.0.0.0 www.lnpo-st.deliveryinfo-6598.xyz
@@ -37150,6 +37195,8 @@
 0.0.0.0 www.infobore.xyz
 0.0.0.0 www.dpdp1.infodeliverypl.xyz
 0.0.0.0 www.dpdpl-info.informationabout-parcelpl.xyz
+0.0.0.0 vlnted.infosendinggoods.xyz
+0.0.0.0 www.vlnted.infosendinggoods.xyz
 0.0.0.0 www.1n-post.infoshipment.xyz
 0.0.0.0 asder.innovappl.xyz
 0.0.0.0 kasjucc.innovappl.xyz
