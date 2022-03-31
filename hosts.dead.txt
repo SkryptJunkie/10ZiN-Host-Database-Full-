@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:11 AM Wednesday 30 March 2022
+# Date: 06:03 AM Thursday 31 March 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -57,6 +57,7 @@
 0.0.0.0 kodyodbioru.app
 0.0.0.0 paczkomaty.app
 0.0.0.0 paczkonnat.app
+0.0.0.0 whatisuniby.app
 0.0.0.0 www.bitcoinpaypal.app
 0.0.0.0 www.bitqs.app
 0.0.0.0 www.dostawa-olx.app
