@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:03 AM Thursday 31 March 2022
+# Date: 06:03 AM Friday 01 April 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -324,6 +324,7 @@
 0.0.0.0 acm2.eim.ae.iwc.static.normoeagles.com.au
 0.0.0.0 www.acm2.eim.ae.iwc.static.normoeagles.com.au
 0.0.0.0 www.possumpete.com.au
+0.0.0.0 www.dev.procaregroup.com.au
 0.0.0.0 medrx.sensis.com.au
 0.0.0.0 2018.stkildafestival.com.au
 0.0.0.0 cp-30.theborough.com.au
@@ -15948,6 +15949,7 @@
 0.0.0.0 cdn.likeaced.com
 0.0.0.0 ads.lilengine.com
 0.0.0.0 www.limaloe.com
+0.0.0.0 www.limbosemillas.com
 0.0.0.0 init.lingospot.com
 0.0.0.0 banners1.linkbuddies.com
 0.0.0.0 fastcounter.linkexchange.com
@@ -17154,6 +17156,7 @@
 0.0.0.0 oascentral.post-gazette.com
 0.0.0.0 clicktracker.postmasterglobal.com
 0.0.0.0 oascentral.pottsmerc.com
+0.0.0.0 www.potymzox.com
 0.0.0.0 google.poultrymiddleeast.com
 0.0.0.0 ns2.power-present.com
 0.0.0.0 www.power-present.com
@@ -20976,6 +20979,7 @@
 0.0.0.0 www.ladtada.ga
 0.0.0.0 www.largetfarget.ga
 0.0.0.0 www.montobestsimiwun.ga
+0.0.0.0 www.ocanteibreath.ga
 0.0.0.0 www.phativetbuo.ga
 0.0.0.0 www.porlichtlesspickkona.ga
 0.0.0.0 www.prevhote.ga
@@ -21017,6 +21021,7 @@
 0.0.0.0 mlbfreestream.gq
 0.0.0.0 nategefpuzuscha.gq
 0.0.0.0 orhipdezimisan.gq
+0.0.0.0 ressfulsuanise.gq
 0.0.0.0 sportstrem.gq
 0.0.0.0 supanat.gq
 0.0.0.0 tradarsuhi.gq
@@ -21037,6 +21042,7 @@
 0.0.0.0 www.orhipdezimisan.gq
 0.0.0.0 inpost.pl-reg.gq
 0.0.0.0 www.inpost.pl-reg.gq
+0.0.0.0 www.ressfulsuanise.gq
 0.0.0.0 www.tradarsuhi.gq
 0.0.0.0 www.trebtedonrestci.gq
 0.0.0.0 www.tricinjohjua.gq
@@ -25105,6 +25111,7 @@
 0.0.0.0 nagergacyc.ml
 0.0.0.0 nobillbintga.ml
 0.0.0.0 rentaroom.ml
+0.0.0.0 ricepasersli.ml
 0.0.0.0 satipens.ml
 0.0.0.0 swivderfger.ml
 0.0.0.0 tgme.ml
@@ -25129,6 +25136,7 @@
 0.0.0.0 www.greenineb.ml
 0.0.0.0 www.ininnoetofe.ml
 0.0.0.0 www.kirkolin.ml
+0.0.0.0 www.laidibanhurarle.ml
 0.0.0.0 www.macninspas.ml
 0.0.0.0 www.melodic.ml
 0.0.0.0 www.nagergacyc.ml
@@ -25137,6 +25145,7 @@
 0.0.0.0 allegro.pl-oferta.ml
 0.0.0.0 www.allegro.pl-oferta.ml
 0.0.0.0 fast.rentaroom.ml
+0.0.0.0 www.ricepasersli.ml
 0.0.0.0 www.satipens.ml
 0.0.0.0 www.sinchotarepnito.ml
 0.0.0.0 www.swivderfger.ml
@@ -33371,6 +33380,7 @@
 0.0.0.0 www.olx-pl.581851.space
 0.0.0.0 www.58732.space
 0.0.0.0 www.inpost-pl.601133.space
+0.0.0.0 www.polska-dpd.610482.space
 0.0.0.0 inpost-pl.623737.space
 0.0.0.0 www.inpost-pl.623737.space
 0.0.0.0 inpost-pl.643512.space
@@ -34143,6 +34153,7 @@
 0.0.0.0 www.allegrolokalnie.tk
 0.0.0.0 myetherwallet.applytoken.tk
 0.0.0.0 www.apseresolego.tk
+0.0.0.0 www.atewap.tk
 0.0.0.0 www.bannerpro.tk
 0.0.0.0 www.barlatellmartempward.tk
 0.0.0.0 www.bexylda.tk
@@ -34189,6 +34200,7 @@
 0.0.0.0 www.orinatlegershes.tk
 0.0.0.0 www.outevunab.tk
 0.0.0.0 www.peaselose.tk
+0.0.0.0 www.persconsbesorcourt.tk
 0.0.0.0 www.priztaiheatray.tk
 0.0.0.0 www.raitravag.tk
 0.0.0.0 www.remori.tk
@@ -34198,6 +34210,7 @@
 0.0.0.0 www.siolegbuhonkasttos.tk
 0.0.0.0 www.sovenphopabi.tk
 0.0.0.0 www.spirforhoutetousubs.tk
+0.0.0.0 www.stighorssaliptecht.tk
 0.0.0.0 www.stiricigbreath.tk
 0.0.0.0 www.swanlaywell.tk
 0.0.0.0 www.sweetocjuicorta.tk
@@ -35137,6 +35150,7 @@
 0.0.0.0 jabasnko.uno
 0.0.0.0 kolagank.uno
 0.0.0.0 lansart.uno
+0.0.0.0 merbhon.uno
 0.0.0.0 sonaril.uno
 0.0.0.0 waaskorson.uno
 0.0.0.0 wansoter.uno
@@ -35147,6 +35161,7 @@
 0.0.0.0 www.jabasnko.uno
 0.0.0.0 www.kolagank.uno
 0.0.0.0 www.lansart.uno
+0.0.0.0 www.merbhon.uno
 0.0.0.0 www.keitaro.slab.uno
 0.0.0.0 www.sonaril.uno
 0.0.0.0 www.waaskorson.uno
@@ -36095,6 +36110,7 @@
 0.0.0.0 demido.xyz
 0.0.0.0 demovie.xyz
 0.0.0.0 denverktrade.xyz
+0.0.0.0 departureinformation.xyz
 0.0.0.0 deplaisamment.xyz
 0.0.0.0 deresta.xyz
 0.0.0.0 derpost.xyz
@@ -36748,6 +36764,7 @@
 0.0.0.0 technewsforever.xyz
 0.0.0.0 tefumiji.xyz
 0.0.0.0 tegkshovrtwuyg.xyz
+0.0.0.0 tenmaslo.xyz
 0.0.0.0 terephtalate.xyz
 0.0.0.0 termin-odbloru.xyz
 0.0.0.0 ternoluq.xyz
@@ -36929,6 +36946,7 @@
 0.0.0.0 www.pl-alegrolokalnle.63294.xyz
 0.0.0.0 inpost-pay-pl.651534.xyz
 0.0.0.0 www.inpost-pay-pl.651534.xyz
+0.0.0.0 www.1npost.65322.xyz
 0.0.0.0 1npost.656577.xyz
 0.0.0.0 www.1npost.656577.xyz
 0.0.0.0 www.polska-dpd.65734.xyz
@@ -36939,6 +36957,7 @@
 0.0.0.0 www.pl-pay-olx.676355.xyz
 0.0.0.0 www.1np-ost.699854.xyz
 0.0.0.0 www.polska-dpd.712532.xyz
+0.0.0.0 www.inp0st.71256.xyz
 0.0.0.0 www.inpost-pl.713412.xyz
 0.0.0.0 polska-pay-inpost.725243.xyz
 0.0.0.0 www.polska-pay-inpost.725243.xyz
@@ -36969,6 +36988,7 @@
 0.0.0.0 polska-inpost.986956.xyz
 0.0.0.0 www.inpost-polska.986956.xyz
 0.0.0.0 www.polska-inpost.986956.xyz
+0.0.0.0 www.adaptaiondf3.xyz
 0.0.0.0 d3.adsplay.xyz
 0.0.0.0 d6.adsplay.xyz
 0.0.0.0 log3.adsplay.xyz
@@ -37083,6 +37103,8 @@
 0.0.0.0 www.jnpost.deliveryfee.xyz
 0.0.0.0 www.dpd.deliveryinfo-2365.xyz
 0.0.0.0 www.lnpo-st.deliveryinfo-6598.xyz
+0.0.0.0 inp0st.deliveryinfo-74124.xyz
+0.0.0.0 www.inp0st.deliveryinfo-74124.xyz
 0.0.0.0 www.1npos-t.deliveryinfo-9865.xyz
 0.0.0.0 www.deliverylnfo.xyz
 0.0.0.0 inp0st.deliverypl.xyz
@@ -37093,6 +37115,7 @@
 0.0.0.0 www.dpd.deliveryuser-ptr.xyz
 0.0.0.0 www.demesundefined.xyz
 0.0.0.0 www.denverktrade.xyz
+0.0.0.0 www.departureinformation.xyz
 0.0.0.0 www.ln-p-ost.departurenum586.xyz
 0.0.0.0 www.deresta.xyz
 0.0.0.0 www.derpost.xyz
@@ -37106,6 +37129,7 @@
 0.0.0.0 www.doplac-teraz.xyz
 0.0.0.0 www.doplac-teraz24.xyz
 0.0.0.0 www.doslaska.xyz
+0.0.0.0 www.inpostpl.dost59491294.xyz
 0.0.0.0 dpd-pl.dosta-n12.xyz
 0.0.0.0 www.dpd-pl.dosta-n12.xyz
 0.0.0.0 dpdpl.dostawa-obdior-9874536.xyz
@@ -38907,6 +38931,7 @@
 0.0.0.0 www.teacus.xyz
 0.0.0.0 cotycspl.tehprogpl1.xyz
 0.0.0.0 www.cotycspl.tehprogpl1.xyz
+0.0.0.0 www.tenmaslo.xyz
 0.0.0.0 www.termin-odbloru.xyz
 0.0.0.0 www.ternoluq.xyz
 0.0.0.0 www.thankupgpl.xyz
