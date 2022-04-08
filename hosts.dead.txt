@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Thursday 07 April 2022
+# Date: 06:02 AM Friday 08 April 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -12347,6 +12347,7 @@
 0.0.0.0 www.appafile.com
 0.0.0.0 www.apparel-offer.com
 0.0.0.0 www.apparelncs.com
+0.0.0.0 inapps.appflyer.com
 0.0.0.0 ww2.appgate.com
 0.0.0.0 www.iadsdk.apple.com
 0.0.0.0 banners.itunes.apple.com
@@ -34636,6 +34637,7 @@
 0.0.0.0 ntymurmud.top
 0.0.0.0 numdfs.top
 0.0.0.0 nvergetpatr.top
+0.0.0.0 odyypucrlwap.top
 0.0.0.0 ofelite.top
 0.0.0.0 ofertabuty.top
 0.0.0.0 ogeyrtwfkfv.top
