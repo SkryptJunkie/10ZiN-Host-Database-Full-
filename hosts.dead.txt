@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Friday 08 April 2022
+# Date: 06:02 AM Saturday 09 April 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -34602,6 +34602,7 @@
 0.0.0.0 mjsjmyend.top
 0.0.0.0 monakind.top
 0.0.0.0 mowjykvyjxyuqv.top
+0.0.0.0 mtnjdxrjamv.top
 0.0.0.0 municalwarn.top
 0.0.0.0 mxlxyffsqjp.top
 0.0.0.0 mydiatec.top
