@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Sunday 10 April 2022
+# Date: 06:02 AM Monday 11 April 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -20800,6 +20800,7 @@
 0.0.0.0 aeviqgkiwre.fun
 0.0.0.0 amorphysp.fun
 0.0.0.0 ancheonyo.fun
+0.0.0.0 ankexper.fun
 0.0.0.0 annelinterv.fun
 0.0.0.0 aogvfoiqoiwue.fun
 0.0.0.0 articismstre.fun
