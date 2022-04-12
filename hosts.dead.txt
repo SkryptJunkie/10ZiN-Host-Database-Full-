@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Monday 11 April 2022
+# Date: 06:02 AM Tuesday 12 April 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -35730,6 +35730,7 @@
 0.0.0.0 gotowedlakazdego.website
 0.0.0.0 hdvideoizleresmi2356.website
 0.0.0.0 hdvideoizleresmi6395456.website
+0.0.0.0 imieifiles.website
 0.0.0.0 iphonewin.website
 0.0.0.0 itselforlen.website
 0.0.0.0 jezelichodzziioto.website
@@ -36201,6 +36202,7 @@
 0.0.0.0 bloggrid.xyz
 0.0.0.0 blogouillates.xyz
 0.0.0.0 blornafulfwag.xyz
+0.0.0.0 bnsqmrqgaguxah.xyz
 0.0.0.0 bookpost.xyz
 0.0.0.0 boxworktoardazana.xyz
 0.0.0.0 bpesbkipynaf.xyz
