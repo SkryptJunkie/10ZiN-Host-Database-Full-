@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Tuesday 12 April 2022
+# Date: 06:02 AM Wednesday 13 April 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -24718,6 +24718,7 @@
 0.0.0.0 myetherwallet.com.ailogin.me
 0.0.0.0 apple.com-store.me
 0.0.0.0 stats.dirtify.me
+0.0.0.0 stats.dreamsub.me
 0.0.0.0 deepknow.egoid.me
 0.0.0.0 b2b.filecloud.me
 0.0.0.0 tracking.fits.me
@@ -36975,6 +36976,7 @@
 0.0.0.0 verifyu.xyz
 0.0.0.0 versales.xyz
 0.0.0.0 versonsor.xyz
+0.0.0.0 vetvljbx.xyz
 0.0.0.0 vfvmdvlygmeung.xyz
 0.0.0.0 vidmova.xyz
 0.0.0.0 vikmot.xyz
@@ -37031,6 +37033,7 @@
 0.0.0.0 xkuoleawntycfoq.xyz
 0.0.0.0 xleetaz.xyz
 0.0.0.0 xn--u9j258kr4ag4t6x2bdktgnf.xyz
+0.0.0.0 xrocfoqa.xyz
 0.0.0.0 xuilbravftt.xyz
 0.0.0.0 xygediwe.xyz
 0.0.0.0 y2020ad.xyz
