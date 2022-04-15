@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:11 AM Thursday 14 April 2022
+# Date: 06:02 AM Friday 15 April 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -5614,6 +5614,7 @@
 0.0.0.0 db03f3c62eb.com
 0.0.0.0 db327eccdd.com
 0.0.0.0 dc63bfb069ea522f.com
+0.0.0.0 dcaingenieria.com
 0.0.0.0 dcc4146d27.com
 0.0.0.0 dcdilhaybpzkvj.com
 0.0.0.0 ddtankhacks.com
@@ -22374,6 +22375,7 @@
 0.0.0.0 serial-keys.info
 0.0.0.0 severalpros.info
 0.0.0.0 shdfsdf.info
+0.0.0.0 shootterightshot.info
 0.0.0.0 signx.info
 0.0.0.0 silkenthreadiness.info
 0.0.0.0 silvalliant.info
@@ -34872,6 +34874,7 @@
 0.0.0.0 terialexperi.top
 0.0.0.0 tescellowin.top
 0.0.0.0 tfatalonepres.top
+0.0.0.0 tguvifgrx.top
 0.0.0.0 tificanaccou.top
 0.0.0.0 tistianmaga.top
 0.0.0.0 tkgcldjmegxn.top
