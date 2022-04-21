@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Wednesday 20 April 2022
+# Date: 06:02 AM Thursday 21 April 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -3518,6 +3518,7 @@
 0.0.0.0 gta-5.co
 0.0.0.0 hentaipoint.co
 0.0.0.0 herotoken.co
+0.0.0.0 hollercatastrophe.co
 0.0.0.0 jppost-gi.co
 0.0.0.0 justinventive.co
 0.0.0.0 keeshu.co
@@ -37146,6 +37147,7 @@
 0.0.0.0 watchusgetoff.xyz
 0.0.0.0 wawjguuy.xyz
 0.0.0.0 waytravel.xyz
+0.0.0.0 wbojylelwcnnkkc.xyz
 0.0.0.0 welcomepozhta.xyz
 0.0.0.0 welcomethreshold.xyz
 0.0.0.0 weroz.xyz
