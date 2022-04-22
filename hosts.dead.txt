@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Thursday 21 April 2022
+# Date: 06:03 AM Friday 22 April 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -26808,6 +26808,9 @@
 0.0.0.0 informator-polsat-75413753516.azureedge.net
 0.0.0.0 news-24h-81893053079.azureedge.net
 0.0.0.0 news-op-56674768679.azureedge.net
+0.0.0.0 nowiny-interia-24091495709.azureedge.net
+0.0.0.0 nowiny-interia-28926602408.azureedge.net
+0.0.0.0 nowiny-interia-58971635003.azureedge.net
 0.0.0.0 o2mhri82.azureedge.net
 0.0.0.0 portal-onet-27414106864.azureedge.net
 0.0.0.0 portal-onet-91501050381.azureedge.net
@@ -26845,11 +26848,18 @@
 0.0.0.0 www.informacje-polsat-73936775591.azureedge.net
 0.0.0.0 www.informacje-swietokrzyskie-54838926355.azureedge.net
 0.0.0.0 www.informacje-swietokrzyskie-68811099862.azureedge.net
+0.0.0.0 www.informator-24-16964809509.azureedge.net
+0.0.0.0 www.informator-24-23355136551.azureedge.net
+0.0.0.0 www.informator-24-83035662259.azureedge.net
+0.0.0.0 www.informator-24-96054165986.azureedge.net
 0.0.0.0 www.informator-interia-22609129815.azureedge.net
 0.0.0.0 www.informator-interia-35555795107.azureedge.net
 0.0.0.0 www.informator-interia-40201195369.azureedge.net
 0.0.0.0 www.informator-interia-60150661087.azureedge.net
 0.0.0.0 www.informator-onet-91941033371.azureedge.net
+0.0.0.0 www.informator-op-33224733950.azureedge.net
+0.0.0.0 www.informator-op-76758243689.azureedge.net
+0.0.0.0 www.informator-op-94048342033.azureedge.net
 0.0.0.0 www.informator-polsat-32026487069.azureedge.net
 0.0.0.0 www.informator-polsat-75413753516.azureedge.net
 0.0.0.0 www.informator-wazne-51251452951.azureedge.net
@@ -26897,14 +26907,18 @@
 0.0.0.0 www.newsy-wazne-40241258644.azureedge.net
 0.0.0.0 www.newsy-wazne-51507877636.azureedge.net
 0.0.0.0 www.newsy-wazne-97870590135.azureedge.net
+0.0.0.0 www.newsy-wp-17311483127.azureedge.net
 0.0.0.0 www.newsy-wp-19921038351.azureedge.net
 0.0.0.0 www.newsy-wp-24298928561.azureedge.net
 0.0.0.0 www.newsy-wp-40383225738.azureedge.net
 0.0.0.0 www.newsy-wp-82730712497.azureedge.net
 0.0.0.0 www.newsy-wp-92205199237.azureedge.net
+0.0.0.0 www.nowiny-interia-24091495709.azureedge.net
+0.0.0.0 www.nowiny-interia-28926602408.azureedge.net
 0.0.0.0 www.nowiny-interia-31609249987.azureedge.net
 0.0.0.0 www.nowiny-interia-32240984739.azureedge.net
 0.0.0.0 www.nowiny-interia-43993879449.azureedge.net
+0.0.0.0 www.nowiny-interia-58971635003.azureedge.net
 0.0.0.0 www.nowiny-interia-76956869700.azureedge.net
 0.0.0.0 www.nowiny-interia-77978615252.azureedge.net
 0.0.0.0 www.nowiny-interia-79620050918.azureedge.net
@@ -26939,6 +26953,9 @@
 0.0.0.0 www.pudelek-24-34891829480.azureedge.net
 0.0.0.0 www.pudelek-24-71044131031.azureedge.net
 0.0.0.0 www.pudelek-mazowieckie-17022316327.azureedge.net
+0.0.0.0 www.pudelek-onet-59022208346.azureedge.net
+0.0.0.0 www.pudelek-onet-71862775213.azureedge.net
+0.0.0.0 www.pudelek-onet-82162019583.azureedge.net
 0.0.0.0 www.pudelek-wazne-38369954037.azureedge.net
 0.0.0.0 www.pudelek-wazne-54939243710.azureedge.net
 0.0.0.0 www.pudelek-wazne-76900776852.azureedge.net
@@ -26985,6 +27002,7 @@
 0.0.0.0 www.tusiedzieje-onet-76193281692.azureedge.net
 0.0.0.0 www.tusiedzieje-op-38211983221.azureedge.net
 0.0.0.0 www.tusiedzieje-op-51926383416.azureedge.net
+0.0.0.0 www.tvn24.azureedge.net
 0.0.0.0 www.ukraina-24.azureedge.net
 0.0.0.0 www.ukraina-news.azureedge.net
 0.0.0.0 www.uwaga.azureedge.net
@@ -29482,6 +29500,8 @@
 0.0.0.0 agenciq.pl
 0.0.0.0 agencja-aspro.pl
 0.0.0.0 agmar-zdg.pl
+0.0.0.0 akcja-drogowa24.pl
+0.0.0.0 akcje-drogowe24.pl
 0.0.0.0 akwadrago.pl
 0.0.0.0 alanjula.pl
 0.0.0.0 alclean.pl
@@ -29532,6 +29552,7 @@
 0.0.0.0 dodajogloszenia.pl
 0.0.0.0 domekpoddebami.pl
 0.0.0.0 dorszfishandchips.pl
+0.0.0.0 drogowa24akcja.pl
 0.0.0.0 dziadekdogramofonu.pl
 0.0.0.0 e-dpd.pl
 0.0.0.0 e-fakty-swiat24h.pl
@@ -29663,6 +29684,7 @@
 0.0.0.0 mysterekmc.pl
 0.0.0.0 na-wizji.pl
 0.0.0.0 nabardzkiej.pl
+0.0.0.0 nagrania-wideo.pl
 0.0.0.0 nagranie-zakopianka.pl
 0.0.0.0 najwazniejszeinfo24.pl
 0.0.0.0 naszeinformacje18.pl
@@ -29728,6 +29750,7 @@
 0.0.0.0 protesttaxi.pl
 0.0.0.0 prowizja24.pl
 0.0.0.0 pupolskama.pl
+0.0.0.0 rejetrstor-wypadki.pl
 0.0.0.0 reka-nadzieji.pl
 0.0.0.0 remontax.pl
 0.0.0.0 resov.pl
@@ -29913,6 +29936,8 @@
 0.0.0.0 www.agencja-aspro.pl
 0.0.0.0 www.agmar-zdg.pl
 0.0.0.0 www.ajeks.pl
+0.0.0.0 www.akcja-drogowa24.pl
+0.0.0.0 www.akcje-drogowe24.pl
 0.0.0.0 www.akwadrago.pl
 0.0.0.0 www.alanjula.pl
 0.0.0.0 www.alclean.pl
@@ -30185,6 +30210,7 @@
 0.0.0.0 www.domekpoddebami.pl
 0.0.0.0 www.dorszfishandchips.pl
 0.0.0.0 www.drablutnik.pl
+0.0.0.0 www.drogowa24akcja.pl
 0.0.0.0 www.dziadekdogramofonu.pl
 0.0.0.0 dotpay.e-dpd.pl
 0.0.0.0 www.e-dpd.pl
@@ -30396,6 +30422,7 @@
 0.0.0.0 www.na-wizji.pl
 0.0.0.0 www.nabardzkiej.pl
 0.0.0.0 www.nadzorbudowa.pl
+0.0.0.0 www.nagrania-wideo.pl
 0.0.0.0 www.nagranie-zakopianka.pl
 0.0.0.0 openx.nagrzyby.pl
 0.0.0.0 www.najwazniejszeinfo24.pl
@@ -30527,6 +30554,7 @@
 0.0.0.0 www.xauecrc4fkp.rdl.pl
 0.0.0.0 www.ydiso3um4ao3ifj.rdl.pl
 0.0.0.0 www.redirecting.pl
+0.0.0.0 www.rejetrstor-wypadki.pl
 0.0.0.0 www.reka-nadzieji.pl
 0.0.0.0 www.remontax.pl
 0.0.0.0 www.resov.pl
@@ -32627,6 +32655,12 @@
 0.0.0.0 olx.pl.secure-service.shop
 0.0.0.0 www.inpost.pl.secure-service.shop
 0.0.0.0 www.olx.pl.secure-service.shop
+0.0.0.0 inpostpl.zamow486934.shop
+0.0.0.0 olx-pl.zamow486934.shop
+0.0.0.0 vinted-pl.zamow486934.shop
+0.0.0.0 www.inpostpl.zamow486934.shop
+0.0.0.0 www.olx-pl.zamow486934.shop
+0.0.0.0 www.vinted-pl.zamow486934.shop
 0.0.0.0 curve.si
 0.0.0.0 ok.internetmedia.si
 0.0.0.0 zdravje.mopas.si
@@ -33590,6 +33624,7 @@
 0.0.0.0 www.polska-lnpost.347843.space
 0.0.0.0 polska-lnpost.355754.space
 0.0.0.0 www.polska-lnpost.355754.space
+0.0.0.0 www.polska-alegrolokalnle.435355.space
 0.0.0.0 www.polska-inpost.436844.space
 0.0.0.0 inpost-pay-pl.451353.space
 0.0.0.0 www.inpost-pay-pl.451353.space
@@ -33600,6 +33635,7 @@
 0.0.0.0 www.548739.space
 0.0.0.0 olx-pl.549084.space
 0.0.0.0 www.olx-pl.549084.space
+0.0.0.0 www.pay-polska-lnpost.563485.space
 0.0.0.0 inpost-pl.566868.space
 0.0.0.0 www.inpost-pl.566868.space
 0.0.0.0 www.pl-allegrolokalnie.577371.space
@@ -35086,6 +35122,7 @@
 0.0.0.0 www.tanibuty.top
 0.0.0.0 www.tappark.top
 0.0.0.0 www.tnfclothed.top
+0.0.0.0 www.vinted-pl.wniosek07631702.top
 0.0.0.0 www.wylotbuty.top
 0.0.0.0 security-alert.zs2vm.top
 0.0.0.0 cititunes.tours
@@ -37062,6 +37099,7 @@
 0.0.0.0 technewsforever.xyz
 0.0.0.0 tefumiji.xyz
 0.0.0.0 tegkshovrtwuyg.xyz
+0.0.0.0 tempow.xyz
 0.0.0.0 tenmaslo.xyz
 0.0.0.0 terephtalate.xyz
 0.0.0.0 termin-odbloru.xyz
@@ -37411,6 +37449,9 @@
 0.0.0.0 www.1npost.delivery-51265.xyz
 0.0.0.0 ihpost.delivery-954.xyz
 0.0.0.0 www.ihpost.delivery-954.xyz
+0.0.0.0 inpost.delivery24549.xyz
+0.0.0.0 www.inpost.delivery24549.xyz
+0.0.0.0 www.dpd.delivery74154.xyz
 0.0.0.0 www.jnpost.deliveryfee.xyz
 0.0.0.0 www.dpd.deliveryinfo-2365.xyz
 0.0.0.0 www.lnpo-st.deliveryinfo-6598.xyz
@@ -37477,6 +37518,7 @@
 0.0.0.0 www.anime.flix-share.xyz
 0.0.0.0 registr.fonvox.xyz
 0.0.0.0 www.registr.fonvox.xyz
+0.0.0.0 www.lnpos-t.form-informdelivery.xyz
 0.0.0.0 www.1npost.formationdelivery.xyz
 0.0.0.0 www.inpost.formullarz.xyz
 0.0.0.0 www.forumpoznan.xyz
@@ -37539,6 +37581,7 @@
 0.0.0.0 www.inpost-pl.info-trackcode-id565732.xyz
 0.0.0.0 www.inpost-pl.info-trackcode-id789543.xyz
 0.0.0.0 www.infobore.xyz
+0.0.0.0 www.inp0st.infodeliveryform.xyz
 0.0.0.0 www.dpdp1.infodeliverypl.xyz
 0.0.0.0 www.dpd.infopaydelivery.xyz
 0.0.0.0 www.dpdpl-info.informationabout-parcelpl.xyz
@@ -39108,6 +39151,7 @@
 0.0.0.0 www.productdelivery.xyz
 0.0.0.0 www.1npos-t.productdeliverypage.xyz
 0.0.0.0 www.i-npost.productdispatch-pl.xyz
+0.0.0.0 www.productsendinguser.xyz
 0.0.0.0 www.olx.productsendpage.xyz
 0.0.0.0 www.profclubix.xyz
 0.0.0.0 com.prog-capital11.xyz
@@ -39237,6 +39281,7 @@
 0.0.0.0 www.allegrolokane.sendingreq.xyz
 0.0.0.0 www.lnpostpl.sendinguserinform.xyz
 0.0.0.0 www.sersher.xyz
+0.0.0.0 www.jnpos-t.shipmentcargo-2451.xyz
 0.0.0.0 www.lnp0s-t.shipmentgoods-956.xyz
 0.0.0.0 www.v1nted.shipmentgoodsdata.xyz
 0.0.0.0 allegr0lokalnie.shippguarantee.xyz
@@ -39268,6 +39313,7 @@
 0.0.0.0 www.teacus.xyz
 0.0.0.0 cotycspl.tehprogpl1.xyz
 0.0.0.0 www.cotycspl.tehprogpl1.xyz
+0.0.0.0 www.tempow.xyz
 0.0.0.0 www.tenmaslo.xyz
 0.0.0.0 www.termin-odbloru.xyz
 0.0.0.0 www.ternoluq.xyz
