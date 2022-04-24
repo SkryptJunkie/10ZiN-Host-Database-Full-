@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Saturday 23 April 2022
+# Date: 06:02 AM Sunday 24 April 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -5162,6 +5162,7 @@
 0.0.0.0 cloud-adobe.com
 0.0.0.0 cloud9cottage.com
 0.0.0.0 cloudixconnection.com
+0.0.0.0 cloudnenewsfeed.com
 0.0.0.0 cloudnetdesigners.com
 0.0.0.0 clouds-doanload-cnd.com
 0.0.0.0 clouds-share.com
