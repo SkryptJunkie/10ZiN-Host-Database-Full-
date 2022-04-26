@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Monday 25 April 2022
+# Date: 06:07 AM Tuesday 26 April 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -2128,6 +2128,7 @@
 0.0.0.0 neverending-story.cf
 0.0.0.0 pekethe.cf
 0.0.0.0 rweathrahengamb.cf
+0.0.0.0 www.asrepotlyjeepste.cf
 0.0.0.0 www.atovwhacba.cf
 0.0.0.0 www.bionighkamarrocon.cf
 0.0.0.0 www.cobustchadeababer.cf
@@ -20273,6 +20274,7 @@
 0.0.0.0 c.spiegel.de
 0.0.0.0 count.spiegel.de
 0.0.0.0 adbl.spieletipps.de
+0.0.0.0 as.sportbild.de
 0.0.0.0 www.stammtisch-design.de
 0.0.0.0 tracking.statravel.de
 0.0.0.0 www2.stats4free.de
@@ -21044,6 +21046,7 @@
 0.0.0.0 pirater.gdn
 0.0.0.0 jnpzz.1445tzvxq.firc.gdn
 0.0.0.0 geotextile.ge
+0.0.0.0 secretbeauty.ge
 0.0.0.0 makeonline.agfm.ge
 0.0.0.0 panel.com.ge
 0.0.0.0 www.geotextile.ge
@@ -21085,6 +21088,7 @@
 0.0.0.0 www.biomecarbonsnewsbench.gq
 0.0.0.0 www.bizroethropunes.gq
 0.0.0.0 www.bonagynesshusq.gq
+0.0.0.0 www.enanin.gq
 0.0.0.0 www.eralranconfderpa.gq
 0.0.0.0 www.konchodeg.gq
 0.0.0.0 www.kudisrusttradzag.gq
@@ -21103,6 +21107,7 @@
 0.0.0.0 www.trebtedonrestci.gq
 0.0.0.0 www.tricinjohjua.gq
 0.0.0.0 www.unbrigvisenria.gq
+0.0.0.0 www.unfeinoterpa.gq
 0.0.0.0 www.whitheacont.gq
 0.0.0.0 hairstylingjo.gr
 0.0.0.0 ifitness.gr
@@ -26801,20 +26806,38 @@
 0.0.0.0 fakt-24h-50812970184.azureedge.net
 0.0.0.0 guikhkps.azureedge.net
 0.0.0.0 informacje-swietokrzyskie-54838926355.azureedge.net
+0.0.0.0 informacje-wp-48878693117.azureedge.net
+0.0.0.0 informacje-wp-76582630299.azureedge.net
+0.0.0.0 informacje-wp-95167882133.azureedge.net
 0.0.0.0 informator-interia-22609129815.azureedge.net
 0.0.0.0 informator-interia-35555795107.azureedge.net
 0.0.0.0 informator-interia-40201195369.azureedge.net
 0.0.0.0 informator-interia-60150661087.azureedge.net
+0.0.0.0 informator-onet-86675590611.azureedge.net
 0.0.0.0 informator-polsat-32026487069.azureedge.net
 0.0.0.0 informator-polsat-75413753516.azureedge.net
+0.0.0.0 news-24h-16300603287.azureedge.net
+0.0.0.0 news-24h-33206621871.azureedge.net
 0.0.0.0 news-24h-81893053079.azureedge.net
+0.0.0.0 news-interia-58122192225.azureedge.net
 0.0.0.0 news-op-56674768679.azureedge.net
+0.0.0.0 news-polsat-29036200707.azureedge.net
+0.0.0.0 news-tlen-45098493249.azureedge.net
+0.0.0.0 news-tlen-48076771094.azureedge.net
+0.0.0.0 newsiki-o2-40580478765.azureedge.net
+0.0.0.0 newsiki-o2-98909342143.azureedge.net
+0.0.0.0 newsy-op-54941572371.azureedge.net
+0.0.0.0 newsy-op-68479111957.azureedge.net
 0.0.0.0 nowiny-interia-24091495709.azureedge.net
 0.0.0.0 nowiny-interia-28926602408.azureedge.net
 0.0.0.0 nowiny-interia-58971635003.azureedge.net
+0.0.0.0 nowiny-onet-83610013908.azureedge.net
+0.0.0.0 nowiny-onet-91097064024.azureedge.net
 0.0.0.0 o2mhri82.azureedge.net
 0.0.0.0 portal-onet-27414106864.azureedge.net
 0.0.0.0 portal-onet-91501050381.azureedge.net
+0.0.0.0 se-interia-96992419580.azureedge.net
+0.0.0.0 serwis-o2-88122327905.azureedge.net
 0.0.0.0 serwis-wazne-99841835277.azureedge.net
 0.0.0.0 uwaga.azureedge.net
 0.0.0.0 wiadomosci-02.azureedge.net
@@ -26849,6 +26872,9 @@
 0.0.0.0 www.informacje-polsat-73936775591.azureedge.net
 0.0.0.0 www.informacje-swietokrzyskie-54838926355.azureedge.net
 0.0.0.0 www.informacje-swietokrzyskie-68811099862.azureedge.net
+0.0.0.0 www.informacje-wp-48878693117.azureedge.net
+0.0.0.0 www.informacje-wp-76582630299.azureedge.net
+0.0.0.0 www.informacje-wp-95167882133.azureedge.net
 0.0.0.0 www.informator-24-16964809509.azureedge.net
 0.0.0.0 www.informator-24-23355136551.azureedge.net
 0.0.0.0 www.informator-24-83035662259.azureedge.net
@@ -26857,6 +26883,7 @@
 0.0.0.0 www.informator-interia-35555795107.azureedge.net
 0.0.0.0 www.informator-interia-40201195369.azureedge.net
 0.0.0.0 www.informator-interia-60150661087.azureedge.net
+0.0.0.0 www.informator-onet-86675590611.azureedge.net
 0.0.0.0 www.informator-onet-91941033371.azureedge.net
 0.0.0.0 www.informator-op-33224733950.azureedge.net
 0.0.0.0 www.informator-op-76758243689.azureedge.net
@@ -26879,8 +26906,11 @@
 0.0.0.0 www.militarneinfo24.azureedge.net
 0.0.0.0 www.nabiezaco.azureedge.net
 0.0.0.0 www.naszepanstwo.azureedge.net
+0.0.0.0 www.news-24h-16300603287.azureedge.net
+0.0.0.0 www.news-24h-33206621871.azureedge.net
 0.0.0.0 www.news-24h-62131924998.azureedge.net
 0.0.0.0 www.news-24h-81893053079.azureedge.net
+0.0.0.0 www.news-interia-58122192225.azureedge.net
 0.0.0.0 www.news-newsweek-11869500562.azureedge.net
 0.0.0.0 www.news-newsweek-15573090781.azureedge.net
 0.0.0.0 www.news-newsweek-19291984325.azureedge.net
@@ -26893,17 +26923,27 @@
 0.0.0.0 www.news-newsweek-73873235141.azureedge.net
 0.0.0.0 www.news-newsweek-87114780490.azureedge.net
 0.0.0.0 www.news-o2-12942915189.azureedge.net
+0.0.0.0 www.news-o2-32918562735.azureedge.net
 0.0.0.0 www.news-o2-41886677262.azureedge.net
 0.0.0.0 www.news-o2-52975612553.azureedge.net
+0.0.0.0 www.news-o2-55947016583.azureedge.net
 0.0.0.0 www.news-o2-58897182553.azureedge.net
 0.0.0.0 www.news-o2-71229165449.azureedge.net
+0.0.0.0 www.news-o2-89654526082.azureedge.net
 0.0.0.0 www.news-op-56674768679.azureedge.net
+0.0.0.0 www.news-polsat-29036200707.azureedge.net
 0.0.0.0 www.news-polsat-77620873070.azureedge.net
+0.0.0.0 www.news-tlen-45098493249.azureedge.net
+0.0.0.0 www.news-tlen-48076771094.azureedge.net
 0.0.0.0 www.news-wazne-69923689097.azureedge.net
 0.0.0.0 www.newsiki-kielce-86360193085.azureedge.net
+0.0.0.0 www.newsiki-o2-40580478765.azureedge.net
+0.0.0.0 www.newsiki-o2-98909342143.azureedge.net
 0.0.0.0 www.newsy-24-34586868720.azureedge.net
 0.0.0.0 www.newsy-onet-74457966795.azureedge.net
 0.0.0.0 www.newsy-onet-79807026429.azureedge.net
+0.0.0.0 www.newsy-op-54941572371.azureedge.net
+0.0.0.0 www.newsy-op-68479111957.azureedge.net
 0.0.0.0 www.newsy-polsat-60039400056.azureedge.net
 0.0.0.0 www.newsy-wazne-40241258644.azureedge.net
 0.0.0.0 www.newsy-wazne-51507877636.azureedge.net
@@ -26928,6 +26968,8 @@
 0.0.0.0 www.nowiny-interia-98864015159.azureedge.net
 0.0.0.0 www.nowiny-mazowieckie-64932482901.azureedge.net
 0.0.0.0 www.nowiny-miasto-37203460169.azureedge.net
+0.0.0.0 www.nowiny-onet-83610013908.azureedge.net
+0.0.0.0 www.nowiny-onet-91097064024.azureedge.net
 0.0.0.0 www.nowiny-wp-16256299940.azureedge.net
 0.0.0.0 www.o2mhri82.azureedge.net
 0.0.0.0 www.obrona24.azureedge.net
@@ -26963,6 +27005,7 @@
 0.0.0.0 www.pudelek-wazne-84161047794.azureedge.net
 0.0.0.0 www.pudelek-wazne-99563861654.azureedge.net
 0.0.0.0 www.se-24h-59802236520.azureedge.net
+0.0.0.0 www.se-interia-96992419580.azureedge.net
 0.0.0.0 www.se-newsweek-21614323692.azureedge.net
 0.0.0.0 www.se-newsweek-37505807575.azureedge.net
 0.0.0.0 www.se-newsweek-99848860193.azureedge.net
@@ -26981,6 +27024,7 @@
 0.0.0.0 www.se-tlen-71755555153.azureedge.net
 0.0.0.0 www.se-tlen-77698295505.azureedge.net
 0.0.0.0 www.se-tlen-84053468365.azureedge.net
+0.0.0.0 www.serwis-o2-88122327905.azureedge.net
 0.0.0.0 www.serwis-polsat-35971923378.azureedge.net
 0.0.0.0 www.serwis-polsat-60422666389.azureedge.net
 0.0.0.0 www.serwis-pomorskie-62315663582.azureedge.net
@@ -34393,6 +34437,7 @@
 0.0.0.0 etramindcarsubstung.tk
 0.0.0.0 exigun.tk
 0.0.0.0 exsapahardcons.tk
+0.0.0.0 feimetbio.tk
 0.0.0.0 friendly-community.tk
 0.0.0.0 funny-morning.tk
 0.0.0.0 gaudisnolis.tk
@@ -34468,6 +34513,7 @@
 0.0.0.0 www.exigun.tk
 0.0.0.0 www.exsapahardcons.tk
 0.0.0.0 www.fanido.tk
+0.0.0.0 www.feimetbio.tk
 0.0.0.0 www.floratenmicicu.tk
 0.0.0.0 www.foldameburnternto.tk
 0.0.0.0 www.fomevawingtigspo.tk
@@ -35123,6 +35169,7 @@
 0.0.0.0 www.tanibuty.top
 0.0.0.0 www.tappark.top
 0.0.0.0 www.tnfclothed.top
+0.0.0.0 www.undertakingrelish.top
 0.0.0.0 www.vinted-pl.wniosek07631702.top
 0.0.0.0 www.wylotbuty.top
 0.0.0.0 security-alert.zs2vm.top
@@ -35476,6 +35523,7 @@
 0.0.0.0 kolagank.uno
 0.0.0.0 lansart.uno
 0.0.0.0 merbhon.uno
+0.0.0.0 nermite.uno
 0.0.0.0 sodel.uno
 0.0.0.0 sonaril.uno
 0.0.0.0 waaskorson.uno
@@ -35489,6 +35537,7 @@
 0.0.0.0 www.kolagank.uno
 0.0.0.0 www.lansart.uno
 0.0.0.0 www.merbhon.uno
+0.0.0.0 www.nermite.uno
 0.0.0.0 www.keitaro.slab.uno
 0.0.0.0 www.sodel.uno
 0.0.0.0 www.sonaril.uno
@@ -37585,6 +37634,7 @@
 0.0.0.0 www.inp0st.infodeliveryform.xyz
 0.0.0.0 www.dpdp1.infodeliverypl.xyz
 0.0.0.0 www.dpd.infopaydelivery.xyz
+0.0.0.0 www.lnpost.infoproduct-transfer.xyz
 0.0.0.0 www.dpdpl-info.informationabout-parcelpl.xyz
 0.0.0.0 vlnted.infosendinggoods.xyz
 0.0.0.0 www.vlnted.infosendinggoods.xyz
@@ -37785,6 +37835,8 @@
 0.0.0.0 www.inpost-pl.notification-sender.xyz
 0.0.0.0 www.inpost-pl-safe.notification-sender.xyz
 0.0.0.0 www.nowapoczta.xyz
+0.0.0.0 inpostpl.numerklienta954731.xyz
+0.0.0.0 www.inpostpl.numerklienta954731.xyz
 0.0.0.0 www.oblodno.xyz
 0.0.0.0 www.oferta000123.xyz
 0.0.0.0 www.oferta000657.xyz
