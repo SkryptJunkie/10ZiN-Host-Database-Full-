@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Thursday 28 April 2022
+# Date: 06:03 AM Friday 29 April 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -6431,6 +6431,7 @@
 0.0.0.0 fpmef.com
 0.0.0.0 fr-dom.com
 0.0.0.0 franklyclapmaggot.com
+0.0.0.0 fratellidellastazione.com
 0.0.0.0 fraudoutrageoustransport.com
 0.0.0.0 freaktropolis.com
 0.0.0.0 fredericksburgcottage.com
@@ -10221,6 +10222,7 @@
 0.0.0.0 sxe-shield.com
 0.0.0.0 sxmgd1aqrr.com
 0.0.0.0 sxtracking.com
+0.0.0.0 sxtsquad.com
 0.0.0.0 sycrystalhk.com
 0.0.0.0 symantecsecuremails.com
 0.0.0.0 sync-cdn.com
@@ -34771,6 +34773,7 @@
 0.0.0.0 gferhrolklm.top
 0.0.0.0 gilhgiotmsv.top
 0.0.0.0 gkatxaoerueusa.top
+0.0.0.0 gkkwksjsfolihxf.top
 0.0.0.0 gkoszt.top
 0.0.0.0 gledqadsdaw.top
 0.0.0.0 gmiuxfmrwi.top
@@ -34893,6 +34896,7 @@
 0.0.0.0 njijavxhkio.top
 0.0.0.0 njwamkdbrntij.top
 0.0.0.0 nmentsce.top
+0.0.0.0 nohilmly.top
 0.0.0.0 nomicidenti.top
 0.0.0.0 nowbenefits.top
 0.0.0.0 nowoffer.top
@@ -36798,6 +36802,7 @@
 0.0.0.0 officular.xyz
 0.0.0.0 ohchainprwapd.xyz
 0.0.0.0 oirt.xyz
+0.0.0.0 omeuspfcj.xyz
 0.0.0.0 onbklok.xyz
 0.0.0.0 ondergroot.xyz
 0.0.0.0 one-pay.xyz
@@ -37135,6 +37140,7 @@
 0.0.0.0 surveymoneyfund.xyz
 0.0.0.0 suscepts.xyz
 0.0.0.0 svenskbooks.xyz
+0.0.0.0 svmptniwwxk.xyz
 0.0.0.0 swapbench.xyz
 0.0.0.0 swiftinglight.xyz
 0.0.0.0 tairjrqmdkjjb.xyz
@@ -37264,6 +37270,7 @@
 0.0.0.0 wsparcie.xyz
 0.0.0.0 wstrzymana-paczka-paczkomat.xyz
 0.0.0.0 wvngokxogcvsu.xyz
+0.0.0.0 wwbxmitroo.xyz
 0.0.0.0 wwesupercardhack.xyz
 0.0.0.0 wybutary.xyz
 0.0.0.0 xabeyangex.xyz
