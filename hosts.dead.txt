@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:03 AM Saturday 30 April 2022
+# Date: 06:02 AM Sunday 01 May 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -34808,6 +34808,7 @@
 0.0.0.0 fiedinherite.top
 0.0.0.0 finistentcou.top
 0.0.0.0 finitiesstaffec.top
+0.0.0.0 fpleufvndwp.top
 0.0.0.0 fqakvrudrpvfq.top
 0.0.0.0 fqulqwti.top
 0.0.0.0 galaxydrop.top
@@ -36560,6 +36561,7 @@
 0.0.0.0 dersindical.xyz
 0.0.0.0 dfhchdbnhayw.xyz
 0.0.0.0 dgame.xyz
+0.0.0.0 dgvnudoa.xyz
 0.0.0.0 diesta.xyz
 0.0.0.0 diorqq.xyz
 0.0.0.0 dkujqutm.xyz
