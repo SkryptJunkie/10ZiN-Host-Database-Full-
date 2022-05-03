@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:01 AM Monday 02 May 2022
+# Date: 06:02 AM Tuesday 03 May 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -7902,6 +7902,7 @@
 0.0.0.0 livepsncodes.com
 0.0.0.0 livestream2014.com
 0.0.0.0 livingwithlic.com
+0.0.0.0 lizety.com
 0.0.0.0 lizzietolerance.com
 0.0.0.0 lkralken.com
 0.0.0.0 lkskkssuoa.com
