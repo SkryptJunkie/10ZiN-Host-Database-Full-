@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:12 AM Wednesday 04 May 2022
+# Date: 06:03 AM Thursday 05 May 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -38276,6 +38276,7 @@
 0.0.0.0 pol.libracoinofficial-company.xyz
 0.0.0.0 www.oill.libracoinofficial-company.xyz
 0.0.0.0 www.pol.libracoinofficial-company.xyz
+0.0.0.0 www.lightermood.xyz
 0.0.0.0 www.lili24.xyz
 0.0.0.0 www.liltrade.xyz
 0.0.0.0 www.limake.xyz
