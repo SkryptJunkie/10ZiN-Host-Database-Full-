@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:04 AM Friday 06 May 2022
+# Date: 06:02 AM Saturday 07 May 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -16550,6 +16550,7 @@
 0.0.0.0 www.mplayerdownloader.com
 0.0.0.0 metrics.mpora.com
 0.0.0.0 www.mpxxtrk.com
+0.0.0.0 mycourse.mrdcenter.com
 0.0.0.0 www.mrktrecord3.com
 0.0.0.0 c.mscimg.com
 0.0.0.0 global.msmtrakk03a.com
