@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Monday 09 May 2022
+# Date: 06:02 AM Tuesday 10 May 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -16698,6 +16698,7 @@
 0.0.0.0 ads.ncm.com
 0.0.0.0 www.ncrgifts.com
 0.0.0.0 stat.nebula168.com
+0.0.0.0 lab.nebusis.com
 0.0.0.0 oascentral.necn.com
 0.0.0.0 galleries.negrasporno.com
 0.0.0.0 www.negrasporno.com
@@ -23303,6 +23304,7 @@
 0.0.0.0 pos.warung.io
 0.0.0.0 ico.worldofbattles.io
 0.0.0.0 pixel.zumby.io
+0.0.0.0 [instana.io]
 0.0.0.0 arianbco.ir
 0.0.0.0 asrehadak.ir
 0.0.0.0 betaalverzoek.ir
@@ -28560,6 +28562,7 @@
 0.0.0.0 artandand.online
 0.0.0.0 askaspalb.online
 0.0.0.0 bagsonsale.online
+0.0.0.0 beauteaccesorios.online
 0.0.0.0 bebrands.online
 0.0.0.0 besthotgirl.online
 0.0.0.0 betweenstep.online
