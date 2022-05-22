@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Saturday 21 May 2022
+# Date: 06:02 AM Sunday 22 May 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -3928,6 +3928,7 @@
 0.0.0.0 5pr1sfzsl9.com
 0.0.0.0 5quarespace.com
 0.0.0.0 5x5i5tj2u97w.com
+0.0.0.0 6064cb4b81.com
 0.0.0.0 60pictures.com
 0.0.0.0 60secpanic.com
 0.0.0.0 613untetheredjailbreak.com
@@ -33540,6 +33541,7 @@
 0.0.0.0 tracking.nkbm.si
 0.0.0.0 ads.wave.si
 0.0.0.0 68bets.site
+0.0.0.0 7-zip.site
 0.0.0.0 7news.site
 0.0.0.0 aideia.site
 0.0.0.0 allianze.site
@@ -36039,6 +36041,7 @@
 0.0.0.0 xebivrctvq.top
 0.0.0.0 xjsuiyemaxsuu.top
 0.0.0.0 xmdborrjxmmt.top
+0.0.0.0 xmjvcgaawkqllg.top
 0.0.0.0 xqegfvlesmvc.top
 0.0.0.0 yakrhmkgl.top
 0.0.0.0 yiatelychur.top
