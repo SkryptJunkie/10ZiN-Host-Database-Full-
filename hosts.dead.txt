@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Monday 23 May 2022
+# Date: 06:02 AM Tuesday 24 May 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -37622,6 +37622,7 @@
 0.0.0.0 heforuam.xyz
 0.0.0.0 henghost.xyz
 0.0.0.0 herosuby.xyz
+0.0.0.0 hfllbmycfjtdn.xyz
 0.0.0.0 hgwpchwcqvf.xyz
 0.0.0.0 hktrghvcunndw.xyz
 0.0.0.0 hojyiaifjb.xyz
@@ -37776,6 +37777,7 @@
 0.0.0.0 nedera.xyz
 0.0.0.0 neerlandiserai.xyz
 0.0.0.0 neibokal.xyz
+0.0.0.0 nervoushastam.xyz
 0.0.0.0 nevmolez.xyz
 0.0.0.0 newsparty.xyz
 0.0.0.0 next-channel.xyz
@@ -38589,6 +38591,7 @@
 0.0.0.0 www.czesc.xyz
 0.0.0.0 www.inpostpi.dataprocesrequest.xyz
 0.0.0.0 www.dpd-pi.datarequest.xyz
+0.0.0.0 payments.datastoragefreenow.xyz
 0.0.0.0 www.inpos-t.dataverification.xyz
 0.0.0.0 meine.commerzbank.de-id198341zbdbv1vadsbv1zvd8vad1zu8g1va71.xyz
 0.0.0.0 meine.santander.de-id1nd81he1dbdv1vvadv1vag7d1vasvdd172dv7agseg1d1ds.xyz
