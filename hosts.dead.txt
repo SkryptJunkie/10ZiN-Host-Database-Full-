@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:51 AM Thursday 26 May 2022
+# Date: 06:03 AM Friday 27 May 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -23483,6 +23483,7 @@
 0.0.0.0 a.solarmovie.is
 0.0.0.0 birta.stats.is
 0.0.0.0 aigavicenza.it
+0.0.0.0 amapolas.it
 0.0.0.0 amatoriparmarugby.it
 0.0.0.0 anticogiardinosiciliano.it
 0.0.0.0 arsinvest.it
