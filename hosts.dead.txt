@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:03 AM Friday 27 May 2022
+# Date: 06:02 AM Saturday 28 May 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -17101,6 +17101,7 @@
 0.0.0.0 metrics.parallels.com
 0.0.0.0 pd6.blist.parallels.com
 0.0.0.0 pdfm7.blist.parallels.com
+0.0.0.0 dd.paramountflow.com
 0.0.0.0 www.banners.paramountzone.com
 0.0.0.0 www.parisvisionnews.com
 0.0.0.0 www.parkedgetti.com
@@ -29645,6 +29646,7 @@
 0.0.0.0 filee.org
 0.0.0.0 firstconguccsm.org
 0.0.0.0 fkksjobnn43.org
+0.0.0.0 flighthousetoastmastersclub.org
 0.0.0.0 free-clubpenguin.org
 0.0.0.0 free-minecraftaccount.org
 0.0.0.0 free-psncodes.org
@@ -33922,6 +33924,7 @@
 0.0.0.0 tradebot.site
 0.0.0.0 treatheeter.site
 0.0.0.0 tronlab.site
+0.0.0.0 ttunja.site
 0.0.0.0 ubvarit.site
 0.0.0.0 underwritedown.site
 0.0.0.0 undreadside.site
