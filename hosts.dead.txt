@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Saturday 28 May 2022
+# Date: 06:02 AM Sunday 29 May 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -19770,6 +19770,7 @@
 0.0.0.0 fapcat.comrd-party
 0.0.0.0 app.fancifulapp.cool
 0.0.0.0 old.paris-berlin.cool
+0.0.0.0 starlink.country
 0.0.0.0 ads.flvrrz.cpm
 0.0.0.0 data.flvrrz.cpm
 0.0.0.0 centra.credit
