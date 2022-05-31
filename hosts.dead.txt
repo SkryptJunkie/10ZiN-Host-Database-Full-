@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:03 AM Monday 30 May 2022
+# Date: 06:02 AM Tuesday 31 May 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -38018,6 +38018,7 @@
 0.0.0.0 kopter.xyz
 0.0.0.0 korespodencja-platnosc.xyz
 0.0.0.0 kqkimvrqxf.xyz
+0.0.0.0 krvumkddm.xyz
 0.0.0.0 ksqnrkhrvoxjclr.xyz
 0.0.0.0 kuponline480147.xyz
 0.0.0.0 kyhqycthhcy.xyz
