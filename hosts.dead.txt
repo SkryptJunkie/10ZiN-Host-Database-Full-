@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:05 AM Wednesday 01 June 2022
+# Date: 06:02 AM Thursday 02 June 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -23716,6 +23716,7 @@
 0.0.0.0 ad.wiredvision.jp
 0.0.0.0 www.adult.wpx.jp
 0.0.0.0 maz.zba.jp
+0.0.0.0 zucks.net.zimg.jp
 0.0.0.0 agrisolutions.co.ke
 0.0.0.0 aquahub.co.ke
 0.0.0.0 glowinmedia.co.ke
