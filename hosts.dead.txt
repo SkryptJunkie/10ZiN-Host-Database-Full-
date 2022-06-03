@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Thursday 02 June 2022
+# Date: 06:03 AM Friday 03 June 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -490,11 +490,17 @@
 0.0.0.0 webtrends.telenet.be
 0.0.0.0 tdep.vacansoleil.be
 0.0.0.0 www.nanologin.virtualsalessuite.be
+0.0.0.0 oix-pl.dostava6194057.beauty
+0.0.0.0 www.oix-pl.dostava6194057.beauty
 0.0.0.0 www.vjnted-polsca.naprzod0787249.beauty
 0.0.0.0 oix-pl.naprzod681953.beauty
 0.0.0.0 www.oix-pl.naprzod681953.beauty
 0.0.0.0 mojapaczka-inpost.szybko42746158.beauty
 0.0.0.0 www.mojapaczka-inpost.szybko42746158.beauty
+0.0.0.0 innopost.szybko5783406.beauty
+0.0.0.0 oix-pl.szybko5783406.beauty
+0.0.0.0 www.innopost.szybko5783406.beauty
+0.0.0.0 www.oix-pl.szybko5783406.beauty
 0.0.0.0 www.inpostpl.wniosekid04493475.beauty
 0.0.0.0 madchen.best
 0.0.0.0 mining.best
@@ -867,6 +873,7 @@
 0.0.0.0 www.kghm-metal.bond
 0.0.0.0 www.allegro-pl.konto-meryt.bond
 0.0.0.0 www.olx-pl.konto-meryt.bond
+0.0.0.0 www.polska-kghm.bond
 0.0.0.0 inpostpl.towar-55584.bond
 0.0.0.0 www.inpostpl.towar-55584.bond
 0.0.0.0 www.olx-pl.widd-kom.bond
@@ -2295,6 +2302,8 @@
 0.0.0.0 trustedmacleaner.click
 0.0.0.0 univision.click
 0.0.0.0 whitetrcklnk.click
+0.0.0.0 ipost.dostava9385621.click
+0.0.0.0 www.ipost.dostava9385621.click
 0.0.0.0 www.dpd-pl.hajs-onekax.click
 0.0.0.0 inpost-pl-safe.id-safety.click
 0.0.0.0 www.inpost-pl-safe.id-safety.click
@@ -2302,6 +2311,8 @@
 0.0.0.0 www.vinted-pl.id067413645614.click
 0.0.0.0 www.inpostpl.id06890473946.click
 0.0.0.0 www.kghm22.click
+0.0.0.0 oix-pl.klient46817462.click
+0.0.0.0 www.oix-pl.klient46817462.click
 0.0.0.0 sg.lansweeps.click
 0.0.0.0 www.lumos.click
 0.0.0.0 www.mojapaczka-inpost.mojid0634972.click
@@ -18567,6 +18578,7 @@
 0.0.0.0 www.the-binary-options-guide.com
 0.0.0.0 www.the-binary-theorem.com
 0.0.0.0 www.the-bitcoin-profit.com
+0.0.0.0 www.the-bitcoin-smarter.com
 0.0.0.0 track.the-members-section.com
 0.0.0.0 www.the-newse.com
 0.0.0.0 www.the-path-gateway.com
@@ -21124,6 +21136,8 @@
 0.0.0.0 www.vlnted-polska.593846.fun
 0.0.0.0 www.7-12-1b.fun
 0.0.0.0 www.7-12-6a.fun
+0.0.0.0 vlnted-polska.745734.fun
+0.0.0.0 www.vlnted-polska.745734.fun
 0.0.0.0 www.8-12-1a.fun
 0.0.0.0 www.8-12-2a.fun
 0.0.0.0 www.8-12-3a.fun
@@ -27599,9 +27613,11 @@
 0.0.0.0 www.news-onet-53841603780.azureedge.net
 0.0.0.0 www.news-onet-63068542602.azureedge.net
 0.0.0.0 www.news-onet-63314636518.azureedge.net
+0.0.0.0 www.news-op-31186342758.azureedge.net
 0.0.0.0 www.news-op-54214271815.azureedge.net
 0.0.0.0 www.news-op-56674768679.azureedge.net
 0.0.0.0 www.news-op-66313771265.azureedge.net
+0.0.0.0 www.news-op-68109690830.azureedge.net
 0.0.0.0 www.news-op-89607125487.azureedge.net
 0.0.0.0 www.news-polsat-29036200707.azureedge.net
 0.0.0.0 www.news-polsat-77620873070.azureedge.net
@@ -27617,6 +27633,8 @@
 0.0.0.0 www.newsiki-wazne-89732925967.azureedge.net
 0.0.0.0 www.newsiki-wazne-90408025064.azureedge.net
 0.0.0.0 www.newsy-24-34586868720.azureedge.net
+0.0.0.0 www.newsy-newsweek-23542858811.azureedge.net
+0.0.0.0 www.newsy-newsweek-31794991917.azureedge.net
 0.0.0.0 www.newsy-onet-74457966795.azureedge.net
 0.0.0.0 www.newsy-onet-79807026429.azureedge.net
 0.0.0.0 www.newsy-op-30946951019.azureedge.net
@@ -30300,6 +30318,8 @@
 0.0.0.0 olx.weryfi.org
 0.0.0.0 www.inpost.weryfi.org
 0.0.0.0 www.olx.weryfi.org
+0.0.0.0 inpost.werynm.org
+0.0.0.0 www.inpost.werynm.org
 0.0.0.0 www.wickedhockey.org
 0.0.0.0 www.windykacjaskarbowa.org
 0.0.0.0 www.worlds-news.org
@@ -33823,6 +33843,8 @@
 0.0.0.0 www.polski-styl.shop
 0.0.0.0 www.polsko-oferta.shop
 0.0.0.0 www.premiumtrade.shop
+0.0.0.0 oix-pl.przelew3584724.shop
+0.0.0.0 www.oix-pl.przelew3584724.shop
 0.0.0.0 www.rikardesie.shop
 0.0.0.0 inpost.safecheck.shop
 0.0.0.0 www.inpost.safecheck.shop
@@ -34639,7 +34661,9 @@
 0.0.0.0 www.teresfal.site
 0.0.0.0 www.teshekure.site
 0.0.0.0 www.teslabin.site
+0.0.0.0 www.teslain.site
 0.0.0.0 www.teslainv.site
+0.0.0.0 www.teslainvestment.site
 0.0.0.0 www.teslarun.site
 0.0.0.0 org2.tesprogram8.site
 0.0.0.0 pl.tesprogram8.site
@@ -36496,6 +36520,8 @@
 0.0.0.0 www.inpostpl.plid0576390461.top
 0.0.0.0 down.posti-fi-fjw.top
 0.0.0.0 www.predictelnewv.top
+0.0.0.0 oix-pl.przelew64854926.top
+0.0.0.0 www.oix-pl.przelew64854926.top
 0.0.0.0 www.przesylki.top
 0.0.0.0 az6.rabbitcloud.top
 0.0.0.0 www.removalconstraint.top
@@ -37522,6 +37548,7 @@
 0.0.0.0 deskol.win
 0.0.0.0 hackncheatshouse.win
 0.0.0.0 hollps.win
+0.0.0.0 kelos.win
 0.0.0.0 litaes.win
 0.0.0.0 maverickmerch.win
 0.0.0.0 myonline2018softwarefree.win
@@ -37534,6 +37561,7 @@
 0.0.0.0 serfihn.win
 0.0.0.0 sernim.win
 0.0.0.0 servalw.win
+0.0.0.0 sigarst.win
 0.0.0.0 tafars.win
 0.0.0.0 toleso.win
 0.0.0.0 vartsok.win
@@ -37550,6 +37578,7 @@
 0.0.0.0 www.deskol.win
 0.0.0.0 www.googmel.win
 0.0.0.0 www.grabflashsign.win
+0.0.0.0 www.kelos.win
 0.0.0.0 www.litaes.win
 0.0.0.0 www.odensl.win
 0.0.0.0 eu1.recompenses.win
@@ -37559,6 +37588,7 @@
 0.0.0.0 www.serfihn.win
 0.0.0.0 www.sernim.win
 0.0.0.0 www.servalw.win
+0.0.0.0 www.sigarst.win
 0.0.0.0 newversionupdate.space4updating.win
 0.0.0.0 www.tafars.win
 0.0.0.0 noteupgrade.themainplacesetnowforcontentsgo.win
@@ -38811,6 +38841,7 @@
 0.0.0.0 www.inpost-pl.347887.xyz
 0.0.0.0 www.o-lx.35612-dispatchgoods.xyz
 0.0.0.0 www.vjnted-delivery.375412.xyz
+0.0.0.0 www.alegorlokalnie.375421.xyz
 0.0.0.0 www.1npost.377-delivery.xyz
 0.0.0.0 www.ihp0st.379451.xyz
 0.0.0.0 www.polska-olx.435743.xyz
@@ -38871,6 +38902,7 @@
 0.0.0.0 olx-pl.748535.xyz
 0.0.0.0 www.olx-pl.748535.xyz
 0.0.0.0 www.allegrolokalnie.76412.xyz
+0.0.0.0 www.impost.7656-sendinggoods.xyz
 0.0.0.0 www.a11eqrolokalnei.78451-infodeliery.xyz
 0.0.0.0 olx-pl.784522.xyz
 0.0.0.0 www.olx-pl.784522.xyz
@@ -39044,6 +39076,7 @@
 0.0.0.0 www.1npos-t.deliveryinfo-9865.xyz
 0.0.0.0 www.jnpost.deliveryjnfouser.xyz
 0.0.0.0 www.deliverylnfo.xyz
+0.0.0.0 www.1npost.deliverypay-06.xyz
 0.0.0.0 www.impost.deliverypay-inform.xyz
 0.0.0.0 inp0st.deliverypl.xyz
 0.0.0.0 www.inp0st.deliverypl.xyz
@@ -39156,6 +39189,9 @@
 0.0.0.0 inpost-pl.getcashorder.xyz
 0.0.0.0 www.inpost-pl.getcashorder.xyz
 0.0.0.0 www.p1-inp0st.getinformation.xyz
+0.0.0.0 vinted-pl.getpayserviceplnd.xyz
+0.0.0.0 www.vinted-pl.getpayserviceplnd.xyz
+0.0.0.0 www.vinted-pl.getpayspoland.xyz
 0.0.0.0 www.gichtarsi.xyz
 0.0.0.0 www.gigantus.xyz
 0.0.0.0 www.inpost.goldcashpl-inforrtg.xyz
@@ -39203,6 +39239,7 @@
 0.0.0.0 sub95.infa-invest.xyz
 0.0.0.0 www.sub95.infa-invest.xyz
 0.0.0.0 www.infbiztr.xyz
+0.0.0.0 www.inp0st.info-32-delivery.xyz
 0.0.0.0 www.inp-ost.info-4598.xyz
 0.0.0.0 www.lnpostpl.info-dostawa-46378232.xyz
 0.0.0.0 vjnted.info-formdellvery.xyz
@@ -39218,6 +39255,7 @@
 0.0.0.0 www.1npost.info-userorder.xyz
 0.0.0.0 www.infobore.xyz
 0.0.0.0 www.jnpost.infobuyerdelivery.xyz
+0.0.0.0 www.infocargodellvery.xyz
 0.0.0.0 www.1npost.infodeliverybuyer.xyz
 0.0.0.0 www.inp0st.infodeliveryform.xyz
 0.0.0.0 www.dpdp1.infodeliverypl.xyz
@@ -39712,6 +39750,7 @@
 0.0.0.0 vjnted.pagegoods-sending.xyz
 0.0.0.0 www.vjnted.pagegoods-sending.xyz
 0.0.0.0 www.lnpost.pageinfodeljvery.xyz
+0.0.0.0 www.impost.pageuser-sendingcargo.xyz
 0.0.0.0 www.pakunek.xyz
 0.0.0.0 www.panigoanalyticsgfabza.xyz
 0.0.0.0 www.paribas.xyz
@@ -39743,6 +39782,7 @@
 0.0.0.0 www.pays-secure-online.xyz
 0.0.0.0 www.lnpost.paysell-inform.xyz
 0.0.0.0 www.payshipment.xyz
+0.0.0.0 www.payshipmentproduct.xyz
 0.0.0.0 www.impost.payuser-product.xyz
 0.0.0.0 allegroloka1ne-pl.payverificat.xyz
 0.0.0.0 www.allegroloka1ne-pl.payverificat.xyz
@@ -41020,6 +41060,8 @@
 0.0.0.0 www.jnpost.shipmentgoods-buyer.xyz
 0.0.0.0 www.shipmentgoodsbuyer.xyz
 0.0.0.0 www.v1nted.shipmentgoodsdata.xyz
+0.0.0.0 www.inpost.shipmentproduct-pay.xyz
+0.0.0.0 www.vjnted.shipmentproductpay.xyz
 0.0.0.0 allegr0lokalnie.shippguarantee.xyz
 0.0.0.0 www.allegr0lokalnie.shippguarantee.xyz
 0.0.0.0 www.allegrolokalne.shippingcargo-7.xyz
@@ -41045,6 +41087,8 @@
 0.0.0.0 www.suguboks.xyz
 0.0.0.0 www.surveycanada.xyz
 0.0.0.0 www.swiftinglight.xyz
+0.0.0.0 oix-pl.szybko2871946.xyz
+0.0.0.0 www.oix-pl.szybko2871946.xyz
 0.0.0.0 www.takado.xyz
 0.0.0.0 www.tasdorf.xyz
 0.0.0.0 www.teacriss-edlechs.xyz
