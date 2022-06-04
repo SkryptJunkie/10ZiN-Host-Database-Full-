@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:03 AM Friday 03 June 2022
+# Date: 06:02 AM Saturday 04 June 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -38127,6 +38127,7 @@
 0.0.0.0 kibox.xyz
 0.0.0.0 kieth.xyz
 0.0.0.0 kilowo.xyz
+0.0.0.0 kinq4i2.xyz
 0.0.0.0 kionishop.xyz
 0.0.0.0 kirkns.xyz
 0.0.0.0 kka20si.xyz
