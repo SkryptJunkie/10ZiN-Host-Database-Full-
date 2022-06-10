@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Thursday 09 June 2022
+# Date: 06:03 AM Friday 10 June 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -502,6 +502,8 @@
 0.0.0.0 www.innopost.szybko5783406.beauty
 0.0.0.0 www.oix-pl.szybko5783406.beauty
 0.0.0.0 www.inpostpl.wniosekid04493475.beauty
+0.0.0.0 ivint-pl.zamow47126.beauty
+0.0.0.0 www.ivint-pl.zamow47126.beauty
 0.0.0.0 madchen.best
 0.0.0.0 mining.best
 0.0.0.0 storeoverlylatestapplication.best
@@ -1925,6 +1927,8 @@
 0.0.0.0 olx-pl.zamow064973648.buzz
 0.0.0.0 www.inpostpl.zamow064973648.buzz
 0.0.0.0 www.olx-pl.zamow064973648.buzz
+0.0.0.0 ivint-pl.zamow78462.buzz
+0.0.0.0 www.ivint-pl.zamow78462.buzz
 0.0.0.0 centr-pc.by
 0.0.0.0 fruttyfood.by
 0.0.0.0 mebel-brw.by
@@ -2332,8 +2336,15 @@
 0.0.0.0 www.thegroup.click
 0.0.0.0 inpostpl.ty09621483047.click
 0.0.0.0 www.inpostpl.ty09621483047.click
+0.0.0.0 www.powiadomienia-allegro.uzytkownik5231.click
+0.0.0.0 www.powiadomienia-allegro.uzytkownik5236.click
+0.0.0.0 www.powiadomienia-allegro.uzytkownik5237.click
 0.0.0.0 www.allegro-pl.zakupy-internetowe.click
 0.0.0.0 www.inpostpl.zakupy-internetowe.click
+0.0.0.0 ivint-pl.zamow38495.click
+0.0.0.0 paczka-pl.zamow38495.click
+0.0.0.0 www.ivint-pl.zamow38495.click
+0.0.0.0 www.paczka-pl.zamow38495.click
 0.0.0.0 allegrolokalnie.cloud
 0.0.0.0 candg-amazon3.cloud
 0.0.0.0 cerrajerossantander.cloud
@@ -16985,6 +16996,7 @@
 0.0.0.0 cdn.oggifinogi.com
 0.0.0.0 raw.oggifinogi.com
 0.0.0.0 tracking.oggifinogi.com
+0.0.0.0 www.ogmyden.com
 0.0.0.0 www.ohbomba.com
 0.0.0.0 adcount.ohmynews.com
 0.0.0.0 www.oinadserve.com
@@ -21352,6 +21364,7 @@
 0.0.0.0 inpost.pl-reg.gq
 0.0.0.0 www.inpost.pl-reg.gq
 0.0.0.0 www.ressfulsuanise.gq
+0.0.0.0 www.slinverlilisfau.gq
 0.0.0.0 www.tingzilvayholltertest.gq
 0.0.0.0 www.tradarsuhi.gq
 0.0.0.0 www.trebtedonrestci.gq
@@ -24904,16 +24917,20 @@
 0.0.0.0 sejansl.loan
 0.0.0.0 tasdoper.loan
 0.0.0.0 vebsk.loan
+0.0.0.0 zagool.loan
 0.0.0.0 www.hegirs.loan
 0.0.0.0 www.redsok.loan
 0.0.0.0 www.sejansl.loan
 0.0.0.0 apps9039.super-your-prize33.loan
 0.0.0.0 www.tasdoper.loan
 0.0.0.0 www.vebsk.loan
+0.0.0.0 www.zagool.loan
 0.0.0.0 youtube.local
 0.0.0.0 localhost.localdomain
 0.0.0.0 inpostpl.numerid0473649.lol
 0.0.0.0 www.inpostpl.numerid0473649.lol
+0.0.0.0 ivint-pl.zamow82745.lol
+0.0.0.0 www.ivint-pl.zamow82745.lol
 0.0.0.0 fairycandy.love
 0.0.0.0 www.fairycandy.love
 0.0.0.0 brokerclub.lt
@@ -25644,6 +25661,12 @@
 0.0.0.0 ipost.udacsiedo76294.mom
 0.0.0.0 www.ipost.udacsiedo76294.mom
 0.0.0.0 www.vjnted-polsca.wniosek0638142.mom
+0.0.0.0 ivint-pl.zamow18745.mom
+0.0.0.0 paczka-pl.zamow18745.mom
+0.0.0.0 vlnted.zamow18745.mom
+0.0.0.0 www.ivint-pl.zamow18745.mom
+0.0.0.0 www.paczka-pl.zamow18745.mom
+0.0.0.0 www.vlnted.zamow18745.mom
 0.0.0.0 cgo.money
 0.0.0.0 csgoeasy.money
 0.0.0.0 csgolounge.money
@@ -27581,6 +27604,7 @@
 0.0.0.0 www.interia-7.azureedge.net
 0.0.0.0 www.interia-9.azureedge.net
 0.0.0.0 www.interia24.azureedge.net
+0.0.0.0 www.kryminalki24.azureedge.net
 0.0.0.0 www.live-info-23719897420.azureedge.net
 0.0.0.0 www.live-info-36414993679.azureedge.net
 0.0.0.0 www.live-news-58933840220.azureedge.net
@@ -35916,6 +35940,7 @@
 0.0.0.0 www.maberheadstamp.tk
 0.0.0.0 www.maetzimotviho.tk
 0.0.0.0 www.miapeuwheelfeeda.tk
+0.0.0.0 www.mindhackfir.tk
 0.0.0.0 www.moskdozre.tk
 0.0.0.0 www.moverrerscha.tk
 0.0.0.0 www.ncidnanlie.tk
@@ -36500,6 +36525,8 @@
 0.0.0.0 zingtormanc.top
 0.0.0.0 free-movies.3xp4e3kno6.top
 0.0.0.0 www.3xp4e3kno6.top
+0.0.0.0 ipost.948213przelew.top
+0.0.0.0 www.ipost.948213przelew.top
 0.0.0.0 www.acena.top
 0.0.0.0 www.aptbox.top
 0.0.0.0 www.ariatpolska.top
@@ -37592,12 +37619,14 @@
 0.0.0.0 bitcase.win
 0.0.0.0 ca8g5.win
 0.0.0.0 deskol.win
+0.0.0.0 dosiw.win
 0.0.0.0 goladsor.win
 0.0.0.0 hackncheatshouse.win
 0.0.0.0 hollps.win
 0.0.0.0 kelos.win
 0.0.0.0 litaes.win
 0.0.0.0 maverickmerch.win
+0.0.0.0 modeskor.win
 0.0.0.0 myonline2018softwarefree.win
 0.0.0.0 net-web-techie-software.win
 0.0.0.0 o-2-s-f.win
@@ -37614,6 +37643,7 @@
 0.0.0.0 vartsok.win
 0.0.0.0 veskoti.win
 0.0.0.0 vistawebs-web-techie-app.win
+0.0.0.0 vunsow.win
 0.0.0.0 websnettechieapp.win
 0.0.0.0 xansko.win
 0.0.0.0 www.askorw.win
@@ -37623,11 +37653,13 @@
 0.0.0.0 apple.com-web-security-analysis.win
 0.0.0.0 www.cornomase.win
 0.0.0.0 www.deskol.win
+0.0.0.0 www.dosiw.win
 0.0.0.0 www.goladsor.win
 0.0.0.0 www.googmel.win
 0.0.0.0 www.grabflashsign.win
 0.0.0.0 www.kelos.win
 0.0.0.0 www.litaes.win
+0.0.0.0 www.modeskor.win
 0.0.0.0 www.odensl.win
 0.0.0.0 eu1.recompenses.win
 0.0.0.0 orange.recompenses.win
@@ -37645,6 +37677,7 @@
 0.0.0.0 www.vartsok.win
 0.0.0.0 www.veskoti.win
 0.0.0.0 cdn.vibratebefore.win
+0.0.0.0 www.vunsow.win
 0.0.0.0 download.wholestuff.win
 0.0.0.0 www.xansko.win
 0.0.0.0 ifwry.yeslaptop.win
@@ -38893,6 +38926,7 @@
 0.0.0.0 inpost-pl.347887.xyz
 0.0.0.0 www.inpost-pl.347887.xyz
 0.0.0.0 www.o-lx.35612-dispatchgoods.xyz
+0.0.0.0 www.inpost-delivery.3741254.xyz
 0.0.0.0 www.vjnted-delivery.375412.xyz
 0.0.0.0 www.alegorlokalnie.375421.xyz
 0.0.0.0 www.1npost.377-delivery.xyz
