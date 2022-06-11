@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:03 AM Friday 10 June 2022
+# Date: 06:02 AM Saturday 11 June 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -33965,6 +33965,7 @@
 0.0.0.0 captureimage.site
 0.0.0.0 cashmastersummer.site
 0.0.0.0 celer.site
+0.0.0.0 chromeupdate.site
 0.0.0.0 cochack.site
 0.0.0.0 cogdybynietto.site
 0.0.0.0 colorise.site
@@ -38710,6 +38711,7 @@
 0.0.0.0 svmptniwwxk.xyz
 0.0.0.0 swapbench.xyz
 0.0.0.0 swiftinglight.xyz
+0.0.0.0 sytwyhdpmqsj.xyz
 0.0.0.0 tairjrqmdkjjb.xyz
 0.0.0.0 takado.xyz
 0.0.0.0 talented23-writer.xyz
