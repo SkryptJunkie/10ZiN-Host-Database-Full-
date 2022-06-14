@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Monday 13 June 2022
+# Date: 06:02 AM Tuesday 14 June 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -17162,6 +17162,7 @@
 0.0.0.0 pd6.blist.parallels.com
 0.0.0.0 pdfm7.blist.parallels.com
 0.0.0.0 dd.paramountflow.com
+0.0.0.0 og.paramountflow.com
 0.0.0.0 www.banners.paramountzone.com
 0.0.0.0 www.parisvisionnews.com
 0.0.0.0 www.parkedgetti.com
@@ -33689,6 +33690,7 @@
 0.0.0.0 rlaadmin.getright.sg
 0.0.0.0 stats.keygen.sh
 0.0.0.0 ad.proxy.sh
+0.0.0.0 ball2ya.shop
 0.0.0.0 buttonhero.shop
 0.0.0.0 bwmonitor.shop
 0.0.0.0 delivery-merchantpln.shop
@@ -39287,6 +39289,7 @@
 0.0.0.0 www.vjnted-pl.getpayspoland.xyz
 0.0.0.0 www.gichtarsi.xyz
 0.0.0.0 www.gigantus.xyz
+0.0.0.0 www.givaudan.xyz
 0.0.0.0 www.inpost.goldcashpl-inforrtg.xyz
 0.0.0.0 yrxyhtx.golovanskyin.xyz
 0.0.0.0 www.jhpost.goods-dispatchinfo.xyz
