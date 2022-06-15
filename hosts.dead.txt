@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Tuesday 14 June 2022
+# Date: 06:02 AM Wednesday 15 June 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -38063,6 +38063,7 @@
 0.0.0.0 ebosseraient.xyz
 0.0.0.0 ednagroup.xyz
 0.0.0.0 edostuff.xyz
+0.0.0.0 effections.xyz
 0.0.0.0 ejirytuw.xyz
 0.0.0.0 ekufogow.xyz
 0.0.0.0 eliasolazar.xyz
