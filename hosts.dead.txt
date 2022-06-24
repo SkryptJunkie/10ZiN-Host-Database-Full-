@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Thursday 23 June 2022
+# Date: 06:03 AM Friday 24 June 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -36530,6 +36530,7 @@
 0.0.0.0 dpksrbdpwy.top
 0.0.0.0 dpool.top
 0.0.0.0 dquanticw.top
+0.0.0.0 drxihwoqgcd.top
 0.0.0.0 dssdr.top
 0.0.0.0 dsufferent.top
 0.0.0.0 dulnarpatro.top
@@ -38675,6 +38676,7 @@
 0.0.0.0 loptyinterva.xyz
 0.0.0.0 loshtorm.xyz
 0.0.0.0 lovare.xyz
+0.0.0.0 lpshfkexqxpwl.xyz
 0.0.0.0 lqbrelfmigiqv.xyz
 0.0.0.0 lsex.xyz
 0.0.0.0 lsxrasthvajxx.xyz
