@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:03 AM Friday 24 June 2022
+# Date: 06:02 AM Saturday 25 June 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -12735,6 +12735,7 @@
 0.0.0.0 ads.barnonedrinks.com
 0.0.0.0 www.barrainformativa.com
 0.0.0.0 www.baryof.com
+0.0.0.0 www.barzdigital.com
 0.0.0.0 go.base22.com
 0.0.0.0 adserv.basedvd.com
 0.0.0.0 1.bashenghuo.com
