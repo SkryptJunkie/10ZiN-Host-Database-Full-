@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Saturday 25 June 2022
+# Date: 06:03 AM Sunday 26 June 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -2337,6 +2337,8 @@
 0.0.0.0 www.vinted-pl.nazwa573486.click
 0.0.0.0 inpost-pl.perw0371946o.click
 0.0.0.0 www.inpost-pl.perw0371946o.click
+0.0.0.0 vint-ed.pl-id0624967.click
+0.0.0.0 www.vint-ed.pl-id0624967.click
 0.0.0.0 www.mojapaczka-inpost.plid179483265.click
 0.0.0.0 www.vinted-pi.plid179483265.click
 0.0.0.0 www.dpd-pl.przeslanie-pndz.click
@@ -21466,6 +21468,7 @@
 0.0.0.0 privateclub.host
 0.0.0.0 prostagroup.host
 0.0.0.0 redbulconfirm.host
+0.0.0.0 seankoy.host
 0.0.0.0 wesfor.host
 0.0.0.0 yhadmi.host
 0.0.0.0 www.cristal2017.argo.host
@@ -21492,6 +21495,7 @@
 0.0.0.0 www.posylka-zaplata.host
 0.0.0.0 www.privateclub.host
 0.0.0.0 www.prostagroup.host
+0.0.0.0 www.seankoy.host
 0.0.0.0 www.thewiadomosci.host
 0.0.0.0 www.wesfor.host
 0.0.0.0 www.yhadmi.host
@@ -22526,6 +22530,7 @@
 0.0.0.0 opportancen.info
 0.0.0.0 opriateddoc.info
 0.0.0.0 oranla.info
+0.0.0.0 order950122.info
 0.0.0.0 orders143.info
 0.0.0.0 organicalews.info
 0.0.0.0 originalhack.info
@@ -23102,8 +23107,11 @@
 0.0.0.0 www.oneplprojekt.info
 0.0.0.0 www.oneprojektperfect.info
 0.0.0.0 www.onetpl-pgetech.info
+0.0.0.0 oferta-197.order512850.info
+0.0.0.0 www.oferta-197.order512850.info
 0.0.0.0 inpost-ndru.order667766.info
 0.0.0.0 www.inpost-ndru.order667766.info
+0.0.0.0 www.order950122.info
 0.0.0.0 inpost-dvav.orders143.info
 0.0.0.0 inpost-polska-qga.orders143.info
 0.0.0.0 www.orders143.info
@@ -24966,6 +24974,7 @@
 0.0.0.0 freedombookshop.tickme.lk
 0.0.0.0 tickjobs.tickme.lk
 0.0.0.0 feerk.loan
+0.0.0.0 guuno.loan
 0.0.0.0 hegirs.loan
 0.0.0.0 niggerson.loan
 0.0.0.0 redsok.loan
@@ -24974,6 +24983,7 @@
 0.0.0.0 vebsk.loan
 0.0.0.0 zagool.loan
 0.0.0.0 www.feerk.loan
+0.0.0.0 www.guuno.loan
 0.0.0.0 www.hegirs.loan
 0.0.0.0 www.redsok.loan
 0.0.0.0 www.sejansl.loan
@@ -25844,6 +25854,7 @@
 0.0.0.0 aktiv-hirek.net
 0.0.0.0 aliridho.net
 0.0.0.0 all-screenshots.net
+0.0.0.0 allegra-4862.net
 0.0.0.0 alpacabreeders.net
 0.0.0.0 alreadyfamous.net
 0.0.0.0 analpics.net
@@ -27103,6 +27114,8 @@
 0.0.0.0 adserver.akqa.net
 0.0.0.0 www.algocashmaster.net
 0.0.0.0 www.alladultdirectory.net
+0.0.0.0 www.allegra-4862.net
+0.0.0.0 www.allegra-pl.net
 0.0.0.0 mmm.alprofessor.net
 0.0.0.0 w1.am15.net
 0.0.0.0 w10.am15.net
@@ -27645,6 +27658,7 @@
 0.0.0.0 www.fakt-interia-39829093121.azureedge.net
 0.0.0.0 www.fakt-interia-62544444857.azureedge.net
 0.0.0.0 www.fakt-o2-50059572125.azureedge.net
+0.0.0.0 www.fakt-polska.azureedge.net
 0.0.0.0 www.fakt-wp-39883354334.azureedge.net
 0.0.0.0 www.fakt-wp-44894102605.azureedge.net
 0.0.0.0 www.fakt-wp-49869351191.azureedge.net
@@ -27683,6 +27697,7 @@
 0.0.0.0 www.fakty-wp-93064934991.azureedge.net
 0.0.0.0 www.fakty-wp-97681529423.azureedge.net
 0.0.0.0 www.guikhkps.azureedge.net
+0.0.0.0 www.info-militaria.azureedge.net
 0.0.0.0 www.info-ukraina.azureedge.net
 0.0.0.0 www.infomacje-1.azureedge.net
 0.0.0.0 www.infomacje-10.azureedge.net
@@ -27978,6 +27993,7 @@
 0.0.0.0 www.polska-pilne-1463229152019.azureedge.net
 0.0.0.0 www.polska-pilne-4079434673189.azureedge.net
 0.0.0.0 www.polska-pilne-4434470124294.azureedge.net
+0.0.0.0 www.polskie-fakty24.azureedge.net
 0.0.0.0 www.pomponik-24h-22519575693.azureedge.net
 0.0.0.0 www.pomponik-24h-36603292225.azureedge.net
 0.0.0.0 www.pomponik-3097462608539.azureedge.net
@@ -28038,6 +28054,8 @@
 0.0.0.0 www.poszukiwani-newsweek-62252088707.azureedge.net
 0.0.0.0 www.poszukiwania-warszawa.azureedge.net
 0.0.0.0 www.praca-w-domu.azureedge.net
+0.0.0.0 www.pracaonline.azureedge.net
+0.0.0.0 www.pracuj-aplikuj.azureedge.net
 0.0.0.0 www.pracuj-w-domu.azureedge.net
 0.0.0.0 www.pudelek-24-34891829480.azureedge.net
 0.0.0.0 www.pudelek-24-71044131031.azureedge.net
@@ -28134,6 +28152,11 @@
 0.0.0.0 www.wiadomosci-op-45474113799.azureedge.net
 0.0.0.0 www.wiadomosci-op-52989861553.azureedge.net
 0.0.0.0 www.wiadomosci-polsat-85151198631.azureedge.net
+0.0.0.0 www.wiadomosci-tv-1638954584574.azureedge.net
+0.0.0.0 www.wiadomosci-tv-4949922253954.azureedge.net
+0.0.0.0 www.wiadomosci-tv-7409849019035.azureedge.net
+0.0.0.0 www.wiadomosci-tv-7708169053591.azureedge.net
+0.0.0.0 www.wiadomosci-tv-8224903891104.azureedge.net
 0.0.0.0 www.wiadomosci-wp-pl-7.azureedge.net
 0.0.0.0 www.wiadomosci24.azureedge.net
 0.0.0.0 www.wirtualne-media.azureedge.net
@@ -30647,6 +30670,8 @@
 0.0.0.0 www.tuttosessogratis.org
 0.0.0.0 www.ping.ublock.org
 0.0.0.0 www.vinted.umvox.org
+0.0.0.0 inpost.umwtop.org
+0.0.0.0 www.inpost.umwtop.org
 0.0.0.0 www.unboxs.org
 0.0.0.0 ads.unixathome.org
 0.0.0.0 no3.unternehmen.org
@@ -30656,6 +30681,7 @@
 0.0.0.0 www.verfiedaccountsonline.org
 0.0.0.0 www.via99.org
 0.0.0.0 www.victoryuniquecharityfoundation.org
+0.0.0.0 www.inpost.vxorow.org
 0.0.0.0 inpost.weryfi.org
 0.0.0.0 olx.weryfi.org
 0.0.0.0 www.inpost.weryfi.org
@@ -30712,6 +30738,8 @@
 0.0.0.0 www.kassa-olx.naprzod539475.pics
 0.0.0.0 www.oix-pl.naprzod539475.pics
 0.0.0.0 www.vjnted-polsca.numerid03182346.pics
+0.0.0.0 vented.pl-id0257109.pics
+0.0.0.0 www.vented.pl-id0257109.pics
 0.0.0.0 vint-ed.polpw497264c.pics
 0.0.0.0 www.vint-ed.polpw497264c.pics
 0.0.0.0 ivint-pl.selplip358104.pics
@@ -32151,6 +32179,8 @@
 0.0.0.0 www.tanie-wapnowanie.pl
 0.0.0.0 www.aoc.teleaudio.pl
 0.0.0.0 www.testclub.pl
+0.0.0.0 bnp.testdomena.pl
+0.0.0.0 www.bnp.testdomena.pl
 0.0.0.0 www.timberland-polska.pl
 0.0.0.0 www.to-dla-kazdego.pl
 0.0.0.0 www.tomasz-madej.pl
@@ -32539,6 +32569,22 @@
 0.0.0.0 www.zr-informacjepl.waw.pl
 0.0.0.0 www.waznechwiel.pl
 0.0.0.0 www.web-maker.pl
+0.0.0.0 panel.home-1027128020.darmag.webd.pl
+0.0.0.0 www.panel.home-1027128020.darmag.webd.pl
+0.0.0.0 panel.home-1400552236.darmag.webd.pl
+0.0.0.0 www.panel.home-1400552236.darmag.webd.pl
+0.0.0.0 panel.home-1639620898.darmag.webd.pl
+0.0.0.0 www.panel.home-1639620898.darmag.webd.pl
+0.0.0.0 panel.home-189502798.darmag.webd.pl
+0.0.0.0 www.panel.home-189502798.darmag.webd.pl
+0.0.0.0 panel.home-362919809.darmag.webd.pl
+0.0.0.0 www.panel.home-362919809.darmag.webd.pl
+0.0.0.0 panel.home-795493095.darmag.webd.pl
+0.0.0.0 www.panel.home-795493095.darmag.webd.pl
+0.0.0.0 panel.home-90193100.darmag.webd.pl
+0.0.0.0 www.panel.home-90193100.darmag.webd.pl
+0.0.0.0 panel.home-948221536.darmag.webd.pl
+0.0.0.0 www.panel.home-948221536.darmag.webd.pl
 0.0.0.0 www.webwood.pl
 0.0.0.0 www.wernet.pl
 0.0.0.0 www.wiadomosci-swiat.pl
@@ -36370,6 +36416,7 @@
 0.0.0.0 www.sepladenveva.tk
 0.0.0.0 www.siolegbuhonkasttos.tk
 0.0.0.0 www.siowajoturi.tk
+0.0.0.0 www.sipocontima.tk
 0.0.0.0 www.sovenphopabi.tk
 0.0.0.0 www.spirforhoutetousubs.tk
 0.0.0.0 www.starader.tk
@@ -36998,6 +37045,7 @@
 0.0.0.0 vjnted-polsca.plid035947185.top
 0.0.0.0 www.vjnted-polsca.plid035947185.top
 0.0.0.0 www.inpostpl.plid0576390461.top
+0.0.0.0 www.imposst.polandgktr.top
 0.0.0.0 down.posti-fi-fjw.top
 0.0.0.0 www.predictelnewv.top
 0.0.0.0 oix-pl.przelew64854926.top
@@ -37384,6 +37432,7 @@
 0.0.0.0 redlandslabour.org.uk
 0.0.0.0 berskor.uno
 0.0.0.0 bimtarsir.uno
+0.0.0.0 buners.uno
 0.0.0.0 detios.uno
 0.0.0.0 dicolor.uno
 0.0.0.0 dnikos.uno
@@ -37400,6 +37449,7 @@
 0.0.0.0 przesylki.uno
 0.0.0.0 resolvew.uno
 0.0.0.0 seefne.uno
+0.0.0.0 sefinkow.uno
 0.0.0.0 sodel.uno
 0.0.0.0 sonaril.uno
 0.0.0.0 sunmest.uno
@@ -37409,6 +37459,7 @@
 0.0.0.0 yvosdo.uno
 0.0.0.0 www.berskor.uno
 0.0.0.0 www.bimtarsir.uno
+0.0.0.0 www.buners.uno
 0.0.0.0 www.detios.uno
 0.0.0.0 www.dicolor.uno
 0.0.0.0 www.dnikos.uno
@@ -37426,6 +37477,7 @@
 0.0.0.0 www.przesylki.uno
 0.0.0.0 www.resolvew.uno
 0.0.0.0 www.seefne.uno
+0.0.0.0 www.sefinkow.uno
 0.0.0.0 www.keitaro.slab.uno
 0.0.0.0 www.sodel.uno
 0.0.0.0 www.sonaril.uno
@@ -38013,6 +38065,7 @@
 0.0.0.0 www.servant-pl-fa.website
 0.0.0.0 www.szybkoiprosto.website
 0.0.0.0 www.terazmammnagranie.website
+0.0.0.0 www.teslainvesting.website
 0.0.0.0 www.teslainvesting1.website
 0.0.0.0 www.tgfind.website
 0.0.0.0 whenvideoup.thebigandfreesystemupdate.website
@@ -38041,6 +38094,7 @@
 0.0.0.0 goladsor.win
 0.0.0.0 hackncheatshouse.win
 0.0.0.0 hollps.win
+0.0.0.0 kaftakoy.win
 0.0.0.0 kelos.win
 0.0.0.0 litaes.win
 0.0.0.0 maverickmerch.win
@@ -38079,6 +38133,7 @@
 0.0.0.0 www.goladsor.win
 0.0.0.0 www.googmel.win
 0.0.0.0 www.grabflashsign.win
+0.0.0.0 www.kaftakoy.win
 0.0.0.0 www.kelos.win
 0.0.0.0 www.litaes.win
 0.0.0.0 www.modeskor.win
@@ -39374,6 +39429,7 @@
 0.0.0.0 www.inpost-pl.4876134-pieniadze-info.xyz
 0.0.0.0 www.1npost.5-dispatchproduct.xyz
 0.0.0.0 www.oix-pl.5242-shipment.xyz
+0.0.0.0 www.dellvery-1pr0vlded23.54354254.xyz
 0.0.0.0 www.inpot.5454shipping.xyz
 0.0.0.0 www.polska-alegrolokalnle.545678.xyz
 0.0.0.0 www.polska-olx.545678.xyz
@@ -39391,6 +39447,8 @@
 0.0.0.0 poiska-pay-vinted.602345.xyz
 0.0.0.0 www.poiska-pay-vinted.602345.xyz
 0.0.0.0 www.pl-alegrolokalnle.63294.xyz
+0.0.0.0 www.0lx-0nline3sh0p.642141245.xyz
+0.0.0.0 www.1npost-5progression.6435346.xyz
 0.0.0.0 dpd.64875-sendinggoods.xyz
 0.0.0.0 www.dpd.64875-sendinggoods.xyz
 0.0.0.0 inpost-pay-pl.651534.xyz
