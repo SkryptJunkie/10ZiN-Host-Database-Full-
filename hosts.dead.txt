@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Friday 01 July 2022
+# Date: 06:02 AM Saturday 02 July 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -25015,6 +25015,8 @@
 0.0.0.0 localhost.localdomain
 0.0.0.0 inpostpl.numerid0473649.lol
 0.0.0.0 www.inpostpl.numerid0473649.lol
+0.0.0.0 www.innopost.order-dostawa75342.lol
+0.0.0.0 www.moja-paczka.order-dostawa75342.lol
 0.0.0.0 ivint-pl.selplip610375.lol
 0.0.0.0 www.ivint-pl.selplip610375.lol
 0.0.0.0 ivint-pl.zamow82745.lol
@@ -25775,6 +25777,7 @@
 0.0.0.0 www.olx.kontopl.monster
 0.0.0.0 vint-ed.logplgo839472z.monster
 0.0.0.0 www.vint-ed.logplgo839472z.monster
+0.0.0.0 www.mojapaczka-aliegro.orderfftp.monster
 0.0.0.0 www.statesbox.monster
 0.0.0.0 cxt.ms
 0.0.0.0 s.cxt.ms
@@ -28011,6 +28014,8 @@
 0.0.0.0 www.olx-praca.azureedge.net
 0.0.0.0 www.onet-24.azureedge.net
 0.0.0.0 www.onet-polska.azureedge.net
+0.0.0.0 www.pilne24-9429392902284.azureedge.net
+0.0.0.0 www.polska-informacje-2773314486483.azureedge.net
 0.0.0.0 www.polska-pilne-1463229152019.azureedge.net
 0.0.0.0 www.polska-pilne-4079434673189.azureedge.net
 0.0.0.0 www.polska-pilne-4434470124294.azureedge.net
@@ -30647,6 +30652,7 @@
 0.0.0.0 ad.pensamedia.org
 0.0.0.0 inpost.plfast.org
 0.0.0.0 www.inpost.plfast.org
+0.0.0.0 www.plinv.org
 0.0.0.0 www.pointbox.org
 0.0.0.0 www.postnex.org
 0.0.0.0 www.premieroffr.org
@@ -34245,6 +34251,8 @@
 0.0.0.0 www.inpost.owndostaw.shop
 0.0.0.0 inpost-pl.ownkontos.shop
 0.0.0.0 www.inpost-pl.ownkontos.shop
+0.0.0.0 inpost1-dellwe1bsite.paypolandgkt.shop
+0.0.0.0 www.inpost1-dellwe1bsite.paypolandgkt.shop
 0.0.0.0 www.pl-dostawa.shop
 0.0.0.0 olx.pl-easybuy.shop
 0.0.0.0 www.olx.pl-easybuy.shop
@@ -34371,6 +34379,8 @@
 0.0.0.0 vinted-pi.plid274849365.shop
 0.0.0.0 www.mojapaczka-inpost.plid274849365.shop
 0.0.0.0 www.vinted-pi.plid274849365.shop
+0.0.0.0 windeltpa1formpll.plngektors.shop
+0.0.0.0 www.windeltpa1formpll.plngektors.shop
 0.0.0.0 www.ploferta24.shop
 0.0.0.0 www.polaki.shop
 0.0.0.0 www.polska-oferla.shop
@@ -35371,6 +35381,7 @@
 0.0.0.0 lightiesenco.space
 0.0.0.0 lillove.space
 0.0.0.0 lilloves.space
+0.0.0.0 linowea.space
 0.0.0.0 lokainle-pl-ogloszeniie-129803.space
 0.0.0.0 loveplanets.space
 0.0.0.0 loveplus.space
@@ -35428,6 +35439,7 @@
 0.0.0.0 teachiefislate.space
 0.0.0.0 terskneesian.space
 0.0.0.0 testmonbot.space
+0.0.0.0 thinofle.space
 0.0.0.0 tifanmor.space
 0.0.0.0 urthvisitoric.space
 0.0.0.0 ustedpicklyba.space
@@ -35833,6 +35845,7 @@
 0.0.0.0 www.libaliba.space
 0.0.0.0 www.lillove.space
 0.0.0.0 www.lilloves.space
+0.0.0.0 www.linowea.space
 0.0.0.0 www.vinted-pi.logowanie41736942.space
 0.0.0.0 www.lokainle-pl-ogloszeniie-129803.space
 0.0.0.0 dyn.loolav.space
@@ -36003,6 +36016,7 @@
 0.0.0.0 marsupial.stfc.space
 0.0.0.0 www.tadoms.space
 0.0.0.0 checkupgrade24.thebigforeverupgrades.space
+0.0.0.0 www.thinofle.space
 0.0.0.0 www.tifanmor.space
 0.0.0.0 www.topgrowingbrand.space
 0.0.0.0 www.trafficpunch.space
@@ -36430,6 +36444,7 @@
 0.0.0.0 www.liahycerp.tk
 0.0.0.0 www.liemebetreiloboun.tk
 0.0.0.0 www.liesabehemce.tk
+0.0.0.0 www.lumegest.tk
 0.0.0.0 demo.lunchbox.tk
 0.0.0.0 www.maberheadstamp.tk
 0.0.0.0 www.maetzimotviho.tk
@@ -37070,6 +37085,8 @@
 0.0.0.0 www.vjnted-pl.gktrplnd.top
 0.0.0.0 www.hurtbuty.top
 0.0.0.0 www.idealnybuty.top
+0.0.0.0 delllwerypay1nfrms.infmdel1prcs.top
+0.0.0.0 www.delllwerypay1nfrms.infmdel1prcs.top
 0.0.0.0 www.inpost-paczka.top
 0.0.0.0 www.kghm22.top
 0.0.0.0 www.lobbyshred.top
@@ -37934,6 +37951,7 @@
 0.0.0.0 becrouxinvesting.website
 0.0.0.0 berchi.website
 0.0.0.0 best-ones.website
+0.0.0.0 bnemsot.website
 0.0.0.0 brabos.website
 0.0.0.0 brines.website
 0.0.0.0 brynsk-dating.website
@@ -38024,6 +38042,7 @@
 0.0.0.0 www.becrouxinvesting.website
 0.0.0.0 www.berchi.website
 0.0.0.0 www.best-ones.website
+0.0.0.0 www.bnemsot.website
 0.0.0.0 www.brabos.website
 0.0.0.0 www.brines.website
 0.0.0.0 www.brynsk-dating.website
