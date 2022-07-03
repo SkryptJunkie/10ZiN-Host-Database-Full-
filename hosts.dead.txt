@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Saturday 02 July 2022
+# Date: 06:02 AM Sunday 03 July 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -10723,6 +10723,7 @@
 0.0.0.0 tutorarabia.com
 0.0.0.0 tv4chan.com
 0.0.0.0 tvmtracker.com
+0.0.0.0 tvqudpwppdhy.com
 0.0.0.0 tvshowcusting.com
 0.0.0.0 tvsquirrel.com
 0.0.0.0 twfilnym.com
