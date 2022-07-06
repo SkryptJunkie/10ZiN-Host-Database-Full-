@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:05 AM Tuesday 05 July 2022
+# Date: 06:02 AM Wednesday 06 July 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -39619,6 +39619,7 @@
 0.0.0.0 ycipiwic.xyz
 0.0.0.0 yckussysvawiu.xyz
 0.0.0.0 yeasderin.xyz
+0.0.0.0 yjuvmcgatsflbf.xyz
 0.0.0.0 ymnoebdjreb.xyz
 0.0.0.0 youorlen.xyz
 0.0.0.0 yournicegirl.xyz
