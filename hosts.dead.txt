@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Wednesday 06 July 2022
+# Date: 06:02 AM Thursday 07 July 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -6528,6 +6528,7 @@
 0.0.0.0 foodmechasia.com
 0.0.0.0 foodmixeroffer.com
 0.0.0.0 footballgamespot.com
+0.0.0.0 fopkscyj.com
 0.0.0.0 forceopminecraft.com
 0.0.0.0 forfindquality.com
 0.0.0.0 forgivencardiac.com
