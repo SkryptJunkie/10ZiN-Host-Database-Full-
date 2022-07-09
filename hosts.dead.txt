@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Friday 08 July 2022
+# Date: 06:02 AM Saturday 09 July 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -5096,6 +5096,7 @@
 0.0.0.0 ccd8450321.com
 0.0.0.0 cckgate.com
 0.0.0.0 ccsagacheats.com
+0.0.0.0 ccurhtsytwyjjr.com
 0.0.0.0 cd239ecf15.com
 0.0.0.0 cdn-onedrive-live.com
 0.0.0.0 cdncontentdelivery.com
@@ -8109,6 +8110,7 @@
 0.0.0.0 luycos.com
 0.0.0.0 lvgvax82bp.com
 0.0.0.0 lvqnychauf.com
+0.0.0.0 lxblgblrwxbilhd.com
 0.0.0.0 lxgoewxns.com
 0.0.0.0 lxrbank.com
 0.0.0.0 lycosgamesville.com
