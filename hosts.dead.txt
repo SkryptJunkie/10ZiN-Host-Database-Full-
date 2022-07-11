@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Sunday 10 July 2022
+# Date: 06:02 AM Monday 11 July 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -7823,6 +7823,7 @@
 0.0.0.0 kazanagroceryandgifts.com
 0.0.0.0 kczambians.com
 0.0.0.0 kdbumyha.com
+0.0.0.0 kdcegqtdrtij.com
 0.0.0.0 keepiptext.com
 0.0.0.0 keepskins.com
 0.0.0.0 kellymoses.com
