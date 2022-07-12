@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Monday 11 July 2022
+# Date: 06:02 AM Tuesday 12 July 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -10749,6 +10749,7 @@
 0.0.0.0 twittergiveaways.com
 0.0.0.0 twonl.com
 0.0.0.0 twtdesigns.com
+0.0.0.0 txmdgiscnlows.com
 0.0.0.0 txwha3vuso66.com
 0.0.0.0 tyranprototypeoats.com
 0.0.0.0 tytswirl.com
