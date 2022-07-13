@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Tuesday 12 July 2022
+# Date: 06:02 AM Wednesday 13 July 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -5852,6 +5852,7 @@
 0.0.0.0 dlfclcey.com
 0.0.0.0 dlhaven.com
 0.0.0.0 dltorch.com
+0.0.0.0 dmojfaerxpqn.com
 0.0.0.0 dnjss.com
 0.0.0.0 do-wn-lo-ad.com
 0.0.0.0 documents-signature.com
