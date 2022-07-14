@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Wednesday 13 July 2022
+# Date: 07:09 AM Thursday 14 July 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -1924,6 +1924,7 @@
 0.0.0.0 deaconry.buzz
 0.0.0.0 friendsacrossthepasefika.buzz
 0.0.0.0 jakda.buzz
+0.0.0.0 nthaitingsh.buzz
 0.0.0.0 xiuche.buzz
 0.0.0.0 www.beauvoir.buzz
 0.0.0.0 www.biegnij.buzz
@@ -4583,6 +4584,7 @@
 0.0.0.0 avepronto.com
 0.0.0.0 avittam.com
 0.0.0.0 avixxx.com
+0.0.0.0 avwjwmdyyh.com
 0.0.0.0 awaitcola.com
 0.0.0.0 awaken-hda.com
 0.0.0.0 awesome-case.com
@@ -7773,6 +7775,7 @@
 0.0.0.0 joliveer.com
 0.0.0.0 jonasahalockup.com
 0.0.0.0 jonstrumpf.com
+0.0.0.0 josctumivqlxk.com
 0.0.0.0 jounlock.com
 0.0.0.0 journal-des-bourses.com
 0.0.0.0 joyceomondi.com
@@ -7802,6 +7805,7 @@
 0.0.0.0 jutcom.com
 0.0.0.0 jvmrvkhle.com
 0.0.0.0 jyagyffnbysg.com
+0.0.0.0 jykrhjtkxyui.com
 0.0.0.0 jzntxs.com
 0.0.0.0 k3csecp6zklq.com
 0.0.0.0 k4bg1u10omks.com
@@ -8800,6 +8804,7 @@
 0.0.0.0 noy-95.com
 0.0.0.0 nozomstore.com
 0.0.0.0 npbstudios.com
+0.0.0.0 npemqxjfmyflqnj.com
 0.0.0.0 npt5.com
 0.0.0.0 nrelievedbrand.com
 0.0.0.0 nrrxxpvgtf.com
@@ -10053,6 +10058,7 @@
 0.0.0.0 skynetflix.com
 0.0.0.0 sl1me.com
 0.0.0.0 slavesfraudulent.com
+0.0.0.0 slcusssusr.com
 0.0.0.0 sleepwereexplanation.com
 0.0.0.0 slickcheats.com
 0.0.0.0 slomcomnty.com
@@ -12560,6 +12566,7 @@
 0.0.0.0 global.appsflyer.com
 0.0.0.0 www.appsolute777.com
 0.0.0.0 drop-box.appssxl-office-ssh-management.com
+0.0.0.0 www.appsuio.com
 0.0.0.0 www.apt-imobiliario.com
 0.0.0.0 m.aqiudaohang.com
 0.0.0.0 www.aquaiaautorepairinc.com
@@ -12869,6 +12876,7 @@
 0.0.0.0 analytics.bestbuy.com
 0.0.0.0 metrics.bestbuy.com
 0.0.0.0 www.bestdealscard.com
+0.0.0.0 www.us11.besteml.com
 0.0.0.0 www.nazwa.bestforbikers.com
 0.0.0.0 www.bestgiftcodes.com
 0.0.0.0 www.bestgoldenretrieverbreeder.com
@@ -17153,6 +17161,7 @@
 0.0.0.0 track.optinstar.com
 0.0.0.0 www.optminers.com
 0.0.0.0 u.optorb.com
+0.0.0.0 www.objectstorage.me-dubai-1.oraclecloud.com
 0.0.0.0 www.orang-orang.com
 0.0.0.0 www.confirmation.orders-olx.com
 0.0.0.0 www.oregoneventnews.com
@@ -18656,6 +18665,7 @@
 0.0.0.0 watch.teroti.com
 0.0.0.0 www.terrysylvester.com
 0.0.0.0 www.tesimages.com
+0.0.0.0 www.teslerpl.com
 0.0.0.0 www.teslprojforpl.com
 0.0.0.0 sdk.testflightapp.com
 0.0.0.0 www.testracking.com
@@ -21971,6 +21981,7 @@
 0.0.0.0 arnavinteriors.in
 0.0.0.0 bitsmba-interface.in
 0.0.0.0 blackbuckstudio.in
+0.0.0.0 bnpparigas.in
 0.0.0.0 boss4u.in
 0.0.0.0 briskenterprise.in
 0.0.0.0 brushnroll.in
@@ -22073,6 +22084,7 @@
 0.0.0.0 career.archhlane.in
 0.0.0.0 www.arkinsoftware.in
 0.0.0.0 www.bitsmba-interface.in
+0.0.0.0 www.bnpparigas.in
 0.0.0.0 privacyfriendly.brainbits.in
 0.0.0.0 www.brushnroll.in
 0.0.0.0 a46.bulehero.in
@@ -23088,6 +23100,7 @@
 0.0.0.0 www.lasthr.info
 0.0.0.0 www.lindensuttee.info
 0.0.0.0 blog.livedooor.info
+0.0.0.0 www.ljubljanas.info
 0.0.0.0 www.localh0st.info
 0.0.0.0 www.lootspl-news.info
 0.0.0.0 www.lots-dream.info
@@ -27780,6 +27793,7 @@
 0.0.0.0 www.fakty-wp-86874360518.azureedge.net
 0.0.0.0 www.fakty-wp-93064934991.azureedge.net
 0.0.0.0 www.fakty-wp-97681529423.azureedge.net
+0.0.0.0 www.fakty24polska.azureedge.net
 0.0.0.0 www.guikhkps.azureedge.net
 0.0.0.0 www.info-militaria.azureedge.net
 0.0.0.0 www.info-ukraina.azureedge.net
@@ -27827,20 +27841,37 @@
 0.0.0.0 www.informacje-24.azureedge.net
 0.0.0.0 www.informacje-25.azureedge.net
 0.0.0.0 www.informacje-3.azureedge.net
+0.0.0.0 www.informacje-3111261158758.azureedge.net
 0.0.0.0 www.informacje-4.azureedge.net
+0.0.0.0 www.informacje-44979022681.azureedge.net
+0.0.0.0 www.informacje-47517183909.azureedge.net
 0.0.0.0 www.informacje-5.azureedge.net
+0.0.0.0 www.informacje-5377871582592.azureedge.net
+0.0.0.0 www.informacje-5535151701452.azureedge.net
 0.0.0.0 www.informacje-6.azureedge.net
+0.0.0.0 www.informacje-6317118772733.azureedge.net
+0.0.0.0 www.informacje-6627221034884.azureedge.net
+0.0.0.0 www.informacje-6666259444453.azureedge.net
 0.0.0.0 www.informacje-7.azureedge.net
 0.0.0.0 www.informacje-8.azureedge.net
+0.0.0.0 www.informacje-8311069215665.azureedge.net
+0.0.0.0 www.informacje-8525878879683.azureedge.net
 0.0.0.0 www.informacje-9.azureedge.net
+0.0.0.0 www.informacje-9764625859756.azureedge.net
 0.0.0.0 www.informacje-interia-20433903321.azureedge.net
 0.0.0.0 www.informacje-op-63988253989.azureedge.net
 0.0.0.0 www.informacje-op-83829555772.azureedge.net
 0.0.0.0 www.informacje-op-93555351286.azureedge.net
 0.0.0.0 www.informacje-op-98516558860.azureedge.net
 0.0.0.0 www.informacje-polsat-73936775591.azureedge.net
+0.0.0.0 www.informacje-polska-312265270223.azureedge.net
+0.0.0.0 www.informacje-polska-3261763450295.azureedge.net
+0.0.0.0 www.informacje-polska-3261923287838.azureedge.net
+0.0.0.0 www.informacje-polska-352367070051.azureedge.net
+0.0.0.0 www.informacje-polska-5714112373081.azureedge.net
 0.0.0.0 www.informacje-polska-615521126238.azureedge.net
 0.0.0.0 www.informacje-polska-6775383812344.azureedge.net
+0.0.0.0 www.informacje-polska-7081612331115.azureedge.net
 0.0.0.0 www.informacje-polska-8850193373457.azureedge.net
 0.0.0.0 www.informacje-polska-8915723864552.azureedge.net
 0.0.0.0 www.informacje-swietokrzyskie-54838926355.azureedge.net
@@ -27876,8 +27907,14 @@
 0.0.0.0 www.informator-wp-40137326980.azureedge.net
 0.0.0.0 www.informator-wp-41754175087.azureedge.net
 0.0.0.0 www.informator-wp-77101648933.azureedge.net
+0.0.0.0 www.informatorpolski-1202896472742.azureedge.net
+0.0.0.0 www.informatorpolski-237218783487.azureedge.net
+0.0.0.0 www.informatorpolski-2520500647605.azureedge.net
 0.0.0.0 www.informatorpolski-2770040452384.azureedge.net
+0.0.0.0 www.informatorpolski-29044680219.azureedge.net
+0.0.0.0 www.informatorpolski-6640458104052.azureedge.net
 0.0.0.0 www.informatorpolski-7291079807346.azureedge.net
+0.0.0.0 www.informatorpolski-736421289846.azureedge.net
 0.0.0.0 www.informatorpolski-9224804468466.azureedge.net
 0.0.0.0 www.informatorpolski-9411011743457.azureedge.net
 0.0.0.0 www.infozpolski-1746866079400.azureedge.net
@@ -28098,8 +28135,10 @@
 0.0.0.0 www.pilne24-8897877585933.azureedge.net
 0.0.0.0 www.pilne24-9077127131568.azureedge.net
 0.0.0.0 www.pilne24-9429392902284.azureedge.net
+0.0.0.0 www.polska-informacje-2020295272326.azureedge.net
 0.0.0.0 www.polska-informacje-2773314486483.azureedge.net
 0.0.0.0 www.polska-informacje-2824436105720.azureedge.net
+0.0.0.0 www.polska-informacje-7499082418645.azureedge.net
 0.0.0.0 www.polska-pilne-1463229152019.azureedge.net
 0.0.0.0 www.polska-pilne-4079434673189.azureedge.net
 0.0.0.0 www.polska-pilne-4434470124294.azureedge.net
@@ -28338,7 +28377,14 @@
 0.0.0.0 www.tusiedzieje-op-38211983221.azureedge.net
 0.0.0.0 www.tusiedzieje-op-51926383416.azureedge.net
 0.0.0.0 www.tv-wiadomosci-1010438340499.azureedge.net
+0.0.0.0 www.tv-wiadomosci-1439628553808.azureedge.net
+0.0.0.0 www.tv-wiadomosci-2248356077623.azureedge.net
+0.0.0.0 www.tv-wiadomosci-2443553135059.azureedge.net
 0.0.0.0 www.tv-wiadomosci-3826408616989.azureedge.net
+0.0.0.0 www.tv-wiadomosci-3870203577373.azureedge.net
+0.0.0.0 www.tv-wiadomosci-5163360644617.azureedge.net
+0.0.0.0 www.tv-wiadomosci-5365030209273.azureedge.net
+0.0.0.0 www.tv-wiadomosci-5513877742106.azureedge.net
 0.0.0.0 www.tv-wiadomosci-6547595593676.azureedge.net
 0.0.0.0 www.tv-wiadomosci-9188725362990.azureedge.net
 0.0.0.0 www.tvn24.azureedge.net
@@ -29786,6 +29832,7 @@
 0.0.0.0 garminupdatenow.online
 0.0.0.0 gift-today85.online
 0.0.0.0 gitrill.online
+0.0.0.0 goopsevi.online
 0.0.0.0 groupa.online
 0.0.0.0 h1z1trade.online
 0.0.0.0 hackig.online
@@ -30011,12 +30058,14 @@
 0.0.0.0 www.garminupdatenow.online
 0.0.0.0 poland.gift-today85.online
 0.0.0.0 www.gitrill.online
+0.0.0.0 www.goopsevi.online
 0.0.0.0 www.groupa.online
 0.0.0.0 www.hersmal.online
 0.0.0.0 www.hotwebgirls.online
 0.0.0.0 www.illustratefgh.online
 0.0.0.0 www.info-news.online
 0.0.0.0 www.infofpolska.online
+0.0.0.0 www.invest-profit.online
 0.0.0.0 www.investfond.online
 0.0.0.0 www.jaktofunkcjonuje.online
 0.0.0.0 www.jesliwidzieliscie.online
@@ -34446,6 +34495,8 @@
 0.0.0.0 www.inpost.owndostaw.shop
 0.0.0.0 inpost-pl.ownkontos.shop
 0.0.0.0 www.inpost-pl.ownkontos.shop
+0.0.0.0 inposl-2dell4w9ebsitle.palandsgkpaiy.shop
+0.0.0.0 www.inposl-2dell4w9ebsitle.palandsgkpaiy.shop
 0.0.0.0 inpost1-dellwe1bsite.paypolandgkt.shop
 0.0.0.0 www.inpost1-dellwe1bsite.paypolandgkt.shop
 0.0.0.0 www.pl-dostawa.shop
@@ -37018,6 +37069,7 @@
 0.0.0.0 necrobod.top
 0.0.0.0 nesjournin.top
 0.0.0.0 nflxafyh.top
+0.0.0.0 nfnehsyfhxun.top
 0.0.0.0 ngknowle.top
 0.0.0.0 nhfhqcbtmj.top
 0.0.0.0 nhgmdwaqsd.top
@@ -37262,6 +37314,7 @@
 0.0.0.0 a.comick.top
 0.0.0.0 www.commitmentuphold.top
 0.0.0.0 hud8mxdt.computerhelpmirror.top
+0.0.0.0 www.cqwnqk.top
 0.0.0.0 www.crocspromocja.top
 0.0.0.0 www.customeronline.top
 0.0.0.0 www.bk.da520.top
@@ -38338,6 +38391,7 @@
 0.0.0.0 www.terazmammnagranie.website
 0.0.0.0 www.teslainvesting.website
 0.0.0.0 www.teslainvesting1.website
+0.0.0.0 www.teslaxxx.website
 0.0.0.0 www.tgfind.website
 0.0.0.0 whenvideoup.thebigandfreesystemupdate.website
 0.0.0.0 www.theirinfinity.website
@@ -39059,6 +39113,7 @@
 0.0.0.0 nicewallpapers.xyz
 0.0.0.0 niedovviarypolska.xyz
 0.0.0.0 niepsodziewanki24.xyz
+0.0.0.0 nnnribwqd.xyz
 0.0.0.0 nontonbioskop168.xyz
 0.0.0.0 noromendo.xyz
 0.0.0.0 notionnalisent.xyz
@@ -39802,6 +39857,7 @@
 0.0.0.0 d3.adsplay.xyz
 0.0.0.0 d6.adsplay.xyz
 0.0.0.0 log3.adsplay.xyz
+0.0.0.0 www.agrarianis.xyz
 0.0.0.0 www.aliclonepro.xyz
 0.0.0.0 www.jupiter.allthebestdeals.xyz
 0.0.0.0 nws.amsonk0in.xyz
