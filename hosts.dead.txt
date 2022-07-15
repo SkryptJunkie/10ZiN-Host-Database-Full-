@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 07:09 AM Thursday 14 July 2022
+# Date: 06:03 AM Friday 15 July 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -36532,6 +36532,7 @@
 0.0.0.0 www.oferta.tech
 0.0.0.0 www.sol.pumpkinapopeye.tech
 0.0.0.0 www.sol-b.pumpkinapopeye.tech
+0.0.0.0 direct.safone.tech
 0.0.0.0 invest.smartlands.tech
 0.0.0.0 tokensale.syncfab.tech
 0.0.0.0 www.vcampetyld.tech
