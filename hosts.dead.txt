@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:04 AM Tuesday 19 July 2022
+# Date: 06:02 AM Wednesday 20 July 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -7372,6 +7372,7 @@
 0.0.0.0 hkhotpewfxr.com
 0.0.0.0 hkythaya.com
 0.0.0.0 hl3beta.com
+0.0.0.0 hlrdkyfusroglf.com
 0.0.0.0 hmikw.com
 0.0.0.0 hogyp.com
 0.0.0.0 hoilop.com
@@ -9826,6 +9827,7 @@
 0.0.0.0 schoolqualification.com
 0.0.0.0 scifimovies4u.com
 0.0.0.0 scl-hacks.com
+0.0.0.0 scldqmjsho.com
 0.0.0.0 scoobyads.com
 0.0.0.0 scooterdegradation.com
 0.0.0.0 scoremygift.com
