@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Monday 01 August 2022
+# Date: 06:02 AM Tuesday 02 August 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -5896,6 +5896,7 @@
 0.0.0.0 donswoodwork.com
 0.0.0.0 dontaxoaf.com
 0.0.0.0 dopelx.com
+0.0.0.0 dopnyvhgusxml.com
 0.0.0.0 dopoczdh.com
 0.0.0.0 doppler-coins.com
 0.0.0.0 doppler-roulette.com
@@ -6793,6 +6794,7 @@
 0.0.0.0 futbolamericanoenlinea.com
 0.0.0.0 future7ios7.com
 0.0.0.0 futuresbtcoffersnew.com
+0.0.0.0 fwhmftvi.com
 0.0.0.0 fxyc0dwa.com
 0.0.0.0 g0b2rzzyu87s.com
 0.0.0.0 g1thub.com
@@ -8771,6 +8773,7 @@
 0.0.0.0 nflue.com
 0.0.0.0 nfshacksreborn.com
 0.0.0.0 ngkart.com
+0.0.0.0 ngpdamiursig.com
 0.0.0.0 ngumyydbupv.com
 0.0.0.0 nguyenthuyquynhhoa.com
 0.0.0.0 nhjctolekhdcp.com
@@ -9262,6 +9265,7 @@
 0.0.0.0 plusbatterypower.com
 0.0.0.0 plxtejszb.com
 0.0.0.0 pmfar.com
+0.0.0.0 pmjrvjanbawam.com
 0.0.0.0 pndelfast.com
 0.0.0.0 pnhdnlrzwu.com
 0.0.0.0 pnhtmagmhbu.com
@@ -10610,6 +10614,7 @@
 0.0.0.0 tjcttxdfrlb.com
 0.0.0.0 tk-autoshop.com
 0.0.0.0 tlcmoto.com
+0.0.0.0 tlrtjgnaumgayk.com
 0.0.0.0 tmakinternational.com
 0.0.0.0 tmpclk.com
 0.0.0.0 tmpconsultores.com
@@ -10793,6 +10798,7 @@
 0.0.0.0 twtdesigns.com
 0.0.0.0 txmdgiscnlows.com
 0.0.0.0 txwha3vuso66.com
+0.0.0.0 tyjuphiaht.com
 0.0.0.0 tyranprototypeoats.com
 0.0.0.0 tytswirl.com
 0.0.0.0 tzero-ico.com
@@ -10920,6 +10926,7 @@
 0.0.0.0 uuberbonus.com
 0.0.0.0 uuribxuxsbdfof.com
 0.0.0.0 uveillfxkpisfw.com
+0.0.0.0 uwcwninhrpt.com
 0.0.0.0 uxfpdo3hx5fi.com
 0.0.0.0 uxowypikexhz.com
 0.0.0.0 uxrjdh.com
@@ -11524,6 +11531,7 @@
 0.0.0.0 xxxpicshere.com
 0.0.0.0 xxxsection.com
 0.0.0.0 xyhfountainlights.com
+0.0.0.0 xyosnsyydrfrjd.com
 0.0.0.0 y72yuyr9.com
 0.0.0.0 yachtpreceding.com
 0.0.0.0 yamahabobber.com
@@ -31040,6 +31048,7 @@
 0.0.0.0 www.coinsprize.org
 0.0.0.0 bango.combango.org
 0.0.0.0 cmp.faktor.mgr.consensu.org
+0.0.0.0 cmp.smartadserver.mgr.consensu.org
 0.0.0.0 oascentral.consumerreports.org
 0.0.0.0 www.contbox.org
 0.0.0.0 www.covenantmarriagesinc.org
@@ -37277,6 +37286,7 @@
 0.0.0.0 avnkyihuljucsnw.top
 0.0.0.0 bburpouuh.top
 0.0.0.0 bdyuewmk.top
+0.0.0.0 behojxrdlfr.top
 0.0.0.0 best-browser.top
 0.0.0.0 biisonalmflevqg.top
 0.0.0.0 bingtonwr.top
