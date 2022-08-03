@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Tuesday 02 August 2022
+# Date: 06:02 AM Wednesday 03 August 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -5751,6 +5751,7 @@
 0.0.0.0 daumcdnf.com
 0.0.0.0 dauntlessomelette.com
 0.0.0.0 davidsondelaplante.com
+0.0.0.0 davixrpi.com
 0.0.0.0 dawnframing.com
 0.0.0.0 daybrooksco.com
 0.0.0.0 dayzalpha.com
@@ -7778,6 +7779,7 @@
 0.0.0.0 jerichoplay.com
 0.0.0.0 jersey-offer.com
 0.0.0.0 jeuxelite.com
+0.0.0.0 jfjujflqyekt.com
 0.0.0.0 jfresi.com
 0.0.0.0 jfxkxoicr.com
 0.0.0.0 jgbaoydldw.com
@@ -11516,6 +11518,7 @@
 0.0.0.0 xrhobrrgwhtlu.com
 0.0.0.0 xrqrpdxqpm.com
 0.0.0.0 xsd6.com
+0.0.0.0 xstjtdwuxxs.com
 0.0.0.0 xsztfrlkphqy.com
 0.0.0.0 xtracracks.com
 0.0.0.0 xtrapool.com
@@ -18997,6 +19000,9 @@
 0.0.0.0 www.topbullybreeders.com
 0.0.0.0 partner.topcities.com
 0.0.0.0 ade.topepics.com
+0.0.0.0 05fd.ssl.topgearoutfitters.com
+0.0.0.0 c946.ssl.topgearoutfitters.com
+0.0.0.0 f31e.ssl.topgearoutfitters.com
 0.0.0.0 oascentral.tophosts.com
 0.0.0.0 www.tophot-datingzone.com
 0.0.0.0 statik.topica.com
@@ -37337,6 +37343,7 @@
 0.0.0.0 dcdjvrvfthk.top
 0.0.0.0 dcrecycle.top
 0.0.0.0 derbodilehe.top
+0.0.0.0 dhtbkgcn.top
 0.0.0.0 dicularstors.top
 0.0.0.0 dintrateim.top
 0.0.0.0 dislanelibrar.top
@@ -37445,6 +37452,7 @@
 0.0.0.0 hirek.top
 0.0.0.0 hirexpressz.top
 0.0.0.0 hirtrafik.top
+0.0.0.0 hkmurfdpe.top
 0.0.0.0 honestsun.top
 0.0.0.0 hospitecor.top
 0.0.0.0 houtrelen.top
