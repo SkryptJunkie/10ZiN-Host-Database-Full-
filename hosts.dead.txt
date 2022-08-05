@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:04 AM Thursday 04 August 2022
+# Date: 06:02 AM Friday 05 August 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -5879,6 +5879,7 @@
 0.0.0.0 djstools.com
 0.0.0.0 dkdmygipll.com
 0.0.0.0 dkgql3.com
+0.0.0.0 dkrvagvsqwcx.com
 0.0.0.0 dkspqpprnsmmte.com
 0.0.0.0 dl-plugin.com
 0.0.0.0 dl3dsemulator.com
@@ -6194,6 +6195,7 @@
 0.0.0.0 erevtljvo.com
 0.0.0.0 eriqbrooklyn.com
 0.0.0.0 erolmutfak.com
+0.0.0.0 erpyfubgt.com
 0.0.0.0 error-warning-alert-critical-5x.com
 0.0.0.0 errsensordiscourse.com
 0.0.0.0 ertigaclubindonesia.com
@@ -6212,6 +6214,7 @@
 0.0.0.0 estilosybellezas.com
 0.0.0.0 esyzdb.com
 0.0.0.0 etadjewellery.com
+0.0.0.0 etbglfmpuqurhys.com
 0.0.0.0 eth-giving.com
 0.0.0.0 ethanslayton.com
 0.0.0.0 ethedelta.com
@@ -7707,6 +7710,7 @@
 0.0.0.0 ippoonlinne.com
 0.0.0.0 ipropozycja.com
 0.0.0.0 iqkfplsez.com
+0.0.0.0 iqtdhnfhsop.com
 0.0.0.0 irkfunkyformer.com
 0.0.0.0 ironforcehack.com
 0.0.0.0 ironhidecheats.com
@@ -10634,6 +10638,7 @@
 0.0.0.0 tmpconsultores.com
 0.0.0.0 tmvox.com
 0.0.0.0 tnf-pl.com
+0.0.0.0 tnlvnnvlsrabywk.com
 0.0.0.0 tnrff-home.com
 0.0.0.0 todaypeaks.com
 0.0.0.0 tofufiresquid.com
@@ -10836,6 +10841,7 @@
 0.0.0.0 uhackgames.com
 0.0.0.0 uhbixtfhwdtmd.com
 0.0.0.0 uieoogjarimcey.com
+0.0.0.0 uiqakwjmugofbuu.com
 0.0.0.0 ujuqvalvvvof.com
 0.0.0.0 ukash-hack.com
 0.0.0.0 ukblizzard.com
@@ -24165,6 +24171,7 @@
 0.0.0.0 bestprizesinside1.life
 0.0.0.0 bestprofits-for-you1.life
 0.0.0.0 big-prizes-place7.life
+0.0.0.0 bonus-point1.life
 0.0.0.0 box-prize-you.life
 0.0.0.0 bpbsts.life
 0.0.0.0 checkprizes-online2.life
