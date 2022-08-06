@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Friday 05 August 2022
+# Date: 06:02 AM Saturday 06 August 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -9503,6 +9503,7 @@
 0.0.0.0 qauntstanp.com
 0.0.0.0 qedsfmsjklfirga4.com
 0.0.0.0 qenabled.com
+0.0.0.0 qffvrenbek.com
 0.0.0.0 qhkhchjqawst.com
 0.0.0.0 qijigm.com
 0.0.0.0 qitrck.com
