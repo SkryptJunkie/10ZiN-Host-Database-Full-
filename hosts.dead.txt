@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Saturday 06 August 2022
+# Date: 06:02 AM Sunday 07 August 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -6809,6 +6809,7 @@
 0.0.0.0 futbolamericanoenlinea.com
 0.0.0.0 future7ios7.com
 0.0.0.0 futuresbtcoffersnew.com
+0.0.0.0 fvvhebchwuym.com
 0.0.0.0 fwhmftvi.com
 0.0.0.0 fxyc0dwa.com
 0.0.0.0 g0b2rzzyu87s.com
@@ -8776,6 +8777,7 @@
 0.0.0.0 newnguyen.com
 0.0.0.0 newpsncodegenerator.com
 0.0.0.0 newsheadlineupdates.com
+0.0.0.0 newsnowextra.com
 0.0.0.0 newsosent.com
 0.0.0.0 newspaperlove.com
 0.0.0.0 newssourceoftoday.com
@@ -37616,6 +37618,7 @@
 0.0.0.0 kieuqepq.top
 0.0.0.0 kingshape.top
 0.0.0.0 kiptcellow.top
+0.0.0.0 kjlbxpxu.top
 0.0.0.0 kkukrstvykj.top
 0.0.0.0 kmwapcfunvhqk.top
 0.0.0.0 knneqqbgxeot.top
