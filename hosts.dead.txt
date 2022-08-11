@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:03 AM Wednesday 10 August 2022
+# Date: 06:02 AM Thursday 11 August 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -31153,6 +31153,7 @@
 0.0.0.0 easy-skins.online
 0.0.0.0 easy-trade24.online
 0.0.0.0 easy24trades.online
+0.0.0.0 edigitalstudios.online
 0.0.0.0 emporioestacao.online
 0.0.0.0 etherwallet.online
 0.0.0.0 ethgive.online
