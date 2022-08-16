@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Monday 15 August 2022
+# Date: 06:02 AM Tuesday 16 August 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -4957,6 +4957,7 @@
 0.0.0.0 breavdmgbrcief.com
 0.0.0.0 breedingcasual.com
 0.0.0.0 breezdesign.com
+0.0.0.0 brianridhomes.com
 0.0.0.0 brilliantfiles.com
 0.0.0.0 brillianthack.com
 0.0.0.0 brillsurgical.com
