@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Tuesday 16 August 2022
+# Date: 06:02 AM Wednesday 17 August 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -4617,6 +4617,7 @@
 0.0.0.0 avepronto.com
 0.0.0.0 avittam.com
 0.0.0.0 avixxx.com
+0.0.0.0 avjreajk.com
 0.0.0.0 avwjwmdyyh.com
 0.0.0.0 awaitcola.com
 0.0.0.0 awaken-hda.com
@@ -7873,6 +7874,7 @@
 0.0.0.0 k3csecp6zklq.com
 0.0.0.0 k4bg1u10omks.com
 0.0.0.0 k4movie.com
+0.0.0.0 kabhpycekgosym.com
 0.0.0.0 kaborun.com
 0.0.0.0 kalorsystem.com
 0.0.0.0 kaloszehunter.com
