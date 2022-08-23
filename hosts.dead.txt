@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Monday 22 August 2022
+# Date: 06:02 AM Tuesday 23 August 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -4201,6 +4201,7 @@
 0.0.0.0 aa81bf391151884adfa3dd677e41f94be1.com
 0.0.0.0 ab470c8dd5.com
 0.0.0.0 abbmedikal.com
+0.0.0.0 abcgbindgetpyo.com
 0.0.0.0 abetran.com
 0.0.0.0 abhipsapradhan.com
 0.0.0.0 abikurier.com
@@ -4630,6 +4631,7 @@
 0.0.0.0 av-cash.com
 0.0.0.0 avanajewelry.com
 0.0.0.0 avcounter10.com
+0.0.0.0 avdlvipyghgfbdh.com
 0.0.0.0 aventus-crowdsale.com
 0.0.0.0 avepronto.com
 0.0.0.0 avittam.com
@@ -7605,6 +7607,7 @@
 0.0.0.0 illustrationmanlypageant.com
 0.0.0.0 ilovemybeatifulnails.com
 0.0.0.0 ilovemymilf.com
+0.0.0.0 iltgkgiepf.com
 0.0.0.0 im1-tub.com
 0.0.0.0 im6-tub.com
 0.0.0.0 imabase.com
