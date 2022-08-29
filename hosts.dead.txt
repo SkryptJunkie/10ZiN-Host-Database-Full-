@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Sunday 28 August 2022
+# Date: 06:03 AM Monday 29 August 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -22518,6 +22518,7 @@
 0.0.0.0 www.kombo-sistem.fun
 0.0.0.0 www.dpd-pl.konto-wcy.fun
 0.0.0.0 www.leyber.fun
+0.0.0.0 220827014823361.aii.lnf44.fun
 0.0.0.0 www.vinted-pi.logowanie2518349.fun
 0.0.0.0 www.lokalnie-dostawa.fun
 0.0.0.0 www.losngay248.fun
@@ -39111,6 +39112,7 @@
 0.0.0.0 icloud-lockes.top
 0.0.0.0 idealnybuty.top
 0.0.0.0 iepipdqgwpbqd.top
+0.0.0.0 inexu.top
 0.0.0.0 inpost-paczka.top
 0.0.0.0 instamore.top
 0.0.0.0 iocegdtpwmbg.top
