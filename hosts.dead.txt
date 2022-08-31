@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:03 AM Tuesday 30 August 2022
+# Date: 06:02 AM Wednesday 31 August 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -7845,6 +7845,7 @@
 0.0.0.0 jeuxelite.com
 0.0.0.0 jfjujflqyekt.com
 0.0.0.0 jfresi.com
+0.0.0.0 jftqnpxewixqrf.com
 0.0.0.0 jfxkxoicr.com
 0.0.0.0 jgbaoydldw.com
 0.0.0.0 jiltlargosirk.com
@@ -9560,6 +9561,7 @@
 0.0.0.0 qenabled.com
 0.0.0.0 qffvrenbek.com
 0.0.0.0 qhkhchjqawst.com
+0.0.0.0 qhsihvjmut.com
 0.0.0.0 qijigm.com
 0.0.0.0 qitrck.com
 0.0.0.0 qixour.com
@@ -11642,6 +11644,7 @@
 0.0.0.0 yfbiwkxjkaw.com
 0.0.0.0 yfcxzvdyrnp.com
 0.0.0.0 yingke86wang.com
+0.0.0.0 yipkgpvrm.com
 0.0.0.0 ymcmt.com
 0.0.0.0 yngxtgj.com
 0.0.0.0 ynjkkj.com
