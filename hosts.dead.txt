@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Friday 02 September 2022
+# Date: 06:03 AM Saturday 03 September 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -4047,6 +4047,7 @@
 0.0.0.0 48d58df525.com
 0.0.0.0 48hrcodes.com
 0.0.0.0 493b0eda03.com
+0.0.0.0 4a5dfca9f.com
 0.0.0.0 4ak50p1xo77f.com
 0.0.0.0 4c13cac4bb.com
 0.0.0.0 4d3eac9bc12.com
@@ -4242,6 +4243,7 @@
 0.0.0.0 accounthut.com
 0.0.0.0 achedgodroad.com
 0.0.0.0 achendgroup.com
+0.0.0.0 ackeyimerina.com
 0.0.0.0 ackjeeves.com
 0.0.0.0 acloudcollective.com
 0.0.0.0 actiongameshack.com
@@ -4716,6 +4718,7 @@
 0.0.0.0 balebunsob.com
 0.0.0.0 bali-suzuki.com
 0.0.0.0 balicandidasa.com
+0.0.0.0 balledalloy.com
 0.0.0.0 baloonranger.com
 0.0.0.0 bananacashback.com
 0.0.0.0 bandagirivillage.com
@@ -5535,6 +5538,7 @@
 0.0.0.0 crocspolandsklep.com
 0.0.0.0 crogtrt.com
 0.0.0.0 crossingstatedsideway.com
+0.0.0.0 crumberccitt.com
 0.0.0.0 crutchsnobcat.com
 0.0.0.0 crwmqldwc.com
 0.0.0.0 cryptoinsidenews.com
@@ -6148,6 +6152,7 @@
 0.0.0.0 efe0df50ac.com
 0.0.0.0 effectwringoverreact.com
 0.0.0.0 efficiencycypressregarding.com
+0.0.0.0 effqtfscudeqshx.com
 0.0.0.0 egnytefs.com
 0.0.0.0 egxlbyokjk.com
 0.0.0.0 ehacksforgame.com
@@ -8220,6 +8225,7 @@
 0.0.0.0 lsasswininfo.com
 0.0.0.0 lt0k.com
 0.0.0.0 ltdome.com
+0.0.0.0 lthmlkkppfengi.com
 0.0.0.0 lubedlegionpea.com
 0.0.0.0 lubricantentrance.com
 0.0.0.0 lucky-loot.com
@@ -9114,6 +9120,7 @@
 0.0.0.0 ovcxvpvdk.com
 0.0.0.0 over-talker.com
 0.0.0.0 overboardinflected.com
+0.0.0.0 overcaprefute.com
 0.0.0.0 overglasseseyewear.com
 0.0.0.0 overhaps.com
 0.0.0.0 overthehacks.com
@@ -9296,6 +9303,7 @@
 0.0.0.0 pimpinggadgets.com
 0.0.0.0 pineapplesiblingerotic.com
 0.0.0.0 pingdishonest.com
+0.0.0.0 pinwalerompers.com
 0.0.0.0 pipeteesundid.com
 0.0.0.0 piranhacheats.com
 0.0.0.0 piratage-fb.com
@@ -9757,6 +9765,7 @@
 0.0.0.0 reliablecheats.com
 0.0.0.0 reliancehamlet.com
 0.0.0.0 reloadedcracking.com
+0.0.0.0 remeetsunglow.com
 0.0.0.0 remmancuaphuonganh.com
 0.0.0.0 remotrk.com
 0.0.0.0 remove-client.com
@@ -9909,6 +9918,7 @@
 0.0.0.0 samsunggiveaways.com
 0.0.0.0 samtmedia.com
 0.0.0.0 samuancash.com
+0.0.0.0 samuelgirlism.com
 0.0.0.0 samxtrade.com
 0.0.0.0 sandygroundvacations.com
 0.0.0.0 sanitwealth.com
@@ -10137,6 +10147,7 @@
 0.0.0.0 sixsensedesignstudio.com
 0.0.0.0 sixtuxfixer.com
 0.0.0.0 sizzle-savings.com
+0.0.0.0 sjcnnddcx.com
 0.0.0.0 sjguild.com
 0.0.0.0 sjunnwxixycbv.com
 0.0.0.0 skacuhrilalauhccrikal.com
@@ -10857,6 +10868,7 @@
 0.0.0.0 triumphalslide.com
 0.0.0.0 triumphcarellc.com
 0.0.0.0 trixcase.com
+0.0.0.0 trixyapieces.com
 0.0.0.0 trkmydomain.com
 0.0.0.0 trocafit.com
 0.0.0.0 tron-labs.com
@@ -39387,6 +39399,7 @@
 0.0.0.0 oughtedcrim.top
 0.0.0.0 oweveraldb.top
 0.0.0.0 oweveredh.top
+0.0.0.0 oxdvxkdmeblg.top
 0.0.0.0 patagoniapolska.top
 0.0.0.0 pednorthe.top
 0.0.0.0 pennisdising.top
@@ -39545,6 +39558,7 @@
 0.0.0.0 wtilhfyhcsmelk.top
 0.0.0.0 wvwwbybayufoop.top
 0.0.0.0 wvxqasbwj.top
+0.0.0.0 wwjjgavdbnp.top
 0.0.0.0 wylotbuty.top
 0.0.0.0 wyuvlwhhbehmvb.top
 0.0.0.0 xafcgsfxkhavry.top
