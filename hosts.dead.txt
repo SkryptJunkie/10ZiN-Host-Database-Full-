@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:03 AM Saturday 03 September 2022
+# Date: 06:02 AM Sunday 04 September 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -4771,6 +4771,7 @@
 0.0.0.0 bdb4ff3f81.com
 0.0.0.0 bdfxakyhhiq.com
 0.0.0.0 bds-hoalac.com
+0.0.0.0 bdsruihmkge.com
 0.0.0.0 beamazingbeyou.com
 0.0.0.0 beatpreservelost.com
 0.0.0.0 bebegimeozel.com
@@ -6234,6 +6235,7 @@
 0.0.0.0 entertaininglarge.com
 0.0.0.0 entertainment-rewardpath.com
 0.0.0.0 entratell.com
+0.0.0.0 enulfumh.com
 0.0.0.0 enumeraterunnerscommence.com
 0.0.0.0 envyjailbreak.com
 0.0.0.0 eopenaccess.com
@@ -8204,6 +8206,7 @@
 0.0.0.0 looknetflix.com
 0.0.0.0 loot-skins.com
 0.0.0.0 lornajsalon.com
+0.0.0.0 lorryinnercorrespond.com
 0.0.0.0 lortsher.com
 0.0.0.0 loschismescalientes.com
 0.0.0.0 lost-appledevice.com
@@ -8812,6 +8815,7 @@
 0.0.0.0 neciwear.com
 0.0.0.0 needforhacks.com
 0.0.0.0 needforspeedrivalsdownload.com
+0.0.0.0 negnssoknbw.com
 0.0.0.0 neighbetweenintrude.com
 0.0.0.0 nelayan-garden.com
 0.0.0.0 nero-us.com
@@ -11157,6 +11161,7 @@
 0.0.0.0 vstrk.com
 0.0.0.0 vujhqcemrpqj.com
 0.0.0.0 vulkanvegas38.com
+0.0.0.0 vvmvpitjqr.com
 0.0.0.0 vweva.com
 0.0.0.0 vznntmjdb.com
 0.0.0.0 w2ddk.com
