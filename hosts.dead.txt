@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:03 AM Monday 05 September 2022
+# Date: 06:03 AM Tuesday 06 September 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -2030,6 +2030,7 @@
 0.0.0.0 aperushmo.cam
 0.0.0.0 badleasump.cam
 0.0.0.0 hipfowlzeal.cam
+0.0.0.0 honeyledger.cam
 0.0.0.0 kontospl.cam
 0.0.0.0 loveme.cam
 0.0.0.0 m-olx.cam
@@ -2039,6 +2040,9 @@
 0.0.0.0 olx-finansowanie.cam
 0.0.0.0 roostsflewcat.cam
 0.0.0.0 rottilderum.cam
+0.0.0.0 schtickshalier.cam
+0.0.0.0 syngamypilaw.cam
+0.0.0.0 tutworkfraghan.cam
 0.0.0.0 vownixsofa.cam
 0.0.0.0 wavecurersquire.cam
 0.0.0.0 wiglogsbathos.cam
@@ -5763,6 +5767,7 @@
 0.0.0.0 d4a77d8bc81ae17.com
 0.0.0.0 d59fa492f75f520.com
 0.0.0.0 d602196786e42d.com
+0.0.0.0 d809b2ea6c.com
 0.0.0.0 da6fda11b2b0ba.com
 0.0.0.0 daccroit.com
 0.0.0.0 dad-and-daughter.com
@@ -7793,6 +7798,7 @@
 0.0.0.0 ironhidecheats.com
 0.0.0.0 irritatebeing.com
 0.0.0.0 irritatecheaplyintrigue.com
+0.0.0.0 iscjltdnjqjims.com
 0.0.0.0 ishowms.com
 0.0.0.0 islamic-news-today.com
 0.0.0.0 islandofhacks.com
@@ -8170,6 +8176,7 @@
 0.0.0.0 lizzietolerance.com
 0.0.0.0 lkralken.com
 0.0.0.0 lkskkssuoa.com
+0.0.0.0 llnjdfagj.com
 0.0.0.0 lmepskqkrrya.com
 0.0.0.0 lnfo-can7651.com
 0.0.0.0 lnhidzzighzolm.com
@@ -9984,6 +9991,7 @@
 0.0.0.0 searisevet.com
 0.0.0.0 seasonalsamplerspecials.com
 0.0.0.0 seatsactadvantages.com
+0.0.0.0 secondunderminappland.com
 0.0.0.0 secrecycommotionaspirin.com
 0.0.0.0 secrets-flirtcontact11.com
 0.0.0.0 sectorbazar.com
@@ -11765,6 +11773,7 @@
 0.0.0.0 youyoumw.com
 0.0.0.0 yowlcapkegs.com
 0.0.0.0 yqb6a.com
+0.0.0.0 yrhbqgjw.com
 0.0.0.0 ysassilaw.com
 0.0.0.0 yujiangchu.com
 0.0.0.0 yusufmall.com
@@ -18783,6 +18792,7 @@
 0.0.0.0 download.spyspotter.com
 0.0.0.0 e.spyspotter.com
 0.0.0.0 stats.spyware-browser.com
+0.0.0.0 www.sqmucr.com
 0.0.0.0 harvester.eu.square-enix.com
 0.0.0.0 harvester.ext.square-enix-europe.com
 0.0.0.0 juanandmovers1.srcomputadoras.com
@@ -20410,6 +20420,7 @@
 0.0.0.0 www.gruzja.cyou
 0.0.0.0 www.gwinea.cyou
 0.0.0.0 www.interesujacewyddarzenie.cyou
+0.0.0.0 www.m.iogemg.cyou
 0.0.0.0 www.jaklecidziswpollsce24.cyou
 0.0.0.0 www.jestesmyznszegokrajutv.cyou
 0.0.0.0 www.jeszczepolacyprobuja.cyou
@@ -20984,6 +20995,7 @@
 0.0.0.0 libreriasantiago.digital
 0.0.0.0 pge.digital
 0.0.0.0 pokrakowice.digital
+0.0.0.0 www.agencja-krajowa.digital
 0.0.0.0 www.aktualizova-0sk.digital
 0.0.0.0 www.caixabankapp.digital
 0.0.0.0 app.celular.digital
@@ -24310,6 +24322,7 @@
 0.0.0.0 www.cerrajerossantander.info
 0.0.0.0 www.chalkmutual.info
 0.0.0.0 www.cheap-laptops-notebook-computers.info
+0.0.0.0 www.chironomidae.info
 0.0.0.0 cdn.classicdanube.info
 0.0.0.0 static.clicktorrent.info
 0.0.0.0 www.clicktorrent.info
@@ -26584,6 +26597,8 @@
 0.0.0.0 www.servacc-vernou.tvshowsco.live
 0.0.0.0 www.under-polsk.live
 0.0.0.0 www.vjnted-polsca.urbania0004.live
+0.0.0.0 vinted-pl-gj32d.vokep.live
+0.0.0.0 www.vinted-pl-gj32d.vokep.live
 0.0.0.0 www.waarschijnlijk1.live
 0.0.0.0 www.waarschijnlijk10.live
 0.0.0.0 www.waarschijnlijk11.live
@@ -33630,6 +33645,7 @@
 0.0.0.0 www.main-secur.cfolks.pl
 0.0.0.0 www.meinceuntoffic.cfolks.pl
 0.0.0.0 www.nmfsvjyyzz.cfolks.pl
+0.0.0.0 www.officialceuntamein.cfolks.pl
 0.0.0.0 www.pbpeblyopk.cfolks.pl
 0.0.0.0 www.qxluatbght.cfolks.pl
 0.0.0.0 www.sant-main.cfolks.pl
@@ -37011,6 +37027,7 @@
 0.0.0.0 girlsex24.site
 0.0.0.0 glosnosiezrobilo.site
 0.0.0.0 godevelopers.site
+0.0.0.0 gomlew.site
 0.0.0.0 gorfoxit.site
 0.0.0.0 gybnol.site
 0.0.0.0 handel-pro.site
@@ -37030,6 +37047,7 @@
 0.0.0.0 jakmoznatakzyc.site
 0.0.0.0 jakwidacwprogramie.site
 0.0.0.0 javnasoba.site
+0.0.0.0 jertos.site
 0.0.0.0 joedohn.site
 0.0.0.0 johannashop.site
 0.0.0.0 juzzajakkisczas.site
@@ -37338,6 +37356,7 @@
 0.0.0.0 www.girlsex24.site
 0.0.0.0 www.globalwiadomosci.site
 0.0.0.0 www.glosnosiezrobilo.site
+0.0.0.0 www.gomlew.site
 0.0.0.0 www.gorfoxit.site
 0.0.0.0 booking.com.gpaytrans.site
 0.0.0.0 www.booking.com.gpaytrans.site
@@ -37407,6 +37426,7 @@
 0.0.0.0 www.jakmoznatakzyc.site
 0.0.0.0 www.jakwidacwprogramie.site
 0.0.0.0 www.javnasoba.site
+0.0.0.0 www.jertos.site
 0.0.0.0 www.joedohn.site
 0.0.0.0 casgplnew.jokivest1.site
 0.0.0.0 loorkspl.jokivest1.site
@@ -38023,6 +38043,7 @@
 0.0.0.0 sleasantryd.space
 0.0.0.0 sledzenie.space
 0.0.0.0 sommerhat.space
+0.0.0.0 souanas.space
 0.0.0.0 spagat.space
 0.0.0.0 srednioraznakilkalat.space
 0.0.0.0 stats502.space
@@ -38622,6 +38643,7 @@
 0.0.0.0 www.smart-structure.space
 0.0.0.0 www.smart-trade.space
 0.0.0.0 www.sommerhat.space
+0.0.0.0 www.souanas.space
 0.0.0.0 www.srednioraznakilkalat.space
 0.0.0.0 keyupgrade.stableupdate.space
 0.0.0.0 marsupial.stfc.space
@@ -39787,6 +39809,7 @@
 0.0.0.0 www.vinted-pl-id002c.gxsun.top
 0.0.0.0 www.vinted-pl-lzlxo.gxsun.top
 0.0.0.0 www.vinted-polska-rr124.gxsun.top
+0.0.0.0 www.hdhuojia.top
 0.0.0.0 www.hurtbuty.top
 0.0.0.0 www.olx.i-tor.top
 0.0.0.0 www.idealnybuty.top
@@ -39810,6 +39833,8 @@
 0.0.0.0 www.virted-pl-fi551.informasi.top
 0.0.0.0 www.inpost-paczka.top
 0.0.0.0 www.vinted-pl-gj32d.jbrand.top
+0.0.0.0 inpost-pl-myid271xs.jetfilez.top
+0.0.0.0 www.inpost-pl-myid271xs.jetfilez.top
 0.0.0.0 www.kghm22.top
 0.0.0.0 www.poczta.kontrola-mailowa.top
 0.0.0.0 www.lobbyshred.top
@@ -40782,6 +40807,7 @@
 0.0.0.0 iphonewin.website
 0.0.0.0 itselforlen.website
 0.0.0.0 jezelichodzziioto.website
+0.0.0.0 kedgoup.website
 0.0.0.0 kelp.website
 0.0.0.0 kogojeszczepookazac.website
 0.0.0.0 latestsearch.website
@@ -40874,6 +40900,7 @@
 0.0.0.0 www.itselforlen.website
 0.0.0.0 www.jezelichodzziioto.website
 0.0.0.0 www.justdoitinvest.website
+0.0.0.0 www.kedgoup.website
 0.0.0.0 www.kelp.website
 0.0.0.0 www.kogojeszczepookazac.website
 0.0.0.0 gukne.koreastar.website
@@ -42357,6 +42384,7 @@
 0.0.0.0 www.polska-alegrolokalnle.545678.xyz
 0.0.0.0 www.polska-olx.545678.xyz
 0.0.0.0 www.inpost-pl.5476128-order.xyz
+0.0.0.0 www.ihpost-purchase.5490076.xyz
 0.0.0.0 www.inpost-getting.5546345.xyz
 0.0.0.0 www.a11egroloka1nje-site.562312.xyz
 0.0.0.0 www.ihpost-shipment.5664322.xyz
@@ -43209,6 +43237,16 @@
 0.0.0.0 www.neuro2sdfmot.xyz
 0.0.0.0 www.neuro2sdfzwh.xyz
 0.0.0.0 www.nevmolez.xyz
+0.0.0.0 plo.newinfoo.xyz
+0.0.0.0 plol.newinfoo.xyz
+0.0.0.0 plold.newinfoo.xyz
+0.0.0.0 www.plo.newinfoo.xyz
+0.0.0.0 www.plol.newinfoo.xyz
+0.0.0.0 www.plold.newinfoo.xyz
+0.0.0.0 ap.newinfs.xyz
+0.0.0.0 app.newinfs.xyz
+0.0.0.0 www.ap.newinfs.xyz
+0.0.0.0 www.app.newinfs.xyz
 0.0.0.0 www.newinvmarket.xyz
 0.0.0.0 tspacespl2.newtech77.xyz
 0.0.0.0 www.tspacespl2.newtech77.xyz
@@ -44885,6 +44923,8 @@
 0.0.0.0 www.tokielce.xyz
 0.0.0.0 www.tokrakow.xyz
 0.0.0.0 www.poczta-pl.toku-cvc.xyz
+0.0.0.0 vinted-pl-gj32d.tomanga.xyz
+0.0.0.0 www.vinted-pl-gj32d.tomanga.xyz
 0.0.0.0 www.topinncohe.xyz
 0.0.0.0 www.tordado.xyz
 0.0.0.0 www.tores.xyz
