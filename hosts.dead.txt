@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:03 AM Tuesday 06 September 2022
+# Date: 06:02 AM Wednesday 07 September 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -7446,6 +7446,7 @@
 0.0.0.0 hexacash.com
 0.0.0.0 hexadevelopers.com
 0.0.0.0 hhhhbf.com
+0.0.0.0 hidlbdcovfq.com
 0.0.0.0 high5china.com
 0.0.0.0 highcpms.com
 0.0.0.0 highlightextrahydrogen.com
@@ -8818,6 +8819,7 @@
 0.0.0.0 nbriskerry.com
 0.0.0.0 nbsklepbuty.com
 0.0.0.0 nbxiwktuvymecs.com
+0.0.0.0 ncqolgndrirg.com
 0.0.0.0 ncrgifts.com
 0.0.0.0 ndecpynmkwqjz.com
 0.0.0.0 nearsa.com
@@ -9384,6 +9386,7 @@
 0.0.0.0 plentor.com
 0.0.0.0 plgikubprvjwlhby.com
 0.0.0.0 plkyjbew.com
+0.0.0.0 pllofqcgpcxmx.com
 0.0.0.0 plmoda24.com
 0.0.0.0 plusbatterypower.com
 0.0.0.0 plxtejszb.com
@@ -10593,6 +10596,7 @@
 0.0.0.0 tcekoles.com
 0.0.0.0 tdstdsotpravka.com
 0.0.0.0 tdugvspdnq.com
+0.0.0.0 tdyjngvyycaeop.com
 0.0.0.0 te-llevamos.com
 0.0.0.0 teamcheat.com
 0.0.0.0 teamspeak-plugins.com
