@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Wednesday 07 September 2022
+# Date: 06:02 AM Thursday 08 September 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -4426,6 +4426,7 @@
 0.0.0.0 allpsncodes.com
 0.0.0.0 allwarezfree.com
 0.0.0.0 allwaterdamagerestoration.com
+0.0.0.0 almbxayp.com
 0.0.0.0 aloeparssabres.com
 0.0.0.0 alphabirdnetwork.com
 0.0.0.0 alphafundings.com
@@ -4519,6 +4520,7 @@
 0.0.0.0 aobyp1una641o8.com
 0.0.0.0 aotracker.com
 0.0.0.0 aoxcapitals.com
+0.0.0.0 aoxfjjsgqjp.com
 0.0.0.0 aoxtrade.com
 0.0.0.0 apcmassage.com
 0.0.0.0 apex-mne.com
@@ -8041,6 +8043,7 @@
 0.0.0.0 kripaeducation.com
 0.0.0.0 ksi55.com
 0.0.0.0 ksjrehefupsrkz.com
+0.0.0.0 ksyilixgdlrhb.com
 0.0.0.0 ktrackdata.com
 0.0.0.0 kttarmufti.com
 0.0.0.0 ktunions.com
@@ -11711,6 +11714,7 @@
 0.0.0.0 yesfreedl.com
 0.0.0.0 yfbiwkxjkaw.com
 0.0.0.0 yfcxzvdyrnp.com
+0.0.0.0 ygtdwkkngdor.com
 0.0.0.0 yingke86wang.com
 0.0.0.0 yipkgpvrm.com
 0.0.0.0 ymcmt.com
@@ -39447,6 +39451,7 @@
 0.0.0.0 llsidealthhou.top
 0.0.0.0 llyxtecgcmhaqd.top
 0.0.0.0 lplesacciner.top
+0.0.0.0 lshsfywxhby.top
 0.0.0.0 lsrvvoqobu.top
 0.0.0.0 lssmycvnaxf.top
 0.0.0.0 lufwwghtsil.top
