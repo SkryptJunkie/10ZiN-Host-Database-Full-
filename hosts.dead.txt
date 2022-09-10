@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:03 AM Friday 09 September 2022
+# Date: 06:02 AM Saturday 10 September 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -5962,6 +5962,7 @@
 0.0.0.0 dltorch.com
 0.0.0.0 dmojfaerxpqn.com
 0.0.0.0 dnjss.com
+0.0.0.0 dnrahcvbflc.com
 0.0.0.0 do-wn-lo-ad.com
 0.0.0.0 documents-signature.com
 0.0.0.0 dodgekeelpops.com
@@ -6891,6 +6892,7 @@
 0.0.0.0 futuresbtcoffersnew.com
 0.0.0.0 fvvhebchwuym.com
 0.0.0.0 fwhmftvi.com
+0.0.0.0 fxmlvneev.com
 0.0.0.0 fxyc0dwa.com
 0.0.0.0 g0b2rzzyu87s.com
 0.0.0.0 g1thub.com
@@ -8988,6 +8990,7 @@
 0.0.0.0 nuttyashy.com
 0.0.0.0 nvsea.com
 0.0.0.0 nvusdezign.com
+0.0.0.0 nvwnkrqfxf.com
 0.0.0.0 nwliko.com
 0.0.0.0 nyacampwk.com
 0.0.0.0 nyadra.com
@@ -9643,6 +9646,7 @@
 0.0.0.0 qqzhanz.com
 0.0.0.0 qrlgcrzmbuy.com
 0.0.0.0 qrxotrlt.com
+0.0.0.0 qtldocrewpnpp.com
 0.0.0.0 qtum-token.com
 0.0.0.0 quality-h.com
 0.0.0.0 quality-hacks.com
@@ -9883,6 +9887,7 @@
 0.0.0.0 rpgratuit.com
 0.0.0.0 rpjzlykhkdc.com
 0.0.0.0 rpmdo.com
+0.0.0.0 rraerlchttc.com
 0.0.0.0 rsalcdp.com
 0.0.0.0 rscounter10.com
 0.0.0.0 rsmas2010.com
@@ -11120,6 +11125,7 @@
 0.0.0.0 verification-need.com
 0.0.0.0 verifiedaccount-usa.com
 0.0.0.0 verify-accinformation.com
+0.0.0.0 vfyeraklrn.com
 0.0.0.0 vhldwuv6om.com
 0.0.0.0 vialeads.com
 0.0.0.0 vibramsbuy.com
@@ -28174,6 +28180,7 @@
 0.0.0.0 orantpamir.net
 0.0.0.0 orchidscape.net
 0.0.0.0 orderarticle.net
+0.0.0.0 orgreemeek.net
 0.0.0.0 origo-hirek.net
 0.0.0.0 origo-online.net
 0.0.0.0 origoblog.net
@@ -41354,6 +41361,7 @@
 0.0.0.0 www.tetra-invest.world
 0.0.0.0 adserver.madeby.ws
 0.0.0.0 ads.thebugs.ws
+0.0.0.0 img-pushup.wtf
 0.0.0.0 www.binom.noname.wtf
 0.0.0.0 ycpkuophoy.vole.wtf
 0.0.0.0 watchdog.goodbyeads.xiaomi
