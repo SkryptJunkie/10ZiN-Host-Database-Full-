@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Saturday 10 September 2022
+# Date: 06:07 AM Sunday 11 September 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -8187,6 +8187,7 @@
 0.0.0.0 lizety.com
 0.0.0.0 lizzietolerance.com
 0.0.0.0 lkralken.com
+0.0.0.0 lkrbkpweesn.com
 0.0.0.0 lkskkssuoa.com
 0.0.0.0 llnjdfagj.com
 0.0.0.0 lmepskqkrrya.com
@@ -9118,6 +9119,7 @@
 0.0.0.0 oprodopst.com
 0.0.0.0 ops-screen.com
 0.0.0.0 optminers.com
+0.0.0.0 oqgfsijxkejkaql.com
 0.0.0.0 oqrjbnriumr.com
 0.0.0.0 oralbondage.com
 0.0.0.0 orbitfour47.com
@@ -10001,6 +10003,7 @@
 0.0.0.0 scrillcase.com
 0.0.0.0 scupwail.com
 0.0.0.0 sdemontignyopto.com
+0.0.0.0 sdkwpsrkwxn.com
 0.0.0.0 seamcommunlty.com
 0.0.0.0 seandsiem.com
 0.0.0.0 search7info.com
@@ -11106,6 +11109,7 @@
 0.0.0.0 vastdealsnow.com
 0.0.0.0 vawhegkqxkavfska.com
 0.0.0.0 vayavicio.com
+0.0.0.0 vbcaonnlahixu.com
 0.0.0.0 vbds84p3ct02.com
 0.0.0.0 vcgent.com
 0.0.0.0 vchiy.com
@@ -13976,6 +13980,7 @@
 0.0.0.0 1m7bv0c62id.www.cybernetman.com
 0.0.0.0 77mxl6z40n3u.www.cybernetman.com
 0.0.0.0 8n8rarw7yjvy.www.cybernetman.com
+0.0.0.0 bhhpo9xbgry3.www.cybernetman.com
 0.0.0.0 dzoytx9uvr2h.www.cybernetman.com
 0.0.0.0 e5o28q264rbh.www.cybernetman.com
 0.0.0.0 eepb9ivneuqm.www.cybernetman.com
@@ -14335,6 +14340,7 @@
 0.0.0.0 1avhg3kanx9.www.earthclassmail.com
 0.0.0.0 8yvgnytwd2ra.www.earthclassmail.com
 0.0.0.0 ddddljxhefoy.www.earthclassmail.com
+0.0.0.0 fvf3adsna5qc.www.earthclassmail.com
 0.0.0.0 kbozkdxa51bk.www.earthclassmail.com
 0.0.0.0 kfuf06i7g8qn.www.earthclassmail.com
 0.0.0.0 p6pcdu3doexb.www.earthclassmail.com
@@ -25054,6 +25060,7 @@
 0.0.0.0 adxpd.dable.io
 0.0.0.0 demo.dable.io
 0.0.0.0 redirect.dable.io
+0.0.0.0 2mammis9kbgg.datree.io
 0.0.0.0 www.davor.io
 0.0.0.0 swordfish.dnsmanager.io
 0.0.0.0 as.ebz.io
@@ -25255,6 +25262,7 @@
 0.0.0.0 www.nuovaitaldent.it
 0.0.0.0 instore.pagomeno.it
 0.0.0.0 www.picura.it
+0.0.0.0 udzsg.premiata.it
 0.0.0.0 ad.punto-informatico.it
 0.0.0.0 adv.punto-informatico.it
 0.0.0.0 lxoemc.quifinanza.it
@@ -27765,6 +27773,7 @@
 0.0.0.0 easy-screen.net
 0.0.0.0 easy2date.net
 0.0.0.0 edomz.net
+0.0.0.0 eexupeer.net
 0.0.0.0 egypolice.net
 0.0.0.0 ehackfacebook.net
 0.0.0.0 electricairplane.net
@@ -31504,6 +31513,7 @@
 0.0.0.0 webhit.afterposten.no
 0.0.0.0 publish.bonzaii.no
 0.0.0.0 stats.bonzaii.no
+0.0.0.0 hk1oiaj5zpgo.www.enkeleksamen.no
 0.0.0.0 helios.finn.no
 0.0.0.0 helios.fvn.no
 0.0.0.0 ads.humorbua.no
