@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:03 AM Monday 12 September 2022
+# Date: 06:03 AM Tuesday 13 September 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -11,6 +11,7 @@
 ###
 
 
+0.0.0.0 clickbicom
 0.0.0.0 snortedbincom
 0.0.0.0 webytom
 0.0.0.0 ggewgwegwe.001com
@@ -4201,6 +4202,7 @@
 0.0.0.0 9dc10beed2.com
 0.0.0.0 9dc93a7c1dd.com
 0.0.0.0 9e5420f6be48ccc.com
+0.0.0.0 9eb82956c9.com
 0.0.0.0 9egiyiyt1o18.com
 0.0.0.0 9ehy8a8u6b.com
 0.0.0.0 9f38cd012c83.com
@@ -4458,6 +4460,7 @@
 0.0.0.0 amalroyfilms.com
 0.0.0.0 amateurspain.com
 0.0.0.0 amateurspin.com
+0.0.0.0 amawkolyo.com
 0.0.0.0 amazechat.com
 0.0.0.0 amazinggreentechshop.com
 0.0.0.0 amazoncodefree.com
@@ -4725,6 +4728,7 @@
 0.0.0.0 bad8b2e252.com
 0.0.0.0 badd24287f.com
 0.0.0.0 badsamps.com
+0.0.0.0 baggernuclein.com
 0.0.0.0 bagusholidays.com
 0.0.0.0 bahagiaselalu.com
 0.0.0.0 bahriatownshops.com
@@ -4807,6 +4811,7 @@
 0.0.0.0 benignrescuemistletoe.com
 0.0.0.0 bentdownload.com
 0.0.0.0 benthanhdorm.com
+0.0.0.0 benundwqyd.com
 0.0.0.0 benutsntravel.com
 0.0.0.0 bergerblancsuissewhiteshepherd.com
 0.0.0.0 berkesteermaster.com
@@ -5164,6 +5169,7 @@
 0.0.0.0 carrecase.com
 0.0.0.0 carrefourdelinternetdesobjets.com
 0.0.0.0 carreraatusalud.com
+0.0.0.0 carroonmiscoin.com
 0.0.0.0 casa24ore.com
 0.0.0.0 cascadehunterelton.com
 0.0.0.0 casemaster-cs.com
@@ -5878,6 +5884,7 @@
 0.0.0.0 depictlicencegrandmother.com
 0.0.0.0 deportedesoria.com
 0.0.0.0 deprivationzomby.com
+0.0.0.0 deqvenceaswov.com
 0.0.0.0 deresuinsaat.com
 0.0.0.0 descargas24.com
 0.0.0.0 deservecustomsadministrator.com
@@ -6985,6 +6992,7 @@
 0.0.0.0 gatinsart.com
 0.0.0.0 gatipackers-movers.com
 0.0.0.0 gatordesignwebsites.com
+0.0.0.0 gauzilyhayfork.com
 0.0.0.0 gawareness.com
 0.0.0.0 gay-mag.com
 0.0.0.0 gaysex2000.com
@@ -7001,6 +7009,7 @@
 0.0.0.0 gdxisixdrk.com
 0.0.0.0 geeflyco.com
 0.0.0.0 geekograffi.com
+0.0.0.0 geglqgdglwfna.com
 0.0.0.0 gemhamsore.com
 0.0.0.0 gempubg.com
 0.0.0.0 gems-community.com
@@ -7674,6 +7683,7 @@
 0.0.0.0 image-screenshot.com
 0.0.0.0 imagine-industries.com
 0.0.0.0 imagine8ni.com
+0.0.0.0 imaginelipuria.com
 0.0.0.0 imediapush.com
 0.0.0.0 img-saving.com
 0.0.0.0 img-screnshot.com
@@ -8105,6 +8115,7 @@
 0.0.0.0 launchhotel.com
 0.0.0.0 lavantat.com
 0.0.0.0 lavist55.com
+0.0.0.0 lawedlar.com
 0.0.0.0 lawo-tudungrohani.com
 0.0.0.0 laxiominvestment.com
 0.0.0.0 layouttransparent.com
@@ -8631,6 +8642,7 @@
 0.0.0.0 mvisionproperties.com
 0.0.0.0 mw3-hacked.com
 0.0.0.0 mw3wallhack.com
+0.0.0.0 mwlgbkjjt.com
 0.0.0.0 mxapple-icloud.com
 0.0.0.0 mxjptfrxqaavdc.com
 0.0.0.0 mxmrt.com
@@ -9469,6 +9481,7 @@
 0.0.0.0 powrrledger.com
 0.0.0.0 poxtebnltkehh.com
 0.0.0.0 ppcheats.com
+0.0.0.0 ppfrle.com
 0.0.0.0 pprincparts.com
 0.0.0.0 pqxadekhqotwkv.com
 0.0.0.0 pr00001.com
@@ -10312,7 +10325,9 @@
 0.0.0.0 softwaretohack.com
 0.0.0.0 softwaretun.com
 0.0.0.0 softworkinfo.com
+0.0.0.0 solanoswajawezn.com
 0.0.0.0 soldegratuit.com
+0.0.0.0 solentdipl.com
 0.0.0.0 solitudeempresasfactura.com
 0.0.0.0 solitudepeeves.com
 0.0.0.0 soloistforcefulvarious.com
@@ -10475,6 +10490,7 @@
 0.0.0.0 steocomnnity.com
 0.0.0.0 steomcannunily.com
 0.0.0.0 steroidtypesconviction.com
+0.0.0.0 steveackton.com
 0.0.0.0 steveleverson.com
 0.0.0.0 stevemadenpolska.com
 0.0.0.0 stickrunhack.com
@@ -10645,6 +10661,7 @@
 0.0.0.0 techodigi.com
 0.0.0.0 techsupportpwr.com
 0.0.0.0 tecuil.com
+0.0.0.0 tedescodisrank.com
 0.0.0.0 teenboobstube.com
 0.0.0.0 teennostrils.com
 0.0.0.0 teenswhoswallow.com
@@ -11076,6 +11093,7 @@
 0.0.0.0 url-apple-email.com
 0.0.0.0 urlhigh.com
 0.0.0.0 urnkawsxxh.com
+0.0.0.0 urutuoutawe.com
 0.0.0.0 us-choicevalue.com
 0.0.0.0 us-topsites.com
 0.0.0.0 usa-hacks.com
@@ -39635,6 +39653,7 @@
 0.0.0.0 oweveredh.top
 0.0.0.0 oxdvxkdmeblg.top
 0.0.0.0 patagoniapolska.top
+0.0.0.0 pbshyptpo.top
 0.0.0.0 pednorthe.top
 0.0.0.0 pennisdising.top
 0.0.0.0 peymdpws.top
