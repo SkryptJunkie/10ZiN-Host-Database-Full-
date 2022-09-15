@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:04 AM Wednesday 14 September 2022
+# Date: 06:02 AM Thursday 15 September 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -27,6 +27,7 @@
 0.0.0.0 rarlabarchiver.ac
 0.0.0.0 ap76rmx3.accountant
 0.0.0.0 apple.com-analysis-safety-antimalware-support.accountant
+0.0.0.0 spider.ad
 0.0.0.0 token.ad
 0.0.0.0 files.native.ad
 0.0.0.0 wwww.token.ad
@@ -10496,6 +10497,7 @@
 0.0.0.0 steer2vision.com
 0.0.0.0 steocomnnity.com
 0.0.0.0 steomcannunily.com
+0.0.0.0 sternumpercentage.com
 0.0.0.0 steroidtypesconviction.com
 0.0.0.0 steveackton.com
 0.0.0.0 steveleverson.com
