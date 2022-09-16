@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Thursday 15 September 2022
+# Date: 06:04 AM Friday 16 September 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -9044,6 +9044,7 @@
 0.0.0.0 office2013activatorkey.com
 0.0.0.0 offresimmobilier.com
 0.0.0.0 offshoreclicks.com
+0.0.0.0 ofgishdqggyh.com
 0.0.0.0 ogdcll.com
 0.0.0.0 oghniyati.com
 0.0.0.0 ogulzxfxrmow.com
@@ -11227,6 +11228,7 @@
 0.0.0.0 vulkanvegas38.com
 0.0.0.0 vvmvpitjqr.com
 0.0.0.0 vweva.com
+0.0.0.0 vxhiwdxlqk.com
 0.0.0.0 vznntmjdb.com
 0.0.0.0 w2ddk.com
 0.0.0.0 wackyloombands.com
@@ -11762,6 +11764,7 @@
 0.0.0.0 yfbiwkxjkaw.com
 0.0.0.0 yfcxzvdyrnp.com
 0.0.0.0 ygtdwkkngdor.com
+0.0.0.0 yildwxvnyfwxo.com
 0.0.0.0 yingke86wang.com
 0.0.0.0 yipkgpvrm.com
 0.0.0.0 ymcmt.com
@@ -39625,6 +39628,7 @@
 0.0.0.0 lhxacerjwpbd.top
 0.0.0.0 licitventiethv.top
 0.0.0.0 lightdrop.top
+0.0.0.0 ligmnybi.top
 0.0.0.0 lingchallersh.top
 0.0.0.0 lithingbre.top
 0.0.0.0 lixianze.top
