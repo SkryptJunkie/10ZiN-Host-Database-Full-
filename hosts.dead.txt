@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:04 AM Friday 16 September 2022
+# Date: 06:02 AM Saturday 17 September 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -6101,6 +6101,7 @@
 0.0.0.0 dwnld24.com
 0.0.0.0 dwrvsbldpr.com
 0.0.0.0 dxcdirect.com
+0.0.0.0 dxvcqgvglxniyy.com
 0.0.0.0 dynamicwebassets.com
 0.0.0.0 dynamitematerialisticwriting.com
 0.0.0.0 dynamixlandmarkdahisar.com
@@ -6433,6 +6434,7 @@
 0.0.0.0 facetexamgrabbed.com
 0.0.0.0 facexploit.com
 0.0.0.0 factoryfreeapparel.com
+0.0.0.0 faculaekrapina.com
 0.0.0.0 fagaxesea.com
 0.0.0.0 fahrenheit-nyc.com
 0.0.0.0 fairnessenhancedisposal.com
@@ -8856,6 +8858,7 @@
 0.0.0.0 ncrgifts.com
 0.0.0.0 ndecpynmkwqjz.com
 0.0.0.0 nearsa.com
+0.0.0.0 nebbishbraeman.com
 0.0.0.0 neciwear.com
 0.0.0.0 needforhacks.com
 0.0.0.0 needforspeedrivalsdownload.com
@@ -9208,6 +9211,7 @@
 0.0.0.0 pandendz.com
 0.0.0.0 panelbreed.com
 0.0.0.0 panelsave.com
+0.0.0.0 paniskbourdon.com
 0.0.0.0 pantherfaucetchoked.com
 0.0.0.0 panworldnet.com
 0.0.0.0 papapearsagacheats.com
@@ -10035,6 +10039,7 @@
 0.0.0.0 searchspice.com
 0.0.0.0 searisevet.com
 0.0.0.0 seasonalsamplerspecials.com
+0.0.0.0 seaterrevoir.com
 0.0.0.0 seatsactadvantages.com
 0.0.0.0 secondunderminappland.com
 0.0.0.0 secrecycommotionaspirin.com
@@ -10615,6 +10620,7 @@
 0.0.0.0 tacticohosting.com
 0.0.0.0 tadsitblimp.com
 0.0.0.0 tafseersportsind.com
+0.0.0.0 taigasquarl.com
 0.0.0.0 taikyo-mold.com
 0.0.0.0 take-prizes-now2.com
 0.0.0.0 takehacks.com
@@ -10865,6 +10871,7 @@
 0.0.0.0 tortoiselavender.com
 0.0.0.0 totallifeguru.com
 0.0.0.0 totifiquo.com
+0.0.0.0 totoroclair.com
 0.0.0.0 touchhacks.com
 0.0.0.0 toughopponent.com
 0.0.0.0 toulousa.com
@@ -11498,6 +11505,7 @@
 0.0.0.0 xlfhttdeordzp.com
 0.0.0.0 xlftcc.com
 0.0.0.0 xlivehost.com
+0.0.0.0 xljlfxvyphvxta.com
 0.0.0.0 xm0siulufost.com
 0.0.0.0 xmoneymakers.com
 0.0.0.0 xmwbplpgjc.com
@@ -39389,6 +39397,7 @@
 0.0.0.0 acgrykbppg.top
 0.0.0.0 adifficiente.top
 0.0.0.0 adrevkiq.top
+0.0.0.0 aglybkitl.top
 0.0.0.0 aintyjarde.top
 0.0.0.0 alaccinalcom.top
 0.0.0.0 aliencesuffe.top
