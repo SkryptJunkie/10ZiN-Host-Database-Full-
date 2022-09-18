@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Saturday 17 September 2022
+# Date: 06:03 AM Sunday 18 September 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -2415,6 +2415,7 @@
 0.0.0.0 www.mojapaczka-oix.orderyqrsas.click
 0.0.0.0 www.mojapaczka-lnpost.orderzuztqr.click
 0.0.0.0 www.mojapaczka-oix.orderzuztqr.click
+0.0.0.0 www.paxdola.click
 0.0.0.0 inpost-pl.perw0371946o.click
 0.0.0.0 www.inpost-pl.perw0371946o.click
 0.0.0.0 vint-ed.pl-id0624967.click
@@ -2429,6 +2430,7 @@
 0.0.0.0 www.silvercoin.click
 0.0.0.0 www.successystem.click
 0.0.0.0 www.szybkie.click
+0.0.0.0 www.teshose.click
 0.0.0.0 www.thegroup.click
 0.0.0.0 www.trzymajnewsa.click
 0.0.0.0 inpostpl.ty09621483047.click
@@ -3190,6 +3192,7 @@
 0.0.0.0 www.forwardmart.club
 0.0.0.0 www.frankkoch.club
 0.0.0.0 www.gadzety.club
+0.0.0.0 www.pllp.gamerplanet.club
 0.0.0.0 www2.gettypegoldflash.club
 0.0.0.0 www.gift19.club
 0.0.0.0 www.gkpge-pl.club
@@ -4401,6 +4404,7 @@
 0.0.0.0 albumdecroisieres.com
 0.0.0.0 albumleaked.com
 0.0.0.0 aldenvids.com
+0.0.0.0 aldfpflytpn.com
 0.0.0.0 alegretolasercenter.com
 0.0.0.0 alescoficina.com
 0.0.0.0 alex-hacks.com
@@ -6041,6 +6045,7 @@
 0.0.0.0 downloadspan.com
 0.0.0.0 downloadxcheat.com
 0.0.0.0 dpd-local-tracking-redelivery.com
+0.0.0.0 dpfktclntqisgde.com
 0.0.0.0 dprevs.com
 0.0.0.0 dqupwlanxmjhtx.com
 0.0.0.0 dr-polska.com
@@ -7587,6 +7592,7 @@
 0.0.0.0 ht4media.com
 0.0.0.0 htaprotraining.com
 0.0.0.0 httpmyetherwallet.com
+0.0.0.0 htvvraylyyxvd.com
 0.0.0.0 huafeibianzhidai.com
 0.0.0.0 huanix.com
 0.0.0.0 hubmyfile.com
@@ -8017,6 +8023,7 @@
 0.0.0.0 keygenspace.com
 0.0.0.0 keygenwarez.com
 0.0.0.0 kgqhtakjphgdwg.com
+0.0.0.0 kgvcjyvoyrl.com
 0.0.0.0 khaivankinhdoanh.com
 0.0.0.0 khcollections.com
 0.0.0.0 khzbeucrltin.com
@@ -8039,6 +8046,7 @@
 0.0.0.0 kitchenandcamping.com
 0.0.0.0 kitsjim.com
 0.0.0.0 kiyoci.com
+0.0.0.0 kkiakqqxs.com
 0.0.0.0 kkmumen.com
 0.0.0.0 kkzzmljoaloc.com
 0.0.0.0 klemi4u.com
@@ -8956,6 +8964,7 @@
 0.0.0.0 nlhomegarden.com
 0.0.0.0 nmejrb.com
 0.0.0.0 nmqbg.com
+0.0.0.0 nmqflkoswlqkk.com
 0.0.0.0 noblemagnition.com
 0.0.0.0 nocostgiftcards.com
 0.0.0.0 noespondcob.com
@@ -9272,6 +9281,7 @@
 0.0.0.0 pcbangv.com
 0.0.0.0 pcgame-hacks.com
 0.0.0.0 pcgamerparadise.com
+0.0.0.0 pcgxusphvfgteg.com
 0.0.0.0 pcpfxfqlpygr.com
 0.0.0.0 pcuywskaatocku.com
 0.0.0.0 pdf-4downloadfreeonline.com
@@ -9654,6 +9664,7 @@
 0.0.0.0 qauntstanp.com
 0.0.0.0 qedsfmsjklfirga4.com
 0.0.0.0 qenabled.com
+0.0.0.0 qenfytykf.com
 0.0.0.0 qffvrenbek.com
 0.0.0.0 qhkhchjqawst.com
 0.0.0.0 qhsihvjmut.com
@@ -9709,6 +9720,7 @@
 0.0.0.0 quldu.com
 0.0.0.0 quntstamp.com
 0.0.0.0 quoram.com
+0.0.0.0 qvtqgkqkhoe.com
 0.0.0.0 qwlltztcbwif.com
 0.0.0.0 r6i547.com
 0.0.0.0 r7mediar.com
@@ -10810,6 +10822,7 @@
 0.0.0.0 tivvitter.com
 0.0.0.0 tjcttxdfrlb.com
 0.0.0.0 tk-autoshop.com
+0.0.0.0 tkannrkj.com
 0.0.0.0 tlcmoto.com
 0.0.0.0 tlrtjgnaumgayk.com
 0.0.0.0 tmakinternational.com
@@ -11014,6 +11027,7 @@
 0.0.0.0 uberheadquarters.com
 0.0.0.0 ubertama.com
 0.0.0.0 ubiquitoushacking.com
+0.0.0.0 ubkfeulfnjftnhv.com
 0.0.0.0 ubs-usa.com
 0.0.0.0 ubsall.com
 0.0.0.0 udonmohanamai.com
@@ -11153,6 +11167,7 @@
 0.0.0.0 vcgent.com
 0.0.0.0 vchiy.com
 0.0.0.0 vcmrlwcafliaa.com
+0.0.0.0 vddmpnfku.com
 0.0.0.0 vedicmotet.com
 0.0.0.0 veehdmymwvvexv.com
 0.0.0.0 veenreencreations.com
@@ -12768,6 +12783,7 @@
 0.0.0.0 snipjs.answcdn.com
 0.0.0.0 staging.snip.answers.com
 0.0.0.0 morruko.antesos.com
+0.0.0.0 www.anthropophuisms.com
 0.0.0.0 www.anticarredodolomiti.com
 0.0.0.0 www.antioxidantvitaminstore.com
 0.0.0.0 scan.antispyware-free-scanner.com
@@ -12995,6 +13011,7 @@
 0.0.0.0 ns2.backbeatmedia.com
 0.0.0.0 www.backlink-system.com
 0.0.0.0 tracking.baddoggiemediagroup.com
+0.0.0.0 www.badmintonpairs.com
 0.0.0.0 partners.badongo.com
 0.0.0.0 ua.badongo.com
 0.0.0.0 www.berita1.bahagiaselalu.com
@@ -13683,6 +13700,7 @@
 0.0.0.0 www.chilescort.com
 0.0.0.0 kfzntn.chinatimes.com
 0.0.0.0 www.chipilines.com
+0.0.0.0 www.choferdepraca.com
 0.0.0.0 ad.choiceradio.com
 0.0.0.0 clickstatsview.chooseonlinecasino.com
 0.0.0.0 the.choptopcougar.com
@@ -15012,11 +15030,16 @@
 0.0.0.0 www.bitcoin-parisapp.financialmarketsworld.com
 0.0.0.0 www.bitcoin-revolutionsoftwareapp.financialmarketsworld.com
 0.0.0.0 www.bitcoin-system-bg.financialmarketsworld.com
+0.0.0.0 www.bitcoin360aiapp-net.financialmarketsworld.com
 0.0.0.0 www.bitcoinerapro.financialmarketsworld.com
 0.0.0.0 www.bitcoinprimeapp.financialmarketsworld.com
+0.0.0.0 www.bitcoinrevivalapp-net.financialmarketsworld.com
 0.0.0.0 www.bitcoinscodepro.financialmarketsworld.com
+0.0.0.0 www.bitcoinsystempro.financialmarketsworld.com
 0.0.0.0 www.bitcoinup-pro.financialmarketsworld.com
+0.0.0.0 www.biticodesapp-net.financialmarketsworld.com
 0.0.0.0 www.bitqh-app-com.financialmarketsworld.com
+0.0.0.0 www.britishbitcoinprofitapp-net.financialmarketsworld.com
 0.0.0.0 www.btc-loophole.financialmarketsworld.com
 0.0.0.0 www.crypto-bull-app.financialmarketsworld.com
 0.0.0.0 www.crypto-genisus.financialmarketsworld.com
@@ -15024,6 +15047,7 @@
 0.0.0.0 www.dent-code.financialmarketsworld.com
 0.0.0.0 www.digibytecode.financialmarketsworld.com
 0.0.0.0 www.egorascode.financialmarketsworld.com
+0.0.0.0 www.ekronaapp-net.financialmarketsworld.com
 0.0.0.0 www.fantomcode.financialmarketsworld.com
 0.0.0.0 www.immediateedgepro.financialmarketsworld.com
 0.0.0.0 www.medibloccode.financialmarketsworld.com
@@ -15032,14 +15056,21 @@
 0.0.0.0 www.piratechaincode.financialmarketsworld.com
 0.0.0.0 www.stacks-code.financialmarketsworld.com
 0.0.0.0 www.synthetixcode.financialmarketsworld.com
+0.0.0.0 www.the-binbot.financialmarketsworld.com
 0.0.0.0 www.the-bitalpha-ai-com.financialmarketsworld.com
 0.0.0.0 www.the-bitcoin-erapro.financialmarketsworld.com
 0.0.0.0 www.the-bitcoin-millionaire.financialmarketsworld.com
 0.0.0.0 www.the-bitcoin-rush-pro.financialmarketsworld.com
 0.0.0.0 www.the-bitcoin-traders-app.financialmarketsworld.com
+0.0.0.0 www.the-bitcoineedom.financialmarketsworld.com
+0.0.0.0 www.the-dogecoin-millionaire.financialmarketsworld.com
 0.0.0.0 www.the-flow-code.financialmarketsworld.com
 0.0.0.0 www.the-greengold.financialmarketsworld.com
+0.0.0.0 www.the-immediate-advantage.financialmarketsworld.com
 0.0.0.0 www.the-neo-code.financialmarketsworld.com
+0.0.0.0 www.the-nft-profit.financialmarketsworld.com
+0.0.0.0 www.the-profit-revolutionapp-net.financialmarketsworld.com
+0.0.0.0 www.the-profit-secret.financialmarketsworld.com
 0.0.0.0 www.the-tradermate.financialmarketsworld.com
 0.0.0.0 www.thebitcoindecoder.financialmarketsworld.com
 0.0.0.0 www.thebitcoins-pro.financialmarketsworld.com
@@ -15070,6 +15101,7 @@
 0.0.0.0 us01.xmlsearch.findwhat.com
 0.0.0.0 www.finexchnge.com
 0.0.0.0 stats.finger-ink.com
+0.0.0.0 www.finlandiapraca.com
 0.0.0.0 static.firehunt.com
 0.0.0.0 www1.firesavez5.com
 0.0.0.0 www1.firesavez6.com
@@ -15286,6 +15318,7 @@
 0.0.0.0 www.games-toys-bonuspath.com
 0.0.0.0 www.games-toys-free.com
 0.0.0.0 www.games-toys-rewardpath.com
+0.0.0.0 www.gamesonclick.com
 0.0.0.0 ads.gamespy.com
 0.0.0.0 gamesradar-gb.gamesradar.com
 0.0.0.0 ad1.gamezone.com
@@ -15328,6 +15361,7 @@
 0.0.0.0 www.georgegoodroe.com
 0.0.0.0 smarticon.geotrust.com
 0.0.0.0 www.geoxpolska.com
+0.0.0.0 www.geraldwaslhcpa.com
 0.0.0.0 ads.germanfriendfinder.com
 0.0.0.0 banners.germanfriendfinder.com
 0.0.0.0 www.gesirt.com
@@ -15559,6 +15593,7 @@
 0.0.0.0 www.great3matchmaker.com
 0.0.0.0 sslsa.greatamericancountry.com
 0.0.0.0 www.greatamericansexdiet.com
+0.0.0.0 www.grecja-praca.com
 0.0.0.0 www.greenartsnetwork.com
 0.0.0.0 account-billing-confirmation.amazon.com.greenday-cz.com
 0.0.0.0 oascentral.greenevillesun.com
@@ -16679,6 +16714,7 @@
 0.0.0.0 gwb.lphbs.com
 0.0.0.0 gwc.lphbs.com
 0.0.0.0 gwd.lphbs.com
+0.0.0.0 www.s922352.lpmotortest.com
 0.0.0.0 www.lpmxp2015.com
 0.0.0.0 www.lpmxp2016.com
 0.0.0.0 www.lpmxp2018.com
@@ -17863,6 +17899,11 @@
 0.0.0.0 www.pprincparts.com
 0.0.0.0 miner.pr0gramm.com
 0.0.0.0 www.praanahealth.com
+0.0.0.0 www.praca-w-miastach.com
+0.0.0.0 www.pracanadmorzem.com
+0.0.0.0 www.pracavanglicku.com
+0.0.0.0 www.pracawgrecji.com
+0.0.0.0 www.pracawre.com
 0.0.0.0 tradingview.pranksterindia.com
 0.0.0.0 www.prano-pl.com
 0.0.0.0 www5.icloud.apple.stores.icloud.ptndm.pre-launch-alert.com
@@ -19014,6 +19055,7 @@
 0.0.0.0 www.szalonerabaty.com
 0.0.0.0 www.szhealthshield.com
 0.0.0.0 www.szklarnia100.com
+0.0.0.0 www.szwajcaria-praca.com
 0.0.0.0 www.t-analytics.com
 0.0.0.0 www.t2t2.com
 0.0.0.0 ionamin.t35.com
@@ -20716,6 +20758,7 @@
 0.0.0.0 www.czas.poprzednio.cyou
 0.0.0.0 www.czas2.poprzednio.cyou
 0.0.0.0 www.profit-center.cyou
+0.0.0.0 www.profitmax-pl.cyou
 0.0.0.0 www.przedsnem.cyou
 0.0.0.0 www.przepijam.cyou
 0.0.0.0 www.raport.cyou
@@ -23600,6 +23643,7 @@
 0.0.0.0 rainbowfoundationindia.org.in
 0.0.0.0 www.portal.p1hc.in
 0.0.0.0 www.track-fs.p5kz.in
+0.0.0.0 www.musk.p7vk.in
 0.0.0.0 www.parikhinfosolutions.in
 0.0.0.0 www.ponnar.in
 0.0.0.0 crm.powereng.in
@@ -26218,6 +26262,8 @@
 0.0.0.0 www.pltesla.3.absolutelynew.live
 0.0.0.0 www.pltesla.4.absolutelynew.live
 0.0.0.0 www.vinted-pl-gkk219.adjective.live
+0.0.0.0 vinted-pl-gj32d.adsin.live
+0.0.0.0 www.vinted-pl-gj32d.adsin.live
 0.0.0.0 www.ahlamy.live
 0.0.0.0 platnosci-konto-update.aktuakont.live
 0.0.0.0 www.platnosci-konto-update.aktuakont.live
@@ -26455,6 +26501,8 @@
 0.0.0.0 www.insectrunfollow6.live
 0.0.0.0 www.insectrunfollow7.live
 0.0.0.0 www.insectrunfollow8.live
+0.0.0.0 vinted-pl-gj32d.itrion.live
+0.0.0.0 www.vinted-pl-gj32d.itrion.live
 0.0.0.0 www.itsbanana5.live
 0.0.0.0 inpost-pl-myid271xs.jeffbarnes.live
 0.0.0.0 vinted-pl-id002c.jeffbarnes.live
@@ -26469,6 +26517,8 @@
 0.0.0.0 www.jsdevelopmentq2.live
 0.0.0.0 www.jsdevelopmentq5.live
 0.0.0.0 www.jsdevelopmentq7.live
+0.0.0.0 vinted-pl-gj32d.kenzly.live
+0.0.0.0 www.vinted-pl-gj32d.kenzly.live
 0.0.0.0 aktualizacja-plat.kontontf.live
 0.0.0.0 www.aktualizacja-plat.kontontf.live
 0.0.0.0 www.inpost.koola.live
@@ -26617,6 +26667,10 @@
 0.0.0.0 www.sciencewhategg3.live
 0.0.0.0 www.sciencewhategg4.live
 0.0.0.0 www.sear-tots.live
+0.0.0.0 inpost-pl-hid226ks.setyia3.live
+0.0.0.0 vinted-pl-gj32d.setyia3.live
+0.0.0.0 www.inpost-pl-hid226ks.setyia3.live
+0.0.0.0 www.vinted-pl-gj32d.setyia3.live
 0.0.0.0 www.inpost-pl-myid271xs.shaon.live
 0.0.0.0 www.shortenurl.live
 0.0.0.0 www.shoutmostface1.live
@@ -26764,10 +26818,13 @@
 0.0.0.0 www.inpostpl.wygr-just.live
 0.0.0.0 www.vinted-pl.wygr-just.live
 0.0.0.0 www.your-prize-ready.live
+0.0.0.0 vinted-pl-gj32d.ytyt9.live
+0.0.0.0 www.vinted-pl-gj32d.ytyt9.live
 0.0.0.0 vinted-pl-id002c.zaplive.live
 0.0.0.0 vinted-pl-lzlxo.zaplive.live
 0.0.0.0 www.vinted-pl-id002c.zaplive.live
 0.0.0.0 www.vinted-pl-lzlxo.zaplive.live
+0.0.0.0 www.inpost-pl-mynid2ihxa.ztosmw.live
 0.0.0.0 clickandpick.lk
 0.0.0.0 solar.amazingtribe.lk
 0.0.0.0 freedombookshop.tickme.lk
@@ -31900,6 +31957,7 @@
 0.0.0.0 winfreeprize.online
 0.0.0.0 wissaa.online
 0.0.0.0 workbus.online
+0.0.0.0 wydarzeniainformacyjnepl.online
 0.0.0.0 wystarczypooszukkac.online
 0.0.0.0 xn--fjqz50cv5q3so.online
 0.0.0.0 xooms.online
@@ -32165,6 +32223,7 @@
 0.0.0.0 www.interes.wowsret.online
 0.0.0.0 www.widom.wowsret.online
 0.0.0.0 www.wpad.online
+0.0.0.0 www.wydarzeniainformacyjnepl.online
 0.0.0.0 www.wystarczypooszukkac.online
 0.0.0.0 www.xooms.online
 0.0.0.0 www.yagnosk.online
@@ -32804,6 +32863,8 @@
 0.0.0.0 www.hackersweb.org
 0.0.0.0 phpmyadmin.haringhatamahavidyalaya.org
 0.0.0.0 dota2betakeys.hasbeenhacked.org
+0.0.0.0 olx.hatobete.org
+0.0.0.0 www.olx.hatobete.org
 0.0.0.0 ox-d.hbr.org
 0.0.0.0 www.herpestratamiento.org
 0.0.0.0 www.holdbox.org
@@ -32830,6 +32891,8 @@
 0.0.0.0 www.insulution.org
 0.0.0.0 www.invoice-template.org
 0.0.0.0 www.ipkobiznes.org
+0.0.0.0 olx.jedemole.org
+0.0.0.0 www.olx.jedemole.org
 0.0.0.0 vinted.jeqcadko.org
 0.0.0.0 www.vinted.jeqcadko.org
 0.0.0.0 www.jiajodhpur.org
@@ -33067,6 +33130,7 @@
 0.0.0.0 vlnted.834608twojid.pics
 0.0.0.0 www.vlnted.834608twojid.pics
 0.0.0.0 www.windet-pl.dostava5726318.pics
+0.0.0.0 www.online.fastprof.pics
 0.0.0.0 www.vinted-pi.id-pl027184596.pics
 0.0.0.0 vint-ed.id-umowa23478.pics
 0.0.0.0 www.vint-ed.id-umowa23478.pics
@@ -33765,6 +33829,7 @@
 0.0.0.0 www.bitcoincentrum.pl
 0.0.0.0 www.wi.biz.pl
 0.0.0.0 www.biznes-szkola.pl
+0.0.0.0 www.bonus-agricole.pl
 0.0.0.0 www.bonydosklepu.pl
 0.0.0.0 www.bootspolska.pl
 0.0.0.0 www.borowkalubuskie.pl
@@ -33795,6 +33860,7 @@
 0.0.0.0 www.calcionostra.pl
 0.0.0.0 www.catnip.pl
 0.0.0.0 www.cdpa.pl
+0.0.0.0 www.actewrwmjd.cfolks.pl
 0.0.0.0 www.afrboscskv.cfolks.pl
 0.0.0.0 www.app-ser-corr.cfolks.pl
 0.0.0.0 www.centamaidom.cfolks.pl
@@ -36877,6 +36943,7 @@
 0.0.0.0 inpost1-dellwe1bsite.paypolandgkt.shop
 0.0.0.0 www.inpost1-dellwe1bsite.paypolandgkt.shop
 0.0.0.0 www.perpetualaffirm.shop
+0.0.0.0 www.pexeqsend.shop
 0.0.0.0 www.pl-dostawa.shop
 0.0.0.0 olx.pl-easybuy.shop
 0.0.0.0 www.olx.pl-easybuy.shop
@@ -37158,6 +37225,7 @@
 0.0.0.0 cochack.site
 0.0.0.0 cogdybynietto.site
 0.0.0.0 colorise.site
+0.0.0.0 conpro.site
 0.0.0.0 contact-tracing-app.site
 0.0.0.0 cosdasiezrobbic.site
 0.0.0.0 cotusiedziejeludzie.site
@@ -37165,6 +37233,7 @@
 0.0.0.0 dafftar.site
 0.0.0.0 decathlon-pl.site
 0.0.0.0 destava.site
+0.0.0.0 diz-opo.site
 0.0.0.0 dliugahistoriapolakkow.site
 0.0.0.0 dostawa-1613762161.site
 0.0.0.0 dostawa-1618864121.site
@@ -37376,6 +37445,7 @@
 0.0.0.0 videoplayersistemleri15547.site
 0.0.0.0 villelonguien.site
 0.0.0.0 vistawebs-top-shop-soft.site
+0.0.0.0 vymowear.site
 0.0.0.0 wartowa.site
 0.0.0.0 wearemet.site
 0.0.0.0 wglowiiesieeniemiescii.site
@@ -37431,7 +37501,10 @@
 0.0.0.0 pekao.bank-pl.site
 0.0.0.0 www.pekao.bank-pl.site
 0.0.0.0 www.banking-pl.site
+0.0.0.0 dal.bashes.site
+0.0.0.0 www.dal.bashes.site
 0.0.0.0 www.bedgerls44.site
+0.0.0.0 www.better-life4u.site
 0.0.0.0 www.bigroom.site
 0.0.0.0 www.biznesowe20-hw.site
 0.0.0.0 www.biznesowe27-u.site
@@ -37465,6 +37538,7 @@
 0.0.0.0 apple.com-webbrowsing-security.site
 0.0.0.0 olx.pl.comtrans-id.site
 0.0.0.0 www.olx.pl.comtrans-id.site
+0.0.0.0 www.conpro.site
 0.0.0.0 www.contact-tracing-app.site
 0.0.0.0 www.cosdasiezrobbic.site
 0.0.0.0 www.cotusiedziejeludzie.site
@@ -37479,6 +37553,7 @@
 0.0.0.0 spiss.digitaloctane.site
 0.0.0.0 www.lnp0st.dispatch-nxzbc.site
 0.0.0.0 www.0lx.dispatch-sgdss.site
+0.0.0.0 www.diz-opo.site
 0.0.0.0 www.dliugahistoriapolakkow.site
 0.0.0.0 olx-pl.dodasz.site
 0.0.0.0 www.olx-pl.dodasz.site
@@ -37630,6 +37705,7 @@
 0.0.0.0 app3.letslowbefast.site
 0.0.0.0 app4.letslowbefast.site
 0.0.0.0 app5.letslowbefast.site
+0.0.0.0 www.light-trust.site
 0.0.0.0 www.limitowanebiznesiki24.site
 0.0.0.0 allegro.llokallnie.site
 0.0.0.0 www.allegro.llokallnie.site
@@ -38029,6 +38105,9 @@
 0.0.0.0 www.vensostred.site
 0.0.0.0 www.vervellc.site
 0.0.0.0 www.ma.vlmaxx.site
+0.0.0.0 www.vymowear.site
+0.0.0.0 w-pl.w1pl.site
+0.0.0.0 www.w-pl.w1pl.site
 0.0.0.0 www.poczta.walidacja-konta.site
 0.0.0.0 www.wartowa.site
 0.0.0.0 www.poczta.weryfikacja-okonto.site
@@ -38143,6 +38222,7 @@
 0.0.0.0 gaudiessept.space
 0.0.0.0 geealingsa.space
 0.0.0.0 geonsow.space
+0.0.0.0 gihersio.space
 0.0.0.0 giscoeswork.space
 0.0.0.0 gmchicks.space
 0.0.0.0 hagainstan.space
@@ -38244,6 +38324,7 @@
 0.0.0.0 webma.space
 0.0.0.0 wedliminat.space
 0.0.0.0 wieszjakjestrodakku.space
+0.0.0.0 wigford.space
 0.0.0.0 wsparcie-pl.space
 0.0.0.0 xfilesruzxpnew4af.space
 0.0.0.0 ximitedawas.space
@@ -38417,6 +38498,7 @@
 0.0.0.0 www.alerownieztito.space
 0.0.0.0 www.amorebig.space
 0.0.0.0 www.amournow.space
+0.0.0.0 www.aptaked.space
 0.0.0.0 www.atichota.space
 0.0.0.0 www.awiectakieopowiidanie.space
 0.0.0.0 www.bimolw.space
@@ -38517,6 +38599,7 @@
 0.0.0.0 www.mojapaczka-lnpost.dispatch-vjvc3.space
 0.0.0.0 www.dlugosiieootymmowi.space
 0.0.0.0 www.dostawa-olx.space
+0.0.0.0 www.echargeros.space
 0.0.0.0 www.evolution-budget.space
 0.0.0.0 www.evolution-confer.space
 0.0.0.0 www.evolution-consider.space
@@ -38551,6 +38634,7 @@
 0.0.0.0 www.expansion-tar.space
 0.0.0.0 www.expansion-together.space
 0.0.0.0 www.expansion-zon.space
+0.0.0.0 www.farbeady.space
 0.0.0.0 www.fokra-dof.space
 0.0.0.0 www.foreignme.space
 0.0.0.0 www.fouwko.space
@@ -38563,6 +38647,7 @@
 0.0.0.0 www.inpost-pl.ggergewgewrg-387485.space
 0.0.0.0 www.inpost-pl-pay.ggergewgewrg-387485.space
 0.0.0.0 www.olx-pl.ggergewgewrg-387485.space
+0.0.0.0 www.gihersio.space
 0.0.0.0 www.gmchicks.space
 0.0.0.0 www.gouslugi.space
 0.0.0.0 www.growth-assure.space
@@ -38843,6 +38928,7 @@
 0.0.0.0 www.srednioraznakilkalat.space
 0.0.0.0 keyupgrade.stableupdate.space
 0.0.0.0 marsupial.stfc.space
+0.0.0.0 www.streas.space
 0.0.0.0 www.tadoms.space
 0.0.0.0 checkupgrade24.thebigforeverupgrades.space
 0.0.0.0 www.thinofle.space
@@ -38877,7 +38963,10 @@
 0.0.0.0 iwbubcs.v01aelux.space
 0.0.0.0 i4eg76.vindicated-shelter.space
 0.0.0.0 www.poczta.walidacja-uzytkownika.space
+0.0.0.0 www.wfixed.space
 0.0.0.0 www.wieszjakjestrodakku.space
+0.0.0.0 www.wigford.space
+0.0.0.0 www.witheded.space
 0.0.0.0 www.wpad.space
 0.0.0.0 www.wsparcie-pl.space
 0.0.0.0 www.youradultfriend.space
@@ -39926,6 +40015,8 @@
 0.0.0.0 www.acena.top
 0.0.0.0 vinted-pl-gj32d.acgner.top
 0.0.0.0 www.vinted-pl-gj32d.acgner.top
+0.0.0.0 inpost-pl-pacid273jks.aishces.top
+0.0.0.0 www.inpost-pl-pacid273jks.aishces.top
 0.0.0.0 polska-vinted-hjso21.am98.top
 0.0.0.0 www.polska-vinted-hjso21.am98.top
 0.0.0.0 vinted-pl-gj32d.angkahoki.top
@@ -39944,6 +40035,8 @@
 0.0.0.0 vinted-pl-gj32d.bfbyxz.top
 0.0.0.0 www.vinted-pl-gj32d.bfbyxz.top
 0.0.0.0 vip.bitcoinspring.top
+0.0.0.0 vinted-pl-gj32d.bizful.top
+0.0.0.0 www.vinted-pl-gj32d.bizful.top
 0.0.0.0 vinted-pl-gj32d.bodajs.top
 0.0.0.0 www.vinted-pl-gj32d.bodajs.top
 0.0.0.0 bak.btc.top
@@ -39956,6 +40049,8 @@
 0.0.0.0 vinted-polska-rr124.cclxs.top
 0.0.0.0 www.vinted-polska-rr124.cclxs.top
 0.0.0.0 game0516.cdn8-traffic68-server10.top
+0.0.0.0 vinted-pl-gj32d.chejj.top
+0.0.0.0 www.vinted-pl-gj32d.chejj.top
 0.0.0.0 vinted-pl-gj32d.chloroquine.top
 0.0.0.0 www.vinted-pl-gj32d.chloroquine.top
 0.0.0.0 nowinstallupgrade.clickforultimateandbest2updatingpc.top
@@ -40014,6 +40109,8 @@
 0.0.0.0 vinted-pl-gj32d.fpbbzprr.top
 0.0.0.0 www.vinted-pl-gj32d.fpbbzprr.top
 0.0.0.0 www.vinted.fqshequ.top
+0.0.0.0 vinted-pl-gj32d.gc2hx.top
+0.0.0.0 www.vinted-pl-gj32d.gc2hx.top
 0.0.0.0 b.getprizenow.top
 0.0.0.0 www.gkoszt.top
 0.0.0.0 www.vjnted-pl.gktrplnd.top
@@ -40051,7 +40148,10 @@
 0.0.0.0 www.inpost-pl-myid271xs.jetfilez.top
 0.0.0.0 www.kghm22.top
 0.0.0.0 www.poczta.kontrola-mailowa.top
+0.0.0.0 vinted-pl-gj32d.leastk.top
+0.0.0.0 www.vinted-pl-gj32d.leastk.top
 0.0.0.0 www.lobbyshred.top
+0.0.0.0 www.inpost-pl-hid226ks.louruge.top
 0.0.0.0 polska-dpd-sdkk1.lspgdh.top
 0.0.0.0 www.polska-dpd-sdkk1.lspgdh.top
 0.0.0.0 inpost-pl-hid226ks.lushuang.top
@@ -40140,6 +40240,7 @@
 0.0.0.0 www.inpost.suds.top
 0.0.0.0 www.tanibuty.top
 0.0.0.0 www.tappark.top
+0.0.0.0 www.titistore.top
 0.0.0.0 www.tnfclothed.top
 0.0.0.0 moja-paczka-pl-myid576xs.tomatis.top
 0.0.0.0 vinted-pl-gj32d.tomatis.top
@@ -40167,6 +40268,8 @@
 0.0.0.0 www.vinted-pl.wniosek8379482.top
 0.0.0.0 inpostpl.wp-867721.top
 0.0.0.0 www.inpostpl.wp-867721.top
+0.0.0.0 vinted-pl-gj32d.wsyxyvn.top
+0.0.0.0 www.vinted-pl-gj32d.wsyxyvn.top
 0.0.0.0 www.wylotbuty.top
 0.0.0.0 vinted-pl-gkk219.yuyue-xp.top
 0.0.0.0 www.vinted-pl-gkk219.yuyue-xp.top
@@ -40536,6 +40639,7 @@
 0.0.0.0 dicolor.uno
 0.0.0.0 dnikos.uno
 0.0.0.0 feadow.uno
+0.0.0.0 gasskow.uno
 0.0.0.0 gaunkli.uno
 0.0.0.0 gerskil.uno
 0.0.0.0 ghedno.uno
@@ -40560,6 +40664,7 @@
 0.0.0.0 sodel.uno
 0.0.0.0 sonaril.uno
 0.0.0.0 sunmest.uno
+0.0.0.0 taklask.uno
 0.0.0.0 vutsoer.uno
 0.0.0.0 waaskorson.uno
 0.0.0.0 wansoter.uno
@@ -40575,6 +40680,7 @@
 0.0.0.0 www.dicolor.uno
 0.0.0.0 www.dnikos.uno
 0.0.0.0 www.feadow.uno
+0.0.0.0 www.gasskow.uno
 0.0.0.0 www.gaunkli.uno
 0.0.0.0 www.gerskil.uno
 0.0.0.0 www.ghedno.uno
@@ -40601,6 +40707,7 @@
 0.0.0.0 www.sodel.uno
 0.0.0.0 www.sonaril.uno
 0.0.0.0 www.sunmest.uno
+0.0.0.0 www.taklask.uno
 0.0.0.0 www.vutsoer.uno
 0.0.0.0 www.waaskorson.uno
 0.0.0.0 www.wansoter.uno
@@ -42644,12 +42751,14 @@
 0.0.0.0 www.inpot.5454shipping.xyz
 0.0.0.0 www.polska-alegrolokalnle.545678.xyz
 0.0.0.0 www.polska-olx.545678.xyz
+0.0.0.0 www.allegro1okalnie-sending.54645546.xyz
 0.0.0.0 www.jnpost-shopinfopay.5465484.xyz
 0.0.0.0 www.inpost-pl.5476128-order.xyz
 0.0.0.0 www.payvinted-market.5489001.xyz
 0.0.0.0 www.ihpost-purchase.5490076.xyz
 0.0.0.0 www.inpost-getting.5546345.xyz
 0.0.0.0 www.a11egroloka1nje-site.562312.xyz
+0.0.0.0 www.a1legrolokalnie-purchase.5644437.xyz
 0.0.0.0 www.ihpost-shipment.5664322.xyz
 0.0.0.0 pl-vinlted.567589.xyz
 0.0.0.0 polska-olx.567589.xyz
@@ -42658,6 +42767,7 @@
 0.0.0.0 www.dpd-pl.5691597-pieniadze-info.xyz
 0.0.0.0 www.o1x-shopping.5761200.xyz
 0.0.0.0 www.delivery-allegrolokalnie.5790865.xyz
+0.0.0.0 www.vinted-dispatch.5869973.xyz
 0.0.0.0 www.inp0ste-76searching11pay.5874935.xyz
 0.0.0.0 j9yvvyc.591books.xyz
 0.0.0.0 www.j9yvvyc.591books.xyz
@@ -42681,6 +42791,7 @@
 0.0.0.0 www.ihpost-delivery.648412323.xyz
 0.0.0.0 www.storepay-inpost.648454451.xyz
 0.0.0.0 www.inp0st-shopping.6485986.xyz
+0.0.0.0 www.dpd-shop.64874121.xyz
 0.0.0.0 dpd.64875-sendinggoods.xyz
 0.0.0.0 www.dpd.64875-sendinggoods.xyz
 0.0.0.0 www.inp0st-deliverypay.64958420.xyz
@@ -42711,6 +42822,7 @@
 0.0.0.0 pl-pay-olx.676355.xyz
 0.0.0.0 www.pl-pay-olx.676355.xyz
 0.0.0.0 www.allegrol0kalnie-goods.6777565.xyz
+0.0.0.0 www.vihted-market.6787667.xyz
 0.0.0.0 www.vjnted745shopp33.6794521.xyz
 0.0.0.0 www.vinted-payshop.695223021.xyz
 0.0.0.0 www.1np-ost.699854.xyz
@@ -42738,6 +42850,7 @@
 0.0.0.0 www.jhpost.74815-sendproduct.xyz
 0.0.0.0 olx-pl.748535.xyz
 0.0.0.0 www.olx-pl.748535.xyz
+0.0.0.0 www.vihtedshop-site.7490615.xyz
 0.0.0.0 www.inpost-shop.7530986.xyz
 0.0.0.0 www.market-alegrolokalnie.754484544.xyz
 0.0.0.0 www.vlnted-0dillivery.757789542.xyz
@@ -42756,6 +42869,7 @@
 0.0.0.0 www.storeallegrolokalnie.7884112.xyz
 0.0.0.0 www.jnpost-goods.7886790.xyz
 0.0.0.0 www.olxshop-market.7889043.xyz
+0.0.0.0 www.vihted-shopping.7908976.xyz
 0.0.0.0 www.inpost-delivery.7956864.xyz
 0.0.0.0 www.alegrolokalnie-shop.7958111.xyz
 0.0.0.0 www.8-shipmentcargo.xyz
@@ -42779,7 +42893,9 @@
 0.0.0.0 www.inpost.9-sendingproductuser.xyz
 0.0.0.0 www.dpd-shopping.9000786.xyz
 0.0.0.0 www.dpdshop-shipment.9000876.xyz
+0.0.0.0 www.0lx-informing.902184.xyz
 0.0.0.0 www.allegr0lokalnie-goods.9032189.xyz
+0.0.0.0 www.al1egrolokalnie-goods.9066876.xyz
 0.0.0.0 www.inp0st-shipment.9076340.xyz
 0.0.0.0 www.inpost-pl.9473873-info-mycash.xyz
 0.0.0.0 www.v1nt-ed.95654.xyz
@@ -43208,6 +43324,8 @@
 0.0.0.0 virted-pl-fi551.humanae.xyz
 0.0.0.0 www.vinted-pl-gj32d.humanae.xyz
 0.0.0.0 www.virted-pl-fi551.humanae.xyz
+0.0.0.0 vinted-pl-gj32d.hymt.xyz
+0.0.0.0 www.vinted-pl-gj32d.hymt.xyz
 0.0.0.0 lnpost-polska.id-28451.xyz
 0.0.0.0 www.lnpost-polska.id-28451.xyz
 0.0.0.0 www.polska-vlnlted.id-456374.xyz
@@ -43283,6 +43401,8 @@
 0.0.0.0 www.inp0st.infositepaydellvery.xyz
 0.0.0.0 www.infouserorder.xyz
 0.0.0.0 www.ingsart.xyz
+0.0.0.0 vinted-pl-gj32d.ingyu.xyz
+0.0.0.0 www.vinted-pl-gj32d.ingyu.xyz
 0.0.0.0 asder.innovappl.xyz
 0.0.0.0 kasjucc.innovappl.xyz
 0.0.0.0 kasytr.innovappl.xyz
@@ -45102,6 +45222,7 @@
 0.0.0.0 www.scs.rusbbnks.xyz
 0.0.0.0 www.rwifgddudfw7df.xyz
 0.0.0.0 www.ryghopl.xyz
+0.0.0.0 www.safeplsecurity.xyz
 0.0.0.0 www.samgiles.xyz
 0.0.0.0 www.samtegoniezrobiisz.xyz
 0.0.0.0 www.sandeman.xyz
@@ -45221,6 +45342,9 @@
 0.0.0.0 www.tores.xyz
 0.0.0.0 www.tostard.xyz
 0.0.0.0 www.toyoutesla.xyz
+0.0.0.0 eu.tprogapp.xyz
+0.0.0.0 pl.tprogapp.xyz
+0.0.0.0 www.eu.tprogapp.xyz
 0.0.0.0 www.inpost-pl.trackcode-info-id985463.xyz
 0.0.0.0 www.inpost-pl.traktat12321.xyz
 0.0.0.0 www.inp0st.transferamounts.xyz
@@ -45261,6 +45385,7 @@
 0.0.0.0 www.jnpos-t.usersend-product.xyz
 0.0.0.0 www.lnpost-pl-info.usertranslationinfo.xyz
 0.0.0.0 www.uterse.xyz
+0.0.0.0 www.inpost-pl-mynid2ihxa.vanhien.xyz
 0.0.0.0 www.vardian.xyz
 0.0.0.0 inpostpl.ve076124975346.xyz
 0.0.0.0 www.inpostpl.ve076124975346.xyz
