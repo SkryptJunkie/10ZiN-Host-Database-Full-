@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:03 AM Sunday 18 September 2022
+# Date: 06:10 AM Monday 19 September 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -2032,20 +2032,34 @@
 0.0.0.0 oascentral.ywlloewpages.ca
 0.0.0.0 aperushmo.cam
 0.0.0.0 badleasump.cam
+0.0.0.0 chaussizers.cam
+0.0.0.0 fikeyoograph.cam
+0.0.0.0 halmaaliyoth.cam
 0.0.0.0 hipfowlzeal.cam
 0.0.0.0 honeyledger.cam
 0.0.0.0 kontospl.cam
+0.0.0.0 langueattaleh.cam
+0.0.0.0 larnyxbizonal.cam
+0.0.0.0 lipidicsoli.cam
 0.0.0.0 loveme.cam
 0.0.0.0 m-olx.cam
 0.0.0.0 myetherwallet.cam
 0.0.0.0 olx-banking.cam
 0.0.0.0 olx-delivery.cam
 0.0.0.0 olx-finansowanie.cam
+0.0.0.0 parsnipwairsh.cam
+0.0.0.0 popinacbirrus.cam
+0.0.0.0 reeshlesunweed.cam
 0.0.0.0 roostsflewcat.cam
 0.0.0.0 rottilderum.cam
 0.0.0.0 schtickshalier.cam
+0.0.0.0 scoureroutcry.cam
+0.0.0.0 sicceddermoid.cam
 0.0.0.0 syngamypilaw.cam
 0.0.0.0 tutworkfraghan.cam
+0.0.0.0 unvoidsahara.cam
+0.0.0.0 vainplaints.cam
+0.0.0.0 visingouteat.cam
 0.0.0.0 vownixsofa.cam
 0.0.0.0 wavecurersquire.cam
 0.0.0.0 wiglogsbathos.cam
@@ -7491,6 +7505,7 @@
 0.0.0.0 himachaldream.com
 0.0.0.0 himalayanridersandtrekkers.com
 0.0.0.0 hindikitaab.com
+0.0.0.0 hiotsvyrmqbe.com
 0.0.0.0 hir-online.com
 0.0.0.0 hir-start.com
 0.0.0.0 hiredringjuices.com
@@ -7583,6 +7598,7 @@
 0.0.0.0 hoypagamenos.com
 0.0.0.0 hpqhqvko.com
 0.0.0.0 hqdrugs.com
+0.0.0.0 hqducceiefkkosg.com
 0.0.0.0 hracingtips.com
 0.0.0.0 hredoybangladesh.com
 0.0.0.0 hriaaim06kts.com
@@ -8390,6 +8406,7 @@
 0.0.0.0 maxxisproduct.com
 0.0.0.0 mays-ltd.com
 0.0.0.0 mb-su.com
+0.0.0.0 mbekbymfdxy.com
 0.0.0.0 mbitag.com
 0.0.0.0 mbuguatis.com
 0.0.0.0 mcagbtdcwklf.com
@@ -9681,6 +9698,7 @@
 0.0.0.0 qnbfinansbanka-enpara.com
 0.0.0.0 qnbfinansbankacim.com
 0.0.0.0 qndvbgqc.com
+0.0.0.0 qoyucyqgqp.com
 0.0.0.0 qpfhd.com
 0.0.0.0 qpgjmdlq.com
 0.0.0.0 qpljfpwdpk.com
@@ -10186,6 +10204,7 @@
 0.0.0.0 signbullswaif.com
 0.0.0.0 significantlywatertragedy.com
 0.0.0.0 signoredom.com
+0.0.0.0 sikesoutcast.com
 0.0.0.0 sikx1ivtjbi8.com
 0.0.0.0 silikon-bileklik.com
 0.0.0.0 silkenmore.com
@@ -10319,6 +10338,7 @@
 0.0.0.0 smoothscrollapp.com
 0.0.0.0 sms-applecare.com
 0.0.0.0 smspartnerprogramm.com
+0.0.0.0 smxbhdfeygwotcv.com
 0.0.0.0 sn-gate.com
 0.0.0.0 snapchatspys.com
 0.0.0.0 sniggerhousehold.com
@@ -11791,6 +11811,7 @@
 0.0.0.0 yingke86wang.com
 0.0.0.0 yipkgpvrm.com
 0.0.0.0 ymcmt.com
+0.0.0.0 yngalsivgukt.com
 0.0.0.0 yngxtgj.com
 0.0.0.0 ynjkkj.com
 0.0.0.0 ynqtvwnansnan.com
