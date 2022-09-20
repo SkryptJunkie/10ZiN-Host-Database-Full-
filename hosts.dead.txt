@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:10 AM Monday 19 September 2022
+# Date: 06:03 AM Tuesday 20 September 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -9464,6 +9464,7 @@
 0.0.0.0 pndelfast.com
 0.0.0.0 pnhdnlrzwu.com
 0.0.0.0 pnhtmagmhbu.com
+0.0.0.0 pnyijiogfpqcv.com
 0.0.0.0 pochta-info.com
 0.0.0.0 pocztawponline.com
 0.0.0.0 poemsdeucewee.com
