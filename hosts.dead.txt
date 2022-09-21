@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:03 AM Tuesday 20 September 2022
+# Date: 06:06 AM Wednesday 21 September 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -10998,6 +10998,7 @@
 0.0.0.0 ts3-plugins.com
 0.0.0.0 ts3plug-in.com
 0.0.0.0 ts3plugins.com
+0.0.0.0 tsatwushcyiihh.com
 0.0.0.0 tssoundplugin.com
 0.0.0.0 tu42het22n.com
 0.0.0.0 tuamigopeludo.com
@@ -39787,6 +39788,7 @@
 0.0.0.0 neathsmik.top
 0.0.0.0 necrobod.top
 0.0.0.0 nesjournin.top
+0.0.0.0 nficpsbj.top
 0.0.0.0 nflxafyh.top
 0.0.0.0 nfnehsyfhxun.top
 0.0.0.0 ngknowle.top
@@ -41828,6 +41830,7 @@
 0.0.0.0 enhucherions.xyz
 0.0.0.0 entrecent.xyz
 0.0.0.0 eqnylooggau.xyz
+0.0.0.0 eruge.xyz
 0.0.0.0 etherapps.xyz
 0.0.0.0 euovfldsups.xyz
 0.0.0.0 euphoniserent.xyz
