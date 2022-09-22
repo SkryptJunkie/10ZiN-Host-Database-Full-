@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:06 AM Wednesday 21 September 2022
+# Date: 06:03 AM Thursday 22 September 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -7977,6 +7977,7 @@
 0.0.0.0 juanpernia.com
 0.0.0.0 judynguyenart.com
 0.0.0.0 jugcontainer.com
+0.0.0.0 juhkuknti.com
 0.0.0.0 juicy-pubg.com
 0.0.0.0 julianamanara.com
 0.0.0.0 jumeioo.com
@@ -9912,6 +9913,7 @@
 0.0.0.0 ripiocredits.com
 0.0.0.0 riverislandpl.com
 0.0.0.0 rjmwqf.com
+0.0.0.0 rjnvbinsdasgs.com
 0.0.0.0 rkomf.com
 0.0.0.0 rksnsports.com
 0.0.0.0 rmlehtrdzfyonb.com
