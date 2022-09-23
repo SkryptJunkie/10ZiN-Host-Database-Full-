@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:03 AM Thursday 22 September 2022
+# Date: 06:10 AM Friday 23 September 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -5775,6 +5775,7 @@
 0.0.0.0 cute-menfinders.com
 0.0.0.0 cwsitetrack.com
 0.0.0.0 cxhjpcrvxd.com
+0.0.0.0 cybentrip.com
 0.0.0.0 cyber-incentives.com
 0.0.0.0 cyberiumhacks.com
 0.0.0.0 cyberscat.com
@@ -8599,6 +8600,7 @@
 0.0.0.0 monsterhosted.com
 0.0.0.0 monsterlegendscheat.com
 0.0.0.0 monsterwarlordhacks.com
+0.0.0.0 montohoe.com
 0.0.0.0 monxserver.com
 0.0.0.0 moons-cases.com
 0.0.0.0 mop-shere.com
@@ -11248,6 +11250,7 @@
 0.0.0.0 vivdq.com
 0.0.0.0 vivosapparatus.com
 0.0.0.0 vjmcharities.com
+0.0.0.0 vjqepxxkjmgbo.com
 0.0.0.0 vkan-profile.com
 0.0.0.0 vkbsi.com
 0.0.0.0 vmarzal.com
