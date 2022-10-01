@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:05 AM Friday 30 September 2022
+# Date: 06:18 AM Saturday 01 October 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -9757,6 +9757,7 @@
 0.0.0.0 quoram.com
 0.0.0.0 qvtqgkqkhoe.com
 0.0.0.0 qwlltztcbwif.com
+0.0.0.0 qxihapln.com
 0.0.0.0 r6i547.com
 0.0.0.0 r7mediar.com
 0.0.0.0 raahie.com
@@ -38387,6 +38388,7 @@
 0.0.0.0 arposastrar.space
 0.0.0.0 atichota.space
 0.0.0.0 attacketsun.space
+0.0.0.0 avisp.space
 0.0.0.0 awiectakieopowiidanie.space
 0.0.0.0 badmactogoodmac.space
 0.0.0.0 begsor.space
