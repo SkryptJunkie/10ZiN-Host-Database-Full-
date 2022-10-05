@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:04 AM Tuesday 04 October 2022
+# Date: 06:05 AM Wednesday 05 October 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -7710,6 +7710,7 @@
 0.0.0.0 ignoranttools.com
 0.0.0.0 igpgame.com
 0.0.0.0 iguoma.com
+0.0.0.0 igyljifdedta.com
 0.0.0.0 ihacks24.com
 0.0.0.0 ihacksncodes.com
 0.0.0.0 ihear123.com
@@ -8685,6 +8686,7 @@
 0.0.0.0 mulit-hack.com
 0.0.0.0 multiapp-down.com
 0.0.0.0 mumzcareplus.com
+0.0.0.0 muplgppshw.com
 0.0.0.0 musclepots.com
 0.0.0.0 museedeleau.com
 0.0.0.0 mushroomresolved.com
@@ -10862,6 +10864,7 @@
 0.0.0.0 time4swap.com
 0.0.0.0 tin-tin-win.com
 0.0.0.0 tinhhoanetviet.com
+0.0.0.0 tinneatonenessnabobical.com
 0.0.0.0 tinyurler.com
 0.0.0.0 tips10life.com
 0.0.0.0 titanfall-game.com
@@ -11357,6 +11360,7 @@
 0.0.0.0 waystohack.com
 0.0.0.0 wazzpromo.com
 0.0.0.0 wbpaypal.com
+0.0.0.0 wbtaowdaylmimqu.com
 0.0.0.0 wcracked.com
 0.0.0.0 wcreactions.com
 0.0.0.0 wcyrjlszoo.com
@@ -40001,6 +40005,7 @@
 0.0.0.0 icloud-lockes.top
 0.0.0.0 idealnybuty.top
 0.0.0.0 iepipdqgwpbqd.top
+0.0.0.0 igyljifdedta.top
 0.0.0.0 inexu.top
 0.0.0.0 inpost-paczka.top
 0.0.0.0 instamore.top
