@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Saturday 08 October 2022
+# Date: 06:02 AM Sunday 09 October 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -18260,6 +18260,8 @@
 0.0.0.0 www.redaksi4jovem.com
 0.0.0.0 www.redapplenews.com
 0.0.0.0 stats.redditmedia.com
+0.0.0.0 metrics.redgifs.com
+0.0.0.0 px.redgifs.com
 0.0.0.0 www.rainbow.rediousweb.com
 0.0.0.0 ads.redorbit.com
 0.0.0.0 oascentral.redorbit.com
