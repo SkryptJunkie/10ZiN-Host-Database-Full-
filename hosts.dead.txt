@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Sunday 09 October 2022
+# Date: 06:03 AM Monday 10 October 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -37,6 +37,7 @@
 0.0.0.0 royalintgulf.ae
 0.0.0.0 smetrics.htm.ae
 0.0.0.0 www.familytree.swantech.ae
+0.0.0.0 www.5pl2.bregy.ag
 0.0.0.0 boredpanda.agency
 0.0.0.0 chakavak.agency
 0.0.0.0 keyhole.agency
@@ -2099,6 +2100,7 @@
 0.0.0.0 www.mars-b.csassault.care
 0.0.0.0 www.mars.dedust.care
 0.0.0.0 www.mars-b.dedust.care
+0.0.0.0 www.saturn-e.dedust.care
 0.0.0.0 www.sol.dedust.care
 0.0.0.0 www.sol-b.dedust.care
 0.0.0.0 www.earth.dedust2.care
@@ -2253,6 +2255,7 @@
 0.0.0.0 www.desacapgzuducroe.cf
 0.0.0.0 www.eroogloperchove.cf
 0.0.0.0 www.feuwilmiruplato.cf
+0.0.0.0 www.finmomonesi.cf
 0.0.0.0 www.fiszoiglycsaeca.cf
 0.0.0.0 www.forbelyde.cf
 0.0.0.0 www.gastproricingmarec.cf
@@ -2280,6 +2283,7 @@
 0.0.0.0 www.rieprocgus.cf
 0.0.0.0 www.rweathrahengamb.cf
 0.0.0.0 www.stigucunfiki.cf
+0.0.0.0 www.tiomulisko.cf
 0.0.0.0 www.tissasumque.cf
 0.0.0.0 www.trafsyscompgnancaproy.cf
 0.0.0.0 instagram.com.ukradene-slike.cf
@@ -2465,6 +2469,8 @@
 0.0.0.0 www.szybkie.click
 0.0.0.0 www.tesghts.click
 0.0.0.0 www.teshose.click
+0.0.0.0 www.tesppen.click
+0.0.0.0 www.tesralis.click
 0.0.0.0 www.thegroup.click
 0.0.0.0 www.trzymajnewsa.click
 0.0.0.0 inpostpl.ty09621483047.click
@@ -9936,6 +9942,7 @@
 0.0.0.0 rfeidvpm.com
 0.0.0.0 rfese.com
 0.0.0.0 rhotonaid.com
+0.0.0.0 rhuxbdcvncuufo.com
 0.0.0.0 rhymeshey.com
 0.0.0.0 richardsonmain.com
 0.0.0.0 richboysblog.com
@@ -13077,6 +13084,7 @@
 0.0.0.0 www.ayehcleaners.com
 0.0.0.0 www.aysenuryavuz.com
 0.0.0.0 b1.azjmp.com
+0.0.0.0 www.azmeef.com
 0.0.0.0 spain.brazilsouth.cloudapp.azure.com
 0.0.0.0 notficamasternetsjfh102948.switzerlandnorth.cloudapp.azure.com
 0.0.0.0 www.b-s500.com
@@ -19751,6 +19759,7 @@
 0.0.0.0 www74.valueclick.com
 0.0.0.0 www81.valueclick.com
 0.0.0.0 www.valuesponsor.com
+0.0.0.0 www.vanagarfinance.com
 0.0.0.0 www.vannes776.com
 0.0.0.0 www.vansskleppolska.com
 0.0.0.0 www.varnasco.com
@@ -23119,6 +23128,7 @@
 0.0.0.0 tricinjohjua.gq
 0.0.0.0 unbrigvisenria.gq
 0.0.0.0 whitheacont.gq
+0.0.0.0 www.adalafad.gq
 0.0.0.0 www.arpucelnabahi.gq
 0.0.0.0 www.backscancetlasep.gq
 0.0.0.0 www.biobesnudeliri.gq
@@ -23132,6 +23142,7 @@
 0.0.0.0 www.enanin.gq
 0.0.0.0 www.eralranconfderpa.gq
 0.0.0.0 www.gabatilaprei.gq
+0.0.0.0 www.galocon.gq
 0.0.0.0 www.herzbromadsorremes.gq
 0.0.0.0 www.iglieve.gq
 0.0.0.0 www.konchodeg.gq
@@ -23144,8 +23155,10 @@
 0.0.0.0 www.newstalaswindning.gq
 0.0.0.0 www.newsweekpl.gq
 0.0.0.0 www.orhipdezimisan.gq
+0.0.0.0 www.parkindber.gq
 0.0.0.0 inpost.pl-reg.gq
 0.0.0.0 www.inpost.pl-reg.gq
+0.0.0.0 www.reihama.gq
 0.0.0.0 www.ressfulsuanise.gq
 0.0.0.0 www.slinverlilisfau.gq
 0.0.0.0 www.tingzilvayholltertest.gq
@@ -23202,9 +23215,11 @@
 0.0.0.0 emily-dates.host
 0.0.0.0 energetyczna.host
 0.0.0.0 favgroup.host
+0.0.0.0 gaterox.host
 0.0.0.0 getensko.host
 0.0.0.0 goldencheddar.host
 0.0.0.0 haresdofer.host
+0.0.0.0 igawskoy.host
 0.0.0.0 irina.host
 0.0.0.0 lazamgow.host
 0.0.0.0 mavrodi.host
@@ -23235,9 +23250,11 @@
 0.0.0.0 www.emily-dates.host
 0.0.0.0 www.energetyczna.host
 0.0.0.0 www.favgroup.host
+0.0.0.0 www.gaterox.host
 0.0.0.0 www.getensko.host
 0.0.0.0 www.goldencheddar.host
 0.0.0.0 www.haresdofer.host
+0.0.0.0 www.igawskoy.host
 0.0.0.0 www.irina.host
 0.0.0.0 www.lazamgow.host
 0.0.0.0 manhattan.manivelasst.host
@@ -25545,6 +25562,7 @@
 0.0.0.0 www.arteelegnoitalia.it
 0.0.0.0 www.azulerie.it
 0.0.0.0 mobile.banzai.it
+0.0.0.0 www.52p.bregy.it
 0.0.0.0 www.bugsbanner.it
 0.0.0.0 www.casaemily.it
 0.0.0.0 www.casalespinazzella.it
@@ -26564,6 +26582,7 @@
 0.0.0.0 www.copysubstancepattern8.live
 0.0.0.0 www.copysubstancepattern9.live
 0.0.0.0 www.cpn-offers.live
+0.0.0.0 www.inpost-pl-hid226ks.csapps.live
 0.0.0.0 www.curtainhardsh10.live
 0.0.0.0 www.curtainhardsh11.live
 0.0.0.0 www.curtainhardsh16.live
@@ -31548,6 +31567,7 @@
 0.0.0.0 ads.simtel.net
 0.0.0.0 www.skywa.net
 0.0.0.0 www.smalllong.net
+0.0.0.0 www.smart-trade-group.net
 0.0.0.0 www.smartadnetwork.net
 0.0.0.0 stats.snacktools.net
 0.0.0.0 collector.snplow.net
@@ -31953,6 +31973,8 @@
 0.0.0.0 www.ca24kredit-agrlcole.one
 0.0.0.0 www.ca24kredlt-agricolle.one
 0.0.0.0 www.govpl.one
+0.0.0.0 allegro-lokal796lpolskas.home-wentstrainpl012.one
+0.0.0.0 www.allegro-lokal796lpolskas.home-wentstrainpl012.one
 0.0.0.0 www.inpost.one
 0.0.0.0 www.inpost-pl.safe-delivery.one
 0.0.0.0 inpost.pl-safe.secure-dostawa.one
@@ -32423,6 +32445,7 @@
 0.0.0.0 www.private-bussiness1.online
 0.0.0.0 www.private-invest.online
 0.0.0.0 www.private-investition.online
+0.0.0.0 www.prof-make.online
 0.0.0.0 testpc24.profitableads.online
 0.0.0.0 www.fpm1.profitguru.online
 0.0.0.0 8cr.purredheanb.online
@@ -33371,6 +33394,8 @@
 0.0.0.0 inpost.wustfast.org
 0.0.0.0 www.inpost.wustfast.org
 0.0.0.0 logging03.wxs.org
+0.0.0.0 dpd.yakulepes.org
+0.0.0.0 www.dpd.yakulepes.org
 0.0.0.0 mail.youcanoptout.org
 0.0.0.0 www.youcanoptout.org
 0.0.0.0 inpost.yreleps.org
@@ -33439,6 +33464,7 @@
 0.0.0.0 www.oix-pl.swojid04815723.pics
 0.0.0.0 mojapaczka-inpost.szybko72184695.pics
 0.0.0.0 www.mojapaczka-inpost.szybko72184695.pics
+0.0.0.0 www.2app.tech-online-ai.pics
 0.0.0.0 www.productions.techaifxqacom.pics
 0.0.0.0 www.dpd-pl.traktat34634.pics
 0.0.0.0 www.innopost.traktat34634.pics
@@ -34707,6 +34733,7 @@
 0.0.0.0 www.jesttylko.pl
 0.0.0.0 www.jf-aesthetic.pl
 0.0.0.0 www.jimmychoopolska.pl
+0.0.0.0 www.juasz.pl
 0.0.0.0 www.judokasi.pl
 0.0.0.0 ipko.pl.jxt.pl
 0.0.0.0 www.ipko.pl.jxt.pl
@@ -39433,6 +39460,7 @@
 0.0.0.0 www.settings-app.store
 0.0.0.0 eejkpa.sherlock.store
 0.0.0.0 www.sledzenie-paczki.store
+0.0.0.0 www.2attorney.tech-online-ai.store
 0.0.0.0 www.trehlon.store
 0.0.0.0 www.vedava.store
 0.0.0.0 www.wonderingly.store
@@ -41041,6 +41069,7 @@
 0.0.0.0 data.netweaver.uk
 0.0.0.0 karajayne.org.uk
 0.0.0.0 redlandslabour.org.uk
+0.0.0.0 akstowsky.uno
 0.0.0.0 berskor.uno
 0.0.0.0 bifaguan.uno
 0.0.0.0 bimtarsir.uno
@@ -41088,6 +41117,7 @@
 0.0.0.0 yamowe.uno
 0.0.0.0 yasklick.uno
 0.0.0.0 yvosdo.uno
+0.0.0.0 www.akstowsky.uno
 0.0.0.0 www.berskor.uno
 0.0.0.0 www.bifaguan.uno
 0.0.0.0 www.bimtarsir.uno
@@ -43166,6 +43196,8 @@
 0.0.0.0 www.inpost-pl.347887.xyz
 0.0.0.0 www.aligralokalnie.3542482.xyz
 0.0.0.0 www.o-lx.35612-dispatchgoods.xyz
+0.0.0.0 www.a11egrolokalni-store.3562695.xyz
+0.0.0.0 www.impost.36594345154.xyz
 0.0.0.0 www.inpost-delivery.3741254.xyz
 0.0.0.0 www.vjnted-delivery.375412.xyz
 0.0.0.0 www.alegorlokalnie.375421.xyz
@@ -43232,6 +43264,7 @@
 0.0.0.0 www.inp0ste-76searching11pay.5874935.xyz
 0.0.0.0 j9yvvyc.591books.xyz
 0.0.0.0 www.j9yvvyc.591books.xyz
+0.0.0.0 www.winted.5921548455.xyz
 0.0.0.0 www.jnp0st.599045.xyz
 0.0.0.0 poiska-pay-vinted.602345.xyz
 0.0.0.0 www.poiska-pay-vinted.602345.xyz
@@ -43330,6 +43363,7 @@
 0.0.0.0 www.impost.7656-sendinggoods.xyz
 0.0.0.0 www.w1nted97-store.766876.xyz
 0.0.0.0 www.inp0st-merchandise.7668778.xyz
+0.0.0.0 www.d-pd-informing.7673232.xyz
 0.0.0.0 www.5v1nted34-site.774329.xyz
 0.0.0.0 www.vlnted-storeinfo.777145.xyz
 0.0.0.0 www.0lx-informing.784327.xyz
@@ -43353,6 +43387,7 @@
 0.0.0.0 www.inpost-pl.8403534.xyz
 0.0.0.0 www.inp0st-delivery.8431476.xyz
 0.0.0.0 www.inp0st.845-infodelivery.xyz
+0.0.0.0 www.winted.8451645000.xyz
 0.0.0.0 www.oix-delivery.84621.xyz
 0.0.0.0 inpost-pl.847541.xyz
 0.0.0.0 www.inpost-pl.847541.xyz
@@ -45932,6 +45967,7 @@
 0.0.0.0 www.virted-pl-fi551.wpsetup.xyz
 0.0.0.0 www.wsparcie.xyz
 0.0.0.0 www.wstrzymana-paczka-paczkomat.xyz
+0.0.0.0 www.www1-goonline-bnpparibas-pl.xyz
 0.0.0.0 inpostpl.wybierzsposub-tu.xyz
 0.0.0.0 www.dpd-pl.wybierzsposub-tu.xyz
 0.0.0.0 www.inpostpl.wybierzsposub-tu.xyz
