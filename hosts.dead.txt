@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:03 AM Monday 10 October 2022
+# Date: 06:05 AM Tuesday 11 October 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -6205,6 +6205,7 @@
 0.0.0.0 easypotz.com
 0.0.0.0 easyusgrants.com
 0.0.0.0 eatemupkats.com
+0.0.0.0 ebhxngdbffmk.com
 0.0.0.0 ebooks-kostenlos-downloaden.com
 0.0.0.0 eca1d7792ad5de43.com
 0.0.0.0 eccoeustore.com
@@ -8077,6 +8078,7 @@
 0.0.0.0 keygensland.com
 0.0.0.0 keygenspace.com
 0.0.0.0 keygenwarez.com
+0.0.0.0 kgaovwylbkhjbn.com
 0.0.0.0 kgqhtakjphgdwg.com
 0.0.0.0 kgvcjyvoyrl.com
 0.0.0.0 khaivankinhdoanh.com
@@ -8456,6 +8458,7 @@
 0.0.0.0 mcopolice.com
 0.0.0.0 mcraftaccount.com
 0.0.0.0 mcslifestylephotography.com
+0.0.0.0 mcuxqxjadrbli.com
 0.0.0.0 mdlsite.com
 0.0.0.0 mechanicaljoke.com
 0.0.0.0 mechanicsearnestobjections.com
@@ -9749,6 +9752,7 @@
 0.0.0.0 qpqnbnsnosdss.com
 0.0.0.0 qqzhanz.com
 0.0.0.0 qrlgcrzmbuy.com
+0.0.0.0 qrqjljsbofdgvw.com
 0.0.0.0 qrxotrlt.com
 0.0.0.0 qtldocrewpnpp.com
 0.0.0.0 qtum-token.com
@@ -11165,6 +11169,7 @@
 0.0.0.0 unveilhacks.com
 0.0.0.0 unverf.com
 0.0.0.0 unwashedsound.com
+0.0.0.0 unxwutxbsbq.com
 0.0.0.0 update-ms-en-office365.com
 0.0.0.0 update-msoffice365.com
 0.0.0.0 update-myetherwallet.com
@@ -11195,6 +11200,7 @@
 0.0.0.0 uretekchina.com
 0.0.0.0 url-apple-email.com
 0.0.0.0 urlhigh.com
+0.0.0.0 urmcngwqqllmj.com
 0.0.0.0 urnkawsxxh.com
 0.0.0.0 urutuoutawe.com
 0.0.0.0 us-choicevalue.com
@@ -25338,6 +25344,7 @@
 0.0.0.0 davor.io
 0.0.0.0 district-0x.io
 0.0.0.0 dmarkt.io
+0.0.0.0 eiraplay.io
 0.0.0.0 elherdelta.io
 0.0.0.0 enijncoin.io
 0.0.0.0 etherume.io
@@ -40085,6 +40092,7 @@
 0.0.0.0 idealnybuty.top
 0.0.0.0 iepipdqgwpbqd.top
 0.0.0.0 igyljifdedta.top
+0.0.0.0 ijmoitvbtffqff.top
 0.0.0.0 inexu.top
 0.0.0.0 inpost-paczka.top
 0.0.0.0 instamore.top
@@ -42168,6 +42176,7 @@
 0.0.0.0 betrow.xyz
 0.0.0.0 bezapelacyjniepolska.xyz
 0.0.0.0 bhqikxjpunn.xyz
+0.0.0.0 billion-load.xyz
 0.0.0.0 bjpnhannceskudl.xyz
 0.0.0.0 bjwhpwjbf.xyz
 0.0.0.0 bloggrid.xyz
