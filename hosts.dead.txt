@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:05 AM Tuesday 11 October 2022
+# Date: 06:06 AM Wednesday 12 October 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -89,6 +89,7 @@
 0.0.0.0 www.paczkonnat.app
 0.0.0.0 stats.picci.app
 0.0.0.0 home.stickify.app
+0.0.0.0 fps-networking2ecom.ar
 0.0.0.0 compraonline14.com.ar
 0.0.0.0 jyrgraphics.com.ar
 0.0.0.0 lm-groupsrl.com.ar
@@ -296,6 +297,7 @@
 0.0.0.0 newiberia.attorney
 0.0.0.0 www.monroe.attorney
 0.0.0.0 www.newiberia.attorney
+0.0.0.0 styledbynikki2ecom.au
 0.0.0.0 newhope.asn.au
 0.0.0.0 www.newhope.asn.au
 0.0.0.0 aykensdrafting.com.au
@@ -908,7 +910,12 @@
 0.0.0.0 inpostpl.towar-55584.bond
 0.0.0.0 www.inpostpl.towar-55584.bond
 0.0.0.0 www.olx-pl.widd-kom.bond
+0.0.0.0 aiuabafm2ecom.br
+0.0.0.0 jmobras2ecom.br
 0.0.0.0 macconsorcioscom.br
+0.0.0.0 networkcapital2ecom.br
+0.0.0.0 redeprocursos2ecom.br
+0.0.0.0 vianebrasil2ecom.br
 0.0.0.0 www.fernandomora.arq.br
 0.0.0.0 a2designer.com.br
 0.0.0.0 aclmagazine.com.br
@@ -3936,6 +3943,11 @@
 0.0.0.0 sha1.videotrek.co
 0.0.0.0 ads.vs.co
 0.0.0.0 www.tilalre.widelab.co
+0.0.0.0 ming.co2ein
+0.0.0.0 hotelkingdom.co2etz
+0.0.0.0 jumabar.co2euk
+0.0.0.0 orbittours.co2euk
+0.0.0.0 motorq.co2eza
 0.0.0.0 allegrolokalnie.codes
 0.0.0.0 www.allegrolokalnie.codes
 0.0.0.0 geting-security.inpost.codes
@@ -8129,6 +8141,7 @@
 0.0.0.0 koramaghreb.com
 0.0.0.0 korizza-club.com
 0.0.0.0 kozoysnsx.com
+0.0.0.0 kpmprksau.com
 0.0.0.0 kqeehoptcroxf.com
 0.0.0.0 krabbendamphotography.com
 0.0.0.0 kraken-wallet.com
@@ -20567,6 +20580,10 @@
 0.0.0.0 secret.ɢoogle.com
 0.0.0.0 gemini.yahoo.com*syndication
 0.0.0.0 woolik.com*tracker
+0.0.0.0 ofertasvillefort.com2ebr
+0.0.0.0 summerwinds.com2ebr
+0.0.0.0 realimagetech.com2eng
+0.0.0.0 benefitsolutions.com2esg
 0.0.0.0 etl.xlmc.sec.miui.comm
 0.0.0.0 dashboardonline.company
 0.0.0.0 unocoin.company
@@ -27903,6 +27920,7 @@
 0.0.0.0 cxt.ms
 0.0.0.0 s.cxt.ms
 0.0.0.0 www3.ddns.ms
+0.0.0.0 arboterra2ecom.mx
 0.0.0.0 hands.mx
 0.0.0.0 3vsecurity.com.mx
 0.0.0.0 crafi.com.mx
@@ -31935,6 +31953,8 @@
 0.0.0.0 helios.fvn.no
 0.0.0.0 ads.humorbua.no
 0.0.0.0 pilmedia.ads.visionweb.no
+0.0.0.0 alpinecoffee2ecom.np
+0.0.0.0 saitech2ecom.np
 0.0.0.0 www.kbm.bitgarage.com.np
 0.0.0.0 21century-mp3.nu
 0.0.0.0 admaximize.nu
@@ -33412,6 +33432,8 @@
 0.0.0.0 inpost.zofektud.org
 0.0.0.0 www.inpost.zofektud.org
 0.0.0.0 www.inpost.ztoklh.org
+0.0.0.0 childcaretrust.org2eng
+0.0.0.0 tyims.org2eng
 0.0.0.0 metal.ovh
 0.0.0.0 skutecznesrodki-tabletkinapotencje.ovh
 0.0.0.0 sospcaudomarois.ovh
@@ -33480,6 +33502,7 @@
 0.0.0.0 www.pl-lnpost.umowa-id34895.pics
 0.0.0.0 www.vlnted.umowa-id34895.pics
 0.0.0.0 imagescaptures.pictures
+0.0.0.0 biktahai2ecom.pk
 0.0.0.0 cymbios.pk
 0.0.0.0 digiton.pk
 0.0.0.0 explorepakistan.pk
