@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:06 AM Wednesday 12 October 2022
+# Date: 06:02 AM Thursday 13 October 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -7557,6 +7557,7 @@
 0.0.0.0 hirjarat.com
 0.0.0.0 hirkozlo.com
 0.0.0.0 hirnaplo.com
+0.0.0.0 hirueymcceqqlv.com
 0.0.0.0 hissq.com
 0.0.0.0 historicdessert.com
 0.0.0.0 hitboxenterprise.com
@@ -8714,6 +8715,7 @@
 0.0.0.0 mteexpress.com
 0.0.0.0 mtezigrrabk.com
 0.0.0.0 muftyat.com
+0.0.0.0 mukihilama.com
 0.0.0.0 mulit-hack.com
 0.0.0.0 multiapp-down.com
 0.0.0.0 mumzcareplus.com
@@ -10912,6 +10914,7 @@
 0.0.0.0 tk-autoshop.com
 0.0.0.0 tkannrkj.com
 0.0.0.0 tlcmoto.com
+0.0.0.0 tlrkjjypwovnjo.com
 0.0.0.0 tlrtjgnaumgayk.com
 0.0.0.0 tmakinternational.com
 0.0.0.0 tmpclk.com
@@ -11888,6 +11891,7 @@
 0.0.0.0 yildwxvnyfwxo.com
 0.0.0.0 yingke86wang.com
 0.0.0.0 yipkgpvrm.com
+0.0.0.0 yjslpfahstyj.com
 0.0.0.0 ymcmt.com
 0.0.0.0 yngalsivgukt.com
 0.0.0.0 yngxtgj.com
