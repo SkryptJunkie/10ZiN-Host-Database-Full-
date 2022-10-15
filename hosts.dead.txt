@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:06 AM Friday 14 October 2022
+# Date: 06:03 AM Saturday 15 October 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -42636,6 +42636,7 @@
 0.0.0.0 marktradfgood.xyz
 0.0.0.0 mastardo.xyz
 0.0.0.0 masterdom.xyz
+0.0.0.0 matchblogging.xyz
 0.0.0.0 mediaoffer.xyz
 0.0.0.0 meet4love.xyz
 0.0.0.0 megaudent.xyz
