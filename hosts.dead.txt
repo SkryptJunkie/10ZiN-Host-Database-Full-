@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:05 AM Tuesday 18 October 2022
+# Date: 06:04 AM Wednesday 19 October 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -9508,6 +9508,7 @@
 0.0.0.0 pixoveexs.com
 0.0.0.0 pixrsite.com
 0.0.0.0 pizzatoyourplace.com
+0.0.0.0 pkaafjeokqc.com
 0.0.0.0 pkmkkjwknvf.com
 0.0.0.0 pknlpl.com
 0.0.0.0 place-telechargement.com
@@ -11578,6 +11579,7 @@
 0.0.0.0 wqs88.com
 0.0.0.0 wrierville.com
 0.0.0.0 wsofreedownload.com
+0.0.0.0 wtdmegpwqivufcw.com
 0.0.0.0 wtildmymyelaeyyv.com
 0.0.0.0 wv63l89etbhe.com
 0.0.0.0 wvahelphpfnhyx.com
@@ -11993,6 +11995,7 @@
 0.0.0.0 yujiangchu.com
 0.0.0.0 yusufmall.com
 0.0.0.0 yvd765.com
+0.0.0.0 yygmslrwkwggh.com
 0.0.0.0 yygslb.com
 0.0.0.0 yyjgift.com
 0.0.0.0 yzjlsb.com
