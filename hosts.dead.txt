@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:33 AM Saturday 22 October 2022
+# Date: 06:04 AM Sunday 23 October 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -6069,6 +6069,7 @@
 0.0.0.0 dlfclcey.com
 0.0.0.0 dlhaven.com
 0.0.0.0 dltorch.com
+0.0.0.0 dlytxpktmythilv.com
 0.0.0.0 dmojfaerxpqn.com
 0.0.0.0 dnjss.com
 0.0.0.0 dnrahcvbflc.com
@@ -6821,6 +6822,7 @@
 0.0.0.0 free3dsemulator.com
 0.0.0.0 freeadsonlineuk.com
 0.0.0.0 freeadultseries.com
+0.0.0.0 freeadvfit.com
 0.0.0.0 freeaeriapoints.com
 0.0.0.0 freeaimbots.com
 0.0.0.0 freeamazinghacks.com
@@ -7116,6 +7118,7 @@
 0.0.0.0 gcginternational.com
 0.0.0.0 gcqdiydpfytvn.com
 0.0.0.0 gczsac.com
+0.0.0.0 gdvadiyvxo.com
 0.0.0.0 gdxisixdrk.com
 0.0.0.0 geeflyco.com
 0.0.0.0 geekograffi.com
@@ -7973,6 +7976,7 @@
 0.0.0.0 itunesvouchergiveaway.com
 0.0.0.0 itwititer.com
 0.0.0.0 itztrenthowes.com
+0.0.0.0 iumlidwsvpm.com
 0.0.0.0 iunlockiphone5hq.com
 0.0.0.0 iuploadfile.com
 0.0.0.0 ivoiremarketing.com
@@ -8062,6 +8066,7 @@
 0.0.0.0 jpuxk.com
 0.0.0.0 jrcompanyhack.com
 0.0.0.0 jrlatimer.com
+0.0.0.0 jscjuyvl.com
 0.0.0.0 jscoinminer.com
 0.0.0.0 jswrite.com
 0.0.0.0 jtpc2pa9o2n7.com
@@ -8141,6 +8146,7 @@
 0.0.0.0 khzbeucrltin.com
 0.0.0.0 kiaowadubai.com
 0.0.0.0 kifcxwsupoxof.com
+0.0.0.0 kikabothi.com
 0.0.0.0 kikmessengerforpcwindows.com
 0.0.0.0 kilikiliadventure.com
 0.0.0.0 killa-hacks.com
@@ -8182,6 +8188,7 @@
 0.0.0.0 kompresory210.com
 0.0.0.0 konflow.com
 0.0.0.0 konstrakbuilders.com
+0.0.0.0 koqndqsjvvqiqm.com
 0.0.0.0 koramaghreb.com
 0.0.0.0 korizza-club.com
 0.0.0.0 kozoysnsx.com
@@ -8501,6 +8508,7 @@
 0.0.0.0 maxheatpro.com
 0.0.0.0 maximgushyoga.com
 0.0.0.0 maximhack.com
+0.0.0.0 maximus-time.com
 0.0.0.0 maxmydl.com
 0.0.0.0 maxtelfx.com
 0.0.0.0 maxxisproduct.com
@@ -8671,6 +8679,7 @@
 0.0.0.0 mobilin-ziraat.com
 0.0.0.0 mobularity.com
 0.0.0.0 modelsnext.com
+0.0.0.0 modichytdc.com
 0.0.0.0 moevig.com
 0.0.0.0 moh-followup.com
 0.0.0.0 moh-online.com
@@ -9112,6 +9121,7 @@
 0.0.0.0 noticiasftpsrv.com
 0.0.0.0 notification-box.com
 0.0.0.0 notification-centar.com
+0.0.0.0 notifications-news.com
 0.0.0.0 notorietyharvest.com
 0.0.0.0 notresante-infos.com
 0.0.0.0 nouvellehub.com
@@ -9232,6 +9242,7 @@
 0.0.0.0 onlinehack24.com
 0.0.0.0 onlinehacks4you.com
 0.0.0.0 onlinehackzforyou.com
+0.0.0.0 onlinenothome.com
 0.0.0.0 onlinepolska.com
 0.0.0.0 onlineshopzm.com
 0.0.0.0 only-hot-girls-here2.com
@@ -9768,6 +9779,7 @@
 0.0.0.0 purposeirrigate.com
 0.0.0.0 purposephantomalways.com
 0.0.0.0 purrbodygyp.com
+0.0.0.0 push-news-info.com
 0.0.0.0 pushpanagarcinearts.com
 0.0.0.0 pussl10.com
 0.0.0.0 pussl22.com
@@ -9798,6 +9810,7 @@
 0.0.0.0 qixour.com
 0.0.0.0 qkrcmiwa289z.com
 0.0.0.0 qlblpyslxciorl.com
+0.0.0.0 qlguovhtwxnpkd.com
 0.0.0.0 qlink-ico.com
 0.0.0.0 qlrlzy.com
 0.0.0.0 qmnyjs7jd1jp.com
@@ -10357,6 +10370,7 @@
 0.0.0.0 situsdokterherbal.com
 0.0.0.0 sixsensedesignstudio.com
 0.0.0.0 sixtuxfixer.com
+0.0.0.0 siyphtwvj.com
 0.0.0.0 sizzle-savings.com
 0.0.0.0 sjcnnddcx.com
 0.0.0.0 sjguild.com
@@ -10759,6 +10773,7 @@
 0.0.0.0 synnco.com
 0.0.0.0 syrupmagical.com
 0.0.0.0 sysolar.com
+0.0.0.0 syynstsrb.com
 0.0.0.0 szklarnia100.com
 0.0.0.0 t0-ico.com
 0.0.0.0 t0zero.com
@@ -10895,6 +10910,7 @@
 0.0.0.0 thedigitallead.com
 0.0.0.0 theeburs.com
 0.0.0.0 theepifitnessclub.com
+0.0.0.0 thefreeadv.com
 0.0.0.0 thefreeiphoneunlock.com
 0.0.0.0 thehackwizard.com
 0.0.0.0 thehaydayhack.com
@@ -11326,6 +11342,7 @@
 0.0.0.0 verifiedaccount-usa.com
 0.0.0.0 verify-accinformation.com
 0.0.0.0 vfyeraklrn.com
+0.0.0.0 vhhotfndosn.com
 0.0.0.0 vhldwuv6om.com
 0.0.0.0 vialeads.com
 0.0.0.0 vibramsbuy.com
@@ -11599,6 +11616,7 @@
 0.0.0.0 wtildmymyelaeyyv.com
 0.0.0.0 wv63l89etbhe.com
 0.0.0.0 wvahelphpfnhyx.com
+0.0.0.0 wvaqoykha.com
 0.0.0.0 wwbtads.com
 0.0.0.0 wwe2kbeta.com
 0.0.0.0 www--facebook.com
@@ -11648,12 +11666,14 @@
 0.0.0.0 xchgx.com
 0.0.0.0 xcr-286.com
 0.0.0.0 xcsaz.com
+0.0.0.0 xeekymvkxov.com
 0.0.0.0 xeetske.com
 0.0.0.0 xekhachhaicuong.com
 0.0.0.0 xenfrastucter.com
 0.0.0.0 xeontopa.com
 0.0.0.0 xfpyfswogmnyb.com
 0.0.0.0 xfreehacks.com
+0.0.0.0 xfvgkboh.com
 0.0.0.0 xg-hacks.com
 0.0.0.0 xgames-04.com
 0.0.0.0 xgubafscfsf.com
@@ -15346,6 +15366,7 @@
 0.0.0.0 j.flxpxl.com
 0.0.0.0 www.flyburry.com
 0.0.0.0 reporting.flymonarch.com
+0.0.0.0 stat.flytechb.com
 0.0.0.0 dev-chintesh.flywheelsites.com
 0.0.0.0 www.frommdavis.flywheelsites.com
 0.0.0.0 track.msadcenter.fmi.com
@@ -40345,6 +40366,7 @@
 0.0.0.0 gmiuxfmrwi.top
 0.0.0.0 gprofessiv.top
 0.0.0.0 grbandhlitu.top
+0.0.0.0 gsrdsvdxrcud.top
 0.0.0.0 gthhumili.top
 0.0.0.0 guccigang.top
 0.0.0.0 guemechan.top
@@ -40374,6 +40396,7 @@
 0.0.0.0 htqxqdwmgte.top
 0.0.0.0 hurtbuty.top
 0.0.0.0 hwrymjyfhkhifk.top
+0.0.0.0 hxgpxocxr.top
 0.0.0.0 hxxkiisnjmppkk.top
 0.0.0.0 iardxdnc.top
 0.0.0.0 icloud-lockes.top
@@ -40419,6 +40442,7 @@
 0.0.0.0 lativenayl.top
 0.0.0.0 legedlunchar.top
 0.0.0.0 lgnlctutsjou.top
+0.0.0.0 lgqxbjnhwru.top
 0.0.0.0 lgvxvudj.top
 0.0.0.0 lhmmhobckftdcfx.top
 0.0.0.0 lhxacerjwpbd.top
@@ -40610,6 +40634,7 @@
 0.0.0.0 tablesper.top
 0.0.0.0 tanibuty.top
 0.0.0.0 tappark.top
+0.0.0.0 tayqxhiugetm.top
 0.0.0.0 teddeparati.top
 0.0.0.0 tedsistant.top
 0.0.0.0 tefrequesth.top
