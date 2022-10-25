@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Monday 24 October 2022
+# Date: 06:07 AM Tuesday 25 October 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -8398,6 +8398,7 @@
 0.0.0.0 loweredabhorrenceproposed.com
 0.0.0.0 loxien2.com
 0.0.0.0 lpcloudsvr405.com
+0.0.0.0 lphkquhbxakveo.com
 0.0.0.0 lqeevjgkjjwi.com
 0.0.0.0 lsasswininfo.com
 0.0.0.0 lt0k.com
@@ -38924,6 +38925,7 @@
 0.0.0.0 moreloveplus.space
 0.0.0.0 morningsex.space
 0.0.0.0 mowmytonaglospolska.space
+0.0.0.0 nanoplow.space
 0.0.0.0 narokolaps.space
 0.0.0.0 ndreammin.space
 0.0.0.0 new-payment.space
