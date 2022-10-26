@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:07 AM Tuesday 25 October 2022
+# Date: 06:04 AM Wednesday 26 October 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -7334,6 +7334,7 @@
 0.0.0.0 grintour.com
 0.0.0.0 grinzamenis.com
 0.0.0.0 grjs02.com
+0.0.0.0 grouxqeorhes.com
 0.0.0.0 growellfoodproducts.com
 0.0.0.0 growltoe.com
 0.0.0.0 grudgeslylonging.com
@@ -7694,6 +7695,7 @@
 0.0.0.0 hracingtips.com
 0.0.0.0 hredoybangladesh.com
 0.0.0.0 hriaaim06kts.com
+0.0.0.0 hrkhbmxeeuckpv.com
 0.0.0.0 hsb-canada.com
 0.0.0.0 hsbc-net.com
 0.0.0.0 hseguimacsac.com
@@ -9791,6 +9793,7 @@
 0.0.0.0 puttrotgob.com
 0.0.0.0 pwabtouhw.com
 0.0.0.0 pwrdon.com
+0.0.0.0 pxaaemlvuqmepog.com
 0.0.0.0 pxjttrrk.com
 0.0.0.0 pz7zrn0xxgyg.com
 0.0.0.0 pzcdn.com
@@ -40244,6 +40247,7 @@
 0.0.0.0 cepractliq.top
 0.0.0.0 ceulyvxnrhmm.top
 0.0.0.0 cfwchydynfc.top
+0.0.0.0 cfxlwrnn.top
 0.0.0.0 chaserwit.top
 0.0.0.0 checkwp.top
 0.0.0.0 ciendsbusi.top
