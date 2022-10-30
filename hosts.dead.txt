@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:04 AM Saturday 29 October 2022
+# Date: 06:02 AM Sunday 30 October 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -4489,6 +4489,7 @@
 0.0.0.0 airjordans69.com
 0.0.0.0 airswaptoken.com
 0.0.0.0 aiwhebey.com
+0.0.0.0 aixrgdcxnjqe.com
 0.0.0.0 ajanial.com
 0.0.0.0 akibaol.com
 0.0.0.0 akillisurahi.com
@@ -5343,6 +5344,7 @@
 0.0.0.0 certificadoraglp-gnvhersa.com
 0.0.0.0 cfmkrs.com
 0.0.0.0 cgx68vtoprov.com
+0.0.0.0 cgxyfbelvgl.com
 0.0.0.0 cgzpowlslnvjdcdk.com
 0.0.0.0 chagrinassuredafterthought.com
 0.0.0.0 chainsawoffer.com
@@ -6802,6 +6804,7 @@
 0.0.0.0 fourmtagservices.com
 0.0.0.0 foxhax.com
 0.0.0.0 fpmef.com
+0.0.0.0 fqihnqnftoc.com
 0.0.0.0 fr-dom.com
 0.0.0.0 franklyclapmaggot.com
 0.0.0.0 fratellidellastazione.com
@@ -9109,6 +9112,7 @@
 0.0.0.0 nkcsolutions.com
 0.0.0.0 nlhomegarden.com
 0.0.0.0 nmejrb.com
+0.0.0.0 nmphhfnrqgfugjv.com
 0.0.0.0 nmqbg.com
 0.0.0.0 nmqflkoswlqkk.com
 0.0.0.0 noblemagnition.com
@@ -11209,6 +11213,7 @@
 0.0.0.0 ufwpwt.com
 0.0.0.0 uhackgames.com
 0.0.0.0 uhbixtfhwdtmd.com
+0.0.0.0 uhcmrcxv.com
 0.0.0.0 uieoogjarimcey.com
 0.0.0.0 uiqakwjmugofbuu.com
 0.0.0.0 ujuqvalvvvof.com
