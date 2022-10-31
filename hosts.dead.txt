@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Sunday 30 October 2022
+# Date: 06:02 AM Monday 31 October 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -5964,6 +5964,7 @@
 0.0.0.0 dayzstandalonebeta.com
 0.0.0.0 db03f3c62eb.com
 0.0.0.0 db327eccdd.com
+0.0.0.0 dc4f16b216.com
 0.0.0.0 dc63bfb069ea522f.com
 0.0.0.0 dcaingenieria.com
 0.0.0.0 dcc4146d27.com
@@ -6309,6 +6310,7 @@
 0.0.0.0 ek9xrk5gyu.com
 0.0.0.0 ekerisiltihaliyikama.com
 0.0.0.0 ekhudol.com
+0.0.0.0 ekiysdmmtcmdwvr.com
 0.0.0.0 ekomh.com
 0.0.0.0 ekspresspaczka.com
 0.0.0.0 elasticrosy.com
@@ -8417,6 +8419,7 @@
 0.0.0.0 lpcloudsvr405.com
 0.0.0.0 lphkquhbxakveo.com
 0.0.0.0 lqeevjgkjjwi.com
+0.0.0.0 lragjoyk.com
 0.0.0.0 lsasswininfo.com
 0.0.0.0 lt0k.com
 0.0.0.0 ltdome.com
@@ -9344,6 +9347,7 @@
 0.0.0.0 oxberrypetro.com
 0.0.0.0 oxfordlimoservice.com
 0.0.0.0 oxxieslife.com
+0.0.0.0 oyfhnffhr.com
 0.0.0.0 oyomc2z.com
 0.0.0.0 oysterscarton.com
 0.0.0.0 ozarkecotours.com
@@ -10896,6 +10900,7 @@
 0.0.0.0 tf2mix.com
 0.0.0.0 tf2play.com
 0.0.0.0 tfosgroup.com
+0.0.0.0 tgydmlbwyddsjh.com
 0.0.0.0 thailandbestlawyer.com
 0.0.0.0 thaiteamixes.com
 0.0.0.0 thalvoice.com
@@ -11325,6 +11330,7 @@
 0.0.0.0 uuribxuxsbdfof.com
 0.0.0.0 uveillfxkpisfw.com
 0.0.0.0 uwcwninhrpt.com
+0.0.0.0 uwjhutaistuidu.com
 0.0.0.0 uxfpdo3hx5fi.com
 0.0.0.0 uxowypikexhz.com
 0.0.0.0 uxrjdh.com
@@ -24105,6 +24111,7 @@
 0.0.0.0 www.easybit.z4od.in
 0.0.0.0 multisite.zluck.in
 0.0.0.0 www.inf
+0.0.0.0 baidu.honker.inf
 0.0.0.0 12u.info
 0.0.0.0 15x.info
 0.0.0.0 1re.info
