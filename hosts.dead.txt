@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Monday 31 October 2022
+# Date: 06:18 AM Tuesday 01 November 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -5150,6 +5150,7 @@
 0.0.0.0 browsewallpaper.com
 0.0.0.0 brucelead.com
 0.0.0.0 bruvwmrxudd.com
+0.0.0.0 bsgrcabsloqexm.com
 0.0.0.0 btblsyvqaxkkx.com
 0.0.0.0 btc-giving.com
 0.0.0.0 btcerapl.com
@@ -5161,6 +5162,7 @@
 0.0.0.0 bthvacservices.com
 0.0.0.0 btinternetmarketing.com
 0.0.0.0 btkiwisys.com
+0.0.0.0 btknepry.com
 0.0.0.0 btlsurvey.com
 0.0.0.0 btovopyov.com
 0.0.0.0 btplanner.com
@@ -11328,6 +11330,7 @@
 0.0.0.0 uuaauw.com
 0.0.0.0 uuberbonus.com
 0.0.0.0 uuribxuxsbdfof.com
+0.0.0.0 uvbpclcpw.com
 0.0.0.0 uveillfxkpisfw.com
 0.0.0.0 uwcwninhrpt.com
 0.0.0.0 uwjhutaistuidu.com
@@ -11426,6 +11429,7 @@
 0.0.0.0 volcanodistance.com
 0.0.0.0 volcanosregion.com
 0.0.0.0 voluumtracker1.com
+0.0.0.0 vonjntkstyuyk.com
 0.0.0.0 votre-portefeuille.com
 0.0.0.0 vox-voice.com
 0.0.0.0 vpagzcjp.com
@@ -11951,6 +11955,7 @@
 0.0.0.0 xuanyuanchun.com
 0.0.0.0 xunlaile.com
 0.0.0.0 xvcmsfoeheu.com
+0.0.0.0 xvttywwhgxwlg.com
 0.0.0.0 xvyljkr.com
 0.0.0.0 xxutoyreg.com
 0.0.0.0 xxx-hot-dating1.com
@@ -22981,12 +22986,14 @@
 0.0.0.0 eccobutyoutlet.fun
 0.0.0.0 ectoralmin.fun
 0.0.0.0 entsnotesq.fun
+0.0.0.0 euagbxn.fun
 0.0.0.0 eycrossible.fun
 0.0.0.0 faxityofficu.fun
 0.0.0.0 freevbucks.fun
 0.0.0.0 generablel.fun
 0.0.0.0 greatedclu.fun
 0.0.0.0 gupsuhphw.fun
+0.0.0.0 hbvcxze.fun
 0.0.0.0 hellboost.fun
 0.0.0.0 hersfatigua.fun
 0.0.0.0 herwisegim.fun
@@ -22995,6 +23002,8 @@
 0.0.0.0 hoidfhower.fun
 0.0.0.0 hotgirlsignupfree-datenow.fun
 0.0.0.0 hotgirlsignupfree-dating.fun
+0.0.0.0 hrasvmi.fun
+0.0.0.0 huonbvx.fun
 0.0.0.0 inthmnd.fun
 0.0.0.0 iosuhfoiue.fun
 0.0.0.0 iugfioegoweo.fun
@@ -23039,6 +23048,7 @@
 0.0.0.0 pl-papajohns.fun
 0.0.0.0 posyika.fun
 0.0.0.0 properatersch.fun
+0.0.0.0 pwuahnx.fun
 0.0.0.0 renceriskie.fun
 0.0.0.0 resumersvo.fun
 0.0.0.0 rindicalapa.fun
@@ -23067,6 +23077,7 @@
 0.0.0.0 tmiscattlem.fun
 0.0.0.0 trade4real.fun
 0.0.0.0 tureabstra.fun
+0.0.0.0 ueoahvr.fun
 0.0.0.0 uessentent.fun
 0.0.0.0 ugdfoiugwie.fun
 0.0.0.0 uinoringho.fun
@@ -23075,7 +23086,9 @@
 0.0.0.0 ursegreatm.fun
 0.0.0.0 ustingpres.fun
 0.0.0.0 uyguowgq.fun
+0.0.0.0 vczswey.fun
 0.0.0.0 videosubsi.fun
+0.0.0.0 wiaodhc.fun
 0.0.0.0 yfoygoqgdqqw.fun
 0.0.0.0 www.12-12-1a.fun
 0.0.0.0 www.12-12-2a.fun
@@ -40297,6 +40310,7 @@
 0.0.0.0 adrevkiq.top
 0.0.0.0 aglybkitl.top
 0.0.0.0 aintyjarde.top
+0.0.0.0 aknlsaqfwsibvn.top
 0.0.0.0 alaccinalcom.top
 0.0.0.0 aliencesuffe.top
 0.0.0.0 amwsquljdpw.top
