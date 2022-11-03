@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:08 AM Wednesday 02 November 2022
+# Date: 06:06 AM Thursday 03 November 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -5058,12 +5058,14 @@
 0.0.0.0 bllttriex.com
 0.0.0.0 blochichain.com
 0.0.0.0 blockchainpaypal.com
+0.0.0.0 blockingspecialist.com
 0.0.0.0 blodkchainwallet.com
 0.0.0.0 blodkchaln.com
 0.0.0.0 blogfemmesexy.com
 0.0.0.0 blogicar.com
 0.0.0.0 blogoman-24.com
 0.0.0.0 bloodbrothershacked.com
+0.0.0.0 blotchgrimdeplete.com
 0.0.0.0 bluecheating.com
 0.0.0.0 bluechippropertyexperts.com
 0.0.0.0 bluehparking.com
@@ -5071,6 +5073,7 @@
 0.0.0.0 bluesteelinfra.com
 0.0.0.0 bluevaserecoverycenter.com
 0.0.0.0 bluewwd.com
+0.0.0.0 bluriceberg.com
 0.0.0.0 bluzelie.com
 0.0.0.0 bluzelle-ico.com
 0.0.0.0 blwavvijaugwing.com
@@ -8234,6 +8237,7 @@
 0.0.0.0 ktrackdata.com
 0.0.0.0 kttarmufti.com
 0.0.0.0 ktunions.com
+0.0.0.0 kubhpxahayieain.com
 0.0.0.0 kuldeepyadavworld.com
 0.0.0.0 kungfumasterwang.com
 0.0.0.0 kurdish-homes.com
