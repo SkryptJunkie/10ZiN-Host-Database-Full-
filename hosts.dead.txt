@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:04 AM Friday 04 November 2022
+# Date: 06:02 AM Saturday 05 November 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -2322,6 +2322,7 @@
 0.0.0.0 www.vietoterceno.cf
 0.0.0.0 track.webprodeals.cf
 0.0.0.0 malgosi.cfd
+0.0.0.0 zphzyy9zq.cfd
 0.0.0.0 www.comandinvestcentr.cfd
 0.0.0.0 inpost-pl.id-safety.cfd
 0.0.0.0 inpost-pl-3dsec.id-safety.cfd
@@ -5993,6 +5994,7 @@
 0.0.0.0 deepwellsenergy.com
 0.0.0.0 deezerpremiumplusfree.com
 0.0.0.0 defiques.com
+0.0.0.0 deghbqhsypf.com
 0.0.0.0 dehydratedpredestinationplenty.com
 0.0.0.0 delayedtemporarilybakery.com
 0.0.0.0 delhidancing.com
@@ -9841,6 +9843,7 @@
 0.0.0.0 qampa.com
 0.0.0.0 qauntstamp.com
 0.0.0.0 qauntstanp.com
+0.0.0.0 qbhxcvecgileaf.com
 0.0.0.0 qedsfmsjklfirga4.com
 0.0.0.0 qenabled.com
 0.0.0.0 qenfytykf.com
