@@ -34,4 +34,3 @@ Path | Description
 [hosts.txt](https://tgc.cloud/downloads/archive/hosts.txt) | Complete host database (alive and dead)
 [hosts.alive.txt](https://tgc.cloud/downloads/archive/hosts.alive.txt) | Domains from `hosts.txt` that resolve and are active (alive)
 [hosts.dead.txt](https://tgc.cloud/downloads/archive/hosts.dead.txt) |Domains from `hosts.txt` that no longer resolve and are inactive (dead)
-
