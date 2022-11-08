@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:01 AM Monday 07 November 2022
+# Date: 06:01 AM Tuesday 08 November 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -17580,6 +17580,7 @@
 0.0.0.0 fdsgv.xyz
 0.0.0.0 firon.xyz
 0.0.0.0 fluxy.xyz
+0.0.0.0 fordraro.xyz
 0.0.0.0 freeinvest.xyz
 0.0.0.0 getp.xyz
 0.0.0.0 ggkk.xyz
