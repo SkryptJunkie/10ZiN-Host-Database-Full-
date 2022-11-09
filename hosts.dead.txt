@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:01 AM Tuesday 08 November 2022
+# Date: 06:01 AM Wednesday 09 November 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -1229,6 +1229,10 @@
 0.0.0.0 www.inpost.pl-c.cf
 0.0.0.0 www.vietoterceno.cf
 0.0.0.0 track.webprodeals.cf
+0.0.0.0 9ik4rfu85tg.cfd
+0.0.0.0 l9eg69oik.cfd
+0.0.0.0 sw2gt5.cfd
+0.0.0.0 x4rt45tgf5g.cfd
 0.0.0.0 zphzyy9zq.cfd
 0.0.0.0 www.successsystem-pl.cfd
 0.0.0.0 kaspersky-shop.ch
@@ -3034,6 +3038,7 @@
 0.0.0.0 rucegipti.com
 0.0.0.0 rumerrand.com
 0.0.0.0 rutsneareta.com
+0.0.0.0 ryeqnyvbncdvg.com
 0.0.0.0 rythmxchange.com
 0.0.0.0 ryynoljdarrw.com
 0.0.0.0 rzqctiudsvb.com
@@ -3202,6 +3207,7 @@
 0.0.0.0 targetctracker.com
 0.0.0.0 tawizka.com
 0.0.0.0 tcaferest.com
+0.0.0.0 tdugvspdnq.com
 0.0.0.0 tearads.com
 0.0.0.0 techasiamusicsvr.com
 0.0.0.0 techniciansyllabuspersistent.com
