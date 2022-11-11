@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Thursday 10 November 2022
+# Date: 06:01 AM Friday 11 November 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -1899,6 +1899,7 @@
 0.0.0.0 blank-record.com
 0.0.0.0 bleuzelle.com
 0.0.0.0 bllttriex.com
+0.0.0.0 blmgcgnlrug.com
 0.0.0.0 blockchalnwallet.com
 0.0.0.0 blocknux.com
 0.0.0.0 blodkchainwallet.com
@@ -2092,6 +2093,7 @@
 0.0.0.0 cs6hm.com
 0.0.0.0 csgoezknife.com
 0.0.0.0 csprocup.com
+0.0.0.0 ctlwfkgjotned.com
 0.0.0.0 cttracking08.com
 0.0.0.0 cuhoxiphi.com
 0.0.0.0 culttolerant.com
@@ -2223,6 +2225,7 @@
 0.0.0.0 eocceucbqnu.com
 0.0.0.0 eomoxhsdhs.com
 0.0.0.0 eos-bonus.com
+0.0.0.0 eosuveydlkqt.com
 0.0.0.0 eotlqwxohyhu.com
 0.0.0.0 er20090515.com
 0.0.0.0 eraserly.com
@@ -2336,6 +2339,7 @@
 0.0.0.0 gahsotkow.com
 0.0.0.0 gameconsolerewards.com
 0.0.0.0 gamefllp.com
+0.0.0.0 gamladjmtwyuf.com
 0.0.0.0 gammadsp.com
 0.0.0.0 gangrelnougats.com
 0.0.0.0 garberaa.com
@@ -3307,6 +3311,7 @@
 0.0.0.0 u85foldero.com
 0.0.0.0 uasfwallet.com
 0.0.0.0 udsagemylyqkrew.com
+0.0.0.0 ufljqapedygdnre.com
 0.0.0.0 uggpolskasklep.com
 0.0.0.0 uiujk.com
 0.0.0.0 unablewisdom.com
@@ -3354,6 +3359,7 @@
 0.0.0.0 vongquay-pubgmobilevn-zing.com
 0.0.0.0 voyagecondom.com
 0.0.0.0 vpdjlprqnt.com
+0.0.0.0 vpfsskrqyenkfrm.com
 0.0.0.0 vskoedps.com
 0.0.0.0 vst1ev.com
 0.0.0.0 vst1mid.com
@@ -3442,6 +3448,7 @@
 0.0.0.0 xeontopa.com
 0.0.0.0 xgames-04.com
 0.0.0.0 xgdhxgznp.com
+0.0.0.0 xhlfaqkhdlsxhfs.com
 0.0.0.0 xibadupty.com
 0.0.0.0 xigolashu.com
 0.0.0.0 xlmsvfqao.com
@@ -3643,6 +3650,7 @@
 0.0.0.0 xwktyiydn.com
 0.0.0.0 xxx4live.com
 0.0.0.0 xykdglmymu.com
+0.0.0.0 xyvmkspicadkq.com
 0.0.0.0 yaboris.com
 0.0.0.0 yajvdoporjtz.com
 0.0.0.0 yatbzuwo.com
