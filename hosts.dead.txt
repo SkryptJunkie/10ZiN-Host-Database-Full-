@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:03 AM Sunday 13 November 2022
+# Date: 06:01 AM Monday 14 November 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -1242,6 +1242,7 @@
 0.0.0.0 x4rt45tgf5g.cfd
 0.0.0.0 zphzyy9zq.cfd
 0.0.0.0 www.buy.balticpipe.cfd
+0.0.0.0 www.ogromna-tragedia.cfd
 0.0.0.0 www.2biz.services-ai-tech.cfd
 0.0.0.0 www.successsystem-pl.cfd
 0.0.0.0 kaspersky-shop.ch
@@ -2522,6 +2523,7 @@
 0.0.0.0 jisyzysy.com
 0.0.0.0 jkexgpopgm.com
 0.0.0.0 jmuaoupnykie.com
+0.0.0.0 jphgxskntmn.com
 0.0.0.0 jtjsevmr.com
 0.0.0.0 ju2g8tzj.com
 0.0.0.0 juggsday.com
@@ -3012,6 +3014,7 @@
 0.0.0.0 railcowboy.com
 0.0.0.0 ralphlaurenwarsaw.com
 0.0.0.0 rarseene.com
+0.0.0.0 rbkxbrtoaxhc.com
 0.0.0.0 rdrblock.com
 0.0.0.0 rdrgh.com
 0.0.0.0 rdrtg.com
@@ -3063,6 +3066,7 @@
 0.0.0.0 rothupegri.com
 0.0.0.0 royalcapitalinvestment.com
 0.0.0.0 rr7x.com
+0.0.0.0 rslnmcxhopsmtuk.com
 0.0.0.0 rsmrttracking.com
 0.0.0.0 rubsayprelude.com
 0.0.0.0 rucegipti.com
@@ -3213,6 +3217,7 @@
 0.0.0.0 stromtoken.com
 0.0.0.0 stuffpotencydisciple.com
 0.0.0.0 stustogagly.com
+0.0.0.0 styjpqqvafcl.com
 0.0.0.0 su600.com
 0.0.0.0 suavalds.com
 0.0.0.0 sungateinvestment.com
@@ -3661,6 +3666,7 @@
 0.0.0.0 xn--zero-zxb.com
 0.0.0.0 xpantivirus.com
 0.0.0.0 xqogxlfsceftn.com
+0.0.0.0 xqqhuilxjbs.com
 0.0.0.0 xubob.com
 0.0.0.0 xudawhuwa.com
 0.0.0.0 xuhycaphe.com
@@ -4447,6 +4453,7 @@
 0.0.0.0 www.bitcoinprofitpro.com
 0.0.0.0 www.bitcoinrevolutionmirrorreview.com
 0.0.0.0 www.bitcoins-profit.com
+0.0.0.0 www.bitcoins-up.com
 0.0.0.0 metrics.bitdefender.com
 0.0.0.0 a.bitmango.com
 0.0.0.0 engine.bitmedianetwork.com
@@ -5206,6 +5213,7 @@
 0.0.0.0 ads.expedia.com
 0.0.0.0 analytics.explained-from-first-principles.com
 0.0.0.0 boombit-api.exponea.com
+0.0.0.0 www.express-topical-news.com
 0.0.0.0 www.extra-advice4u.com
 0.0.0.0 www.extra-promo7.com
 0.0.0.0 metrics.extremetech.com
@@ -11255,6 +11263,7 @@
 0.0.0.0 www.sitononraggiungibile.it
 0.0.0.0 www.solidmaker.it
 0.0.0.0 stats.technopia.it
+0.0.0.0 www.technow.it
 0.0.0.0 www.tigustolanostracucina.it
 0.0.0.0 adv.uauaclub.it
 0.0.0.0 st.wetrack.it
@@ -14258,6 +14267,7 @@
 0.0.0.0 vinterd-polsk7653dellfs.telfdostawhomeplnds016.one
 0.0.0.0 www.del1ver-inpomt7896pollands.telfdostawhomeplnds016.one
 0.0.0.0 www.vinterd-polsk7653dellfs.telfdostawhomeplnds016.one
+0.0.0.0 www.dellvers5099ollx.wentspey76.one
 0.0.0.0 pixel.archivecaslytosk.onion
 0.0.0.0 pixel.archiveiya74codqgiixo33q62qlrqtkgmcitqx5u2oeqnmn5bpcbiyd.onion
 0.0.0.0 arthyadtrack.online
@@ -14290,35 +14300,49 @@
 0.0.0.0 olx-pl.3dspays.online
 0.0.0.0 www.olx-pl.3dspays.online
 0.0.0.0 www.abovebusiness.online
+0.0.0.0 www.apalaciosstore.online
 0.0.0.0 www.aquakurt.online
+0.0.0.0 www.availablehuminity.online
 0.0.0.0 www.bagsonsale.online
 0.0.0.0 www.bankamilennium.online
 0.0.0.0 www.bankemilenium.online
 0.0.0.0 www.bpsk.online
 0.0.0.0 pocztex.wysylka.pl.clanr.online
+0.0.0.0 www.cognizanceofmade.online
 0.0.0.0 mac-os.apple.com-secured.online
+0.0.0.0 www.desvendandosegredo.online
+0.0.0.0 www.devidesum.online
 0.0.0.0 lnp0st.dispatch-vxc23.online
 0.0.0.0 www.lnp0st.dispatch-vxc23.online
 0.0.0.0 www.dlaludzi.online
+0.0.0.0 www.ejaculacaotardia.online
+0.0.0.0 www.emagrecamaissaude.online
 0.0.0.0 www.fitterpro.online
 0.0.0.0 www.forzamix.online
 0.0.0.0 www.foundation-education.online
+0.0.0.0 www.foxo.online
 0.0.0.0 www.game-hacks.online
 0.0.0.0 www.goldon.online
 0.0.0.0 www.goopsevi.online
 0.0.0.0 olxpl.guardpay.online
 0.0.0.0 www.olxpl.guardpay.online
+0.0.0.0 www.hackheap.online
+0.0.0.0 www.healthylifealways.online
+0.0.0.0 www.high5me.online
 0.0.0.0 olx-pl.id-457623.online
 0.0.0.0 www.olx-pl.id-457623.online
 0.0.0.0 www.leaderstart.online
+0.0.0.0 www.liyakat.online
 0.0.0.0 pl.m-inpostdor.online
 0.0.0.0 pl.m-olx.online
+0.0.0.0 www.mhasibu.online
 0.0.0.0 www.mscdy.online
 0.0.0.0 polski-track.msz-pl.online
 0.0.0.0 www.polski-track.msz-pl.online
 0.0.0.0 www.myjustdoitinvest.online
 0.0.0.0 www.nadsire.online
 0.0.0.0 www.nazelis.online
+0.0.0.0 www.netmaks.online
 0.0.0.0 olx.new-cash.online
 0.0.0.0 www.olx.new-cash.online
 0.0.0.0 www.newcab.online
@@ -14364,16 +14388,22 @@
 0.0.0.0 www.pllotos.online
 0.0.0.0 www.pllots.online
 0.0.0.0 www.power-life.online
+0.0.0.0 www.precocenuncamais.online
 0.0.0.0 testpconly12.prepare2upvideosafesystem4setnow.online
 0.0.0.0 www.private-bussiness1.online
 0.0.0.0 www.private-invest.online
+0.0.0.0 www.proojetozerobarriga.online
 0.0.0.0 olxpl.qr3ds.online
 0.0.0.0 www.olxpl.qr3ds.online
+0.0.0.0 www.romanceblindado.online
 0.0.0.0 www.rubyon.online
 0.0.0.0 www.sefinkow.online
+0.0.0.0 www.somedelight.online
 0.0.0.0 www.steppin-for.online
 0.0.0.0 www.strefa-filmow.online
 0.0.0.0 www.thewinners-esp.online
+0.0.0.0 www.travelventure.online
+0.0.0.0 www.tuktuksome.online
 0.0.0.0 www.twojfilm.online
 0.0.0.0 www.vinted-pl.online
 0.0.0.0 www.wissaa.online
@@ -18004,6 +18034,7 @@
 0.0.0.0 www.1inp00st-shop44.443454.xyz
 0.0.0.0 inpost-informing.45311112311.xyz
 0.0.0.0 www.inpost-informing.45311112311.xyz
+0.0.0.0 www.inp0stpaying.4656544565.xyz
 0.0.0.0 www.jnp0st-shopping.4657642324.xyz
 0.0.0.0 www.0lx-shopping.4657645312.xyz
 0.0.0.0 www.impost-shopping.4657777877.xyz
@@ -18013,12 +18044,15 @@
 0.0.0.0 olx.52154986451.xyz
 0.0.0.0 www.olx.52154986451.xyz
 0.0.0.0 www.impost.5265154515.xyz
+0.0.0.0 www.shopjnpost-market.5455344428.xyz
 0.0.0.0 a11egroloka1nje-site.562312.xyz
 0.0.0.0 www.a11egroloka1nje-site.562312.xyz
 0.0.0.0 ihpost-product.5643332098.xyz
 0.0.0.0 www.ihpost-product.5643332098.xyz
 0.0.0.0 vihted-shopping.565543436745.xyz
 0.0.0.0 www.vihted-shopping.565543436745.xyz
+0.0.0.0 www.inp0st-storeinform.5666565545.xyz
+0.0.0.0 www.vihtedshop-market.5666755545.xyz
 0.0.0.0 o1x-shopping.5761200.xyz
 0.0.0.0 www.o1x-shopping.5761200.xyz
 0.0.0.0 www.allegrol0kalnie-shopping.5764354651.xyz
@@ -18074,6 +18108,7 @@
 0.0.0.0 www.jnpost-purchase.786655555665.xyz
 0.0.0.0 payvinted-purchase.7909856323.xyz
 0.0.0.0 www.payvinted-purchase.7909856323.xyz
+0.0.0.0 www.jhpost-shopping.7988889788.xyz
 0.0.0.0 olxuser-informing.8090243574.xyz
 0.0.0.0 www.olxuser-informing.8090243574.xyz
 0.0.0.0 jnpost-dispatch.8098432366.xyz
@@ -18747,6 +18782,7 @@
 0.0.0.0 el.takemoneys.xyz
 0.0.0.0 www.el.takemoneys.xyz
 0.0.0.0 www.talodz.xyz
+0.0.0.0 www.teamtrade-pl.xyz
 0.0.0.0 www.tenzamosc.xyz
 0.0.0.0 vinted-pl-gj32d.tersedia.xyz
 0.0.0.0 www.vinted-pl-gj32d.tersedia.xyz
