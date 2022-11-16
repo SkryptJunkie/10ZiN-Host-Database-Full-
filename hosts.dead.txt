@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:04 AM Tuesday 15 November 2022
+# Date: 06:04 AM Wednesday 16 November 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -1956,6 +1956,7 @@
 0.0.0.0 buypillz.com
 0.0.0.0 bvtuuewvwi.com
 0.0.0.0 bxkxzjdjxeexi.com
+0.0.0.0 bykvvhmuo.com
 0.0.0.0 bypuxogy.com
 0.0.0.0 byvihare.com
 0.0.0.0 byzantiumfork.com
@@ -14271,6 +14272,7 @@
 0.0.0.0 www.dellvers5099ollx.wentspey76.one
 0.0.0.0 pixel.archivecaslytosk.onion
 0.0.0.0 pixel.archiveiya74codqgiixo33q62qlrqtkgmcitqx5u2oeqnmn5bpcbiyd.onion
+0.0.0.0 aegisteam.online
 0.0.0.0 arthyadtrack.online
 0.0.0.0 bagsonsale.online
 0.0.0.0 bankamilennium.online
@@ -14280,6 +14282,7 @@
 0.0.0.0 dlaludzi.online
 0.0.0.0 fitterpro.online
 0.0.0.0 foundation-education.online
+0.0.0.0 galafighters.online
 0.0.0.0 game-hacks.online
 0.0.0.0 goopsevi.online
 0.0.0.0 mscdy.online
@@ -16765,6 +16768,7 @@
 0.0.0.0 kiovad.space
 0.0.0.0 klik-go.space
 0.0.0.0 kovages.space
+0.0.0.0 labelsapotas.space
 0.0.0.0 lasgoy.space
 0.0.0.0 leearbag.space
 0.0.0.0 macfixingsoftware.space
