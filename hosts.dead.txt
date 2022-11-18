@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:09 AM Thursday 17 November 2022
+# Date: 06:07 AM Friday 18 November 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -10560,6 +10560,7 @@
 0.0.0.0 2qqfxz5kecr4.www.eldorado.gg
 0.0.0.0 s4s51f00a3o7.www.eldorado.gg
 0.0.0.0 demegyleassikitt.gq
+0.0.0.0 fmi-os.gq
 0.0.0.0 karta-podarunkowa-podaj-dane.gq
 0.0.0.0 uzupelniajdane.gq
 0.0.0.0 www.adalafad.gq
@@ -11834,6 +11835,7 @@
 0.0.0.0 cmp.nextday.media
 0.0.0.0 dostawa-safety.miami
 0.0.0.0 www.dostawa-safety.miami
+0.0.0.0 a-xikhu8.ml
 0.0.0.0 coindash.ml
 0.0.0.0 dfinity.ml
 0.0.0.0 elite-crack.ml
@@ -17099,6 +17101,7 @@
 0.0.0.0 doesok.top
 0.0.0.0 fyxmkofspvog.top
 0.0.0.0 hirado.top
+0.0.0.0 mbundu.top
 0.0.0.0 myetherwallet.top
 0.0.0.0 newsinvest.top
 0.0.0.0 patagoniapolska.top
