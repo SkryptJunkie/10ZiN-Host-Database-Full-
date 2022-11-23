@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Tuesday 22 November 2022
+# Date: 06:03 AM Wednesday 23 November 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -27,6 +27,7 @@
 0.0.0.0 api.content.ad
 0.0.0.0 partners.content.ad
 0.0.0.0 files.native.ad
+0.0.0.0 nooralshams.ae
 0.0.0.0 www.familytree.swantech.ae
 0.0.0.0 gw5worvzkb4j.stoic.ai
 0.0.0.0 www.get.successpath.ai
