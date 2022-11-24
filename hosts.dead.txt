@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:03 AM Wednesday 23 November 2022
+# Date: 06:01 AM Thursday 24 November 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -3704,6 +3704,7 @@
 0.0.0.0 xpantivirus.com
 0.0.0.0 xqogxlfsceftn.com
 0.0.0.0 xqqhuilxjbs.com
+0.0.0.0 xsvwvyewrlqdgw.com
 0.0.0.0 xubob.com
 0.0.0.0 xudawhuwa.com
 0.0.0.0 xuhycaphe.com
@@ -18086,6 +18087,7 @@
 0.0.0.0 ggkk.xyz
 0.0.0.0 helptest.xyz
 0.0.0.0 hqbypgemclykwc.xyz
+0.0.0.0 iayuqfkerhs.xyz
 0.0.0.0 ibhvqpjubb.xyz
 0.0.0.0 instorez.xyz
 0.0.0.0 investingly.xyz
@@ -18237,6 +18239,7 @@
 0.0.0.0 securitas232maximus.xyz
 0.0.0.0 shapelcounset.xyz
 0.0.0.0 shilternimpossip.xyz
+0.0.0.0 svrvcnynsv.xyz
 0.0.0.0 talodz.xyz
 0.0.0.0 tenzamosc.xyz
 0.0.0.0 togliwice.xyz
