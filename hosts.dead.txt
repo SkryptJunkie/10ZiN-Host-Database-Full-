@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:01 AM Thursday 24 November 2022
+# Date: 06:01 AM Friday 25 November 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -17875,6 +17875,7 @@
 0.0.0.0 www.sonymso.uno
 0.0.0.0 www.vutsoer.uno
 0.0.0.0 www.xoifored.uno
+0.0.0.0 kgvfiivlwyuu.uofgiu
 0.0.0.0 dontwatch.us
 0.0.0.0 dooweb.us
 0.0.0.0 drunkporn.us
