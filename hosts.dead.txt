@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:01 AM Friday 25 November 2022
+# Date: 06:01 AM Saturday 26 November 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -1250,6 +1250,7 @@
 0.0.0.0 iconexus.cf
 0.0.0.0 lovejavepa.cf
 0.0.0.0 perbamo.cf
+0.0.0.0 srbfan.cf
 0.0.0.0 www.atfritunag.cf
 0.0.0.0 www.clictepulne.cf
 0.0.0.0 bittrex.com11648724328774.cf
@@ -2877,6 +2878,7 @@
 0.0.0.0 ntymeitwblpnvii.com
 0.0.0.0 nuclearscalp.com
 0.0.0.0 nuclef.com
+0.0.0.0 nudxhwneoyqyxc.com
 0.0.0.0 numerai-token.com
 0.0.0.0 nutcropbrute.com
 0.0.0.0 nutpond.com
@@ -17284,6 +17286,7 @@
 0.0.0.0 bannerpro.tk
 0.0.0.0 blastraccoon.tk
 0.0.0.0 crackguru.tk
+0.0.0.0 eionsfsjk.tk
 0.0.0.0 fomevawingtigspo.tk
 0.0.0.0 iconexus.tk
 0.0.0.0 infospace.tk
