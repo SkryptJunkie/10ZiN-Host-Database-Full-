@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Sunday 27 November 2022
+# Date: 06:01 AM Monday 28 November 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -3409,6 +3409,7 @@
 0.0.0.0 usingirritatecordial.com
 0.0.0.0 utenod.com
 0.0.0.0 uwzknashjrhw.com
+0.0.0.0 uxmqxjwuwc.com
 0.0.0.0 vagabondbuty.com
 0.0.0.0 vagabondpolska.com
 0.0.0.0 vahfzpfyg.com
@@ -3418,6 +3419,7 @@
 0.0.0.0 vamyceka.com
 0.0.0.0 vaneplusnod.com
 0.0.0.0 varmusell.com
+0.0.0.0 vavwyiblbupu.com
 0.0.0.0 vawhigufi.com
 0.0.0.0 vbfqpakg.com
 0.0.0.0 venchainfoundation.com
@@ -10715,6 +10717,7 @@
 0.0.0.0 www.adalafad.gq
 0.0.0.0 www.demegyleassikitt.gq
 0.0.0.0 www.dpercormoi.gq
+0.0.0.0 www.fxbin.gq
 0.0.0.0 www.karta-podarunkowa-podaj-dane.gq
 0.0.0.0 inpost.pl-reg.gq
 0.0.0.0 www.inpost.pl-reg.gq
@@ -10772,6 +10775,7 @@
 0.0.0.0 www.alerfou.host
 0.0.0.0 www.boskonti.host
 0.0.0.0 www.buskow.host
+0.0.0.0 panel.clientarea.host
 0.0.0.0 www.tripadvisor-longterm2rooms.com-safety-65ts20ju07vi95-book-apid512608.host
 0.0.0.0 www.daxir.host
 0.0.0.0 www.dipoer.host
@@ -14508,6 +14512,7 @@
 0.0.0.0 galafighters.online
 0.0.0.0 game-hacks.online
 0.0.0.0 goopsevi.online
+0.0.0.0 icadeperu.online
 0.0.0.0 mscdy.online
 0.0.0.0 myjustdoitinvest.online
 0.0.0.0 nadsire.online
