@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:01 AM Monday 28 November 2022
+# Date: 06:03 AM Tuesday 29 November 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -59,6 +59,8 @@
 0.0.0.0 pl.olx-ofert.art
 0.0.0.0 olx.pl-dostawa.art
 0.0.0.0 www.olx.pl-dostawa.art
+0.0.0.0 vintedl-polsknw3899.qespnl26.art
+0.0.0.0 www.vintedl-polsknw3899.qespnl26.art
 0.0.0.0 www.energy-group.asia
 0.0.0.0 bx.optimix.asia
 0.0.0.0 bx01.optimix.asia
@@ -1255,6 +1257,7 @@
 0.0.0.0 iconexus.cf
 0.0.0.0 lovejavepa.cf
 0.0.0.0 perbamo.cf
+0.0.0.0 phpadenetrewo.cf
 0.0.0.0 srbfan.cf
 0.0.0.0 www.atfritunag.cf
 0.0.0.0 www.clictepulne.cf
@@ -1262,6 +1265,7 @@
 0.0.0.0 www.igbodsatu.cf
 0.0.0.0 www.lovejavepa.cf
 0.0.0.0 www.perbamo.cf
+0.0.0.0 www.phpadenetrewo.cf
 0.0.0.0 inpost.pl-c.cf
 0.0.0.0 www.inpost.pl-c.cf
 0.0.0.0 www.vietoterceno.cf
@@ -3095,6 +3099,7 @@
 0.0.0.0 revootel.com
 0.0.0.0 rewardblvd.com
 0.0.0.0 rexbeautifully.com
+0.0.0.0 rhxvsvpsw.com
 0.0.0.0 ribbonslopeexcessively.com
 0.0.0.0 richmedia247.com
 0.0.0.0 rikobisti.com
@@ -3105,6 +3110,7 @@
 0.0.0.0 risopsuphu.com
 0.0.0.0 rithimyphu.com
 0.0.0.0 rivasearch.com
+0.0.0.0 riwtually.com
 0.0.0.0 rjmwqf.com
 0.0.0.0 rkknacldeoasdt.com
 0.0.0.0 rnyethervailet.com
@@ -3324,6 +3330,7 @@
 0.0.0.0 thuaoluion.com
 0.0.0.0 tiamioo.com
 0.0.0.0 tibisigi.com
+0.0.0.0 tibkupowd.com
 0.0.0.0 timbspl.com
 0.0.0.0 tinquestions.com
 0.0.0.0 tithephustu.com
@@ -3337,6 +3344,7 @@
 0.0.0.0 topoeia.com
 0.0.0.0 topservicesecurity.com
 0.0.0.0 toptradegroup.com
+0.0.0.0 totxxucxtfq.com
 0.0.0.0 traaaack.com
 0.0.0.0 trackaffpix.com
 0.0.0.0 trackermodules.com
@@ -3379,6 +3387,7 @@
 0.0.0.0 txzvtgkthjq.com
 0.0.0.0 tynezozi.com
 0.0.0.0 typistdejectionracial.com
+0.0.0.0 tyrytghuj.com
 0.0.0.0 tyshochime.com
 0.0.0.0 tytheglupy.com
 0.0.0.0 tz284.com
@@ -3422,6 +3431,7 @@
 0.0.0.0 vavwyiblbupu.com
 0.0.0.0 vawhigufi.com
 0.0.0.0 vbfqpakg.com
+0.0.0.0 veerskonwhu.com
 0.0.0.0 venchainfoundation.com
 0.0.0.0 venisonchemistrydeclared.com
 0.0.0.0 verycastle.com
@@ -4465,6 +4475,10 @@
 0.0.0.0 www.bciwdsz.com
 0.0.0.0 www.bclmcsha.com
 0.0.0.0 www.bdiryh.com
+0.0.0.0 www.bdjvci.com
+0.0.0.0 www.bdjvjr.com
+0.0.0.0 www.bdndkc.com
+0.0.0.0 www.bdnrefmrgt.com
 0.0.0.0 ptracker.be2.com
 0.0.0.0 api.beaconsinspace.com
 0.0.0.0 www.beauty-tea.com
@@ -6265,6 +6279,7 @@
 0.0.0.0 tracking.mhlnk.com
 0.0.0.0 oascentral.miaminewtimes.com
 0.0.0.0 cm.send.microadinc.com
+0.0.0.0 www.go.microcamsmart.com
 0.0.0.0 info.microland.com
 0.0.0.0 analytics.microsoft.com
 0.0.0.0 cdn.millennialmedia.com
@@ -6941,6 +6956,7 @@
 0.0.0.0 data.ritzcarlton.com
 0.0.0.0 b3.rivalgaming.com
 0.0.0.0 b4.rivalgaming.com
+0.0.0.0 www.riwtually.com
 0.0.0.0 br.rk.com
 0.0.0.0 kanga-exchange.rmnsm.com
 0.0.0.0 www.kanga-exchange.rmnsm.com
@@ -8077,6 +8093,7 @@
 0.0.0.0 cdn.vdopia.com
 0.0.0.0 cs.vdopia.com
 0.0.0.0 serve.vdopia.com
+0.0.0.0 www.veerskonwhu.com
 0.0.0.0 banner.vegasred.com
 0.0.0.0 v.velaro.com
 0.0.0.0 ab.vendemore.com
@@ -10713,14 +10730,18 @@
 0.0.0.0 demegyleassikitt.gq
 0.0.0.0 fmi-os.gq
 0.0.0.0 karta-podarunkowa-podaj-dane.gq
+0.0.0.0 rabtheacermecome.gq
 0.0.0.0 uzupelniajdane.gq
 0.0.0.0 www.adalafad.gq
 0.0.0.0 www.demegyleassikitt.gq
 0.0.0.0 www.dpercormoi.gq
 0.0.0.0 www.fxbin.gq
+0.0.0.0 www.guisamppancre.gq
+0.0.0.0 www.hespliwoodsserhitch.gq
 0.0.0.0 www.karta-podarunkowa-podaj-dane.gq
 0.0.0.0 inpost.pl-reg.gq
 0.0.0.0 www.inpost.pl-reg.gq
+0.0.0.0 www.rabtheacermecome.gq
 0.0.0.0 www.toycopum.gq
 0.0.0.0 www.uzupelniajdane.gq
 0.0.0.0 aboutads.gr
@@ -10756,6 +10777,7 @@
 0.0.0.0 daxir.host
 0.0.0.0 dipoer.host
 0.0.0.0 fenute.host
+0.0.0.0 garung.host
 0.0.0.0 haziech.host
 0.0.0.0 jenger.host
 0.0.0.0 lahsowea.host
@@ -10780,6 +10802,7 @@
 0.0.0.0 www.daxir.host
 0.0.0.0 www.dipoer.host
 0.0.0.0 www.fenute.host
+0.0.0.0 www.garung.host
 0.0.0.0 www.haziech.host
 0.0.0.0 www.jenger.host
 0.0.0.0 www.lahsowea.host
@@ -14779,6 +14802,8 @@
 0.0.0.0 www.gradportal.org
 0.0.0.0 ads.harpers.org
 0.0.0.0 ox-d.hbr.org
+0.0.0.0 inpost.heglepsond.org
+0.0.0.0 www.inpost.heglepsond.org
 0.0.0.0 www.hopurl.org
 0.0.0.0 www.investing-corp.org
 0.0.0.0 dpd.jabiprok.org
@@ -14824,6 +14849,8 @@
 0.0.0.0 www.sampletemplates.org
 0.0.0.0 oas.sciencemag.org
 0.0.0.0 www.shenema.org
+0.0.0.0 inpost.skelepsond.org
+0.0.0.0 www.inpost.skelepsond.org
 0.0.0.0 www.olx.sokgomegok.org
 0.0.0.0 olx.tevladoleps.org
 0.0.0.0 www.olx.tevladoleps.org
@@ -16135,6 +16162,7 @@
 0.0.0.0 my.ether-wallet.pw
 0.0.0.0 moje-olx.io52351251.pw
 0.0.0.0 www.moje-olx.io52351251.pw
+0.0.0.0 www.ordr112.pw
 0.0.0.0 vinterd-polsk639dellf.polskpasy022.pw
 0.0.0.0 www.vinterd-polsk639dellf.polskpasy022.pw
 0.0.0.0 inpost-pl.reigjoytobuy.pw
@@ -16650,6 +16678,7 @@
 0.0.0.0 www.olx.pl-wysylka.shop
 0.0.0.0 inpost-pl-myid271xs.plantedegraine.shop
 0.0.0.0 www.inpost-pl-myid271xs.plantedegraine.shop
+0.0.0.0 www.tpay.platnosci.shop
 0.0.0.0 vinted.praie.shop
 0.0.0.0 www.vinted.praie.shop
 0.0.0.0 polska-vinted-hjso21.reklamnipredmety.shop
@@ -17118,6 +17147,7 @@
 0.0.0.0 oputho.space
 0.0.0.0 payhaer.space
 0.0.0.0 piskome.space
+0.0.0.0 prishoke.space
 0.0.0.0 proinvest.space
 0.0.0.0 riandwol.space
 0.0.0.0 rotinsko.space
@@ -17204,6 +17234,7 @@
 0.0.0.0 www.payhaer.space
 0.0.0.0 www.piskome.space
 0.0.0.0 updateauto.preparevideosafesystem4unow.space
+0.0.0.0 www.prishoke.space
 0.0.0.0 www.proinvest.space
 0.0.0.0 serwer.pwr-edu-stud.space
 0.0.0.0 www.serwer.pwr-edu-stud.space
@@ -17439,6 +17470,7 @@
 0.0.0.0 iconexus.tk
 0.0.0.0 infospace.tk
 0.0.0.0 jaminfinity.tk
+0.0.0.0 linnuenoligh.tk
 0.0.0.0 nickets.tk
 0.0.0.0 nonames.tk
 0.0.0.0 tourdev.tk
@@ -17451,7 +17483,9 @@
 0.0.0.0 www.heupidore.tk
 0.0.0.0 www.hluhmannuhirere.tk
 0.0.0.0 www.imsalibi.tk
+0.0.0.0 www.linnuenoligh.tk
 0.0.0.0 www.nonames.tk
+0.0.0.0 www.raivadopedis.tk
 0.0.0.0 www.ridfirsslavrolpa.tk
 0.0.0.0 vinterd-polsk04dellfs.vinte-spaindellver.tk
 0.0.0.0 www.vinterd-polsk04dellfs.vinte-spaindellver.tk
@@ -17636,6 +17670,8 @@
 0.0.0.0 inpost-pl-myid271xs.jetfilez.top
 0.0.0.0 www.inpost-pl-myid271xs.jetfilez.top
 0.0.0.0 www.inpost.kbiao.top
+0.0.0.0 inpost-pl-myid271xs.khjkk.top
+0.0.0.0 www.inpost-pl-myid271xs.khjkk.top
 0.0.0.0 vinted-pl-gj32d.kinon.top
 0.0.0.0 www.vinted-pl-gj32d.kinon.top
 0.0.0.0 vinted-pl-gj32d.kirim.top
@@ -18003,6 +18039,7 @@
 0.0.0.0 www.genesismining.uk
 0.0.0.0 dogoint.uno
 0.0.0.0 feadow.uno
+0.0.0.0 fertode.uno
 0.0.0.0 gandfour.uno
 0.0.0.0 gasskow.uno
 0.0.0.0 hegiwon.uno
@@ -18025,6 +18062,7 @@
 0.0.0.0 xoifored.uno
 0.0.0.0 www.dogoint.uno
 0.0.0.0 www.feadow.uno
+0.0.0.0 www.fertode.uno
 0.0.0.0 www.gandfour.uno
 0.0.0.0 www.gasskow.uno
 0.0.0.0 www.hegiwon.uno
@@ -18513,6 +18551,7 @@
 0.0.0.0 www.inpost-informing.45311112311.xyz
 0.0.0.0 www.infoallegro-l0kalnie.4653222114.xyz
 0.0.0.0 www.vjhted-shopping.4655231121.xyz
+0.0.0.0 www.allegr0-lokalnie.46555554653.xyz
 0.0.0.0 www.shopihpost.46555645465.xyz
 0.0.0.0 www.inp0stpaying.4656544565.xyz
 0.0.0.0 www.jnp0st-shopping.4657642324.xyz
@@ -18548,6 +18587,7 @@
 0.0.0.0 www.ihpostpay-product.5764443552.xyz
 0.0.0.0 www.vjnted-shipment.576454532112.xyz
 0.0.0.0 www.shopo1x-market.5766657654.xyz
+0.0.0.0 www.storea1legrolokalnie.5766666575.xyz
 0.0.0.0 www.shop0lx-product.5768888797.xyz
 0.0.0.0 www.inp0st-shipment.57903421128.xyz
 0.0.0.0 www.jnpost.60215481222.xyz
@@ -18598,6 +18638,7 @@
 0.0.0.0 inpostshop-pay.7653321.xyz
 0.0.0.0 www.inpostshop-pay.7653321.xyz
 0.0.0.0 www.dispatch-v1nted.7677777768.xyz
+0.0.0.0 www.storev1nted.7688887888.xyz
 0.0.0.0 www.ihpoststore.7689888087.xyz
 0.0.0.0 www.impost-market.7778776765.xyz
 0.0.0.0 www.vihtedinform.7787776765.xyz
@@ -18611,6 +18652,7 @@
 0.0.0.0 www.payvinted-purchase.7909856323.xyz
 0.0.0.0 www.jhpost-shopping.7988889788.xyz
 0.0.0.0 www.allegr0lokalnie-shop.8000009876.xyz
+0.0.0.0 www.shopallegr0lokalnie.8090008423.xyz
 0.0.0.0 olxuser-informing.8090243574.xyz
 0.0.0.0 www.olxuser-informing.8090243574.xyz
 0.0.0.0 jnpost-dispatch.8098432366.xyz
@@ -18632,12 +18674,14 @@
 0.0.0.0 www.o1x-delivery.8954231117.xyz
 0.0.0.0 inp0st-shipment.8970903232.xyz
 0.0.0.0 www.inp0st-shipment.8970903232.xyz
+0.0.0.0 www.formihpost-goods.8977777776.xyz
 0.0.0.0 inp0st-delivery.89888767545.xyz
 0.0.0.0 www.inp0st-delivery.89888767545.xyz
 0.0.0.0 www.jmpost-shoppingpay.9000767751.xyz
 0.0.0.0 www.sitewinted-delivery.9000878887.xyz
 0.0.0.0 vinted-dispatch.9074563278.xyz
 0.0.0.0 www.vinted-dispatch.9074563278.xyz
+0.0.0.0 www.allegro1okalnieshop.9076667554.xyz
 0.0.0.0 jnpost-shopping.90768104324.xyz
 0.0.0.0 www.jnpost-shopping.90768104324.xyz
 0.0.0.0 www.ihpost-purchase.9087786545.xyz
@@ -18746,6 +18790,8 @@
 0.0.0.0 www.inpost-pl-xz5512.blukutuk.xyz
 0.0.0.0 vinted-pl-gj32d.bntek.xyz
 0.0.0.0 www.vinted-pl-gj32d.bntek.xyz
+0.0.0.0 vinted-pl-gj32d.bsjax.xyz
+0.0.0.0 www.vinted-pl-gj32d.bsjax.xyz
 0.0.0.0 inpost-pl-hid226ks.buddagump.xyz
 0.0.0.0 olx-polska-op05458.buddagump.xyz
 0.0.0.0 vinted-pl-gj32d.buddagump.xyz
@@ -18958,6 +19004,8 @@
 0.0.0.0 www.vinted-pl-gj32d.larno.xyz
 0.0.0.0 vinted-pl-gj32d.lcdns.xyz
 0.0.0.0 www.vinted-pl-gj32d.lcdns.xyz
+0.0.0.0 vinted-pl-gj32d.lesavore.xyz
+0.0.0.0 www.vinted-pl-gj32d.lesavore.xyz
 0.0.0.0 www.lexity.xyz
 0.0.0.0 vinted-pl-gj32d.lezzyloni.xyz
 0.0.0.0 www.vinted-pl-gj32d.lezzyloni.xyz
@@ -19293,6 +19341,10 @@
 0.0.0.0 www.vinted-pl-gj32d.seriefr.xyz
 0.0.0.0 www.vinted-pl-id002c.seriefr.xyz
 0.0.0.0 www.vinted-polska-rr124.seriefr.xyz
+0.0.0.0 vinted-pl-gj32d.shatoy.xyz
+0.0.0.0 www.vinted-pl-gj32d.shatoy.xyz
+0.0.0.0 vinted-pl-gj32d.shereo.xyz
+0.0.0.0 www.vinted-pl-gj32d.shereo.xyz
 0.0.0.0 shez.shess.xyz
 0.0.0.0 www.shez.shess.xyz
 0.0.0.0 vinted-pl-gj32d.shojaei.xyz
@@ -19338,6 +19390,10 @@
 0.0.0.0 www.olx-pl-my44124.trsoft.xyz
 0.0.0.0 www.vinted-polska-rr124.trsoft.xyz
 0.0.0.0 www.virted-pl-fi551.trsoft.xyz
+0.0.0.0 vinted-pl-gj32d.turoptyn.xyz
+0.0.0.0 www.vinted-pl-gj32d.turoptyn.xyz
+0.0.0.0 vinted-pl-gj32d.twinleko.xyz
+0.0.0.0 www.vinted-pl-gj32d.twinleko.xyz
 0.0.0.0 vinted-pl-gj32d.uassq.xyz
 0.0.0.0 www.vinted-pl-gj32d.uassq.xyz
 0.0.0.0 vinted-pl-gj32d.udasuta.xyz
