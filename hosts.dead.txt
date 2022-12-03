@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:01 AM Friday 02 December 2022
+# Date: 06:01 AM Saturday 03 December 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -2670,6 +2670,7 @@
 0.0.0.0 littercipher.com
 0.0.0.0 littlebaby-shop.com
 0.0.0.0 livetus.com
+0.0.0.0 lkxntavfbftgl.com
 0.0.0.0 loamauji.com
 0.0.0.0 lonsgus.com
 0.0.0.0 lorajety.com
@@ -3105,6 +3106,7 @@
 0.0.0.0 resolvingserver.com
 0.0.0.0 retail-affiliates.com
 0.0.0.0 retirementlash.com
+0.0.0.0 revdsjmpxmmdmlc.com
 0.0.0.0 revootel.com
 0.0.0.0 rewardblvd.com
 0.0.0.0 rexbeautifully.com
@@ -3476,6 +3478,7 @@
 0.0.0.0 wafmedia3.com
 0.0.0.0 wagperistin.com
 0.0.0.0 waitressunequal.com
+0.0.0.0 wajshnsggokocd.com
 0.0.0.0 wallets-blockchain.com
 0.0.0.0 walmartjp.com
 0.0.0.0 wanblcokrolre.com
