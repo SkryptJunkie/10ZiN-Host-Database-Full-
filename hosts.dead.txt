@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:04 AM Wednesday 07 December 2022
+# Date: 06:04 AM Thursday 08 December 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -12282,6 +12282,7 @@
 0.0.0.0 www.dostawa-safety.miami
 0.0.0.0 a-xikhu8.ml
 0.0.0.0 coindash.ml
+0.0.0.0 daam.ml
 0.0.0.0 dfinity.ml
 0.0.0.0 elite-crack.ml
 0.0.0.0 iconexus.ml
@@ -17058,6 +17059,7 @@
 0.0.0.0 invstorn.site
 0.0.0.0 jertos.site
 0.0.0.0 joedohn.site
+0.0.0.0 juggenbande.site
 0.0.0.0 ke-master.site
 0.0.0.0 koloda.site
 0.0.0.0 lagbewu.site
