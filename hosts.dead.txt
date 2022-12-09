@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:04 AM Thursday 08 December 2022
+# Date: 06:01 AM Friday 09 December 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -1915,6 +1915,7 @@
 0.0.0.0 avsads.com
 0.0.0.0 awcpcpetb.com
 0.0.0.0 awlnqqackjkixk.com
+0.0.0.0 awufrlpocevxcsh.com
 0.0.0.0 axemorketr.com
 0.0.0.0 axnyocqnqqxtuae.com
 0.0.0.0 azureteens.com
@@ -1952,6 +1953,7 @@
 0.0.0.0 belongrobustgreedy.com
 0.0.0.0 belstaffpolska.com
 0.0.0.0 benefitsorganic.com
+0.0.0.0 bermpnrtcuwls.com
 0.0.0.0 bert24.com
 0.0.0.0 bestdealscard.com
 0.0.0.0 bestidease.com
@@ -2218,6 +2220,7 @@
 0.0.0.0 dailycoinmine360.com
 0.0.0.0 dallavel.com
 0.0.0.0 dannerbutysklep.com
+0.0.0.0 daqhdxacckufkwv.com
 0.0.0.0 daretodreamfarm.com
 0.0.0.0 data-ero-advertising.com
 0.0.0.0 data-eroadvertising.com
@@ -2733,6 +2736,7 @@
 0.0.0.0 lorajety.com
 0.0.0.0 loversagobearable.com
 0.0.0.0 lpnottech.com
+0.0.0.0 lqubvnyhuk.com
 0.0.0.0 lrscdehilc.com
 0.0.0.0 lucky-day-uk.com
 0.0.0.0 lveif.com
@@ -2930,6 +2934,7 @@
 0.0.0.0 needlefoliagemoan.com
 0.0.0.0 nefijapu.com
 0.0.0.0 negolist.com
+0.0.0.0 nemcspgr.com
 0.0.0.0 netbinarycapital.com
 0.0.0.0 netfpl.com
 0.0.0.0 netlinktrack.com
@@ -2992,6 +2997,7 @@
 0.0.0.0 omise-omg.com
 0.0.0.0 omisegoairdrop.com
 0.0.0.0 omkaaqtwzvc.com
+0.0.0.0 onbimcjvlvfjj.com
 0.0.0.0 onctus.com
 0.0.0.0 onlineadserv.com
 0.0.0.0 onlinenothome.com
@@ -3009,6 +3015,7 @@
 0.0.0.0 overturnconstitution.com
 0.0.0.0 ovxdhhgklmrwcqo.com
 0.0.0.0 owenexposure.com
+0.0.0.0 oymphfkkui.com
 0.0.0.0 paaoqqfswg.com
 0.0.0.0 pagerank-ranking.com
 0.0.0.0 pagerank-submitter.com
@@ -3609,6 +3616,7 @@
 0.0.0.0 wqmfbqpbnmgyi.com
 0.0.0.0 wretchedsuperiority.com
 0.0.0.0 wrknrsuehi.com
+0.0.0.0 wsgbfgtjxv.com
 0.0.0.0 wvpkoyjoq.com
 0.0.0.0 wwnrdqxo.com
 0.0.0.0 wwudrrdtouplk.com
@@ -10871,6 +10879,7 @@
 0.0.0.0 iconexus.ga
 0.0.0.0 kunsportepes.ga
 0.0.0.0 onerror.ga
+0.0.0.0 orcamento-com-pdf-br.ga
 0.0.0.0 registrycertificates.ga
 0.0.0.0 truegamers.ga
 0.0.0.0 www.asilinamad.ga
