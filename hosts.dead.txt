@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:01 AM Friday 09 December 2022
+# Date: 06:01 AM Saturday 10 December 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -2747,6 +2747,7 @@
 0.0.0.0 m57ku6sm.com
 0.0.0.0 maetriklabs.com
 0.0.0.0 magyar-media.com
+0.0.0.0 mahqymbesm.com
 0.0.0.0 mallowsmother.com
 0.0.0.0 mammutwarszawa.com
 0.0.0.0 mandex-foxminers.com
@@ -18597,6 +18598,7 @@
 0.0.0.0 tzero.website
 0.0.0.0 ucdn.website
 0.0.0.0 vagikeswoer.website
+0.0.0.0 yeesdiapase.website
 0.0.0.0 www.ebusiness-lotoss.website
 0.0.0.0 www.ecofin.website
 0.0.0.0 www.ecofinance.website
