@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:01 AM Saturday 10 December 2022
+# Date: 06:01 AM Sunday 11 December 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -1915,6 +1915,7 @@
 0.0.0.0 avsads.com
 0.0.0.0 awcpcpetb.com
 0.0.0.0 awlnqqackjkixk.com
+0.0.0.0 awmjjvcjcnlw.com
 0.0.0.0 awufrlpocevxcsh.com
 0.0.0.0 axemorketr.com
 0.0.0.0 axnyocqnqqxtuae.com
@@ -1946,6 +1947,7 @@
 0.0.0.0 baryof.com
 0.0.0.0 bastrofr.com
 0.0.0.0 battleimpossible.com
+0.0.0.0 bbnfcfrvjs.com
 0.0.0.0 bdb4ff3f81.com
 0.0.0.0 beaterspatrick.com
 0.0.0.0 beetoken-ico.com
@@ -2004,6 +2006,7 @@
 0.0.0.0 bluzelie.com
 0.0.0.0 bluzelle-ico.com
 0.0.0.0 blznesplanet-parlbas.com
+0.0.0.0 bmivgbolbmbsh.com
 0.0.0.0 bnewsb.com
 0.0.0.0 bochuwutu.com
 0.0.0.0 bofyshaphi.com
@@ -2265,6 +2268,7 @@
 0.0.0.0 dogpial.com
 0.0.0.0 donescaffold.com
 0.0.0.0 doorbellbadge.com
+0.0.0.0 doptmcyayqlmqyg.com
 0.0.0.0 dowdenphotography.com
 0.0.0.0 download-everything.com
 0.0.0.0 download-readynow.com
@@ -2295,6 +2299,7 @@
 0.0.0.0 eachuniverse.com
 0.0.0.0 easiestsponsor.com
 0.0.0.0 easycapitaltrade.com
+0.0.0.0 ebdabd8454.com
 0.0.0.0 ebdr2.com
 0.0.0.0 ebhruifaomypdi.com
 0.0.0.0 ebjvkekktns.com
@@ -2455,6 +2460,7 @@
 0.0.0.0 gavycuse.com
 0.0.0.0 gaytrafficbroker.com
 0.0.0.0 gcdpqbdyaivpys.com
+0.0.0.0 gcxjczooe.com
 0.0.0.0 geneveworldinvest.com
 0.0.0.0 get-information.com
 0.0.0.0 get2buynow.com
@@ -2481,6 +2487,7 @@
 0.0.0.0 goym93w5e7jz.com
 0.0.0.0 gpneofgeo.com
 0.0.0.0 gptrbohjwkk.com
+0.0.0.0 gqbnybhhjwe.com
 0.0.0.0 grabbersex.com
 0.0.0.0 grabbit-rabbit.com
 0.0.0.0 grabthisstream-now.com
@@ -2598,6 +2605,7 @@
 0.0.0.0 imgurads.com
 0.0.0.0 immigrantarchipelagopoetic.com
 0.0.0.0 immortalsplashslob.com
+0.0.0.0 imrcildojatbr.com
 0.0.0.0 incentiverewardcenter.com
 0.0.0.0 incestland.com
 0.0.0.0 indefinitecommitment.com
@@ -2624,6 +2632,7 @@
 0.0.0.0 iseajapicuym.com
 0.0.0.0 isorv.com
 0.0.0.0 italiapagamen.com
+0.0.0.0 itdotadsqw.com
 0.0.0.0 itunesdownloadstore.com
 0.0.0.0 ivbeujxaukap.com
 0.0.0.0 ixqfughrynmfh.com
@@ -2639,6 +2648,7 @@
 0.0.0.0 jmuaoupnykie.com
 0.0.0.0 jphgxskntmn.com
 0.0.0.0 jtjsevmr.com
+0.0.0.0 jtrufvej.com
 0.0.0.0 ju2g8tzj.com
 0.0.0.0 juggsday.com
 0.0.0.0 juicoburalrus.com
@@ -2691,6 +2701,7 @@
 0.0.0.0 ksheeraorganics.com
 0.0.0.0 kurtkanorthfacepl.com
 0.0.0.0 kurtkaspyderpolska.com
+0.0.0.0 kwvnnfeok.com
 0.0.0.0 la1dwne9cn5c.com
 0.0.0.0 ladnwort.com
 0.0.0.0 ladsblue.com
@@ -2950,6 +2961,7 @@
 0.0.0.0 ngbqiiclcahqc.com
 0.0.0.0 ngjquyzjgcrupz.com
 0.0.0.0 nhdyncputnm.com
+0.0.0.0 nhmgxbpafsh.com
 0.0.0.0 nicappazaza.com
 0.0.0.0 nitratory.com
 0.0.0.0 nitrogenpleahierarchy.com
@@ -2985,6 +2997,7 @@
 0.0.0.0 obctooauvzjo.com
 0.0.0.0 ocnnykxjx.com
 0.0.0.0 octaviancontrast.com
+0.0.0.0 odampavfliqlja.com
 0.0.0.0 oddertabrhino.com
 0.0.0.0 odiousbunny.com
 0.0.0.0 odzb5nkp.com
@@ -3135,6 +3148,7 @@
 0.0.0.0 qp3lgzt6exyn.com
 0.0.0.0 qpwiyfmlkhbxop.com
 0.0.0.0 qrwdmnkrwwdotym.com
+0.0.0.0 qtmcvdmtm.com
 0.0.0.0 qtum-token.com
 0.0.0.0 quakedamnalight.com
 0.0.0.0 qualitylegion.com
@@ -3218,7 +3232,9 @@
 0.0.0.0 rucegipti.com
 0.0.0.0 rumerrand.com
 0.0.0.0 rutsneareta.com
+0.0.0.0 rwwynhyet.com
 0.0.0.0 ryeqnyvbncdvg.com
+0.0.0.0 rymapsedtel.com
 0.0.0.0 rythmxchange.com
 0.0.0.0 ryynoljdarrw.com
 0.0.0.0 rzqctiudsvb.com
@@ -3601,6 +3617,7 @@
 0.0.0.0 windowspieceencumber.com
 0.0.0.0 wingerssetiger.com
 0.0.0.0 wiptisiwo.com
+0.0.0.0 wjokxphvwo.com
 0.0.0.0 wk4x5rdtoz2tn0.com
 0.0.0.0 wkdkehihqkbnqv.com
 0.0.0.0 wkfdymfxmyckr.com
