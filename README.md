@@ -16,7 +16,7 @@ Path | Description
 
 ****
 
-### Mobile Database
+### Mobile Database (deprecated)
 *Note: the mobile database files are already included in the full database*
 
 Path | Description
