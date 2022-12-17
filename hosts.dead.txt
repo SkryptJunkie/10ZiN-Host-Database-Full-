@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:03 AM Friday 16 December 2022
+# Date: 06:01 AM Saturday 17 December 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -1752,6 +1752,7 @@
 0.0.0.0 a5e2ef28b5.com
 0.0.0.0 a5ee094155.com
 0.0.0.0 a6dbb52634.com
+0.0.0.0 a7e5d9aaa4.com
 0.0.0.0 a997aa5071.com
 0.0.0.0 aab94f698f36684c5a852a2ef272e031bb.com
 0.0.0.0 aadcom.com
@@ -2577,6 +2578,7 @@
 0.0.0.0 hkhnmasegg.com
 0.0.0.0 hklykolnls.com
 0.0.0.0 hkrevolt.com
+0.0.0.0 hlgttoonjrmpef.com
 0.0.0.0 hmcehsjnioww.com
 0.0.0.0 hmuana.com
 0.0.0.0 hofofici.com
@@ -2676,6 +2678,7 @@
 0.0.0.0 jawsjackson.com
 0.0.0.0 jayruncone.com
 0.0.0.0 jebaziwhe.com
+0.0.0.0 jepgbelwx.com
 0.0.0.0 jeroswy.com
 0.0.0.0 jhtwiolgjeons.com
 0.0.0.0 jisyzysy.com
@@ -2726,6 +2729,7 @@
 0.0.0.0 knoure.com
 0.0.0.0 knubbyknit.com
 0.0.0.0 knxntpsd.com
+0.0.0.0 koftbumurbfghl.com
 0.0.0.0 koloswti.com
 0.0.0.0 kompresory-max.com
 0.0.0.0 kompresory180.com
@@ -2835,6 +2839,7 @@
 0.0.0.0 metelpay.com
 0.0.0.0 mettalpay.com
 0.0.0.0 meyetherwallet.com
+0.0.0.0 mfmtqcaf.com
 0.0.0.0 midnightimpressionperception.com
 0.0.0.0 milanorangest.com
 0.0.0.0 milyondolar.com
@@ -3950,6 +3955,7 @@
 0.0.0.0 yphmgzkojubwxn.com
 0.0.0.0 ysfjqiuyqwoabk.com
 0.0.0.0 yuhvjuedhcu.com
+0.0.0.0 yuverqpffsrtiuq.com
 0.0.0.0 ywbcdeyqgfzx.com
 0.0.0.0 ywodpsbzl.com
 0.0.0.0 yxkhpk.com
@@ -18104,6 +18110,7 @@
 0.0.0.0 www.olx.pl-secure.today
 0.0.0.0 www.tesler.today
 0.0.0.0 bestclevercaptcha.top
+0.0.0.0 cabpxukbni.top
 0.0.0.0 clevercaptcha.top
 0.0.0.0 cpreal.top
 0.0.0.0 cqzakup.top
