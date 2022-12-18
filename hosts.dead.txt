@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:01 AM Saturday 17 December 2022
+# Date: 06:01 AM Sunday 18 December 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -1690,6 +1690,7 @@
 0.0.0.0 399a240ee2.com
 0.0.0.0 3jmcwio.com
 0.0.0.0 3w24.com
+0.0.0.0 401dec0095.com
 0.0.0.0 411commerce.com
 0.0.0.0 448ff4fcfcd199a.com
 0.0.0.0 48331375c351e.com
@@ -1758,6 +1759,7 @@
 0.0.0.0 aadcom.com
 0.0.0.0 ab470c8dd5.com
 0.0.0.0 abilityviews.com
+0.0.0.0 ablepsysnup.com
 0.0.0.0 abourselfi.com
 0.0.0.0 abpeet.com
 0.0.0.0 absolutelyfreeeroticstories.com
@@ -1885,6 +1887,7 @@
 0.0.0.0 android-style.com
 0.0.0.0 angelfier.com
 0.0.0.0 anglewinks.com
+0.0.0.0 anguloawezn.com
 0.0.0.0 anioffers.com
 0.0.0.0 anitivirus.com
 0.0.0.0 annethegran.com
@@ -2195,6 +2198,7 @@
 0.0.0.0 cosmopolitads.com
 0.0.0.0 counterservis.com
 0.0.0.0 covoiturage-festivals.com
+0.0.0.0 coxjeefqvf.com
 0.0.0.0 cpaclickoffer.com
 0.0.0.0 cpacoreg.com
 0.0.0.0 cpatraffictracker.com
@@ -2475,6 +2479,7 @@
 0.0.0.0 ftdownload.com
 0.0.0.0 funministuff.com
 0.0.0.0 fusepsywi.com
+0.0.0.0 fwhgcnpqmm.com
 0.0.0.0 fxmukdal.com
 0.0.0.0 fxtmcoinstrading.com
 0.0.0.0 fxyc0dwa.com
@@ -2482,6 +2487,7 @@
 0.0.0.0 ga87z2o.com
 0.0.0.0 gadfaros.com
 0.0.0.0 gahsotkow.com
+0.0.0.0 galerusbeshod.com
 0.0.0.0 gameconsolerewards.com
 0.0.0.0 gamefllp.com
 0.0.0.0 gamladjmtwyuf.com
@@ -2784,6 +2790,7 @@
 0.0.0.0 littercipher.com
 0.0.0.0 littlebaby-shop.com
 0.0.0.0 livetus.com
+0.0.0.0 lkuwmjgv.com
 0.0.0.0 lkxntavfbftgl.com
 0.0.0.0 loamauji.com
 0.0.0.0 lonsgus.com
@@ -3054,6 +3061,7 @@
 0.0.0.0 oeigbne.com
 0.0.0.0 oerws.com
 0.0.0.0 ogskle.com
+0.0.0.0 ohvtukcakyiu.com
 0.0.0.0 ojhmakoqg.com
 0.0.0.0 ojqsmktxodt.com
 0.0.0.0 olivebrandresponse.com
@@ -3189,6 +3197,7 @@
 0.0.0.0 qauntstanp.com
 0.0.0.0 qbhxcvecgileaf.com
 0.0.0.0 qdlgacguvtc.com
+0.0.0.0 qekegokljhbt.com
 0.0.0.0 qhrgwojdhorvao.com
 0.0.0.0 qingrektmkt.com
 0.0.0.0 qioknibacond.com
@@ -3567,6 +3576,7 @@
 0.0.0.0 ugdxltperaggq.com
 0.0.0.0 uggpolskasklep.com
 0.0.0.0 uiujk.com
+0.0.0.0 ululuridleys.com
 0.0.0.0 unablewisdom.com
 0.0.0.0 understandablejoggleawakened.com
 0.0.0.0 understandablerequirechoke.com
@@ -3698,6 +3708,7 @@
 0.0.0.0 wrknrsuehi.com
 0.0.0.0 wsgbfgtjxv.com
 0.0.0.0 wvpkoyjoq.com
+0.0.0.0 wwiqakdp.com
 0.0.0.0 wwnrdqxo.com
 0.0.0.0 wwudrrdtouplk.com
 0.0.0.0 www-bankera.com
@@ -11107,6 +11118,7 @@
 0.0.0.0 seokraf.host
 0.0.0.0 sewesno.host
 0.0.0.0 soaungo.host
+0.0.0.0 soft-got.host
 0.0.0.0 sonsgko.host
 0.0.0.0 teodenr.host
 0.0.0.0 viaksako.host
