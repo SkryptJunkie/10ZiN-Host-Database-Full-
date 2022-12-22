@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:06 AM Wednesday 21 December 2022
+# Date: 06:01 AM Thursday 22 December 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -2125,6 +2125,7 @@
 0.0.0.0 byzantiumfork.com
 0.0.0.0 bzrmxfxu.com
 0.0.0.0 c2path.com
+0.0.0.0 c5ba30ffda.com
 0.0.0.0 c90752b0b5.com
 0.0.0.0 cablyshaw.com
 0.0.0.0 caikouli.com
@@ -2391,6 +2392,7 @@
 0.0.0.0 ebjvkekktns.com
 0.0.0.0 eccooutletsklepinternetowy.com
 0.0.0.0 ecoencomputer.com
+0.0.0.0 ecxirebcxpbhn.com
 0.0.0.0 edgystrangleconcentrate.com
 0.0.0.0 edu-offer.com
 0.0.0.0 eefxjexuwls.com
@@ -2628,6 +2630,7 @@
 0.0.0.0 hartalltunker.com
 0.0.0.0 havocgainpassing.com
 0.0.0.0 hcg82f2b.com
+0.0.0.0 hcnolexykgd.com
 0.0.0.0 hdnewporn.com
 0.0.0.0 headjordan.com
 0.0.0.0 healthbeautyncs.com
@@ -3365,6 +3368,7 @@
 0.0.0.0 revdsjmpxmmdmlc.com
 0.0.0.0 revootel.com
 0.0.0.0 rewardblvd.com
+0.0.0.0 rewggetkvmgiib.com
 0.0.0.0 rewriteconserve.com
 0.0.0.0 rexbeautifully.com
 0.0.0.0 rgmydyycifpwb.com
@@ -18377,6 +18381,7 @@
 0.0.0.0 ocoin.tech
 0.0.0.0 omise-go.tech
 0.0.0.0 paypie.tech
+0.0.0.0 postsobjure.tech
 0.0.0.0 procze.tech
 0.0.0.0 propsproject.tech
 0.0.0.0 red-pulse.tech
