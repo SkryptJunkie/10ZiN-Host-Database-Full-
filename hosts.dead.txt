@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:01 AM Thursday 22 December 2022
+# Date: 06:08 AM Friday 23 December 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -1871,6 +1871,7 @@
 0.0.0.0 airductcleaningcypresspro.com
 0.0.0.0 airlinesd.com
 0.0.0.0 airswaptoken.com
+0.0.0.0 aisdjmaodpvd.com
 0.0.0.0 akibaol.com
 0.0.0.0 akiihii.com
 0.0.0.0 aktiv-blog.com
@@ -1976,6 +1977,7 @@
 0.0.0.0 avymtcvmescu.com
 0.0.0.0 awcpcpetb.com
 0.0.0.0 awlnqqackjkixk.com
+0.0.0.0 awlnwlssvrfdknf.com
 0.0.0.0 awmjjvcjcnlw.com
 0.0.0.0 awufrlpocevxcsh.com
 0.0.0.0 axemorketr.com
@@ -1985,6 +1987,7 @@
 0.0.0.0 b1f72fc1be.com
 0.0.0.0 b370db8cb7.com
 0.0.0.0 b5bb2ecc8e.com
+0.0.0.0 b671e71e43.com
 0.0.0.0 bab706e31e.com
 0.0.0.0 babuinworld.com
 0.0.0.0 babywantsbling.com
@@ -2271,11 +2274,13 @@
 0.0.0.0 cryptoventaja.com
 0.0.0.0 cs6hm.com
 0.0.0.0 csgoezknife.com
+0.0.0.0 cshpdrgyk.com
 0.0.0.0 csprocup.com
 0.0.0.0 ctdtrtkbsmrhvsh.com
 0.0.0.0 ctlwfkgjotned.com
 0.0.0.0 cttracking08.com
 0.0.0.0 cuhoxiphi.com
+0.0.0.0 cukonwoo.com
 0.0.0.0 culttolerant.com
 0.0.0.0 culturedischargenarcotic.com
 0.0.0.0 cunnyhoney.com
@@ -2592,6 +2597,7 @@
 0.0.0.0 gpneofgeo.com
 0.0.0.0 gptrbohjwkk.com
 0.0.0.0 gqbnybhhjwe.com
+0.0.0.0 gqixheilph.com
 0.0.0.0 grabbedyearhireling.com
 0.0.0.0 grabbersex.com
 0.0.0.0 grabbit-rabbit.com
@@ -2631,6 +2637,7 @@
 0.0.0.0 havocgainpassing.com
 0.0.0.0 hcg82f2b.com
 0.0.0.0 hcnolexykgd.com
+0.0.0.0 hcqorgjwsrxdw.com
 0.0.0.0 hdnewporn.com
 0.0.0.0 headjordan.com
 0.0.0.0 healthbeautyncs.com
@@ -2667,6 +2674,7 @@
 0.0.0.0 hovoptelo.com
 0.0.0.0 how-tosolve.com
 0.0.0.0 hpbbg.com
+0.0.0.0 hpjtqrbaf.com
 0.0.0.0 hpljupfyb.com
 0.0.0.0 hpzdwnkb.com
 0.0.0.0 hqysonbyddwta.com
@@ -2772,6 +2780,7 @@
 0.0.0.0 jtjsevmr.com
 0.0.0.0 jtrufvej.com
 0.0.0.0 ju2g8tzj.com
+0.0.0.0 jubahtwligrkct.com
 0.0.0.0 juggsday.com
 0.0.0.0 juicoburalrus.com
 0.0.0.0 juroptyne.com
@@ -2821,6 +2830,7 @@
 0.0.0.0 kompresory180.com
 0.0.0.0 kompresory50.com
 0.0.0.0 kotoran.com
+0.0.0.0 kpwyqhlgem.com
 0.0.0.0 kqeehoptcroxf.com
 0.0.0.0 kqftwnpouh.com
 0.0.0.0 kragr.com
@@ -2933,6 +2943,7 @@
 0.0.0.0 mettalpay.com
 0.0.0.0 meyetherwallet.com
 0.0.0.0 mfmtqcaf.com
+0.0.0.0 mhpxpovvexbprcd.com
 0.0.0.0 midnightimpressionperception.com
 0.0.0.0 milanorangest.com
 0.0.0.0 milyondolar.com
@@ -3119,6 +3130,7 @@
 0.0.0.0 nmejrb.com
 0.0.0.0 noakauhe.com
 0.0.0.0 nodecrisp.com
+0.0.0.0 nopqqvnjhnwykev.com
 0.0.0.0 northfaces-polska.com
 0.0.0.0 northfacewyprzedaz.com
 0.0.0.0 notadszones.com
@@ -3170,6 +3182,7 @@
 0.0.0.0 onlinenothome.com
 0.0.0.0 onlinewebfind.com
 0.0.0.0 ooftoomy.com
+0.0.0.0 opdutdraohagjwt.com
 0.0.0.0 openflawless.com
 0.0.0.0 openmajestic.com
 0.0.0.0 openmasterpiece.com
@@ -3302,6 +3315,7 @@
 0.0.0.0 qbhxcvecgileaf.com
 0.0.0.0 qdlgacguvtc.com
 0.0.0.0 qekegokljhbt.com
+0.0.0.0 qhjunyupnb.com
 0.0.0.0 qhrgwojdhorvao.com
 0.0.0.0 qingrektmkt.com
 0.0.0.0 qioknibacond.com
@@ -3580,6 +3594,7 @@
 0.0.0.0 swietna-okazja.com
 0.0.0.0 swingingcommunity.com
 0.0.0.0 swipe101.com
+0.0.0.0 swtvkyqql.com
 0.0.0.0 sxtracking.com
 0.0.0.0 sygano.com
 0.0.0.0 syndromeseasidecontainer.com
@@ -3615,6 +3630,7 @@
 0.0.0.0 thebizmeet.com
 0.0.0.0 thefreeadv.com
 0.0.0.0 thekey-vip.com
+0.0.0.0 thepositivia.com
 0.0.0.0 therichkids.com
 0.0.0.0 thewhizmarketing.com
 0.0.0.0 thilixasi.com
@@ -11164,11 +11180,13 @@
 0.0.0.0 castmart.ga
 0.0.0.0 citepucevasuxuqesu.ga
 0.0.0.0 iconexus.ga
+0.0.0.0 imranbukhari.ga
 0.0.0.0 kunsportepes.ga
 0.0.0.0 onerror.ga
 0.0.0.0 orcamento-com-pdf-br.ga
 0.0.0.0 registrycertificates.ga
 0.0.0.0 truegamers.ga
+0.0.0.0 usdtzill.ga
 0.0.0.0 www.asilinamad.ga
 0.0.0.0 www.caconlota.ga
 0.0.0.0 www.dolydokar.ga
@@ -12115,6 +12133,7 @@
 0.0.0.0 srt-srv.xlisting.jp
 0.0.0.0 maz.zba.jp
 0.0.0.0 zucks.net.zimg.jp
+0.0.0.0 oe.co.ke
 0.0.0.0 pro.i-doctor.co.kr
 0.0.0.0 rsense-ad.realclick.co.kr
 0.0.0.0 agroeconom.kz
@@ -12627,6 +12646,7 @@
 0.0.0.0 iconmainnet.ml
 0.0.0.0 liin.ml
 0.0.0.0 myyethwallet.ml
+0.0.0.0 protocolodavidmartinez.ml
 0.0.0.0 uzupelniaj-dane.ml
 0.0.0.0 www.cicecalmemus.ml
 0.0.0.0 www.depnarenbene.ml
@@ -15097,22 +15117,31 @@
 0.0.0.0 pixel.archivecaslytosk.onion
 0.0.0.0 pixel.archiveiya74codqgiixo33q62qlrqtkgmcitqx5u2oeqnmn5bpcbiyd.onion
 0.0.0.0 aegisteam.online
+0.0.0.0 alexinfor.online
 0.0.0.0 arthyadtrack.online
 0.0.0.0 bagsonsale.online
 0.0.0.0 bankamilennium.online
 0.0.0.0 bankemilenium.online
 0.0.0.0 bps-op.online
 0.0.0.0 bpsk.online
+0.0.0.0 btvonline.online
 0.0.0.0 corpolimpo.online
 0.0.0.0 cpa-optimizer.online
+0.0.0.0 dfresh.online
+0.0.0.0 dfreshapp.online
 0.0.0.0 dlaludzi.online
 0.0.0.0 fitterpro.online
 0.0.0.0 foundation-education.online
+0.0.0.0 fungozero.online
 0.0.0.0 galafighters.online
 0.0.0.0 game-hacks.online
 0.0.0.0 goopsevi.online
 0.0.0.0 icadeperu.online
+0.0.0.0 joespellz.online
 0.0.0.0 lartbsk.online
+0.0.0.0 metodolivredaacne.online
+0.0.0.0 metodorugas.online
+0.0.0.0 miniskirt.online
 0.0.0.0 moje-ingpl.online
 0.0.0.0 mscdy.online
 0.0.0.0 myjustdoitinvest.online
@@ -15120,8 +15149,11 @@
 0.0.0.0 nazelis.online
 0.0.0.0 nestbenk-pl.online
 0.0.0.0 obsessaoocultaoline.online
+0.0.0.0 pakfree.online
+0.0.0.0 paydayloanfast.online
 0.0.0.0 pc-virus-k7d4v9.online
 0.0.0.0 pekkao24.online
+0.0.0.0 pkgames.online
 0.0.0.0 pl-gov.online
 0.0.0.0 pllotos.online
 0.0.0.0 pllots.online
@@ -15130,6 +15162,7 @@
 0.0.0.0 raiden.online
 0.0.0.0 sefinkow.online
 0.0.0.0 strefa-filmow.online
+0.0.0.0 sublelo.online
 0.0.0.0 thewinners-esp.online
 0.0.0.0 vinted-pl.online
 0.0.0.0 wissaa.online
@@ -17588,7 +17621,9 @@
 0.0.0.0 coinpkobpnew.site
 0.0.0.0 coinpkonew.site
 0.0.0.0 conpro.site
+0.0.0.0 dineclub.site
 0.0.0.0 diz-opo.site
+0.0.0.0 dlsco.site
 0.0.0.0 eco-financion.site
 0.0.0.0 ecofin.site
 0.0.0.0 en-continue.site
@@ -17605,6 +17640,7 @@
 0.0.0.0 hybridization809.site
 0.0.0.0 iconfoundation.site
 0.0.0.0 ilkmawgod.site
+0.0.0.0 imagesbd.site
 0.0.0.0 in-pst-36714.site
 0.0.0.0 installer892.site
 0.0.0.0 invstorn.site
@@ -18216,6 +18252,7 @@
 0.0.0.0 finestdeal.store
 0.0.0.0 invworld.store
 0.0.0.0 kozakiariat.store
+0.0.0.0 samirsushi.store
 0.0.0.0 www.algoran-d.store
 0.0.0.0 www.b2invest-pl.store
 0.0.0.0 olx.pl.bezpieczenstwo24.store
@@ -18375,6 +18412,7 @@
 0.0.0.0 gifto.tech
 0.0.0.0 greatmacsoft.tech
 0.0.0.0 inginvest.tech
+0.0.0.0 loancredit.tech
 0.0.0.0 macdamaged.tech
 0.0.0.0 myetherwallet.tech
 0.0.0.0 numerai.tech
@@ -18421,6 +18459,7 @@
 0.0.0.0 linnuenoligh.tk
 0.0.0.0 nickets.tk
 0.0.0.0 nonames.tk
+0.0.0.0 pitangas.tk
 0.0.0.0 tourdev.tk
 0.0.0.0 www.ageridgatcomm.tk
 0.0.0.0 www.alpiegerva.tk
