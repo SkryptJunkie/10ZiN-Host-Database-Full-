@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:05 AM Saturday 24 December 2022
+# Date: 06:01 AM Sunday 25 December 2022
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -2776,6 +2776,7 @@
 0.0.0.0 jkexgpopgm.com
 0.0.0.0 jkgvxgtfudip.com
 0.0.0.0 jmuaoupnykie.com
+0.0.0.0 jnpjohnuy.com
 0.0.0.0 jonquilpapered.com
 0.0.0.0 jphgxskntmn.com
 0.0.0.0 jtjsevmr.com
@@ -3190,6 +3191,7 @@
 0.0.0.0 openmasterpiece.com
 0.0.0.0 opkropcst.com
 0.0.0.0 opnropst.com
+0.0.0.0 orxqimctpv.com
 0.0.0.0 otsserver.com
 0.0.0.0 oughth.com
 0.0.0.0 overloadhomes.com
@@ -4118,6 +4120,7 @@
 0.0.0.0 yoursoftwareplace.com
 0.0.0.0 yphmgzkojubwxn.com
 0.0.0.0 ysfjqiuyqwoabk.com
+0.0.0.0 ysubmdxir.com
 0.0.0.0 yuhvjuedhcu.com
 0.0.0.0 yuverqpffsrtiuq.com
 0.0.0.0 ywbcdeyqgfzx.com
