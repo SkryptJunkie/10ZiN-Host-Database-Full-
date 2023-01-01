@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:01 AM Saturday 31 December 2022
+# Date: 06:01 AM Sunday 01 January 2023
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -1762,6 +1762,7 @@
 0.0.0.0 6stuff.com
 0.0.0.0 70pictures.com
 0.0.0.0 72impala.com
+0.0.0.0 7452472e76.com
 0.0.0.0 74adf02407.com
 0.0.0.0 75bb9a4031.com
 0.0.0.0 7705a9f168.com
@@ -2032,6 +2033,7 @@
 0.0.0.0 badd24287f.com
 0.0.0.0 badizaz.com
 0.0.0.0 badshores.com
+0.0.0.0 baggernuclein.com
 0.0.0.0 baipagid.com
 0.0.0.0 balledalloy.com
 0.0.0.0 baloonranger.com
@@ -2177,6 +2179,7 @@
 0.0.0.0 capriceprop.com
 0.0.0.0 careersincorrectquickie.com
 0.0.0.0 carpreposition.com
+0.0.0.0 carroonmiscoin.com
 0.0.0.0 casa24ore.com
 0.0.0.0 cassettepreceding.com
 0.0.0.0 catverticalposterity.com
@@ -2602,6 +2605,7 @@
 0.0.0.0 garberaa.com
 0.0.0.0 garenalqm.com
 0.0.0.0 garristo.com
+0.0.0.0 gauzilyhayfork.com
 0.0.0.0 gavycuse.com
 0.0.0.0 gaytrafficbroker.com
 0.0.0.0 gcdpqbdyaivpys.com
@@ -2615,6 +2619,7 @@
 0.0.0.0 getawaycontaminate.com
 0.0.0.0 getiluda.com
 0.0.0.0 getlotusflower.com
+0.0.0.0 geuinukifbdfby.com
 0.0.0.0 gfnttldx.com
 0.0.0.0 ggfffmvkv.com
 0.0.0.0 ggunauhe.com
@@ -2677,6 +2682,7 @@
 0.0.0.0 hcg82f2b.com
 0.0.0.0 hcnolexykgd.com
 0.0.0.0 hcqorgjwsrxdw.com
+0.0.0.0 hdewcosfi.com
 0.0.0.0 hdnewporn.com
 0.0.0.0 headjordan.com
 0.0.0.0 healthbeautyncs.com
@@ -2739,6 +2745,7 @@
 0.0.0.0 ibmvideo.com
 0.0.0.0 ice2art.com
 0.0.0.0 icebugsklep.com
+0.0.0.0 icggsrbunxiixv.com
 0.0.0.0 icipourtoi.com
 0.0.0.0 ico-bluzelle.com
 0.0.0.0 ico-tzero.com
@@ -2759,6 +2766,7 @@
 0.0.0.0 illegiblebounceoff.com
 0.0.0.0 im-sb.com
 0.0.0.0 image-catcher.com
+0.0.0.0 imaginelipuria.com
 0.0.0.0 imagineposition.com
 0.0.0.0 imcpqxmtlapagng.com
 0.0.0.0 imembe.com
@@ -2805,6 +2813,7 @@
 0.0.0.0 jawsjackson.com
 0.0.0.0 jayruncone.com
 0.0.0.0 jdsbrvnkabd.com
+0.0.0.0 jdwwwjvrcsylkoj.com
 0.0.0.0 jebaziwhe.com
 0.0.0.0 jepgbelwx.com
 0.0.0.0 jeroswy.com
@@ -2895,6 +2904,7 @@
 0.0.0.0 lautargow.com
 0.0.0.0 laveerscurf.com
 0.0.0.0 laviniia.com
+0.0.0.0 lawedlar.com
 0.0.0.0 lazyovertime.com
 0.0.0.0 ldutvi.com
 0.0.0.0 leakypatgoo.com
@@ -3188,6 +3198,7 @@
 0.0.0.0 nqbquabpjynb.com
 0.0.0.0 nrbtejctlwjlp.com
 0.0.0.0 nsdzrhsb.com
+0.0.0.0 ntvfmqdfjx.com
 0.0.0.0 ntymeitwblpnvii.com
 0.0.0.0 nuclearscalp.com
 0.0.0.0 nuclef.com
@@ -3242,6 +3253,7 @@
 0.0.0.0 overloadhomes.com
 0.0.0.0 overlypower.com
 0.0.0.0 overturnconstitution.com
+0.0.0.0 ovidcnsl.com
 0.0.0.0 ovxdhhgklmrwcqo.com
 0.0.0.0 owenexposure.com
 0.0.0.0 oxlfhifzfynll.com
@@ -3456,6 +3468,7 @@
 0.0.0.0 rjmwqf.com
 0.0.0.0 rkknacldeoasdt.com
 0.0.0.0 rlvjxllmm.com
+0.0.0.0 rmeckosl.com
 0.0.0.0 rnyethervailet.com
 0.0.0.0 rnyethervaliet.com
 0.0.0.0 rnyetherwa11et.com
@@ -3619,6 +3632,7 @@
 0.0.0.0 statusmarkets.com
 0.0.0.0 steamlightslaxative.com
 0.0.0.0 steepedgoofed.com
+0.0.0.0 steveackton.com
 0.0.0.0 stewclove.com
 0.0.0.0 stewhustysti.com
 0.0.0.0 sticixoju.com
@@ -3671,6 +3685,7 @@
 0.0.0.0 techniciansyllabuspersistent.com
 0.0.0.0 technology-revealed.com
 0.0.0.0 techsupportpwr.com
+0.0.0.0 tedescodisrank.com
 0.0.0.0 teenboobstube.com
 0.0.0.0 tenonersem.com
 0.0.0.0 tenuraa.com
@@ -3710,6 +3725,7 @@
 0.0.0.0 topservicesecurity.com
 0.0.0.0 toptradegroup.com
 0.0.0.0 totxxucxtfq.com
+0.0.0.0 tqrpincfawd.com
 0.0.0.0 traaaack.com
 0.0.0.0 trackaffpix.com
 0.0.0.0 trackermodules.com
@@ -3764,6 +3780,7 @@
 0.0.0.0 u85foldero.com
 0.0.0.0 uahkkdlgqhxbkeb.com
 0.0.0.0 uasfwallet.com
+0.0.0.0 ubbsxinriqfpblu.com
 0.0.0.0 udsagemylyqkrew.com
 0.0.0.0 ufljqapedygdnre.com
 0.0.0.0 ugdxltperaggq.com
@@ -3910,6 +3927,7 @@
 0.0.0.0 wretchedsuperiority.com
 0.0.0.0 wrknrsuehi.com
 0.0.0.0 wsgbfgtjxv.com
+0.0.0.0 wuxaantbemyywx.com
 0.0.0.0 wvpkoyjoq.com
 0.0.0.0 wwiqakdp.com
 0.0.0.0 wwnrdqxo.com
@@ -4154,6 +4172,7 @@
 0.0.0.0 yatbzuwo.com
 0.0.0.0 ybuhglnjtuba.com
 0.0.0.0 ydjqtjbwfybqpxg.com
+0.0.0.0 ydxfoqqsekpvb.com
 0.0.0.0 yefbmjqdjkpr.com
 0.0.0.0 yemonisoni.com
 0.0.0.0 ygnbukywx.com
@@ -18892,6 +18911,7 @@
 0.0.0.0 sedh.top
 0.0.0.0 tzaupye.top
 0.0.0.0 vopljpncoyq.top
+0.0.0.0 ymbqytifqhb.top
 0.0.0.0 in-post-pl-myid272xs.0xfee1dead.top
 0.0.0.0 vinted-pl-id002c.0xfee1dead.top
 0.0.0.0 vinted-polska-rr124.0xfee1dead.top
@@ -19719,6 +19739,7 @@
 0.0.0.0 dvbjcdhmpqkq.xyz
 0.0.0.0 effections.xyz
 0.0.0.0 erefwukouln.xyz
+0.0.0.0 estormandadv.xyz
 0.0.0.0 evbsa.xyz
 0.0.0.0 extragenerators.xyz
 0.0.0.0 factornews.xyz
