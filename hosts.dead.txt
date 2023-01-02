@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:01 AM Sunday 01 January 2023
+# Date: 06:01 AM Monday 02 January 2023
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -1724,6 +1724,7 @@
 0.0.0.0 25623db845.com
 0.0.0.0 25a2143174.com
 0.0.0.0 2811151a23.com
+0.0.0.0 2ae7bb7996.com
 0.0.0.0 2bluemountain.com
 0.0.0.0 2c5f9ab9f4.com
 0.0.0.0 2p9fyvx.com
@@ -2064,6 +2065,7 @@
 0.0.0.0 belongrobustgreedy.com
 0.0.0.0 belstaffpolska.com
 0.0.0.0 benefitsorganic.com
+0.0.0.0 bepemtyrfobpbem.com
 0.0.0.0 bermpnrtcuwls.com
 0.0.0.0 bert24.com
 0.0.0.0 bestdealscard.com
@@ -3207,6 +3209,7 @@
 0.0.0.0 nutcropbrute.com
 0.0.0.0 nutpond.com
 0.0.0.0 nwpctbgbyqu.com
+0.0.0.0 nxhbdqouxfovtnm.com
 0.0.0.0 nyeihitervvallat.com
 0.0.0.0 nyeihitervvallet.com
 0.0.0.0 nyphuboshu.com
@@ -3301,6 +3304,7 @@
 0.0.0.0 pististrustltd.com
 0.0.0.0 piticlik.com
 0.0.0.0 piwhaguvu.com
+0.0.0.0 pjfnmurq.com
 0.0.0.0 pjyabrwdjll.com
 0.0.0.0 pkmkkjwknvf.com
 0.0.0.0 pkpojhc.com
@@ -3836,6 +3840,7 @@
 0.0.0.0 vipfastmoney.com
 0.0.0.0 virtuallycoollybarber.com
 0.0.0.0 vjosxtjlagnfb.com
+0.0.0.0 vkxsroyofjojpg.com
 0.0.0.0 vlariteder.com
 0.0.0.0 vljkprhsxn.com
 0.0.0.0 vltwox7zl7h1wv.com
@@ -4654,6 +4659,7 @@
 0.0.0.0 cmweb.ilike.alibaba.com
 0.0.0.0 www.alior-pl.com
 0.0.0.0 log.aliyuncs.com
+0.0.0.0 log-global.aliyuncs.com
 0.0.0.0 www.allhqpics.com
 0.0.0.0 www.allianzmarket.com
 0.0.0.0 www.allisonhrose.com
@@ -5538,6 +5544,7 @@
 0.0.0.0 static.dianru.com
 0.0.0.0 www.dianru.com
 0.0.0.0 www.dicarlotrack.com
+0.0.0.0 www.dicsord-snows.com
 0.0.0.0 metrics.digicert.com
 0.0.0.0 ox-d.digiday.com
 0.0.0.0 adserver.digitalmedianet.com
@@ -10294,6 +10301,8 @@
 0.0.0.0 ad.jamba.de
 0.0.0.0 www.kaaza-legal.de
 0.0.0.0 shop.kauffes.de
+0.0.0.0 panel-home-pl-4ee7b03d5fc4ae76bb89.kbv-frankenberg.de
+0.0.0.0 www.panel-home-pl-4ee7b03d5fc4ae76bb89.kbv-frankenberg.de
 0.0.0.0 www.kvr-systems.de
 0.0.0.0 banner.listinus.de
 0.0.0.0 adn.meinsol.de
@@ -12825,6 +12834,8 @@
 0.0.0.0 www.elite-crack.ml
 0.0.0.0 www.dhluktsbh.erreto.ml
 0.0.0.0 www.dpdpluirh.erreto.ml
+0.0.0.0 www.mingovplmxxg.faycesbdeals.ml
+0.0.0.0 www.mingovplpmwg.faycesbdeals.ml
 0.0.0.0 www.mingovplszji.feldmerab.ml
 0.0.0.0 www.dhl-de9504.granorbotrola.ml
 0.0.0.0 www.dhlukvfwp.granorbotrola.ml
@@ -15363,6 +15374,7 @@
 0.0.0.0 fitterpro.online
 0.0.0.0 foundation-education.online
 0.0.0.0 fungozero.online
+0.0.0.0 g0onlinebnpqarlbas.online
 0.0.0.0 galafighters.online
 0.0.0.0 game-hacks.online
 0.0.0.0 goopsevi.online
@@ -15444,6 +15456,7 @@
 0.0.0.0 www.foundation-education.online
 0.0.0.0 www.foxo.online
 0.0.0.0 www.futurogamer.online
+0.0.0.0 www.g0onlinebnpqarlbas.online
 0.0.0.0 www.game-hacks.online
 0.0.0.0 www.geporsaf.online
 0.0.0.0 pl.ggpoct-laretqq.online
@@ -15676,6 +15689,8 @@
 0.0.0.0 www.inpost.byjerpokal.org
 0.0.0.0 olx.byosktin.org
 0.0.0.0 www.olx.byosktin.org
+0.0.0.0 dpd.bypaskaton.org
+0.0.0.0 www.dpd.bypaskaton.org
 0.0.0.0 olx.celasop.org
 0.0.0.0 www.olx.celasop.org
 0.0.0.0 bango.combango.org
@@ -19106,6 +19121,7 @@
 0.0.0.0 www.olx-pl-my44124.lingshiwu.top
 0.0.0.0 inpost-pl-xz5512.ljyxz1.top
 0.0.0.0 www.inpost-pl-xz5512.ljyxz1.top
+0.0.0.0 www.in-post-pl-myid272xs.lovelb.top
 0.0.0.0 in-post-pl-myid272xs.lu2396.top
 0.0.0.0 vinted-pl-gj32d.lu2396.top
 0.0.0.0 www.in-post-pl-myid272xs.lu2396.top
@@ -19704,8 +19720,10 @@
 0.0.0.0 www.tetra-invest.world
 0.0.0.0 ads.thebugs.ws
 0.0.0.0 img-pushup.wtf
+0.0.0.0 11shopsite-32.xyz
 0.0.0.0 17003124.xyz
 0.0.0.0 21736.xyz
+0.0.0.0 24storepaying.xyz
 0.0.0.0 accountprotection.xyz
 0.0.0.0 adsplay.xyz
 0.0.0.0 advserver.xyz
@@ -19953,6 +19971,7 @@
 0.0.0.0 www.o1x.112storeuser.xyz
 0.0.0.0 www.oolx.11deliveryuser.xyz
 0.0.0.0 www.v1nt-ed.11marketpay.xyz
+0.0.0.0 www.11shopsite-32.xyz
 0.0.0.0 www.vjnted.11storeinfo.xyz
 0.0.0.0 www.viinted.11usershop.xyz
 0.0.0.0 www.delivery0lx.1211212323.xyz
@@ -20035,6 +20054,7 @@
 0.0.0.0 www.sitejnpost-market.2433434442.xyz
 0.0.0.0 vihted-shop.2458884.xyz
 0.0.0.0 www.vihted-shop.2458884.xyz
+0.0.0.0 www.24storepaying.xyz
 0.0.0.0 www.dpb-delivery.252365125455.xyz
 0.0.0.0 www.delivery-jhpost.2543521112.xyz
 0.0.0.0 www.ollx.2544455444.xyz
@@ -20089,6 +20109,8 @@
 0.0.0.0 www.vihtedshop.32paying.xyz
 0.0.0.0 www.winted.32store-info.xyz
 0.0.0.0 www.vinted.332125125412.xyz
+0.0.0.0 0lx.332331215545.xyz
+0.0.0.0 www.0lx.332331215545.xyz
 0.0.0.0 www.vllnted.33261212555.xyz
 0.0.0.0 www.wiinted4.332shoppage.xyz
 0.0.0.0 market-viinted.333222000222.xyz
@@ -20433,6 +20455,7 @@
 0.0.0.0 www.proga-inf.alxprogs.xyz
 0.0.0.0 www.stat-x.alxprogs.xyz
 0.0.0.0 www.x-stat.alxprogs.xyz
+0.0.0.0 www.inpost-pl-hid226ks.antenaj3.xyz
 0.0.0.0 eua.anticr.xyz
 0.0.0.0 pl.anticr.xyz
 0.0.0.0 www.eua.anticr.xyz
@@ -20775,6 +20798,8 @@
 0.0.0.0 www.vjnteed.marketuser.xyz
 0.0.0.0 www.marktrad.xyz
 0.0.0.0 www.marktradfgood.xyz
+0.0.0.0 inpost-pl-pacid273jks.maubokep.xyz
+0.0.0.0 www.inpost-pl-pacid273jks.maubokep.xyz
 0.0.0.0 vinted-pl-gj32d.mbc1.xyz
 0.0.0.0 www.vinted-pl-gj32d.mbc1.xyz
 0.0.0.0 www.0lxstore.me-rchandise24.xyz
