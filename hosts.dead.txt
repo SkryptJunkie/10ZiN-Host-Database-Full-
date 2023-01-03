@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:01 AM Monday 02 January 2023
+# Date: 06:01 AM Tuesday 03 January 2023
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -3834,6 +3834,7 @@
 0.0.0.0 venisonchemistrydeclared.com
 0.0.0.0 verffkow.com
 0.0.0.0 verycastle.com
+0.0.0.0 vfnvxvlffvtkrv.com
 0.0.0.0 victoriousbanker.com
 0.0.0.0 video-bazis.com
 0.0.0.0 viitgb.com
