@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:01 AM Tuesday 03 January 2023
+# Date: 06:01 AM Wednesday 04 January 2023
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -8590,6 +8590,7 @@
 0.0.0.0 s.tyxo.com
 0.0.0.0 cpm.tz4.com
 0.0.0.0 www.tzw.com
+0.0.0.0 events.ubembed.com
 0.0.0.0 app.ubertags.com
 0.0.0.0 ads1.ucweb.com
 0.0.0.0 attr.union.ucweb.com
