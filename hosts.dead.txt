@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:01 AM Wednesday 04 January 2023
+# Date: 06:01 AM Thursday 05 January 2023
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -1685,6 +1685,7 @@
 0.0.0.0 oc.umeng.co
 0.0.0.0 info.alvin.codes
 0.0.0.0 010402.com
+0.0.0.0 01950fcc13.com
 0.0.0.0 0210bb49cd.com
 0.0.0.0 0346420d60.com
 0.0.0.0 040e9e6099.com
@@ -1757,6 +1758,7 @@
 0.0.0.0 6068a17eed25.com
 0.0.0.0 60pictures.com
 0.0.0.0 60secpanic.com
+0.0.0.0 650de67bed.com
 0.0.0.0 65a29ceed813bbca61.com
 0.0.0.0 65xps.com
 0.0.0.0 6netave.com
@@ -1899,6 +1901,7 @@
 0.0.0.0 agoaccuracy.com
 0.0.0.0 agogdebitape.com
 0.0.0.0 agomwefq.com
+0.0.0.0 ahaumplab.com
 0.0.0.0 aijiboft.com
 0.0.0.0 ailamtrieuphu.com
 0.0.0.0 aimtop100.com
@@ -2147,6 +2150,7 @@
 0.0.0.0 btcerapl.com
 0.0.0.0 btcpolskapl.com
 0.0.0.0 buffalogoesout.com
+0.0.0.0 buggiesgyronny.com
 0.0.0.0 bugsense.com
 0.0.0.0 bugsphnhl.com
 0.0.0.0 builderspi.com
@@ -2289,6 +2293,7 @@
 0.0.0.0 coronabreath.com
 0.0.0.0 corwrite.com
 0.0.0.0 cosmopolitads.com
+0.0.0.0 cotdrollback.com
 0.0.0.0 cotlandguile.com
 0.0.0.0 counterservis.com
 0.0.0.0 covoiturage-festivals.com
@@ -2597,6 +2602,7 @@
 0.0.0.0 ga87z2o.com
 0.0.0.0 gadfaros.com
 0.0.0.0 gahsotkow.com
+0.0.0.0 galampgab.com
 0.0.0.0 galerusbeshod.com
 0.0.0.0 gameconsolerewards.com
 0.0.0.0 gamefllp.com
@@ -2857,6 +2863,7 @@
 0.0.0.0 kevypeta.com
 0.0.0.0 kglmkkejuu.com
 0.0.0.0 kibblerkilldee.com
+0.0.0.0 kidsgmuqcpkhaek.com
 0.0.0.0 kikuzip.com
 0.0.0.0 kin-crowdsale.com
 0.0.0.0 kin-klk.com
@@ -2896,6 +2903,7 @@
 0.0.0.0 ladnwort.com
 0.0.0.0 ladsblue.com
 0.0.0.0 laerskow.com
+0.0.0.0 lalvpxjheogy.com
 0.0.0.0 landingabanteasesores.com
 0.0.0.0 landlordmanoeuvre.com
 0.0.0.0 langhesn.com
@@ -3021,6 +3029,7 @@
 0.0.0.0 mosece.com
 0.0.0.0 motivationcorny.com
 0.0.0.0 motorwaypuffybribery.com
+0.0.0.0 mowyappedbibs.com
 0.0.0.0 mpmotrk.com
 0.0.0.0 mpxxtrk.com
 0.0.0.0 mqnwdvtqtvmgth.com
@@ -3185,6 +3194,7 @@
 0.0.0.0 nllruakeborckior.com
 0.0.0.0 nlqqrsgr.com
 0.0.0.0 nmejrb.com
+0.0.0.0 nnsbfrrb.com
 0.0.0.0 noakauhe.com
 0.0.0.0 nodecrisp.com
 0.0.0.0 nopqqvnjhnwykev.com
@@ -3378,6 +3388,7 @@
 0.0.0.0 pushnotstudio.com
 0.0.0.0 pussl22.com
 0.0.0.0 pussl32.com
+0.0.0.0 pwbckuco.com
 0.0.0.0 pwjwgrtznpl.com
 0.0.0.0 qauntstamp.com
 0.0.0.0 qauntstanp.com
@@ -3675,6 +3686,7 @@
 0.0.0.0 t0zero.com
 0.0.0.0 tackledisplay.com
 0.0.0.0 taigasquarl.com
+0.0.0.0 takerhkpd.com
 0.0.0.0 tammenaa.com
 0.0.0.0 taoput.com
 0.0.0.0 targetctracker.com
@@ -3728,6 +3740,7 @@
 0.0.0.0 topoeia.com
 0.0.0.0 topservicesecurity.com
 0.0.0.0 toptradegroup.com
+0.0.0.0 totoroclair.com
 0.0.0.0 totxxucxtfq.com
 0.0.0.0 tqrpincfawd.com
 0.0.0.0 traaaack.com
@@ -3868,6 +3881,7 @@
 0.0.0.0 vst7mid.com
 0.0.0.0 vstsevenev.com
 0.0.0.0 vstsixev.com
+0.0.0.0 vujfmyswtppoflf.com
 0.0.0.0 w00ur5z9jy3a.com
 0.0.0.0 wafmedia3.com
 0.0.0.0 wagperistin.com
