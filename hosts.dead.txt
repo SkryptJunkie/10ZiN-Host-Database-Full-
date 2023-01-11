@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:01 AM Tuesday 10 January 2023
+# Date: 06:01 AM Wednesday 11 January 2023
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -18429,6 +18429,7 @@
 0.0.0.0 www.s0lut10n.site
 0.0.0.0 olx-pl.secure-code.site
 0.0.0.0 www.olx-pl.secure-code.site
+0.0.0.0 login.securewares.site
 0.0.0.0 www.shotech.site
 0.0.0.0 www.smartoffer.site
 0.0.0.0 www.smsu.site
