@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:04 AM Thursday 12 January 2023
+# Date: 06:01 AM Friday 13 January 2023
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -2023,6 +2023,7 @@
 0.0.0.0 armpitarticle.com
 0.0.0.0 aroundmonth.com
 0.0.0.0 arresttermsdoll.com
+0.0.0.0 arujbvbpdwnqiu.com
 0.0.0.0 ashemeth.com
 0.0.0.0 ashpolska.com
 0.0.0.0 aspirantsleepover.com
@@ -2999,6 +3000,7 @@
 0.0.0.0 lostkiw.com
 0.0.0.0 loversagobearable.com
 0.0.0.0 lpnottech.com
+0.0.0.0 lqhxmlxbhsj.com
 0.0.0.0 lqubvnyhuk.com
 0.0.0.0 lrscdehilc.com
 0.0.0.0 lucky-day-uk.com
@@ -18275,6 +18277,7 @@
 0.0.0.0 serviziopostale.site
 0.0.0.0 shotech.site
 0.0.0.0 smsu.site
+0.0.0.0 softview.site
 0.0.0.0 spectre.site
 0.0.0.0 subplots341.site
 0.0.0.0 superior400.site
@@ -19035,6 +19038,7 @@
 0.0.0.0 studcat.infra.systems
 0.0.0.0 air-swap.tech
 0.0.0.0 applyfix.tech
+0.0.0.0 crojikenatic.tech
 0.0.0.0 digitalplanetx.tech
 0.0.0.0 district0x.tech
 0.0.0.0 fastfixing.tech
