@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:01 AM Monday 16 January 2023
+# Date: 06:01 AM Tuesday 17 January 2023
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -1783,6 +1783,7 @@
 0.0.0.0 34c2f22e9503ace.com
 0.0.0.0 3627818666.com
 0.0.0.0 365locksmithsminneapolis.com
+0.0.0.0 37e5693aa7.com
 0.0.0.0 399a240ee2.com
 0.0.0.0 3jmcwio.com
 0.0.0.0 3w24.com
@@ -2600,6 +2601,7 @@
 0.0.0.0 fbtrk.com
 0.0.0.0 fbyxuloi.com
 0.0.0.0 fdgdfgfrfg.com
+0.0.0.0 fdxnvfwfnc.com
 0.0.0.0 featyn.com
 0.0.0.0 feduthobi.com
 0.0.0.0 feedbackexplorer.com
@@ -3915,6 +3917,7 @@
 0.0.0.0 verffkow.com
 0.0.0.0 verycastle.com
 0.0.0.0 vfnvxvlffvtkrv.com
+0.0.0.0 vgjjkbgicukcgt.com
 0.0.0.0 victoriousbanker.com
 0.0.0.0 video-bazis.com
 0.0.0.0 viitgb.com
@@ -10352,6 +10355,7 @@
 0.0.0.0 levelrate.de
 0.0.0.0 pagerank-submitter.de
 0.0.0.0 pagerank-united.de
+0.0.0.0 qj399htl.de
 0.0.0.0 ranking-id.de
 0.0.0.0 ranking-street.de
 0.0.0.0 relevanz10.de
@@ -11779,6 +11783,7 @@
 0.0.0.0 statustoken.im
 0.0.0.0 myetherwallet.com.im
 0.0.0.0 arkinsoftware.in
+0.0.0.0 credrewards.in
 0.0.0.0 dentacoin.in
 0.0.0.0 etherparty.in
 0.0.0.0 gizer.in
