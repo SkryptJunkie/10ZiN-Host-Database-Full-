@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:01 AM Tuesday 17 January 2023
+# Date: 06:01 AM Wednesday 18 January 2023
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -3326,6 +3326,7 @@
 0.0.0.0 openflawless.com
 0.0.0.0 openmajestic.com
 0.0.0.0 openmasterpiece.com
+0.0.0.0 ophkomuqhbgxga.com
 0.0.0.0 opkropcst.com
 0.0.0.0 opnropst.com
 0.0.0.0 orxqimctpv.com
@@ -4281,6 +4282,7 @@
 0.0.0.0 yourhandytips.com
 0.0.0.0 yoursitebar.com
 0.0.0.0 yoursoftwareplace.com
+0.0.0.0 ypcbxpsypoea.com
 0.0.0.0 yphmgzkojubwxn.com
 0.0.0.0 ysfjqiuyqwoabk.com
 0.0.0.0 ysubmdxir.com
