@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:01 AM Saturday 21 January 2023
+# Date: 06:01 AM Sunday 22 January 2023
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -2287,6 +2287,7 @@
 0.0.0.0 bjordlerlgpkmtx.com
 0.0.0.0 bkvknqhheehfk.com
 0.0.0.0 blank-record.com
+0.0.0.0 blbjfuowx.com
 0.0.0.0 bleuzelle.com
 0.0.0.0 blizzrubier.com
 0.0.0.0 bllttriex.com
@@ -2516,6 +2517,7 @@
 0.0.0.0 curtisfrierson.com
 0.0.0.0 custom-blacklisted-tracking-example.com
 0.0.0.0 cuurldrf.com
+0.0.0.0 cvkypgtbxocwx.com
 0.0.0.0 cvnpojoptm.com
 0.0.0.0 cwsitetrack.com
 0.0.0.0 cxdlprcpgjcah.com
@@ -2551,6 +2553,7 @@
 0.0.0.0 databasestelevision.com
 0.0.0.0 datashreddergold.com
 0.0.0.0 dbdteoasdksa.com
+0.0.0.0 dcvcptbqcg.com
 0.0.0.0 dealofadayonline.com
 0.0.0.0 debatenell.com
 0.0.0.0 deghbqhsypf.com
@@ -2565,6 +2568,7 @@
 0.0.0.0 devaluationobserve.com
 0.0.0.0 devilspanmute.com
 0.0.0.0 dfdybylchujl.com
+0.0.0.0 dfrsbodywjntmy.com
 0.0.0.0 diadora-polska.com
 0.0.0.0 dialerporn.com
 0.0.0.0 diamondemploymentcorpulent.com
@@ -3153,6 +3157,7 @@
 0.0.0.0 lqubvnyhuk.com
 0.0.0.0 lrscdehilc.com
 0.0.0.0 lucky-day-uk.com
+0.0.0.0 lvaocaogtjlidk.com
 0.0.0.0 lveif.com
 0.0.0.0 lycosgamesville.com
 0.0.0.0 lycosu.com
@@ -3439,6 +3444,7 @@
 0.0.0.0 ohvtukcakyiu.com
 0.0.0.0 ojhmakoqg.com
 0.0.0.0 ojqsmktxodt.com
+0.0.0.0 ojvmaefbufvcs.com
 0.0.0.0 olivebrandresponse.com
 0.0.0.0 omg-omise.com
 0.0.0.0 omise-go.com
@@ -3458,6 +3464,7 @@
 0.0.0.0 ophkomuqhbgxga.com
 0.0.0.0 opkropcst.com
 0.0.0.0 opnropst.com
+0.0.0.0 oqbplvbkhg.com
 0.0.0.0 orxqimctpv.com
 0.0.0.0 otsserver.com
 0.0.0.0 oughth.com
@@ -3907,6 +3914,7 @@
 0.0.0.0 tenyek-online.com
 0.0.0.0 terminusdeeper.com
 0.0.0.0 tevyshila.com
+0.0.0.0 tfgjsfrrpsreppt.com
 0.0.0.0 tgqbibhp.com
 0.0.0.0 thanksgivingwittyfrisk.com
 0.0.0.0 tharmconce.com
@@ -4058,6 +4066,7 @@
 0.0.0.0 vlariteder.com
 0.0.0.0 vljkprhsxn.com
 0.0.0.0 vltwox7zl7h1wv.com
+0.0.0.0 vlyqhdfbrgn.com
 0.0.0.0 vmxpkisuai.com
 0.0.0.0 vnaujncaeoygdw.com
 0.0.0.0 vnotrk.com
@@ -20793,10 +20802,12 @@
 0.0.0.0 vlchaintuebip.xyz
 0.0.0.0 wasanasset.xyz
 0.0.0.0 westete.xyz
+0.0.0.0 wojgvibx.xyz
 0.0.0.0 worldsbestoffer.xyz
 0.0.0.0 wwnc.xyz
 0.0.0.0 xfffx.xyz
 0.0.0.0 xtow.xyz
+0.0.0.0 ycdlqmlrf.xyz
 0.0.0.0 yckussysvawiu.xyz
 0.0.0.0 ythemorewasth.xyz
 0.0.0.0 zarabiaj-tu.xyz
