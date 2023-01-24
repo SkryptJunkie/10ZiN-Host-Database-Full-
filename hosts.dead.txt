@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Monday 23 January 2023
+# Date: 06:01 AM Tuesday 24 January 2023
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -1893,6 +1893,7 @@
 0.0.0.0 1zabslwvn538n4i5tcjl.com
 0.0.0.0 2005-search.com
 0.0.0.0 2009-search.com
+0.0.0.0 22f538366c.com
 0.0.0.0 247wsr.com
 0.0.0.0 24ad89fc2690ed9369.com
 0.0.0.0 24holdem.com
@@ -2629,6 +2630,7 @@
 0.0.0.0 ea1a7e5216.com
 0.0.0.0 ea38b1fdc5.com
 0.0.0.0 eachuniverse.com
+0.0.0.0 eapdypexshbrps.com
 0.0.0.0 easiestsponsor.com
 0.0.0.0 easycapitaltrade.com
 0.0.0.0 ebdabd8454.com
@@ -2760,6 +2762,7 @@
 0.0.0.0 flashinginvolvementmatches.com
 0.0.0.0 fleckbest.com
 0.0.0.0 flowndescendenttucked.com
+0.0.0.0 flvmgdjnu.com
 0.0.0.0 flycheapen.com
 0.0.0.0 foliagebazaar.com
 0.0.0.0 foodprogrammesdiscreet.com
@@ -3459,6 +3462,7 @@
 0.0.0.0 omkaaqtwzvc.com
 0.0.0.0 onbimcjvlvfjj.com
 0.0.0.0 onctus.com
+0.0.0.0 ondeqelhcaxpwt.com
 0.0.0.0 onlineadserv.com
 0.0.0.0 onlinenothome.com
 0.0.0.0 onlinewebfind.com
@@ -19532,6 +19536,7 @@
 0.0.0.0 tokensale-tenx.tech
 0.0.0.0 tronlab.tech
 0.0.0.0 wanchain.tech
+0.0.0.0 zoomapp.tech
 0.0.0.0 www.informacjeiinstrukcje.centrummediacji.tech
 0.0.0.0 app5.fastermac.tech
 0.0.0.0 www.inginvest.tech
