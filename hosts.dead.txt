@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Wednesday 25 January 2023
+# Date: 06:01 AM Thursday 26 January 2023
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -19448,6 +19448,7 @@
 0.0.0.0 finestdeal.store
 0.0.0.0 invworld.store
 0.0.0.0 kozakiariat.store
+0.0.0.0 libte-offise.store
 0.0.0.0 maplobicloudtq.store
 0.0.0.0 samirsushi.store
 0.0.0.0 www.algoran-d.store
