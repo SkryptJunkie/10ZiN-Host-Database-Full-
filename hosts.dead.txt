@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:01 AM Thursday 26 January 2023
+# Date: 06:01 AM Friday 27 January 2023
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -4411,6 +4411,8 @@
 0.0.0.0 xuhycaphe.com
 0.0.0.0 xuteketa.com
 0.0.0.0 xwktyiydn.com
+0.0.0.0 xwujifnpt.com
+0.0.0.0 xxfejeacw.com
 0.0.0.0 xxx4live.com
 0.0.0.0 xycsxvhsxqrlbji.com
 0.0.0.0 xyhqdlmkrhveff.com
