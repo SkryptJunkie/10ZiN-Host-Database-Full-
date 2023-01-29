@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:03 AM Saturday 28 January 2023
+# Date: 06:01 AM Sunday 29 January 2023
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -2643,6 +2643,7 @@
 0.0.0.0 duryman.com
 0.0.0.0 dwepmhhyigfb.com
 0.0.0.0 dxcdirect.com
+0.0.0.0 dxhgafult.com
 0.0.0.0 dxpxlt.com
 0.0.0.0 dyschfpca.com
 0.0.0.0 dzheker.com
@@ -3512,6 +3513,7 @@
 0.0.0.0 owenexposure.com
 0.0.0.0 oxlfhifzfynll.com
 0.0.0.0 oymphfkkui.com
+0.0.0.0 oyrwfiaafd.com
 0.0.0.0 paaoqqfswg.com
 0.0.0.0 paddedhayssag.com
 0.0.0.0 pagerank-ranking.com
@@ -20085,6 +20087,7 @@
 0.0.0.0 sedh.top
 0.0.0.0 tzaupye.top
 0.0.0.0 vopljpncoyq.top
+0.0.0.0 wrxexwtgnaac.top
 0.0.0.0 ymbqytifqhb.top
 0.0.0.0 in-post-pl-myid272xs.0xfee1dead.top
 0.0.0.0 vinted-pl-id002c.0xfee1dead.top
