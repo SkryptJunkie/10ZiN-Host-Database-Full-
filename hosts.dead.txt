@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:01 AM Sunday 29 January 2023
+# Date: 06:01 AM Monday 30 January 2023
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -1624,6 +1624,7 @@
 0.0.0.0 sgb24-online.cloud
 0.0.0.0 wanchain.cloud
 0.0.0.0 www.bn-aliorbank.cloud
+0.0.0.0 cookie.codemarketing.cloud
 0.0.0.0 www.do-rb.cloud
 0.0.0.0 www.do-rf.cloud
 0.0.0.0 vipaudience.kinsta.cloud
