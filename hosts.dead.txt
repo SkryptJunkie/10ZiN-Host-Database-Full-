@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:01 AM Monday 30 January 2023
+# Date: 06:01 AM Tuesday 31 January 2023
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -2346,6 +2346,7 @@
 0.0.0.0 boubery.com
 0.0.0.0 boutiqwie.com
 0.0.0.0 bowells.com
+0.0.0.0 bpjumjsnhgpgj.com
 0.0.0.0 bpvmnfodnty.com
 0.0.0.0 brandcopy2016.com
 0.0.0.0 breadtokenapp.com
@@ -2730,6 +2731,7 @@
 0.0.0.0 everut.com
 0.0.0.0 everywheresavourblouse.com
 0.0.0.0 evidencecleanergold.com
+0.0.0.0 evnjkyja.com
 0.0.0.0 ewedivotsfop.com
 0.0.0.0 ex-traffic.com
 0.0.0.0 exanae.com
@@ -16130,6 +16132,7 @@
 0.0.0.0 nadsire.online
 0.0.0.0 nazelis.online
 0.0.0.0 nestbenk-pl.online
+0.0.0.0 notepad-download.online
 0.0.0.0 obsessaoocultaoline.online
 0.0.0.0 pakfree.online
 0.0.0.0 paydayloanfast.online
