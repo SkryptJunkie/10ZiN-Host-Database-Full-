@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Wednesday 01 February 2023
+# Date: 06:02 AM Thursday 02 February 2023
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -1936,6 +1936,7 @@
 0.0.0.0 3-dauto.com
 0.0.0.0 30piecesofs1lver.com
 0.0.0.0 3393.com
+0.0.0.0 33ece6a950.com
 0.0.0.0 34c2f22e9503ace.com
 0.0.0.0 3627818666.com
 0.0.0.0 365locksmithsminneapolis.com
@@ -2211,6 +2212,7 @@
 0.0.0.0 asundersimultaneously.com
 0.0.0.0 asuqoqsea.com
 0.0.0.0 asxvawth.com
+0.0.0.0 atfqpjvl.com
 0.0.0.0 attentivepersist.com
 0.0.0.0 attritioncuff.com
 0.0.0.0 augaufta.com
@@ -19716,6 +19718,7 @@
 0.0.0.0 easy-extra-income-ways-makes-you-rich.store
 0.0.0.0 etalfe.store
 0.0.0.0 finestdeal.store
+0.0.0.0 gimp-softvvare.store
 0.0.0.0 invworld.store
 0.0.0.0 kozakiariat.store
 0.0.0.0 libte-offise.store
