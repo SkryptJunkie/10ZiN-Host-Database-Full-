@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Thursday 02 February 2023
+# Date: 06:04 AM Friday 03 February 2023
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -3501,6 +3501,7 @@
 0.0.0.0 onlineadserv.com
 0.0.0.0 onlinenothome.com
 0.0.0.0 onlinewebfind.com
+0.0.0.0 onquercaniceberg.com
 0.0.0.0 ooftoomy.com
 0.0.0.0 opdutdraohagjwt.com
 0.0.0.0 openflawless.com
@@ -3538,6 +3539,7 @@
 0.0.0.0 paxtro.com
 0.0.0.0 paywithlnk.com
 0.0.0.0 paywithnk.com
+0.0.0.0 pcdl4kids.com
 0.0.0.0 peehotim.com
 0.0.0.0 pekreecy.com
 0.0.0.0 peopledarwin.com
@@ -3656,6 +3658,7 @@
 0.0.0.0 qlink-ico.com
 0.0.0.0 qlmqzznfcb.com
 0.0.0.0 qltdbxnmr.com
+0.0.0.0 qnmhotpnwhdrwu.com
 0.0.0.0 qogbgxne.com
 0.0.0.0 qp3lgzt6exyn.com
 0.0.0.0 qpwiyfmlkhbxop.com
@@ -20121,6 +20124,7 @@
 0.0.0.0 crwolny.top
 0.0.0.0 dasuhvykb.top
 0.0.0.0 doesok.top
+0.0.0.0 eqeknhxxwmeys.top
 0.0.0.0 fyxmkofspvog.top
 0.0.0.0 hirado.top
 0.0.0.0 hparldoai.top
