@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:04 AM Friday 03 February 2023
+# Date: 06:01 AM Saturday 04 February 2023
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -1305,6 +1305,7 @@
 0.0.0.0 ads.vx2.cc
 0.0.0.0 www.westmark.cc
 0.0.0.0 www.wexness.cc
+0.0.0.0 hajunxz.cc8
 0.0.0.0 olx.pl-mkonto.ceo
 0.0.0.0 www.olx.pl-mkonto.ceo
 0.0.0.0 carsuwacur.cf
@@ -3059,6 +3060,7 @@
 0.0.0.0 janimperativefinance.com
 0.0.0.0 jawsjackson.com
 0.0.0.0 jayruncone.com
+0.0.0.0 jbgswlkxgbfieb.com
 0.0.0.0 jdsbrvnkabd.com
 0.0.0.0 jdwwwjvrcsylkoj.com
 0.0.0.0 jebaziwhe.com
@@ -4158,6 +4160,7 @@
 0.0.0.0 wateristian.com
 0.0.0.0 waunfor.com
 0.0.0.0 wbbmubevftcy.com
+0.0.0.0 wbuifglj.com
 0.0.0.0 wciivrou.com
 0.0.0.0 wdanjsscqabsi.com
 0.0.0.0 wdljoioknjduvwi.com
