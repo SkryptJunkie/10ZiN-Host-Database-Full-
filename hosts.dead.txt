@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:05 AM Monday 06 February 2023
+# Date: 06:01 AM Tuesday 07 February 2023
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -2016,6 +2016,7 @@
 0.0.0.0 96e8abd9c4.com
 0.0.0.0 976b97b6da.com
 0.0.0.0 980media.com
+0.0.0.0 9bdbe82a4e.com
 0.0.0.0 9c921e15c8d17.com
 0.0.0.0 9ca6865332.com
 0.0.0.0 9dc10beed2.com
@@ -2885,6 +2886,7 @@
 0.0.0.0 getiluda.com
 0.0.0.0 getlotusflower.com
 0.0.0.0 geuinukifbdfby.com
+0.0.0.0 gffpbqjjetm.com
 0.0.0.0 gfnttldx.com
 0.0.0.0 ggfffmvkv.com
 0.0.0.0 ggunauhe.com
@@ -3009,6 +3011,7 @@
 0.0.0.0 hunt4porn.com
 0.0.0.0 hurapepy.com
 0.0.0.0 huusgaay.com
+0.0.0.0 hxtuwtujxwcuwh.com
 0.0.0.0 hy-tec.com
 0.0.0.0 hznvtg.com
 0.0.0.0 iadqqgpjno.com
@@ -3214,6 +3217,7 @@
 0.0.0.0 littercipher.com
 0.0.0.0 littlebaby-shop.com
 0.0.0.0 livetus.com
+0.0.0.0 ljqwcaucovpevka.com
 0.0.0.0 lkuwmjgv.com
 0.0.0.0 lkxntavfbftgl.com
 0.0.0.0 loamauji.com
@@ -3862,6 +3866,7 @@
 0.0.0.0 sheerbenchmeltdown.com
 0.0.0.0 shicywheze.com
 0.0.0.0 shiftintercoursebridge.com
+0.0.0.0 shjemqdgcbr.com
 0.0.0.0 shopedmedsonline.com
 0.0.0.0 shopsutike.com
 0.0.0.0 shopusuallyvirtue.com
@@ -19233,6 +19238,7 @@
 0.0.0.0 ad.proxy.sh
 0.0.0.0 askhi.shop
 0.0.0.0 bzdfj.shop
+0.0.0.0 claimcrediptpointred.shop
 0.0.0.0 detach.shop
 0.0.0.0 faitheoy.shop
 0.0.0.0 ghtyf.shop
