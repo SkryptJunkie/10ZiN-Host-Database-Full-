@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:01 AM Saturday 11 February 2023
+# Date: 06:01 AM Sunday 12 February 2023
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -11971,6 +11971,7 @@
 0.0.0.0 www.goonline.bnppraibas.fun
 0.0.0.0 www.bnpraaibbas.fun
 0.0.0.0 www.bonus-pl.fun
+0.0.0.0 230202184101972.lol.cdh80.fun
 0.0.0.0 www.chain-up.fun
 0.0.0.0 www.chainreaction-pl.fun
 0.0.0.0 www.changeurlife-withus.fun
