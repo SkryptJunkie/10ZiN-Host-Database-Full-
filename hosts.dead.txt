@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:01 AM Monday 13 February 2023
+# Date: 06:01 AM Tuesday 14 February 2023
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -2563,6 +2563,7 @@
 0.0.0.0 cpgpzc.com
 0.0.0.0 cpmly.com
 0.0.0.0 cpv2tracking.com
+0.0.0.0 cqbahflp.com
 0.0.0.0 cramhatress.com
 0.0.0.0 criesredden.com
 0.0.0.0 croccpolska.com
@@ -2717,6 +2718,7 @@
 0.0.0.0 ecxirebcxpbhn.com
 0.0.0.0 edgystrangleconcentrate.com
 0.0.0.0 edu-offer.com
+0.0.0.0 eecf8c2edf.com
 0.0.0.0 eefxjexuwls.com
 0.0.0.0 eemsaurt.com
 0.0.0.0 efd3b86a5fbddda.com
@@ -2821,6 +2823,7 @@
 0.0.0.0 feedbackexplorer.com
 0.0.0.0 fenefa.com
 0.0.0.0 ferese.com
+0.0.0.0 ffgptqsyw.com
 0.0.0.0 fgddl9szdof7.com
 0.0.0.0 fgmnismepoe.com
 0.0.0.0 fguyrnvobmh.com
@@ -3132,6 +3135,7 @@
 0.0.0.0 justredirect24.com
 0.0.0.0 jutcom.com
 0.0.0.0 jwaiqmifu.com
+0.0.0.0 jwpwqjubutwa.com
 0.0.0.0 jxdqawzenrpw.com
 0.0.0.0 jxfkevszqqdb.com
 0.0.0.0 jyaneuan.com
@@ -4253,6 +4257,7 @@
 0.0.0.0 wingerssetiger.com
 0.0.0.0 wiptisiwo.com
 0.0.0.0 wjokxphvwo.com
+0.0.0.0 wjuowrvca.com
 0.0.0.0 wk4x5rdtoz2tn0.com
 0.0.0.0 wkdkehihqkbnqv.com
 0.0.0.0 wkfdymfxmyckr.com
