@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:01 AM Tuesday 14 February 2023
+# Date: 06:01 AM Wednesday 15 February 2023
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -3093,6 +3093,7 @@
 0.0.0.0 invaluableadapt.com
 0.0.0.0 invisedspill.com
 0.0.0.0 iphgkwfxn.com
+0.0.0.0 irjhasrbxqhbogp.com
 0.0.0.0 irksomeshamefarrier.com
 0.0.0.0 irmcjtqdzrp.com
 0.0.0.0 irritatehopper.com
@@ -4237,6 +4238,7 @@
 0.0.0.0 wechpcebwtix.com
 0.0.0.0 weightequilibriumforehead.com
 0.0.0.0 weiloffers.com
+0.0.0.0 wejomktumc.com
 0.0.0.0 welokygry.com
 0.0.0.0 werftipo.com
 0.0.0.0 weshuhori.com
