@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:01 AM Wednesday 15 February 2023
+# Date: 06:01 AM Thursday 16 February 2023
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -3038,6 +3038,7 @@
 0.0.0.0 ib3y.com
 0.0.0.0 ibittreix.com
 0.0.0.0 ibmvideo.com
+0.0.0.0 icciqhuw.com
 0.0.0.0 ice2art.com
 0.0.0.0 icebugsklep.com
 0.0.0.0 icggsrbunxiixv.com
@@ -21843,6 +21844,7 @@
 0.0.0.0 9678821.xyz
 0.0.0.0 978024.xyz
 0.0.0.0 9786887.xyz
+0.0.0.0 acacdn.xyz
 0.0.0.0 accountprotection.xyz
 0.0.0.0 adsplay.xyz
 0.0.0.0 advserver.xyz
