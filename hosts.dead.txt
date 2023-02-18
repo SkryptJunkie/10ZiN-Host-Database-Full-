@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:07 AM Friday 17 February 2023
+# Date: 06:01 AM Saturday 18 February 2023
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -3624,6 +3624,7 @@
 0.0.0.0 ondemand-del-dhl.com
 0.0.0.0 ondeqelhcaxpwt.com
 0.0.0.0 onlineadserv.com
+0.0.0.0 onlinecatalogs-sakaitrading.com
 0.0.0.0 onlinenothome.com
 0.0.0.0 onlinewebfind.com
 0.0.0.0 onquercaniceberg.com
