@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:04 AM Monday 20 February 2023
+# Date: 06:01 AM Tuesday 21 February 2023
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -2453,6 +2453,7 @@
 0.0.0.0 blodkchainwallet.com
 0.0.0.0 blodkchaln.com
 0.0.0.0 blogicar.com
+0.0.0.0 blrppbvvbd.com
 0.0.0.0 blsfixvt.com
 0.0.0.0 bluemaulpuffs.com
 0.0.0.0 bluriceberg.com
@@ -2592,6 +2593,7 @@
 0.0.0.0 cluesshopping.com
 0.0.0.0 clupc.com
 0.0.0.0 cnolhzguwnfgk.com
+0.0.0.0 cntwyclcwyvpd.com
 0.0.0.0 cobin-hood.com
 0.0.0.0 coccusadmanlob.com
 0.0.0.0 cocinaeljibarazo.com
@@ -2820,6 +2822,7 @@
 0.0.0.0 elpaislabs.com
 0.0.0.0 elxpywhuj.com
 0.0.0.0 emanog.com
+0.0.0.0 emgfgcsuv.com
 0.0.0.0 ems2bmen.com
 0.0.0.0 emuwanflat.com
 0.0.0.0 enigmatokensale.com
@@ -3686,6 +3689,7 @@
 0.0.0.0 paxtro.com
 0.0.0.0 paywithlnk.com
 0.0.0.0 paywithnk.com
+0.0.0.0 pbetfioavhkapjd.com
 0.0.0.0 pbxqqqwolgqjke.com
 0.0.0.0 pcdl4kids.com
 0.0.0.0 peehotim.com
