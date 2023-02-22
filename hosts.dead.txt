@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:01 AM Tuesday 21 February 2023
+# Date: 06:01 AM Wednesday 22 February 2023
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -12623,6 +12623,7 @@
 0.0.0.0 www.zaudkroll.host
 0.0.0.0 www.zienahj.host
 0.0.0.0 myetherwallet.com.ht
+0.0.0.0 0b.htb
 0.0.0.0 adware.hu
 0.0.0.0 adserver.borsonline.hu
 0.0.0.0 ad.econet.hu
@@ -20546,6 +20547,7 @@
 0.0.0.0 momn.site
 0.0.0.0 mosroy.site
 0.0.0.0 no-tilt.site
+0.0.0.0 notsaied.site
 0.0.0.0 olx-order76.site
 0.0.0.0 omisegonetwork.site
 0.0.0.0 onetpkocoin.site
