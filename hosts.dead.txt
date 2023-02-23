@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:01 AM Wednesday 22 February 2023
+# Date: 06:02 AM Thursday 23 February 2023
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -2469,6 +2469,7 @@
 0.0.0.0 bomudicy.com
 0.0.0.0 bonuscashh.com
 0.0.0.0 boobsfly.com
+0.0.0.0 boosklqhxl.com
 0.0.0.0 bootsuserstruthful.com
 0.0.0.0 boozingtawney.com
 0.0.0.0 boringlying.com
@@ -3004,6 +3005,7 @@
 0.0.0.0 glathycapto.com
 0.0.0.0 gloriousexternal.com
 0.0.0.0 gmpplagpqoqawr.com
+0.0.0.0 gmviaigutvgfu.com
 0.0.0.0 gnawinstruct.com
 0.0.0.0 gnibrinfgoy.com
 0.0.0.0 gnootel.com
@@ -3034,6 +3036,7 @@
 0.0.0.0 gruphunawhe.com
 0.0.0.0 grursusy.com
 0.0.0.0 grz67.com
+0.0.0.0 gscggckvmd.com
 0.0.0.0 gtsads.com
 0.0.0.0 gvsbvcpvrvpy.com
 0.0.0.0 gxakeidrswt.com
@@ -3214,6 +3217,7 @@
 0.0.0.0 jmuaoupnykie.com
 0.0.0.0 jnpjohnuy.com
 0.0.0.0 jonquilpapered.com
+0.0.0.0 jpdtisnlk.com
 0.0.0.0 jphgxskntmn.com
 0.0.0.0 jtjsevmr.com
 0.0.0.0 jtrufvej.com
@@ -3300,6 +3304,7 @@
 0.0.0.0 laviniia.com
 0.0.0.0 lawedlar.com
 0.0.0.0 lazyovertime.com
+0.0.0.0 lccxuwcmimi.com
 0.0.0.0 ldutvi.com
 0.0.0.0 leakypatgoo.com
 0.0.0.0 leanoisgo.com
@@ -3562,6 +3567,7 @@
 0.0.0.0 nefijapu.com
 0.0.0.0 negolist.com
 0.0.0.0 nemcspgr.com
+0.0.0.0 nepalhtml.com
 0.0.0.0 netbinarycapital.com
 0.0.0.0 netfpl.com
 0.0.0.0 netlinktrack.com
@@ -3804,6 +3810,7 @@
 0.0.0.0 qbhxcvecgileaf.com
 0.0.0.0 qdlgacguvtc.com
 0.0.0.0 qekegokljhbt.com
+0.0.0.0 qggypucwewn.com
 0.0.0.0 qhjunyupnb.com
 0.0.0.0 qhrgwojdhorvao.com
 0.0.0.0 qingrektmkt.com
@@ -3812,6 +3819,7 @@
 0.0.0.0 qlink-ico.com
 0.0.0.0 qlmqzznfcb.com
 0.0.0.0 qltdbxnmr.com
+0.0.0.0 qmoylprdubadbm.com
 0.0.0.0 qnmhotpnwhdrwu.com
 0.0.0.0 qogbgxne.com
 0.0.0.0 qp3lgzt6exyn.com
@@ -3833,6 +3841,7 @@
 0.0.0.0 quntstamp.com
 0.0.0.0 quqkexcpylbj.com
 0.0.0.0 qutltjamq.com
+0.0.0.0 qvoqaksihfhvw.com
 0.0.0.0 qyxorilj.com
 0.0.0.0 qyxwfe.com
 0.0.0.0 radiationcrag.com
@@ -4631,6 +4640,7 @@
 0.0.0.0 ydxfoqqsekpvb.com
 0.0.0.0 yefbmjqdjkpr.com
 0.0.0.0 yemonisoni.com
+0.0.0.0 ygciyydhufccgvy.com
 0.0.0.0 ygnbukywx.com
 0.0.0.0 yhmkjqnrgqurc.com
 0.0.0.0 yinbolallruick.com
@@ -12732,6 +12742,7 @@
 0.0.0.0 a94.info
 0.0.0.0 adaware.info
 0.0.0.0 adblaster.info
+0.0.0.0 adjuve.info
 0.0.0.0 adservicedomain.info
 0.0.0.0 afftracker.info
 0.0.0.0 aidayespica.info
@@ -21687,6 +21698,7 @@
 0.0.0.0 cvixmhfeosy.top
 0.0.0.0 dasuhvykb.top
 0.0.0.0 doesok.top
+0.0.0.0 dygybc08.top
 0.0.0.0 ecoonliplus.top
 0.0.0.0 eqeknhxxwmeys.top
 0.0.0.0 fyxmkofspvog.top
@@ -21709,6 +21721,8 @@
 0.0.0.0 vopljpncoyq.top
 0.0.0.0 wentpays.top
 0.0.0.0 wrxexwtgnaac.top
+0.0.0.0 yepjbs01.top
+0.0.0.0 yepugi08.top
 0.0.0.0 ymbqytifqhb.top
 0.0.0.0 in-post-pl-myid272xs.0xfee1dead.top
 0.0.0.0 vinted-pl-id002c.0xfee1dead.top
