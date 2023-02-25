@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Friday 24 February 2023
+# Date: 06:01 AM Saturday 25 February 2023
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -2016,6 +2016,7 @@
 0.0.0.0 05tz2e9.com
 0.0.0.0 06f09b1008ae993a5a.com
 0.0.0.0 093qpeuqpmz6ebfa.com
+0.0.0.0 0fbee740ea.com
 0.0.0.0 0iecfobt.com
 0.0.0.0 0x-project.com
 0.0.0.0 101billion.com
@@ -2496,6 +2497,7 @@
 0.0.0.0 btc-billionaire.com
 0.0.0.0 btcerapl.com
 0.0.0.0 btcpolskapl.com
+0.0.0.0 btyoosca.com
 0.0.0.0 buffalogoesout.com
 0.0.0.0 buggiesgyronny.com
 0.0.0.0 bugsense.com
@@ -2520,6 +2522,7 @@
 0.0.0.0 byvihare.com
 0.0.0.0 byzantiumfork.com
 0.0.0.0 bzrmxfxu.com
+0.0.0.0 c01e992683.com
 0.0.0.0 c2path.com
 0.0.0.0 c5ba30ffda.com
 0.0.0.0 c90752b0b5.com
@@ -2824,6 +2827,7 @@
 0.0.0.0 egoisc.com
 0.0.0.0 eh8jq4cmq8j9g5.com
 0.0.0.0 ejmarkets.com
+0.0.0.0 ekbuoopatc.com
 0.0.0.0 ekexsztsgm.com
 0.0.0.0 eksperci-footbolu.com
 0.0.0.0 elementarteilchenlabs.com
@@ -2841,6 +2845,7 @@
 0.0.0.0 entailcurrantreflect.com
 0.0.0.0 eocceucbqnu.com
 0.0.0.0 eomoxhsdhs.com
+0.0.0.0 eoovrksqh.com
 0.0.0.0 eos-bonus.com
 0.0.0.0 eosuveydlkqt.com
 0.0.0.0 eotlqwxohyhu.com
@@ -3003,6 +3008,7 @@
 0.0.0.0 getiluda.com
 0.0.0.0 getlotusflower.com
 0.0.0.0 geuinukifbdfby.com
+0.0.0.0 gevvvrpkkoxaud.com
 0.0.0.0 gffpbqjjetm.com
 0.0.0.0 gfnttldx.com
 0.0.0.0 ggfffmvkv.com
@@ -3048,6 +3054,7 @@
 0.0.0.0 grz67.com
 0.0.0.0 gscggckvmd.com
 0.0.0.0 gtsads.com
+0.0.0.0 gvofqjhshsjohkv.com
 0.0.0.0 gvsbvcpvrvpy.com
 0.0.0.0 gxakeidrswt.com
 0.0.0.0 gyluheshy.com
@@ -3453,6 +3460,7 @@
 0.0.0.0 mvetherwalilet.com
 0.0.0.0 mvetnerwallet.com
 0.0.0.0 mvoeuxahmdl.com
+0.0.0.0 mxwjfvlspn.com
 0.0.0.0 my-ethwallet.com
 0.0.0.0 myaetherwallet.com
 0.0.0.0 mybgbgclojp.com
@@ -4124,6 +4132,7 @@
 0.0.0.0 tackledisplay.com
 0.0.0.0 taigasquarl.com
 0.0.0.0 takerhkpd.com
+0.0.0.0 tamgkygbb.com
 0.0.0.0 tammenaa.com
 0.0.0.0 taoput.com
 0.0.0.0 targetctracker.com
@@ -4133,6 +4142,7 @@
 0.0.0.0 tbnjommwuydfxp.com
 0.0.0.0 tcaferest.com
 0.0.0.0 tclbvqaxqf.com
+0.0.0.0 tdjtkkmksch.com
 0.0.0.0 tdugvspdnq.com
 0.0.0.0 tearads.com
 0.0.0.0 techasiamusicsvr.com
@@ -4170,6 +4180,7 @@
 0.0.0.0 tithephustu.com
 0.0.0.0 tnwyjsgypjpc.com
 0.0.0.0 tobiruchs.com
+0.0.0.0 tobsbpiawlpkx.com
 0.0.0.0 toeschistache.com
 0.0.0.0 tokenpublicsale.com
 0.0.0.0 ton-gramico.com
@@ -4181,6 +4192,7 @@
 0.0.0.0 toptradegroup.com
 0.0.0.0 totoroclair.com
 0.0.0.0 totxxucxtfq.com
+0.0.0.0 towgkcpdfgsrwf.com
 0.0.0.0 tqrpincfawd.com
 0.0.0.0 traaaack.com
 0.0.0.0 trackaffpix.com
@@ -4242,6 +4254,7 @@
 0.0.0.0 ufljqapedygdnre.com
 0.0.0.0 ugdxltperaggq.com
 0.0.0.0 uggpolskasklep.com
+0.0.0.0 uhtprqshcuvma.com
 0.0.0.0 uiujk.com
 0.0.0.0 ululuridleys.com
 0.0.0.0 unablewisdom.com
@@ -4288,6 +4301,7 @@
 0.0.0.0 verffkow.com
 0.0.0.0 verify-itech.com
 0.0.0.0 verycastle.com
+0.0.0.0 vexymaybmaruh.com
 0.0.0.0 vfnvxvlffvtkrv.com
 0.0.0.0 vgjjkbgicukcgt.com
 0.0.0.0 victoriousbanker.com
@@ -4395,6 +4409,7 @@
 0.0.0.0 wqbvkaktneml.com
 0.0.0.0 wqmfbqpbnmgyi.com
 0.0.0.0 wretchedsuperiority.com
+0.0.0.0 wriivkmstq.com
 0.0.0.0 wrknrsuehi.com
 0.0.0.0 wsgbfgtjxv.com
 0.0.0.0 wuxaantbemyywx.com
@@ -4414,6 +4429,7 @@
 0.0.0.0 wwwtwa.com
 0.0.0.0 x4hub-pro.com
 0.0.0.0 xaholica.com
+0.0.0.0 xaibwvidlkfl.com
 0.0.0.0 xamephapse.com
 0.0.0.0 xaxivaho.com
 0.0.0.0 xbirmkzpgcnb.com
@@ -4674,6 +4690,7 @@
 0.0.0.0 ythyqwcrrnh.com
 0.0.0.0 yuhvjuedhcu.com
 0.0.0.0 yuverqpffsrtiuq.com
+0.0.0.0 yvckcglxcs.com
 0.0.0.0 ywbcdeyqgfzx.com
 0.0.0.0 ywodpsbzl.com
 0.0.0.0 yxkhpk.com
@@ -12327,6 +12344,7 @@
 0.0.0.0 www.tiddling.fun
 0.0.0.0 www.trivat.fun
 0.0.0.0 www.underpacking.fun
+0.0.0.0 230220211745048.gva.vij68.fun
 0.0.0.0 www.wassail.fun
 0.0.0.0 my.witamywitamy.fun
 0.0.0.0 www.my.witamywitamy.fun
@@ -21793,6 +21811,9 @@
 0.0.0.0 relatable.top
 0.0.0.0 sedh.top
 0.0.0.0 shoppro.top
+0.0.0.0 tamgav04.top
+0.0.0.0 tamoes08.top
+0.0.0.0 tamori02.top
 0.0.0.0 tzaupye.top
 0.0.0.0 vopljpncoyq.top
 0.0.0.0 wentpays.top
