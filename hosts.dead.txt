@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:01 AM Monday 27 February 2023
+# Date: 06:03 AM Tuesday 28 February 2023
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -2801,6 +2801,7 @@
 0.0.0.0 e-debtconsolidation.com
 0.0.0.0 e-lektrosklep.com
 0.0.0.0 e-n-t-e-r-n-e-x.com
+0.0.0.0 e2955a474a.com
 0.0.0.0 e7a66a35c0.com
 0.0.0.0 ea1a7e5216.com
 0.0.0.0 ea38b1fdc5.com
@@ -3018,6 +3019,7 @@
 0.0.0.0 giangroew.com
 0.0.0.0 ginawuno.com
 0.0.0.0 ginomor.com
+0.0.0.0 gitvnhqfag.com
 0.0.0.0 gkksi.com
 0.0.0.0 glathycapto.com
 0.0.0.0 gloriousexternal.com
@@ -3604,6 +3606,7 @@
 0.0.0.0 ngttodwmfhyegc.com
 0.0.0.0 nhdyncputnm.com
 0.0.0.0 nhmgxbpafsh.com
+0.0.0.0 nhtggsnkyltf.com
 0.0.0.0 nhvtmosq.com
 0.0.0.0 nicappazaza.com
 0.0.0.0 ninobreist.com
@@ -3655,6 +3658,7 @@
 0.0.0.0 odzb5nkp.com
 0.0.0.0 oeigbne.com
 0.0.0.0 oerws.com
+0.0.0.0 oetruedulp.com
 0.0.0.0 ofreligionrumble.com
 0.0.0.0 ogskle.com
 0.0.0.0 ohdsnyrdnipihee.com
@@ -4397,6 +4401,7 @@
 0.0.0.0 wk4x5rdtoz2tn0.com
 0.0.0.0 wkdkehihqkbnqv.com
 0.0.0.0 wkfdymfxmyckr.com
+0.0.0.0 wldpumflok.com
 0.0.0.0 wlengrclxzypf.com
 0.0.0.0 wmnejndvberrd.com
 0.0.0.0 wocysuwo.com
