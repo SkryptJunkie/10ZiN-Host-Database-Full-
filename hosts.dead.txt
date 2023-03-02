@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Wednesday 01 March 2023
+# Date: 06:01 AM Thursday 02 March 2023
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -2036,6 +2036,7 @@
 0.0.0.0 1314dh.com
 0.0.0.0 138shenbosbo.com
 0.0.0.0 13e0df9b41.com
+0.0.0.0 14e07e98b0.com
 0.0.0.0 153105c2f9564.com
 0.0.0.0 18clicks.com
 0.0.0.0 18teengirl.com
@@ -2323,6 +2324,7 @@
 0.0.0.0 aonpnndg.com
 0.0.0.0 apartmentsmara-klimno.com
 0.0.0.0 apl-blablacar.com
+0.0.0.0 appcisco.com
 0.0.0.0 appcoinsproject.com
 0.0.0.0 applaudcourageous.com
 0.0.0.0 approximatelylethal.com
@@ -2779,6 +2781,7 @@
 0.0.0.0 dlwbgrnx.com
 0.0.0.0 dnbizcdn.com
 0.0.0.0 dogpial.com
+0.0.0.0 dogqxbbrlavdnwt.com
 0.0.0.0 doladowania-payu.com
 0.0.0.0 donescaffold.com
 0.0.0.0 doorbellbadge.com
@@ -4310,6 +4313,7 @@
 0.0.0.0 vavwyiblbupu.com
 0.0.0.0 vawhigufi.com
 0.0.0.0 vbfqpakg.com
+0.0.0.0 vcaciveb.com
 0.0.0.0 vedikowl.com
 0.0.0.0 veerskonwhu.com
 0.0.0.0 venchainfoundation.com
