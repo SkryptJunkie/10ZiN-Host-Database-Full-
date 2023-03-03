@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:01 AM Thursday 02 March 2023
+# Date: 06:01 AM Friday 03 March 2023
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -2072,6 +2072,7 @@
 0.0.0.0 3393.com
 0.0.0.0 33ece6a950.com
 0.0.0.0 34c2f22e9503ace.com
+0.0.0.0 35a0d43d24.com
 0.0.0.0 3627818666.com
 0.0.0.0 365locksmithsminneapolis.com
 0.0.0.0 37e5693aa7.com
@@ -2503,6 +2504,7 @@
 0.0.0.0 browserprotecter.com
 0.0.0.0 browsesafemac.com
 0.0.0.0 bruperchrophone.com
+0.0.0.0 brvlsrctov.com
 0.0.0.0 btbuyerapp.com
 0.0.0.0 btc-billionaire.com
 0.0.0.0 btcerapl.com
@@ -3035,6 +3037,7 @@
 0.0.0.0 gitvnhqfag.com
 0.0.0.0 gkksi.com
 0.0.0.0 glathycapto.com
+0.0.0.0 gliaaqxpyggo.com
 0.0.0.0 gloriousexternal.com
 0.0.0.0 gmpplagpqoqawr.com
 0.0.0.0 gmviaigutvgfu.com
@@ -3295,6 +3298,7 @@
 0.0.0.0 kjkhgtwft.com
 0.0.0.0 klarottegroupinc.com
 0.0.0.0 klcxmhkviwlr.com
+0.0.0.0 kldlhyosc.com
 0.0.0.0 kleeswoy.com
 0.0.0.0 klehsko.com
 0.0.0.0 klowns4phun.com
@@ -3807,6 +3811,7 @@
 0.0.0.0 primevalsymphonymuttering.com
 0.0.0.0 prinages.com
 0.0.0.0 prisedeluge.com
+0.0.0.0 prkgtcsdkt.com
 0.0.0.0 probusinesshub.com
 0.0.0.0 producingdestroyer.com
 0.0.0.0 proffigurufast.com
