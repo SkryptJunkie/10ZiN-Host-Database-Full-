@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Wednesday 08 March 2023
+# Date: 06:01 AM Thursday 09 March 2023
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -2093,6 +2093,7 @@
 0.0.0.0 2811151a23.com
 0.0.0.0 29471decb9.com
 0.0.0.0 2ae7bb7996.com
+0.0.0.0 2bd8ba14b5.com
 0.0.0.0 2bluemountain.com
 0.0.0.0 2c5f9ab9f4.com
 0.0.0.0 2cfc65068e.com
@@ -4506,6 +4507,7 @@
 0.0.0.0 xhlfaqkhdlsxhfs.com
 0.0.0.0 xibadupty.com
 0.0.0.0 xigolashu.com
+0.0.0.0 xjqqmadkgxnfg.com
 0.0.0.0 xlmsvfqao.com
 0.0.0.0 xm0siulufost.com
 0.0.0.0 xmgspaty.com
@@ -12394,6 +12396,7 @@
 0.0.0.0 huonbvx.fun
 0.0.0.0 jriaocl.fun
 0.0.0.0 lismcanalys.fun
+0.0.0.0 merfs.fun
 0.0.0.0 pamdagames.fun
 0.0.0.0 pwuahnx.fun
 0.0.0.0 sjzmxnt.fun
