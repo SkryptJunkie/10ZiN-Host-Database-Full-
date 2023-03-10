@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:01 AM Thursday 09 March 2023
+# Date: 06:01 AM Friday 10 March 2023
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -2814,6 +2814,7 @@
 0.0.0.0 dlqrhkkcsyshjxe.com
 0.0.0.0 dlwbgrnx.com
 0.0.0.0 dnbizcdn.com
+0.0.0.0 dnpvysdccdjbufm.com
 0.0.0.0 dogpial.com
 0.0.0.0 dogqxbbrlavdnwt.com
 0.0.0.0 doladowania-payu.com
@@ -4134,6 +4135,7 @@
 0.0.0.0 spiuft.com
 0.0.0.0 spkoevngk.com
 0.0.0.0 splashpageadvertising.com
+0.0.0.0 splculrgnon.com
 0.0.0.0 sprzet-sport.com
 0.0.0.0 sprzet-treningowy.com
 0.0.0.0 sprzet500.com
