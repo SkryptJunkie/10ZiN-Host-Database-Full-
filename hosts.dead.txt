@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:05 AM Saturday 11 March 2023
+# Date: 06:01 AM Sunday 12 March 2023
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -3427,6 +3427,7 @@
 0.0.0.0 lorajety.com
 0.0.0.0 lostkiw.com
 0.0.0.0 loversagobearable.com
+0.0.0.0 lowvcvdt.com
 0.0.0.0 lpkhxpcmjnlvqf.com
 0.0.0.0 lpnottech.com
 0.0.0.0 lqhxmlxbhsj.com
@@ -23459,6 +23460,7 @@
 0.0.0.0 keiteroi.xyz
 0.0.0.0 kikbrane.xyz
 0.0.0.0 krpt-am0unt.xyz
+0.0.0.0 kuhn-sun.xyz
 0.0.0.0 kvilhypwtelaos.xyz
 0.0.0.0 lexity.xyz
 0.0.0.0 lorenfreeman.xyz
