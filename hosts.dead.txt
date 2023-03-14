@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:01 AM Monday 13 March 2023
+# Date: 06:01 AM Tuesday 14 March 2023
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -3516,6 +3516,7 @@
 0.0.0.0 mrjrnlrwboiyrfa.com
 0.0.0.0 mrzfjsbjj.com
 0.0.0.0 ms-debug-services.com
+0.0.0.0 mtwknaoxaopkvjw.com
 0.0.0.0 mudshambone.com
 0.0.0.0 mujap.com
 0.0.0.0 mujnmhmfhrubzq.com
@@ -11327,6 +11328,7 @@
 0.0.0.0 intext.billboard.cz
 0.0.0.0 code.intext.billboard.cz
 0.0.0.0 bbcdn.code.intext.billboard.cz
+0.0.0.0 a.blesk.cz
 0.0.0.0 id.kbmg.cz
 0.0.0.0 ad2.linxcz.cz
 0.0.0.0 imonitor.nethost.cz
