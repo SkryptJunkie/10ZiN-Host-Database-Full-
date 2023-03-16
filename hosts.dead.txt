@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:05 AM Wednesday 15 March 2023
+# Date: 06:02 AM Thursday 16 March 2023
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -2200,6 +2200,7 @@
 0.0.0.0 96e8abd9c4.com
 0.0.0.0 976b97b6da.com
 0.0.0.0 980media.com
+0.0.0.0 9857047066.com
 0.0.0.0 9bdbe82a4e.com
 0.0.0.0 9c921e15c8d17.com
 0.0.0.0 9ca6865332.com
@@ -3198,6 +3199,7 @@
 0.0.0.0 hklykolnls.com
 0.0.0.0 hkrevolt.com
 0.0.0.0 hlgttoonjrmpef.com
+0.0.0.0 hllmbnphbcpo.com
 0.0.0.0 hmcehsjnioww.com
 0.0.0.0 hmuana.com
 0.0.0.0 hnhsqbuswfwrnta.com
@@ -4034,6 +4036,7 @@
 0.0.0.0 royalcapitalinvestment.com
 0.0.0.0 rozumotterer.com
 0.0.0.0 rpbnljexmai.com
+0.0.0.0 rpywuerhdmxv.com
 0.0.0.0 rr7x.com
 0.0.0.0 rslnmcxhopsmtuk.com
 0.0.0.0 rsmrttracking.com
@@ -4802,6 +4805,7 @@
 0.0.0.0 ywbcdeyqgfzx.com
 0.0.0.0 ywodpsbzl.com
 0.0.0.0 yxkhpk.com
+0.0.0.0 yypnxeidbvqndmb.com
 0.0.0.0 zagwoyc.com
 0.0.0.0 zalandoipl.com
 0.0.0.0 zapadserver1.com
