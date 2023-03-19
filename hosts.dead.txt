@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:01 AM Saturday 18 March 2023
+# Date: 06:01 AM Sunday 19 March 2023
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -3248,6 +3248,7 @@
 0.0.0.0 ico-tzero.com
 0.0.0.0 ico-wacoin.com
 0.0.0.0 icrcworld.com
+0.0.0.0 icwxhuvssqdkc.com
 0.0.0.0 identads.com
 0.0.0.0 idlsbbceqsrjlx.com
 0.0.0.0 idolhairsalon.com
@@ -4030,6 +4031,7 @@
 0.0.0.0 rnyetherwailet.com
 0.0.0.0 rodplxlpc.com
 0.0.0.0 roiadtracker.com
+0.0.0.0 rolqjpdobpb.com
 0.0.0.0 ronswank.com
 0.0.0.0 roshanavar.com
 0.0.0.0 rothupegri.com
