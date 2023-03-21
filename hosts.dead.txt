@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:01 AM Monday 20 March 2023
+# Date: 06:01 AM Tuesday 21 March 2023
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -3260,6 +3260,7 @@
 0.0.0.0 ihogaetw.com
 0.0.0.0 iiueuenutuhaf.com
 0.0.0.0 iktge.com
+0.0.0.0 iktybqjclavhnd.com
 0.0.0.0 ilamba.com
 0.0.0.0 ilirlyduzxb.com
 0.0.0.0 ilkrileashes.com
@@ -20519,6 +20520,7 @@
 0.0.0.0 my.ether-wallet.pw
 0.0.0.0 moje-olx.io52351251.pw
 0.0.0.0 www.moje-olx.io52351251.pw
+0.0.0.0 cs40a.microsoftup.pw
 0.0.0.0 www.mvfb.pw
 0.0.0.0 www.ordr112.pw
 0.0.0.0 vinterd-polsk639dellf.polskpasy022.pw
