@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:07 AM Wednesday 22 March 2023
+# Date: 06:01 AM Thursday 23 March 2023
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -331,6 +331,7 @@
 0.0.0.0 brsociais.com.br
 0.0.0.0 macaxpower.com.br
 0.0.0.0 marcelmkt.com.br
+0.0.0.0 medimarketing.com.br
 0.0.0.0 www.hubtec.abdi.com.br
 0.0.0.0 ads.banner-link.com.br
 0.0.0.0 www.banner-link.com.br
@@ -22718,6 +22719,7 @@
 0.0.0.0 hirado.top
 0.0.0.0 hparldoai.top
 0.0.0.0 infoforum.top
+0.0.0.0 jerrysmith.top
 0.0.0.0 jeuebghgadjepqh.top
 0.0.0.0 koxsqcuf.top
 0.0.0.0 mbundu.top
