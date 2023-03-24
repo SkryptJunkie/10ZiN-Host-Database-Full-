@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:01 AM Thursday 23 March 2023
+# Date: 06:03 AM Friday 24 March 2023
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -3345,6 +3345,7 @@
 0.0.0.0 irufinlboock.com
 0.0.0.0 iseajapicuym.com
 0.0.0.0 isorv.com
+0.0.0.0 istguineaelementary.com
 0.0.0.0 italiapagamen.com
 0.0.0.0 itdotadsqw.com
 0.0.0.0 itunesdownloadstore.com
@@ -3356,6 +3357,7 @@
 0.0.0.0 jawsjackson.com
 0.0.0.0 jayruncone.com
 0.0.0.0 jbgswlkxgbfieb.com
+0.0.0.0 jdgrbqal.com
 0.0.0.0 jdsbrvnkabd.com
 0.0.0.0 jdwwwjvrcsylkoj.com
 0.0.0.0 jebaziwhe.com
