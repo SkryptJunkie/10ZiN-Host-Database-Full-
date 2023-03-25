@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:03 AM Friday 24 March 2023
+# Date: 06:02 AM Saturday 25 March 2023
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -2317,6 +2317,7 @@
 0.0.0.0 adscontex.com
 0.0.0.0 adservicestats.com
 0.0.0.0 adshaven.com
+0.0.0.0 adshtsobqihhyhc.com
 0.0.0.0 adsmarket.com
 0.0.0.0 adsmarketlatam.com
 0.0.0.0 adsrvus.com
@@ -2645,6 +2646,7 @@
 0.0.0.0 bzrmxfxu.com
 0.0.0.0 c01e992683.com
 0.0.0.0 c2path.com
+0.0.0.0 c3eeb0ed9c.com
 0.0.0.0 c5ba30ffda.com
 0.0.0.0 c90752b0b5.com
 0.0.0.0 cablyshaw.com
@@ -3832,6 +3834,7 @@
 0.0.0.0 orxqimctpv.com
 0.0.0.0 oscalondaron.com
 0.0.0.0 otsserver.com
+0.0.0.0 otwwiuphp.com
 0.0.0.0 oughth.com
 0.0.0.0 overloadhomes.com
 0.0.0.0 overlypower.com
@@ -3979,11 +3982,13 @@
 0.0.0.0 qingrektmkt.com
 0.0.0.0 qioknibacond.com
 0.0.0.0 qitrck.com
+0.0.0.0 qjtdvohjin.com
 0.0.0.0 qlink-ico.com
 0.0.0.0 qlmqzznfcb.com
 0.0.0.0 qltdbxnmr.com
 0.0.0.0 qmoylprdubadbm.com
 0.0.0.0 qnmhotpnwhdrwu.com
+0.0.0.0 qnrfhhlauhaaque.com
 0.0.0.0 qogbgxne.com
 0.0.0.0 qp3lgzt6exyn.com
 0.0.0.0 qpwiyfmlkhbxop.com
@@ -23446,6 +23451,7 @@
 0.0.0.0 gasskow.uno
 0.0.0.0 hegiwon.uno
 0.0.0.0 hemskor.uno
+0.0.0.0 jervinreverdi.uno
 0.0.0.0 kilosfaer.uno
 0.0.0.0 kwrchrow.uno
 0.0.0.0 listkow.uno
@@ -23587,6 +23593,7 @@
 0.0.0.0 the-adblocker.website
 0.0.0.0 tzero.website
 0.0.0.0 ucdn.website
+0.0.0.0 ulnarptilota.website
 0.0.0.0 vagikeswoer.website
 0.0.0.0 yeesdiapase.website
 0.0.0.0 zabka-kupony.website
