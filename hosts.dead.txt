@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:01 AM Monday 27 March 2023
+# Date: 06:01 AM Tuesday 28 March 2023
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -2922,6 +2922,7 @@
 0.0.0.0 djugoogs.com
 0.0.0.0 dlqrhkkcsyshjxe.com
 0.0.0.0 dlwbgrnx.com
+0.0.0.0 dmlifeinsurance.com
 0.0.0.0 dnbizcdn.com
 0.0.0.0 dnpvysdccdjbufm.com
 0.0.0.0 dogpial.com
@@ -2988,6 +2989,7 @@
 0.0.0.0 ekbuoopatc.com
 0.0.0.0 ekexsztsgm.com
 0.0.0.0 eksperci-footbolu.com
+0.0.0.0 ekxpniiv.com
 0.0.0.0 elementarteilchenlabs.com
 0.0.0.0 elite888-ico.com
 0.0.0.0 elitecryptotrade.com
@@ -4264,6 +4266,7 @@
 0.0.0.0 squawcubesfry.com
 0.0.0.0 squozelewing.com
 0.0.0.0 squvlmycieyl.com
+0.0.0.0 srmohcym.com
 0.0.0.0 srodek-na-pluskwy-pl.com
 0.0.0.0 ssvttlmmsrbhv.com
 0.0.0.0 stairdevolutionexceed.com
@@ -8986,6 +8989,7 @@
 0.0.0.0 www.skattabrain.com
 0.0.0.0 www.skecherssklep.com
 0.0.0.0 images.skenzo.com
+0.0.0.0 app.skeptictyson.com
 0.0.0.0 www.skeptive.com
 0.0.0.0 shop.skin-safety.com
 0.0.0.0 ads.skinected.com
@@ -11861,6 +11865,7 @@
 0.0.0.0 www.fotos.vote-in.eu
 0.0.0.0 www.wsparciejezykowe.eu
 0.0.0.0 www.wybor-podpunktu.eu
+0.0.0.0 contest.eway24x7m3s2
 0.0.0.0 pgl.example
 0.0.0.0 pgl.example0101
 0.0.0.0 curves.exchange
@@ -23082,6 +23087,7 @@
 0.0.0.0 olx.pl-secure.today
 0.0.0.0 www.olx.pl-secure.today
 0.0.0.0 www.tesler.today
+0.0.0.0 bernhardtroost.top
 0.0.0.0 bestclevercaptcha.top
 0.0.0.0 booking-online-verify.top
 0.0.0.0 cabpxukbni.top
@@ -23099,13 +23105,16 @@
 0.0.0.0 hirado.top
 0.0.0.0 hparldoai.top
 0.0.0.0 infoforum.top
+0.0.0.0 jeffmorales.top
 0.0.0.0 jerrysmith.top
 0.0.0.0 jeuebghgadjepqh.top
+0.0.0.0 joscramp.top
 0.0.0.0 koxsqcuf.top
 0.0.0.0 mbundu.top
 0.0.0.0 mosonlineinfo.top
 0.0.0.0 myetherwallet.top
 0.0.0.0 newsinvest.top
+0.0.0.0 normanhoffman.top
 0.0.0.0 patagoniapolska.top
 0.0.0.0 peopleplants.top
 0.0.0.0 privatix.top
