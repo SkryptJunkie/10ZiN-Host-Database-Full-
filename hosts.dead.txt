@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:01 AM Tuesday 28 March 2023
+# Date: 06:02 AM Wednesday 29 March 2023
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -2080,6 +2080,7 @@
 0.0.0.0 ripiocreditnetwork.co
 0.0.0.0 secure-sms.co
 0.0.0.0 stormtoken.co
+0.0.0.0 tax-canada2023.co
 0.0.0.0 tronlab.co
 0.0.0.0 verblife-3.co
 0.0.0.0 www-enigma.co
@@ -2239,12 +2240,14 @@
 0.0.0.0 650de67bed.com
 0.0.0.0 65a29ceed813bbca61.com
 0.0.0.0 65xps.com
+0.0.0.0 6cc4f82f1b.com
 0.0.0.0 6netave.com
 0.0.0.0 6stuff.com
 0.0.0.0 70pictures.com
 0.0.0.0 72impala.com
 0.0.0.0 7452472e76.com
 0.0.0.0 74adf02407.com
+0.0.0.0 74fac5d476.com
 0.0.0.0 75bb9a4031.com
 0.0.0.0 7705a9f168.com
 0.0.0.0 778669.com
@@ -2857,6 +2860,7 @@
 0.0.0.0 cykynethe.com
 0.0.0.0 cyshflfqwohwlxe.com
 0.0.0.0 cyulewkqz.com
+0.0.0.0 cyunbwkmglmv.com
 0.0.0.0 cyzyyv.com
 0.0.0.0 d03165aacb.com
 0.0.0.0 d131c7173a.com
@@ -3059,6 +3063,7 @@
 0.0.0.0 exploreholidayexcellent.com
 0.0.0.0 extendedmoreimposter.com
 0.0.0.0 extractorandburner.com
+0.0.0.0 exuuksfak.com
 0.0.0.0 eyqqgnrkxqpkp.com
 0.0.0.0 f338113ad0.com
 0.0.0.0 f3f1317bda.com
@@ -3172,6 +3177,7 @@
 0.0.0.0 geuinukifbdfby.com
 0.0.0.0 gevvvrpkkoxaud.com
 0.0.0.0 gffpbqjjetm.com
+0.0.0.0 gfnjaoswskfisep.com
 0.0.0.0 gfnttldx.com
 0.0.0.0 ggfffmvkv.com
 0.0.0.0 ggunauhe.com
@@ -3269,6 +3275,7 @@
 0.0.0.0 hizestusti.com
 0.0.0.0 hkhnmasegg.com
 0.0.0.0 hklykolnls.com
+0.0.0.0 hkqhtfbdnkxh.com
 0.0.0.0 hkrevolt.com
 0.0.0.0 hlgttoonjrmpef.com
 0.0.0.0 hllmbnphbcpo.com
@@ -3279,6 +3286,7 @@
 0.0.0.0 hokapolska.com
 0.0.0.0 homepornvideotube.com
 0.0.0.0 hootersgiron.com
+0.0.0.0 hoqmcpslwkqoq.com
 0.0.0.0 horaceencampment.com
 0.0.0.0 hornsgrid.com
 0.0.0.0 hot2015rewards.com
@@ -3590,6 +3598,7 @@
 0.0.0.0 metuninwgig.com
 0.0.0.0 meyetherwallet.com
 0.0.0.0 mfmtqcaf.com
+0.0.0.0 mhcnmfubxacind.com
 0.0.0.0 mhpxpovvexbprcd.com
 0.0.0.0 micfpexakcaig.com
 0.0.0.0 midnightimpressionperception.com
@@ -3953,6 +3962,7 @@
 0.0.0.0 powrerledger.com
 0.0.0.0 powrrledger.com
 0.0.0.0 ppfcgfdcmoq.com
+0.0.0.0 pqbliytredsa.com
 0.0.0.0 pr5dir.com
 0.0.0.0 pramdishevelledsquare.com
 0.0.0.0 prayersitsskid.com
@@ -4355,6 +4365,7 @@
 0.0.0.0 thilixasi.com
 0.0.0.0 thistracknet.com
 0.0.0.0 thomaspogson.com
+0.0.0.0 thqsdkxnwcc.com
 0.0.0.0 thrillingholesantarctic.com
 0.0.0.0 thuaoluion.com
 0.0.0.0 tiamioo.com
@@ -23826,6 +23837,7 @@
 0.0.0.0 www.dhl.14675.cross-gates.uk
 0.0.0.0 www.genesismining.uk
 0.0.0.0 betron.uno
+0.0.0.0 cudwortflurr.uno
 0.0.0.0 dogoint.uno
 0.0.0.0 feadow.uno
 0.0.0.0 fertode.uno
