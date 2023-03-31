@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:03 AM Thursday 30 March 2023
+# Date: 06:02 AM Friday 31 March 2023
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -3021,6 +3021,7 @@
 0.0.0.0 emuwanflat.com
 0.0.0.0 enigmatokensale.com
 0.0.0.0 enipig.com
+0.0.0.0 enscoinvestcoyllc.com
 0.0.0.0 enserfshoofish.com
 0.0.0.0 entailcurrantreflect.com
 0.0.0.0 eocceucbqnu.com
