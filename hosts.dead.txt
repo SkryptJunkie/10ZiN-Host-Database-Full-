@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Friday 31 March 2023
+# Date: 06:02 AM Saturday 01 April 2023
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -1713,6 +1713,7 @@
 0.0.0.0 www.dochodpasywny.charity
 0.0.0.0 www.my.polski-gaz.charity
 0.0.0.0 www.iq.premiumservice.charity
+0.0.0.0 zupee.cim
 0.0.0.0 bacanal.cl
 0.0.0.0 hit.copesa.cl
 0.0.0.0 tracker.lgcontent.cl
@@ -2170,6 +2171,8 @@
 0.0.0.0 0346420d60.com
 0.0.0.0 040e9e6099.com
 0.0.0.0 046642ba0d.com
+0.0.0.0 0582880609.com
+0.0.0.0 05f568544e.com
 0.0.0.0 05tz2e9.com
 0.0.0.0 06f09b1008ae993a5a.com
 0.0.0.0 093qpeuqpmz6ebfa.com
@@ -2180,6 +2183,7 @@
 0.0.0.0 101malls.com
 0.0.0.0 10bestsearch.com
 0.0.0.0 1100i.com
+0.0.0.0 110d6dc54b.com
 0.0.0.0 123appz.com
 0.0.0.0 123srv.com
 0.0.0.0 1314dh.com
@@ -2229,6 +2233,7 @@
 0.0.0.0 365locksmithsminneapolis.com
 0.0.0.0 37e5693aa7.com
 0.0.0.0 399a240ee2.com
+0.0.0.0 39ef72886f.com
 0.0.0.0 3jmcwio.com
 0.0.0.0 3w24.com
 0.0.0.0 401dec0095.com
@@ -2345,6 +2350,7 @@
 0.0.0.0 adfunkyserver.com
 0.0.0.0 adgent007.com
 0.0.0.0 adigou.com
+0.0.0.0 adjuabwmsrlxhr.com
 0.0.0.0 admngronline.com
 0.0.0.0 admodpop.com
 0.0.0.0 admomi.com
@@ -2800,6 +2806,7 @@
 0.0.0.0 completecarrd.com
 0.0.0.0 complexdaggled.com
 0.0.0.0 complexionchagrinpregnancy.com
+0.0.0.0 complexionmoderatelysomething.com
 0.0.0.0 computernetworksonline.com
 0.0.0.0 computersncs.com
 0.0.0.0 computingcentral.com
@@ -2858,10 +2865,13 @@
 0.0.0.0 ctlwfkgjotned.com
 0.0.0.0 cttracking08.com
 0.0.0.0 cuhoxiphi.com
+0.0.0.0 cukdvsmmvauef.com
 0.0.0.0 cukonwoo.com
+0.0.0.0 culettuveitic.com
 0.0.0.0 culttolerant.com
 0.0.0.0 culturedischargenarcotic.com
 0.0.0.0 cunnyhoney.com
+0.0.0.0 cupboardsarcasticdiabete.com
 0.0.0.0 curtisfrierson.com
 0.0.0.0 custom-blacklisted-tracking-example.com
 0.0.0.0 cuurldrf.com
@@ -3497,6 +3507,7 @@
 0.0.0.0 kraken-wallet.com
 0.0.0.0 krapir.com
 0.0.0.0 ksheeraorganics.com
+0.0.0.0 ktngywnklcxwdcs.com
 0.0.0.0 kuljvvoeuespp.com
 0.0.0.0 kurtkanorthfacepl.com
 0.0.0.0 kurtkaspyderpolska.com
@@ -3523,6 +3534,7 @@
 0.0.0.0 ldutvi.com
 0.0.0.0 leakypatgoo.com
 0.0.0.0 leanoisgo.com
+0.0.0.0 lebbhcdr.com
 0.0.0.0 ledmophemp.com
 0.0.0.0 leehma.com
 0.0.0.0 leesdvil.com
@@ -4283,6 +4295,7 @@
 0.0.0.0 speckdiversitypiety.com
 0.0.0.0 speop.com
 0.0.0.0 spiuft.com
+0.0.0.0 spjpffcv.com
 0.0.0.0 spkoevngk.com
 0.0.0.0 splashpageadvertising.com
 0.0.0.0 splculrgnon.com
@@ -4346,6 +4359,7 @@
 0.0.0.0 takerhkpd.com
 0.0.0.0 tamgkygbb.com
 0.0.0.0 tammenaa.com
+0.0.0.0 tamrhybjuvnafic.com
 0.0.0.0 taoput.com
 0.0.0.0 targetctracker.com
 0.0.0.0 tausgkow.com
@@ -4863,6 +4877,7 @@
 0.0.0.0 xqogxlfsceftn.com
 0.0.0.0 xqqhuilxjbs.com
 0.0.0.0 xqrykosuvwibnw.com
+0.0.0.0 xsircguacqobavh.com
 0.0.0.0 xsvwvyewrlqdgw.com
 0.0.0.0 xswxfuvrsew.com
 0.0.0.0 xtydampibym.com
@@ -4914,6 +4929,7 @@
 0.0.0.0 yuverqpffsrtiuq.com
 0.0.0.0 yvckcglxcs.com
 0.0.0.0 ywbcdeyqgfzx.com
+0.0.0.0 ywkqmfyfgeyale.com
 0.0.0.0 ywodpsbzl.com
 0.0.0.0 yxkhpk.com
 0.0.0.0 yypnxeidbvqndmb.com
@@ -23992,6 +24008,7 @@
 0.0.0.0 cudwortflurr.uno
 0.0.0.0 dogoint.uno
 0.0.0.0 feadow.uno
+0.0.0.0 fernsnerves.uno
 0.0.0.0 fertode.uno
 0.0.0.0 gandfour.uno
 0.0.0.0 gasskow.uno
@@ -24143,6 +24160,7 @@
 0.0.0.0 ucdn.website
 0.0.0.0 ulnarptilota.website
 0.0.0.0 vagikeswoer.website
+0.0.0.0 workingflense.website
 0.0.0.0 yeesdiapase.website
 0.0.0.0 zabka-kupony.website
 0.0.0.0 www.lnpost.3535.website
@@ -24438,6 +24456,7 @@
 0.0.0.0 krpt-am0unt.xyz
 0.0.0.0 kuhn-sun.xyz
 0.0.0.0 kvilhypwtelaos.xyz
+0.0.0.0 ledconsideu.xyz
 0.0.0.0 lexity.xyz
 0.0.0.0 lorenfreeman.xyz
 0.0.0.0 lowpox.xyz
@@ -24587,6 +24606,7 @@
 0.0.0.0 trello-tech.xyz
 0.0.0.0 tryq.xyz
 0.0.0.0 uciucpednjmxk.xyz
+0.0.0.0 unrviaefkhfttj.xyz
 0.0.0.0 vbeas.xyz
 0.0.0.0 vbrw.xyz
 0.0.0.0 vlchainlorfmq.xyz
