@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Saturday 01 April 2023
+# Date: 06:01 AM Sunday 02 April 2023
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -3451,6 +3451,7 @@
 0.0.0.0 juroptyne.com
 0.0.0.0 justredirect24.com
 0.0.0.0 jutcom.com
+0.0.0.0 jvrlcmahogtls.com
 0.0.0.0 jwaiqmifu.com
 0.0.0.0 jwpwqjubutwa.com
 0.0.0.0 jxdqawzenrpw.com
@@ -4485,6 +4486,7 @@
 0.0.0.0 uhtprqshcuvma.com
 0.0.0.0 uiujk.com
 0.0.0.0 ululuridleys.com
+0.0.0.0 umgypmxbrbif.com
 0.0.0.0 unablewisdom.com
 0.0.0.0 unbeltsmoringa.com
 0.0.0.0 underdorakely.com
@@ -4912,6 +4914,7 @@
 0.0.0.0 yitcmu.com
 0.0.0.0 yiydtredbofv.com
 0.0.0.0 ymepooluqd.com
+0.0.0.0 yntbafucuy.com
 0.0.0.0 yogyn.com
 0.0.0.0 yookcasula.com
 0.0.0.0 yopwglshbultvuq.com
