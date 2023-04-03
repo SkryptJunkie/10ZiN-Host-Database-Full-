@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:01 AM Sunday 02 April 2023
+# Date: 06:01 AM Monday 03 April 2023
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -2303,6 +2303,7 @@
 0.0.0.0 a07aea5a17.com
 0.0.0.0 a26662f21f.com
 0.0.0.0 a26d31d5d6986cbe.com
+0.0.0.0 a2d2e9873a.com
 0.0.0.0 a40c129de3.com
 0.0.0.0 a5020fec1701e9f3.com
 0.0.0.0 a5e2ef28b5.com
@@ -2556,6 +2557,7 @@
 0.0.0.0 baggernuclein.com
 0.0.0.0 baipagid.com
 0.0.0.0 balledalloy.com
+0.0.0.0 balmqonaotjs.com
 0.0.0.0 baloonranger.com
 0.0.0.0 baltic-piper.com
 0.0.0.0 ban1mid.com
@@ -3546,6 +3548,7 @@
 0.0.0.0 lepsogoso.com
 0.0.0.0 lesview.com
 0.0.0.0 lftqch650apz.com
+0.0.0.0 lgtnmdhohn.com
 0.0.0.0 lhhrupisllmy.com
 0.0.0.0 liaerskow.com
 0.0.0.0 licichoshy.com
@@ -3576,7 +3579,9 @@
 0.0.0.0 lpnottech.com
 0.0.0.0 lqhxmlxbhsj.com
 0.0.0.0 lqubvnyhuk.com
+0.0.0.0 lrhbmmnvhpaddhc.com
 0.0.0.0 lrscdehilc.com
+0.0.0.0 ltspncyaom.com
 0.0.0.0 lucky-day-uk.com
 0.0.0.0 lvaocaogtjlidk.com
 0.0.0.0 lveif.com
@@ -4126,6 +4131,7 @@
 0.0.0.0 rexbeautifully.com
 0.0.0.0 rgmydyycifpwb.com
 0.0.0.0 rhadivnckulnr.com
+0.0.0.0 rhqdydysa.com
 0.0.0.0 rhxvsvpsw.com
 0.0.0.0 ribbonslopeexcessively.com
 0.0.0.0 richmedia247.com
@@ -4647,6 +4653,7 @@
 0.0.0.0 wrknrsuehi.com
 0.0.0.0 wrrfoxcvpirx.com
 0.0.0.0 wsgbfgtjxv.com
+0.0.0.0 wsyknwtcmpia.com
 0.0.0.0 wuxaantbemyywx.com
 0.0.0.0 wvpkoyjoq.com
 0.0.0.0 wwiqakdp.com
