@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:05 AM Tuesday 04 April 2023
+# Date: 06:02 AM Wednesday 05 April 2023
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -2866,6 +2866,7 @@
 0.0.0.0 ctdtrtkbsmrhvsh.com
 0.0.0.0 ctlwfkgjotned.com
 0.0.0.0 cttracking08.com
+0.0.0.0 cubdwcrenloyxnv.com
 0.0.0.0 cuhoxiphi.com
 0.0.0.0 cukdvsmmvauef.com
 0.0.0.0 cukonwoo.com
@@ -3037,6 +3038,7 @@
 0.0.0.0 enserfshoofish.com
 0.0.0.0 entailcurrantreflect.com
 0.0.0.0 eocceucbqnu.com
+0.0.0.0 eoeeunuxnyco.com
 0.0.0.0 eomoxhsdhs.com
 0.0.0.0 eoovrksqh.com
 0.0.0.0 eos-bonus.com
@@ -4357,6 +4359,7 @@
 0.0.0.0 swtvkyqql.com
 0.0.0.0 sxtracking.com
 0.0.0.0 sygano.com
+0.0.0.0 syhixsjly.com
 0.0.0.0 syndromeseasidecontainer.com
 0.0.0.0 szemlelo.com
 0.0.0.0 t0-ico.com
@@ -4412,6 +4415,7 @@
 0.0.0.0 timbspl.com
 0.0.0.0 tinquestions.com
 0.0.0.0 tithephustu.com
+0.0.0.0 tjcttxdfelb.com
 0.0.0.0 tnwyjsgypjpc.com
 0.0.0.0 tobiruchs.com
 0.0.0.0 tobsbpiawlpkx.com
@@ -4554,6 +4558,7 @@
 0.0.0.0 vljkprhsxn.com
 0.0.0.0 vltwox7zl7h1wv.com
 0.0.0.0 vlyqhdfbrgn.com
+0.0.0.0 vmtpmvhpehntsy.com
 0.0.0.0 vmxpkisuai.com
 0.0.0.0 vnaujncaeoygdw.com
 0.0.0.0 vnotrk.com
@@ -4895,6 +4900,7 @@
 0.0.0.0 xuffrecawiypyqv.com
 0.0.0.0 xuhycaphe.com
 0.0.0.0 xuteketa.com
+0.0.0.0 xwanknrrfgebv.com
 0.0.0.0 xwktyiydn.com
 0.0.0.0 xwujifnpt.com
 0.0.0.0 xxfejeacw.com
@@ -24453,6 +24459,7 @@
 0.0.0.0 ggkk.xyz
 0.0.0.0 helptest.xyz
 0.0.0.0 hqbypgemclykwc.xyz
+0.0.0.0 iaenjrlnqltdtjt.xyz
 0.0.0.0 iayuqfkerhs.xyz
 0.0.0.0 ibhvqpjubb.xyz
 0.0.0.0 instorez.xyz
@@ -24463,6 +24470,7 @@
 0.0.0.0 joeputa.xyz
 0.0.0.0 keiteroi.xyz
 0.0.0.0 kikbrane.xyz
+0.0.0.0 kkskdqgvpmqhar.xyz
 0.0.0.0 krpt-am0unt.xyz
 0.0.0.0 kuhn-sun.xyz
 0.0.0.0 kvilhypwtelaos.xyz
@@ -24596,6 +24604,7 @@
 0.0.0.0 orlentwogim.xyz
 0.0.0.0 pacificnet.xyz
 0.0.0.0 paribnks.xyz
+0.0.0.0 phbkgyhfeivpici.xyz
 0.0.0.0 plym.xyz
 0.0.0.0 polska-piekna.xyz
 0.0.0.0 popwad.xyz
@@ -24622,12 +24631,15 @@
 0.0.0.0 vlchainlorfmq.xyz
 0.0.0.0 vlchainlorthz.xyz
 0.0.0.0 vlchaintuebip.xyz
+0.0.0.0 waghklshv.xyz
 0.0.0.0 wasanasset.xyz
 0.0.0.0 westete.xyz
 0.0.0.0 wojgvibx.xyz
 0.0.0.0 worldsbestoffer.xyz
+0.0.0.0 wvgupahjyvq.xyz
 0.0.0.0 wwnc.xyz
 0.0.0.0 xfffx.xyz
+0.0.0.0 xotpunwcabeijft.xyz
 0.0.0.0 xtow.xyz
 0.0.0.0 ycdlqmlrf.xyz
 0.0.0.0 yckussysvawiu.xyz
