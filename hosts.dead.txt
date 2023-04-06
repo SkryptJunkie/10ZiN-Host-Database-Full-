@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Wednesday 05 April 2023
+# Date: 06:02 AM Thursday 06 April 2023
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -3614,6 +3614,7 @@
 0.0.0.0 maxtelfx.com
 0.0.0.0 maxxisproduct.com
 0.0.0.0 mbitag.com
+0.0.0.0 mbysxctcitppxpc.com
 0.0.0.0 mdpszsqzs.com
 0.0.0.0 mdwphtohwt.com
 0.0.0.0 meadowi.com
@@ -24628,14 +24629,17 @@
 0.0.0.0 unrviaefkhfttj.xyz
 0.0.0.0 vbeas.xyz
 0.0.0.0 vbrw.xyz
+0.0.0.0 vgclxykioyj.xyz
 0.0.0.0 vlchainlorfmq.xyz
 0.0.0.0 vlchainlorthz.xyz
 0.0.0.0 vlchaintuebip.xyz
 0.0.0.0 waghklshv.xyz
 0.0.0.0 wasanasset.xyz
 0.0.0.0 westete.xyz
+0.0.0.0 wlvupulqadyuhr.xyz
 0.0.0.0 wojgvibx.xyz
 0.0.0.0 worldsbestoffer.xyz
+0.0.0.0 wulspyjcye.xyz
 0.0.0.0 wvgupahjyvq.xyz
 0.0.0.0 wwnc.xyz
 0.0.0.0 xfffx.xyz
