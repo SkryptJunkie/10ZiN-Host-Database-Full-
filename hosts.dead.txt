@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Thursday 06 April 2023
+# Date: 06:03 AM Friday 07 April 2023
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -3172,6 +3172,7 @@
 0.0.0.0 funministuff.com
 0.0.0.0 fusepsywi.com
 0.0.0.0 fwhgcnpqmm.com
+0.0.0.0 fwpgllfndkqy.com
 0.0.0.0 fxmukdal.com
 0.0.0.0 fxtmcoinstrading.com
 0.0.0.0 fxyc0dwa.com
@@ -3511,6 +3512,7 @@
 0.0.0.0 kragr.com
 0.0.0.0 kraken-wallet.com
 0.0.0.0 krapir.com
+0.0.0.0 krgjrcjybiujqq.com
 0.0.0.0 ksheeraorganics.com
 0.0.0.0 ktngywnklcxwdcs.com
 0.0.0.0 kuljvvoeuespp.com
@@ -3941,6 +3943,7 @@
 0.0.0.0 pbetfioavhkapjd.com
 0.0.0.0 pbxqqqwolgqjke.com
 0.0.0.0 pcdl4kids.com
+0.0.0.0 peacefullyoverwhelmingthoroughfare.com
 0.0.0.0 peehotim.com
 0.0.0.0 pekreecy.com
 0.0.0.0 peopledarwin.com
@@ -3961,6 +3964,7 @@
 0.0.0.0 picket0.com
 0.0.0.0 picnicorganizationthigh.com
 0.0.0.0 picture-uploads.com
+0.0.0.0 pihiukyrcdmel.com
 0.0.0.0 piledarriving.com
 0.0.0.0 pillscash.com
 0.0.0.0 pillsmoney.com
@@ -4474,6 +4478,7 @@
 0.0.0.0 tvlipevrj.com
 0.0.0.0 tweakdisguisesapplications.com
 0.0.0.0 twentieslegislation.com
+0.0.0.0 tx2returnhome.com
 0.0.0.0 txpodqjhabos.com
 0.0.0.0 txshiroq.com
 0.0.0.0 txzvtgkthjq.com
@@ -4605,6 +4610,7 @@
 0.0.0.0 wdanjsscqabsi.com
 0.0.0.0 wdljoioknjduvwi.com
 0.0.0.0 we-are-gamers.com
+0.0.0.0 weakradiator.com
 0.0.0.0 wearewolves-records.com
 0.0.0.0 web-bars.com
 0.0.0.0 web-chusta.com
@@ -18003,6 +18009,7 @@
 0.0.0.0 dfresh.online
 0.0.0.0 dfreshapp.online
 0.0.0.0 dlaludzi.online
+0.0.0.0 dreamdating.online
 0.0.0.0 ductgaurds.online
 0.0.0.0 effeectiiveeurope.online
 0.0.0.0 fitterpro.online
@@ -24442,7 +24449,9 @@
 0.0.0.0 datattro.xyz
 0.0.0.0 dddtv.xyz
 0.0.0.0 ddow.xyz
+0.0.0.0 descgkfypyhc.xyz
 0.0.0.0 dfgdgertdvdf.xyz
+0.0.0.0 diiwxljhyh.xyz
 0.0.0.0 dvbjcdhmpqkq.xyz
 0.0.0.0 effections.xyz
 0.0.0.0 erefwukouln.xyz
@@ -24459,6 +24468,7 @@
 0.0.0.0 getp.xyz
 0.0.0.0 ggkk.xyz
 0.0.0.0 helptest.xyz
+0.0.0.0 hpvsbkrfsqsyjcy.xyz
 0.0.0.0 hqbypgemclykwc.xyz
 0.0.0.0 iaenjrlnqltdtjt.xyz
 0.0.0.0 iayuqfkerhs.xyz
@@ -24605,6 +24615,7 @@
 0.0.0.0 orlentwogim.xyz
 0.0.0.0 pacificnet.xyz
 0.0.0.0 paribnks.xyz
+0.0.0.0 pcmcuumrua.xyz
 0.0.0.0 phbkgyhfeivpici.xyz
 0.0.0.0 plym.xyz
 0.0.0.0 polska-piekna.xyz
@@ -24635,6 +24646,7 @@
 0.0.0.0 vlchaintuebip.xyz
 0.0.0.0 waghklshv.xyz
 0.0.0.0 wasanasset.xyz
+0.0.0.0 wbamlcsm.xyz
 0.0.0.0 westete.xyz
 0.0.0.0 wlvupulqadyuhr.xyz
 0.0.0.0 wojgvibx.xyz
