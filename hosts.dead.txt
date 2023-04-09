@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 07:14 AM Saturday 08 April 2023
+# Date: 06:01 AM Sunday 09 April 2023
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -2255,6 +2255,7 @@
 0.0.0.0 35a0d43d24.com
 0.0.0.0 3627818666.com
 0.0.0.0 365locksmithsminneapolis.com
+0.0.0.0 37ddb711b8.com
 0.0.0.0 37e5693aa7.com
 0.0.0.0 399a240ee2.com
 0.0.0.0 39ef72886f.com
@@ -3471,6 +3472,7 @@
 0.0.0.0 jkjsamkjthoxr.com
 0.0.0.0 jmuaoupnykie.com
 0.0.0.0 jnpjohnuy.com
+0.0.0.0 jnplegwego.com
 0.0.0.0 jonquilpapered.com
 0.0.0.0 jpdtisnlk.com
 0.0.0.0 jphgxskntmn.com
@@ -3666,6 +3668,7 @@
 0.0.0.0 metuninwgig.com
 0.0.0.0 meyetherwallet.com
 0.0.0.0 mfmtqcaf.com
+0.0.0.0 mftbmliunfnobw.com
 0.0.0.0 mhcnmfubxacind.com
 0.0.0.0 mhpxpovvexbprcd.com
 0.0.0.0 micfpexakcaig.com
@@ -3993,6 +3996,7 @@
 0.0.0.0 picket0.com
 0.0.0.0 picnicorganizationthigh.com
 0.0.0.0 picture-uploads.com
+0.0.0.0 pidsyiuj.com
 0.0.0.0 pihiukyrcdmel.com
 0.0.0.0 piledarriving.com
 0.0.0.0 pillscash.com
@@ -4124,6 +4128,7 @@
 0.0.0.0 quqkexcpylbj.com
 0.0.0.0 qutltjamq.com
 0.0.0.0 qvoqaksihfhvw.com
+0.0.0.0 qvvjbmaop.com
 0.0.0.0 qwofwekbgeluas.com
 0.0.0.0 qyxorilj.com
 0.0.0.0 qyxwfe.com
