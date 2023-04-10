@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:01 AM Sunday 09 April 2023
+# Date: 06:02 AM Monday 10 April 2023
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -2569,6 +2569,7 @@
 0.0.0.0 azn55btbp3a4.com
 0.0.0.0 azureteens.com
 0.0.0.0 b1f72fc1be.com
+0.0.0.0 b329d177ff.com
 0.0.0.0 b370db8cb7.com
 0.0.0.0 b5bb2ecc8e.com
 0.0.0.0 b671e71e43.com
@@ -2980,6 +2981,7 @@
 0.0.0.0 djugoogs.com
 0.0.0.0 dlqrhkkcsyshjxe.com
 0.0.0.0 dlwbgrnx.com
+0.0.0.0 dmfwniplqhnf.com
 0.0.0.0 dmlifeinsurance.com
 0.0.0.0 dnbizcdn.com
 0.0.0.0 dnpvysdccdjbufm.com
@@ -3008,8 +3010,10 @@
 0.0.0.0 durjdnjrbmiwytj.com
 0.0.0.0 duryman.com
 0.0.0.0 dwepmhhyigfb.com
+0.0.0.0 dwyhnprbg.com
 0.0.0.0 dxcdirect.com
 0.0.0.0 dxhgafult.com
+0.0.0.0 dxpkgjkakdmnj.com
 0.0.0.0 dxpxlt.com
 0.0.0.0 dyschfpca.com
 0.0.0.0 dzheker.com
@@ -3879,6 +3883,7 @@
 0.0.0.0 notifstar.com
 0.0.0.0 nouvellehub.com
 0.0.0.0 novmintservices.com
+0.0.0.0 npbyrpnfwsviur.com
 0.0.0.0 nptgxajoeepcute.com
 0.0.0.0 nqbquabpjynb.com
 0.0.0.0 nrbtejctlwjlp.com
@@ -3973,8 +3978,10 @@
 0.0.0.0 paywithlnk.com
 0.0.0.0 paywithnk.com
 0.0.0.0 pbetfioavhkapjd.com
+0.0.0.0 pbqfawtp.com
 0.0.0.0 pbxqqqwolgqjke.com
 0.0.0.0 pcdl4kids.com
+0.0.0.0 pcwfhsqyvrveku.com
 0.0.0.0 peacefullyoverwhelmingthoroughfare.com
 0.0.0.0 peehotim.com
 0.0.0.0 pekreecy.com
@@ -4553,6 +4560,7 @@
 0.0.0.0 unubura.com
 0.0.0.0 update-myetherwallet.com
 0.0.0.0 upfirng.com
+0.0.0.0 uplcthhrnynjat.com
 0.0.0.0 uporods.com
 0.0.0.0 uramog.com
 0.0.0.0 urbanityadnetwork.com
@@ -4675,6 +4683,7 @@
 0.0.0.0 whoroaza.com
 0.0.0.0 whyzipsiwho.com
 0.0.0.0 widdiesbrawns.com
+0.0.0.0 wildestprofessionally.com
 0.0.0.0 windowspieceencumber.com
 0.0.0.0 wingerssetiger.com
 0.0.0.0 wiptisiwo.com
@@ -25658,6 +25667,7 @@
 0.0.0.0 erefwukouln.xyz
 0.0.0.0 estormandadv.xyz
 0.0.0.0 evbsa.xyz
+0.0.0.0 evkkbkolsvado.xyz
 0.0.0.0 extragenerators.xyz
 0.0.0.0 factornews.xyz
 0.0.0.0 fairu-chat.xyz
@@ -25679,6 +25689,7 @@
 0.0.0.0 investingpl.xyz
 0.0.0.0 jiidtjhlyf.xyz
 0.0.0.0 jjdtrliuftaouhg.xyz
+0.0.0.0 jjrbggmbtvgtp.xyz
 0.0.0.0 joeputa.xyz
 0.0.0.0 keiteroi.xyz
 0.0.0.0 kikbrane.xyz
@@ -25816,14 +25827,17 @@
 0.0.0.0 orlentwogim.xyz
 0.0.0.0 pacificnet.xyz
 0.0.0.0 paribnks.xyz
+0.0.0.0 pbjcdypkbmcmrc.xyz
 0.0.0.0 pcmcuumrua.xyz
 0.0.0.0 phbkgyhfeivpici.xyz
+0.0.0.0 pifivfhahwqpnnj.xyz
 0.0.0.0 plym.xyz
 0.0.0.0 polska-piekna.xyz
 0.0.0.0 popwad.xyz
 0.0.0.0 poxa.xyz
 0.0.0.0 pracujemy.xyz
 0.0.0.0 pymsqjixir.xyz
+0.0.0.0 qrekifgvxtk.xyz
 0.0.0.0 quantsum.xyz
 0.0.0.0 quantumpro.xyz
 0.0.0.0 raccourir.xyz
@@ -25840,6 +25854,7 @@
 0.0.0.0 uciucpednjmxk.xyz
 0.0.0.0 ujyrxnyycveaufx.xyz
 0.0.0.0 unrviaefkhfttj.xyz
+0.0.0.0 uxsvipumvu.xyz
 0.0.0.0 vbeas.xyz
 0.0.0.0 vbrw.xyz
 0.0.0.0 vgclxykioyj.xyz
@@ -25849,6 +25864,7 @@
 0.0.0.0 waghklshv.xyz
 0.0.0.0 wasanasset.xyz
 0.0.0.0 wbamlcsm.xyz
+0.0.0.0 wbylyjaweyb.xyz
 0.0.0.0 wdudornahlv.xyz
 0.0.0.0 westete.xyz
 0.0.0.0 wlvupulqadyuhr.xyz
@@ -25857,13 +25873,19 @@
 0.0.0.0 worldsbestoffer.xyz
 0.0.0.0 wulspyjcye.xyz
 0.0.0.0 wvgupahjyvq.xyz
+0.0.0.0 wwblhuikgj.xyz
 0.0.0.0 wwnc.xyz
 0.0.0.0 xfffx.xyz
+0.0.0.0 xllhsciwv.xyz
 0.0.0.0 xotpunwcabeijft.xyz
+0.0.0.0 xqibpmfus.xyz
+0.0.0.0 xqkwotrkscupex.xyz
+0.0.0.0 xqycaywci.xyz
 0.0.0.0 xtow.xyz
 0.0.0.0 ycdlqmlrf.xyz
 0.0.0.0 yckussysvawiu.xyz
 0.0.0.0 ythemorewasth.xyz
+0.0.0.0 yxxdgxld.xyz
 0.0.0.0 zarabiaj-tu.xyz
 0.0.0.0 zipsinves.xyz
 0.0.0.0 ziptechinum.xyz
