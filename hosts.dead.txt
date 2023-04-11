@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Monday 10 April 2023
+# Date: 06:02 AM Tuesday 11 April 2023
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -2980,6 +2980,7 @@
 0.0.0.0 djgfsrlt.com
 0.0.0.0 djugoogs.com
 0.0.0.0 dlqrhkkcsyshjxe.com
+0.0.0.0 dlsbfssbstsgep.com
 0.0.0.0 dlwbgrnx.com
 0.0.0.0 dmfwniplqhnf.com
 0.0.0.0 dmlifeinsurance.com
@@ -3982,6 +3983,7 @@
 0.0.0.0 pbxqqqwolgqjke.com
 0.0.0.0 pcdl4kids.com
 0.0.0.0 pcwfhsqyvrveku.com
+0.0.0.0 pcyqdpawmkwdag.com
 0.0.0.0 peacefullyoverwhelmingthoroughfare.com
 0.0.0.0 peehotim.com
 0.0.0.0 pekreecy.com
@@ -4014,6 +4016,7 @@
 0.0.0.0 pististrustltd.com
 0.0.0.0 piticlik.com
 0.0.0.0 piwhaguvu.com
+0.0.0.0 piwqiapyusvnih.com
 0.0.0.0 pjfnmurq.com
 0.0.0.0 pjyabrwdjll.com
 0.0.0.0 pkmkkjwknvf.com
@@ -4703,6 +4706,7 @@
 0.0.0.0 workitly.com
 0.0.0.0 worldsoftwaredownloads.com
 0.0.0.0 worry-free-savings.com
+0.0.0.0 wossabeerarg.com
 0.0.0.0 wpadx.com
 0.0.0.0 wqbvkaktneml.com
 0.0.0.0 wqmfbqpbnmgyi.com
@@ -5007,6 +5011,7 @@
 0.0.0.0 zalandoipl.com
 0.0.0.0 zapadserver1.com
 0.0.0.0 zeansandi.com
+0.0.0.0 zeephoobul.com
 0.0.0.0 zenprolocol.com
 0.0.0.0 zerezas.com
 0.0.0.0 zeroredirect10.com
@@ -25841,6 +25846,7 @@
 0.0.0.0 quantsum.xyz
 0.0.0.0 quantumpro.xyz
 0.0.0.0 raccourir.xyz
+0.0.0.0 ryrpksmidqcvx.xyz
 0.0.0.0 sdnpggwbkprsndt.xyz
 0.0.0.0 securitas232maximus.xyz
 0.0.0.0 shapelcounset.xyz
@@ -25865,9 +25871,14 @@
 0.0.0.0 wasanasset.xyz
 0.0.0.0 wbamlcsm.xyz
 0.0.0.0 wbylyjaweyb.xyz
+0.0.0.0 wcbpcsoks.xyz
 0.0.0.0 wdudornahlv.xyz
 0.0.0.0 westete.xyz
+0.0.0.0 wjknmftiknqvg.xyz
+0.0.0.0 wkmjxftmsibvx.xyz
 0.0.0.0 wlvupulqadyuhr.xyz
+0.0.0.0 wmrubpdhoqe.xyz
+0.0.0.0 wnbaiojthwrq.xyz
 0.0.0.0 wodojqcxwmix.xyz
 0.0.0.0 wojgvibx.xyz
 0.0.0.0 worldsbestoffer.xyz
