@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:17 AM Wednesday 12 April 2023
+# Date: 06:03 AM Thursday 13 April 2023
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -1307,6 +1307,7 @@
 0.0.0.0 bluzelle.cc
 0.0.0.0 candygirls.cc
 0.0.0.0 clickhd.cc
+0.0.0.0 commonworldme.cc
 0.0.0.0 crocspolska.cc
 0.0.0.0 envion.cc
 0.0.0.0 onlline-pocztovvy.cc
@@ -3975,6 +3976,7 @@
 0.0.0.0 opkropcst.com
 0.0.0.0 opnropst.com
 0.0.0.0 oqbplvbkhg.com
+0.0.0.0 oqndppptjtlskwu.com
 0.0.0.0 orxqimctpv.com
 0.0.0.0 oscalondaron.com
 0.0.0.0 otsserver.com
@@ -4040,6 +4042,7 @@
 0.0.0.0 pillsmoney.com
 0.0.0.0 pilotaffiliate.com
 0.0.0.0 pinvazo.com
+0.0.0.0 piotinecoptis.com
 0.0.0.0 pististrustltd.com
 0.0.0.0 piticlik.com
 0.0.0.0 piwhaguvu.com
@@ -4494,6 +4497,7 @@
 0.0.0.0 tinquestions.com
 0.0.0.0 tithephustu.com
 0.0.0.0 tjcttxdfelb.com
+0.0.0.0 tmhapkuvvhld.com
 0.0.0.0 tnwyjsgypjpc.com
 0.0.0.0 tobiruchs.com
 0.0.0.0 tobsbpiawlpkx.com
@@ -4779,6 +4783,7 @@
 0.0.0.0 xigolashu.com
 0.0.0.0 xjqqmadkgxnfg.com
 0.0.0.0 xlmsvfqao.com
+0.0.0.0 xloadinfo0rever.com
 0.0.0.0 xm0siulufost.com
 0.0.0.0 xmgspaty.com
 0.0.0.0 xmvaotsupi.com
@@ -5013,6 +5018,7 @@
 0.0.0.0 yitcmu.com
 0.0.0.0 yiydtredbofv.com
 0.0.0.0 ymepooluqd.com
+0.0.0.0 ynpvnroa.com
 0.0.0.0 yntbafucuy.com
 0.0.0.0 yogyn.com
 0.0.0.0 yookcasula.com
@@ -5035,6 +5041,7 @@
 0.0.0.0 ywodpsbzl.com
 0.0.0.0 yxkhpk.com
 0.0.0.0 yypnxeidbvqndmb.com
+0.0.0.0 z48gntbbu9pl.com
 0.0.0.0 zagwoyc.com
 0.0.0.0 zalandoipl.com
 0.0.0.0 zapadserver1.com
@@ -25965,6 +25972,7 @@
 0.0.0.0 ujyrxnyycveaufx.xyz
 0.0.0.0 unrviaefkhfttj.xyz
 0.0.0.0 uxsvipumvu.xyz
+0.0.0.0 uyljrumfe.xyz
 0.0.0.0 vbeas.xyz
 0.0.0.0 vbrw.xyz
 0.0.0.0 vgclxykioyj.xyz
@@ -25974,8 +25982,10 @@
 0.0.0.0 waghklshv.xyz
 0.0.0.0 wasanasset.xyz
 0.0.0.0 wbamlcsm.xyz
+0.0.0.0 wbsijnruj.xyz
 0.0.0.0 wbylyjaweyb.xyz
 0.0.0.0 wcbpcsoks.xyz
+0.0.0.0 wdgbinxtxsnbeu.xyz
 0.0.0.0 wdudornahlv.xyz
 0.0.0.0 westete.xyz
 0.0.0.0 wjknmftiknqvg.xyz
@@ -25986,12 +25996,14 @@
 0.0.0.0 wodojqcxwmix.xyz
 0.0.0.0 wojgvibx.xyz
 0.0.0.0 worldsbestoffer.xyz
+0.0.0.0 wtwfvcqhet.xyz
 0.0.0.0 wulspyjcye.xyz
 0.0.0.0 wvgupahjyvq.xyz
 0.0.0.0 wwblhuikgj.xyz
 0.0.0.0 wwnc.xyz
 0.0.0.0 xfffx.xyz
 0.0.0.0 xllhsciwv.xyz
+0.0.0.0 xnlehgdpvsslk.xyz
 0.0.0.0 xotpunwcabeijft.xyz
 0.0.0.0 xqibpmfus.xyz
 0.0.0.0 xqkwotrkscupex.xyz
