@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:01 AM Friday 14 April 2023
+# Date: 06:01 AM Saturday 15 April 2023
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -3574,6 +3574,7 @@
 0.0.0.0 kraken-wallet.com
 0.0.0.0 krapir.com
 0.0.0.0 krgjrcjybiujqq.com
+0.0.0.0 ksdoqqwj.com
 0.0.0.0 ksheeraorganics.com
 0.0.0.0 ktngywnklcxwdcs.com
 0.0.0.0 kuljvvoeuespp.com
