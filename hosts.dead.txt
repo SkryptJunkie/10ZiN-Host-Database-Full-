@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:01 AM Saturday 15 April 2023
+# Date: 06:01 AM Sunday 16 April 2023
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -3574,6 +3574,7 @@
 0.0.0.0 kraken-wallet.com
 0.0.0.0 krapir.com
 0.0.0.0 krgjrcjybiujqq.com
+0.0.0.0 krorsimh.com
 0.0.0.0 ksdoqqwj.com
 0.0.0.0 ksheeraorganics.com
 0.0.0.0 ktngywnklcxwdcs.com
@@ -4013,6 +4014,7 @@
 0.0.0.0 pbqfawtp.com
 0.0.0.0 pbxqqqwolgqjke.com
 0.0.0.0 pcdl4kids.com
+0.0.0.0 pcsshtpcmbhv.com
 0.0.0.0 pcwfhsqyvrveku.com
 0.0.0.0 pcyqdpawmkwdag.com
 0.0.0.0 peacefullyoverwhelmingthoroughfare.com
@@ -4461,6 +4463,7 @@
 0.0.0.0 tbnjommwuydfxp.com
 0.0.0.0 tcaferest.com
 0.0.0.0 tclbvqaxqf.com
+0.0.0.0 tdeicsxejsouykl.com
 0.0.0.0 tdjtkkmksch.com
 0.0.0.0 tdugvspdnq.com
 0.0.0.0 tearads.com
@@ -4599,6 +4602,7 @@
 0.0.0.0 upfirng.com
 0.0.0.0 uplcthhrnynjat.com
 0.0.0.0 uporods.com
+0.0.0.0 uqxdnnqcdwka.com
 0.0.0.0 uramog.com
 0.0.0.0 urbanityadnetwork.com
 0.0.0.0 uruhndxnch.com
@@ -5038,6 +5042,7 @@
 0.0.0.0 yuhvjuedhcu.com
 0.0.0.0 yuverqpffsrtiuq.com
 0.0.0.0 yvckcglxcs.com
+0.0.0.0 yviynhgxtyn.com
 0.0.0.0 ywbcdeyqgfzx.com
 0.0.0.0 ywkqmfyfgeyale.com
 0.0.0.0 ywodpsbzl.com
@@ -25756,6 +25761,7 @@
 0.0.0.0 ahoravideo-chat.xyz
 0.0.0.0 aliclonepro.xyz
 0.0.0.0 antratecht.xyz
+0.0.0.0 aqdxxmtkpio.xyz
 0.0.0.0 aresboot.xyz
 0.0.0.0 arfanbajt.xyz
 0.0.0.0 arithibfvmb.xyz
@@ -25795,11 +25801,14 @@
 0.0.0.0 fluxy.xyz
 0.0.0.0 fordraro.xyz
 0.0.0.0 freeinvest.xyz
+0.0.0.0 frfputaccote.xyz
 0.0.0.0 getp.xyz
 0.0.0.0 ggkk.xyz
 0.0.0.0 helptest.xyz
+0.0.0.0 hgkjpckgo.xyz
 0.0.0.0 hpvsbkrfsqsyjcy.xyz
 0.0.0.0 hqbypgemclykwc.xyz
+0.0.0.0 hqpiibduci.xyz
 0.0.0.0 iaenjrlnqltdtjt.xyz
 0.0.0.0 iayuqfkerhs.xyz
 0.0.0.0 ibhvqpjubb.xyz
@@ -25825,6 +25834,7 @@
 0.0.0.0 marktradfgood.xyz
 0.0.0.0 melindahicks.xyz
 0.0.0.0 minicant.xyz
+0.0.0.0 mnyeucplfuk.xyz
 0.0.0.0 morps.xyz
 0.0.0.0 ncncu.xyz
 0.0.0.0 newinvmark.xyz
@@ -25976,6 +25986,7 @@
 0.0.0.0 unrviaefkhfttj.xyz
 0.0.0.0 uxsvipumvu.xyz
 0.0.0.0 uyljrumfe.xyz
+0.0.0.0 vanislcp.xyz
 0.0.0.0 vbeas.xyz
 0.0.0.0 vbrw.xyz
 0.0.0.0 vgclxykioyj.xyz
@@ -26005,8 +26016,10 @@
 0.0.0.0 wwblhuikgj.xyz
 0.0.0.0 wwnc.xyz
 0.0.0.0 xfffx.xyz
+0.0.0.0 xlcebxqcucwhbll.xyz
 0.0.0.0 xllhsciwv.xyz
 0.0.0.0 xnlehgdpvsslk.xyz
+0.0.0.0 xnyxunjpnyrqcao.xyz
 0.0.0.0 xotpunwcabeijft.xyz
 0.0.0.0 xqibpmfus.xyz
 0.0.0.0 xqkwotrkscupex.xyz
