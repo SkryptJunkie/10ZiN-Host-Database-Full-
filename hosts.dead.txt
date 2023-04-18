@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:04 AM Monday 17 April 2023
+# Date: 06:01 AM Tuesday 18 April 2023
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -4724,6 +4724,7 @@
 0.0.0.0 werftipo.com
 0.0.0.0 weshuhori.com
 0.0.0.0 wetgows.com
+0.0.0.0 wfvmgfid.com
 0.0.0.0 whatabouthotladies.com
 0.0.0.0 whentheyopened.com
 0.0.0.0 whezogrewha.com
