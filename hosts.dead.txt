@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:04 AM Thursday 20 April 2023
+# Date: 06:02 AM Friday 21 April 2023
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -2815,6 +2815,7 @@
 0.0.0.0 changduk26.com
 0.0.0.0 changellyli.com
 0.0.0.0 chargestimetablechuckled.com
+0.0.0.0 charlslogin.com
 0.0.0.0 chawhuxachi.com
 0.0.0.0 chez-lai.com
 0.0.0.0 chin-adnetwork.com
