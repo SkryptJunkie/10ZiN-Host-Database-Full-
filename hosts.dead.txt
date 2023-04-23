@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:01 AM Saturday 22 April 2023
+# Date: 06:01 AM Sunday 23 April 2023
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -4772,6 +4772,7 @@
 0.0.0.0 wingerssetiger.com
 0.0.0.0 wiptisiwo.com
 0.0.0.0 wjbrinsb.com
+0.0.0.0 wjbsanov.com
 0.0.0.0 wjokxphvwo.com
 0.0.0.0 wjuowrvca.com
 0.0.0.0 wk4x5rdtoz2tn0.com
