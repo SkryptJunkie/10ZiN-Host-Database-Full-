@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:03 AM Monday 24 April 2023
+# Date: 06:02 AM Tuesday 25 April 2023
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -2301,6 +2301,7 @@
 0.0.0.0 25623db845.com
 0.0.0.0 25a2143174.com
 0.0.0.0 2811151a23.com
+0.0.0.0 284d0f7c5a.com
 0.0.0.0 29471decb9.com
 0.0.0.0 29b198e945.com
 0.0.0.0 2ae7bb7996.com
@@ -3772,6 +3773,7 @@
 0.0.0.0 mit-ic.com
 0.0.0.0 mjjbag78.com
 0.0.0.0 mjsyqwpqnjbgua.com
+0.0.0.0 mknegqjc.com
 0.0.0.0 mktrkr.com
 0.0.0.0 mmsotk.com
 0.0.0.0 moadnet.com
