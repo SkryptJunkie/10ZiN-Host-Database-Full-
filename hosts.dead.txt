@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Tuesday 25 April 2023
+# Date: 06:03 AM Wednesday 26 April 2023
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -11,6 +11,7 @@
 ###
 
 
+0.0.0.0 allsportsflix.*
 0.0.0.0 1
 0.0.0.0 clickbicom
 0.0.0.0 snortedbincom
@@ -18798,6 +18799,7 @@
 0.0.0.0 pracawdomu24.online
 0.0.0.0 private-bussiness1.online
 0.0.0.0 private-invest.online
+0.0.0.0 pvaotp.online
 0.0.0.0 raiden.online
 0.0.0.0 ropatriade.online
 0.0.0.0 santamderpl.online
