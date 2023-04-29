@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:08 AM Friday 28 April 2023
+# Date: 06:02 AM Saturday 29 April 2023
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -3164,6 +3164,7 @@
 0.0.0.0 entrepreneurdependedstrange.com
 0.0.0.0 eocceucbqnu.com
 0.0.0.0 eoeeunuxnyco.com
+0.0.0.0 eokcslwypidnrq.com
 0.0.0.0 eomoxhsdhs.com
 0.0.0.0 eoovrksqh.com
 0.0.0.0 eos-bonus.com
