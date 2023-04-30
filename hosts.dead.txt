@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Saturday 29 April 2023
+# Date: 06:01 AM Sunday 30 April 2023
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -2334,6 +2334,7 @@
 0.0.0.0 35a0d43d24.com
 0.0.0.0 3627818666.com
 0.0.0.0 365locksmithsminneapolis.com
+0.0.0.0 369068290f.com
 0.0.0.0 37ddb711b8.com
 0.0.0.0 37e5693aa7.com
 0.0.0.0 399a240ee2.com
@@ -2807,6 +2808,7 @@
 0.0.0.0 bvtuuewvwi.com
 0.0.0.0 bxkxzjdjxeexi.com
 0.0.0.0 bxprftms.com
+0.0.0.0 bxtpydfuyu.com
 0.0.0.0 bykvvhmuo.com
 0.0.0.0 bypuxogy.com
 0.0.0.0 byvihare.com
@@ -3597,6 +3599,7 @@
 0.0.0.0 juroptyne.com
 0.0.0.0 justredirect24.com
 0.0.0.0 jutcom.com
+0.0.0.0 jvoaleuenuwguq.com
 0.0.0.0 jvrlcmahogtls.com
 0.0.0.0 jwaiqmifu.com
 0.0.0.0 jwpwqjubutwa.com
@@ -3806,6 +3809,7 @@
 0.0.0.0 momentexperimentsqueen.com
 0.0.0.0 monetha-crowdsale.com
 0.0.0.0 monofeel.com
+0.0.0.0 montqwaub.com
 0.0.0.0 moodretrieval.com
 0.0.0.0 mopsilysa.com
 0.0.0.0 moresmanomin.com
@@ -18130,6 +18134,7 @@
 0.0.0.0 www.wypadek-8.azureedge.net
 0.0.0.0 www.wypadek-9.azureedge.net
 0.0.0.0 www.wypadki-polska.azureedge.net
+0.0.0.0 notifpushnext.azurewebsites.net
 0.0.0.0 www.backlink4u.net
 0.0.0.0 www.bancoregalo.net
 0.0.0.0 ad.bannerconnect.net
