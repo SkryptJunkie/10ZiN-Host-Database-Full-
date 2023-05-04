@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:04 AM Wednesday 03 May 2023
+# Date: 06:03 AM Thursday 04 May 2023
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -3257,6 +3257,7 @@
 0.0.0.0 fbseimciojigv.com
 0.0.0.0 fbtrk.com
 0.0.0.0 fbyxuloi.com
+0.0.0.0 fd3c1905b8.com
 0.0.0.0 fdgdfgfrfg.com
 0.0.0.0 fdxnvfwfnc.com
 0.0.0.0 featyn.com
@@ -3623,6 +3624,7 @@
 0.0.0.0 jyaneuan.com
 0.0.0.0 jytitenu.com
 0.0.0.0 k77hof1z7k.com
+0.0.0.0 kacmfhtj.com
 0.0.0.0 kaptytypso.com
 0.0.0.0 katarosw.com
 0.0.0.0 katatalkenna.com
@@ -4338,6 +4340,7 @@
 0.0.0.0 rewriteconserve.com
 0.0.0.0 rexbeautifully.com
 0.0.0.0 rgmydyycifpwb.com
+0.0.0.0 rgwmkceugrafjvm.com
 0.0.0.0 rhadivnckulnr.com
 0.0.0.0 rhqdydysa.com
 0.0.0.0 rhxvsvpsw.com
@@ -4644,6 +4647,7 @@
 0.0.0.0 totoroclair.com
 0.0.0.0 totxxucxtfq.com
 0.0.0.0 towgkcpdfgsrwf.com
+0.0.0.0 toxlwqpmredd.com
 0.0.0.0 tqrpincfawd.com
 0.0.0.0 traaaack.com
 0.0.0.0 trackaffpix.com
@@ -4670,6 +4674,7 @@
 0.0.0.0 trk365.com
 0.0.0.0 tron-labs.com
 0.0.0.0 troubleblabacting.com
+0.0.0.0 trryirbekdrofw.com
 0.0.0.0 true-counter.com
 0.0.0.0 truernewlywait.com
 0.0.0.0 truesweb.com
