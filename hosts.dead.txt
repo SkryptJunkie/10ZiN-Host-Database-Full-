@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:03 AM Thursday 04 May 2023
+# Date: 06:03 AM Friday 05 May 2023
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -3405,6 +3405,7 @@
 0.0.0.0 grz67.com
 0.0.0.0 gscggckvmd.com
 0.0.0.0 gtsads.com
+0.0.0.0 guefsrlam.com
 0.0.0.0 gvofqjhshsjohkv.com
 0.0.0.0 gvsbvcpvrvpy.com
 0.0.0.0 gxakeidrswt.com
@@ -29585,6 +29586,7 @@
 0.0.0.0 bitcenter.co.uk
 0.0.0.0 cashbackwow.co.uk
 0.0.0.0 coinbasenews.co.uk
+0.0.0.0 energyshire.co.uk
 0.0.0.0 katcol.co.uk
 0.0.0.0 lcbcad.co.uk
 0.0.0.0 marketbull.co.uk
