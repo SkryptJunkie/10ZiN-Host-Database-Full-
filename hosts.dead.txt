@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:04 AM Saturday 06 May 2023
+# Date: 06:01 AM Sunday 07 May 2023
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -3407,6 +3407,7 @@
 0.0.0.0 grabthisstream-now.com
 0.0.0.0 gramombird.com
 0.0.0.0 grampreico.com
+0.0.0.0 grdbmkgcixjelg.com
 0.0.0.0 great-comics.com
 0.0.0.0 greatest-store.com
 0.0.0.0 greatlakessurveillance.com
@@ -3624,6 +3625,7 @@
 0.0.0.0 jonquilpapered.com
 0.0.0.0 jpdtisnlk.com
 0.0.0.0 jphgxskntmn.com
+0.0.0.0 jrmviandvyayic.com
 0.0.0.0 jtjsevmr.com
 0.0.0.0 jtrufvej.com
 0.0.0.0 ju2g8tzj.com
@@ -3702,6 +3704,7 @@
 0.0.0.0 kuljvvoeuespp.com
 0.0.0.0 kurtkanorthfacepl.com
 0.0.0.0 kurtkaspyderpolska.com
+0.0.0.0 kvukwwtp.com
 0.0.0.0 kwangwoer.com
 0.0.0.0 kwvnnfeok.com
 0.0.0.0 la1dwne9cn5c.com
@@ -28980,6 +28983,7 @@
 0.0.0.0 jitterbug.top
 0.0.0.0 joscramp.top
 0.0.0.0 koxsqcuf.top
+0.0.0.0 lodar2ben.top
 0.0.0.0 mbundu.top
 0.0.0.0 mosonlineinfo.top
 0.0.0.0 myetherwallet.top
@@ -30227,6 +30231,7 @@
 0.0.0.0 astop.xyz
 0.0.0.0 aswfs.xyz
 0.0.0.0 ayc0zsm69431gfebd.xyz
+0.0.0.0 baxdpwaceyha.xyz
 0.0.0.0 bbes.xyz
 0.0.0.0 bblo.xyz
 0.0.0.0 bfts.xyz
