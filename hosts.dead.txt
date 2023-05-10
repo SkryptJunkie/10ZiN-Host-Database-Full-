@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:03 AM Tuesday 09 May 2023
+# Date: 06:01 AM Wednesday 10 May 2023
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -3780,6 +3780,7 @@
 0.0.0.0 lqubvnyhuk.com
 0.0.0.0 lrhbmmnvhpaddhc.com
 0.0.0.0 lrscdehilc.com
+0.0.0.0 lscujrdqpsxrnbu.com
 0.0.0.0 ltspncyaom.com
 0.0.0.0 lucky-day-uk.com
 0.0.0.0 lvaocaogtjlidk.com
