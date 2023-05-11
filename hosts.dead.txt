@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:01 AM Wednesday 10 May 2023
+# Date: 06:03 AM Thursday 11 May 2023
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -4288,6 +4288,7 @@
 0.0.0.0 qdlgacguvtc.com
 0.0.0.0 qekegokljhbt.com
 0.0.0.0 qggypucwewn.com
+0.0.0.0 qgpmpaohkcrx.com
 0.0.0.0 qhjunyupnb.com
 0.0.0.0 qhrgwojdhorvao.com
 0.0.0.0 qingrektmkt.com
@@ -4810,6 +4811,7 @@
 0.0.0.0 virtuallycoollybarber.com
 0.0.0.0 vishxhdnfndax.com
 0.0.0.0 vjosxtjlagnfb.com
+0.0.0.0 vkrvjvpqcqk.com
 0.0.0.0 vkxsroyofjojpg.com
 0.0.0.0 vlariteder.com
 0.0.0.0 vljkprhsxn.com
@@ -9630,6 +9632,7 @@
 0.0.0.0 h.scorecardresearch.com
 0.0.0.0 seb.scorecardresearch.com
 0.0.0.0 www.delivery.scrapshopper.com
+0.0.0.0 webinstaller.screen13.com
 0.0.0.0 adsremote.scrippsnetwork.com
 0.0.0.0 adimages.scrippsnetworks.com
 0.0.0.0 adsremote.scrippsnetworks.com
