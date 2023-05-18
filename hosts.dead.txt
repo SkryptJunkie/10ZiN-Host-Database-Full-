@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:04 AM Wednesday 17 May 2023
+# Date: 06:03 AM Thursday 18 May 2023
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -2045,6 +2045,7 @@
 0.0.0.0 macshield8.club
 0.0.0.0 myperiod.club
 0.0.0.0 smilitygorb.club
+0.0.0.0 soimportan.club
 0.0.0.0 stattds.club
 0.0.0.0 unitdotto.club
 0.0.0.0 veirregnant.club
@@ -3174,6 +3175,7 @@
 0.0.0.0 ebdr2.com
 0.0.0.0 ebhruifaomypdi.com
 0.0.0.0 ebjvkekktns.com
+0.0.0.0 ebnlsigphtumyyd.com
 0.0.0.0 eccooutletsklepinternetowy.com
 0.0.0.0 ecoencomputer.com
 0.0.0.0 ecxirebcxpbhn.com
@@ -3817,6 +3819,7 @@
 0.0.0.0 manuelu.com
 0.0.0.0 mapleway2profit.com
 0.0.0.0 maratonkv.com
+0.0.0.0 maringpolit.com
 0.0.0.0 marmotpolskas.com
 0.0.0.0 martensbutysklep.com
 0.0.0.0 martenssklepy.com
@@ -4143,6 +4146,7 @@
 0.0.0.0 oqndppptjtlskwu.com
 0.0.0.0 orxqimctpv.com
 0.0.0.0 oscalondaron.com
+0.0.0.0 osjilijp.com
 0.0.0.0 otsserver.com
 0.0.0.0 otwwiuphp.com
 0.0.0.0 oughth.com
@@ -4180,9 +4184,11 @@
 0.0.0.0 pcsshtpcmbhv.com
 0.0.0.0 pcwfhsqyvrveku.com
 0.0.0.0 pcyqdpawmkwdag.com
+0.0.0.0 pdhhlhqxg.com
 0.0.0.0 peacefullyoverwhelmingthoroughfare.com
 0.0.0.0 peehotim.com
 0.0.0.0 pekreecy.com
+0.0.0.0 penialpierage.com
 0.0.0.0 peopledarwin.com
 0.0.0.0 pepsgolfsintake.com
 0.0.0.0 perfekcyjnaforma.com
@@ -4569,6 +4575,7 @@
 0.0.0.0 spkoevngk.com
 0.0.0.0 splashpageadvertising.com
 0.0.0.0 splculrgnon.com
+0.0.0.0 sponsorshipanotheredaciousedacious.com
 0.0.0.0 sprzet-sport.com
 0.0.0.0 sprzet-treningowy.com
 0.0.0.0 sprzet500.com
@@ -16616,6 +16623,7 @@
 0.0.0.0 inpost.pl-getsafe.money
 0.0.0.0 www.inpost.pl-getsafe.money
 0.0.0.0 10skdjbfk010.monster
+0.0.0.0 7jhvshjdfsd7.monster
 0.0.0.0 profit-btc.monster
 0.0.0.0 protradebot.monster
 0.0.0.0 www.boiler.monster
@@ -30910,6 +30918,7 @@
 0.0.0.0 freeinvest.xyz
 0.0.0.0 frfputaccote.xyz
 0.0.0.0 getp.xyz
+0.0.0.0 gfntlmuhfao.xyz
 0.0.0.0 ggkk.xyz
 0.0.0.0 gxtlncvca.xyz
 0.0.0.0 helptest.xyz
@@ -30927,6 +30936,7 @@
 0.0.0.0 jjdtrliuftaouhg.xyz
 0.0.0.0 jjrbggmbtvgtp.xyz
 0.0.0.0 joeputa.xyz
+0.0.0.0 kakakakaka.xyz
 0.0.0.0 keiteroi.xyz
 0.0.0.0 kikbrane.xyz
 0.0.0.0 kkskdqgvpmqhar.xyz
@@ -31135,6 +31145,7 @@
 0.0.0.0 xqkwotrkscupex.xyz
 0.0.0.0 xqycaywci.xyz
 0.0.0.0 xtow.xyz
+0.0.0.0 xxpxursi.xyz
 0.0.0.0 ycdlqmlrf.xyz
 0.0.0.0 yckussysvawiu.xyz
 0.0.0.0 ythemorewasth.xyz
