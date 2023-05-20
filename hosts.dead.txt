@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:03 AM Friday 19 May 2023
+# Date: 06:01 AM Saturday 20 May 2023
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -2493,6 +2493,7 @@
 0.0.0.0 addictionestimated.com
 0.0.0.0 additionalvase.com
 0.0.0.0 additionvouch.com
+0.0.0.0 adfagh.com
 0.0.0.0 adforati.com
 0.0.0.0 adfunkyserver.com
 0.0.0.0 adgent007.com
@@ -2737,6 +2738,7 @@
 0.0.0.0 bbnfcfrvjs.com
 0.0.0.0 bdb4ff3f81.com
 0.0.0.0 beaterspatrick.com
+0.0.0.0 bebb3873de.com
 0.0.0.0 bebosslignes.com
 0.0.0.0 beetoken-ico.com
 0.0.0.0 begrudgecorrespondence.com
@@ -2888,6 +2890,7 @@
 0.0.0.0 ccavnnfqr.com
 0.0.0.0 ccijsamwqurnde.com
 0.0.0.0 ccpywewgsmcok.com
+0.0.0.0 ccturiecmibxbv.com
 0.0.0.0 cd239ecf15.com
 0.0.0.0 cdjcpxbtxpsia.com
 0.0.0.0 cdnvid.com
@@ -3004,6 +3007,7 @@
 0.0.0.0 cpgpzc.com
 0.0.0.0 cpmly.com
 0.0.0.0 cpv2tracking.com
+0.0.0.0 cpxugdoeqdgmu.com
 0.0.0.0 cqbahflp.com
 0.0.0.0 cramhatress.com
 0.0.0.0 criesredden.com
@@ -4079,6 +4083,7 @@
 0.0.0.0 nrbtejctlwjlp.com
 0.0.0.0 nrnaatgssyphbtr.com
 0.0.0.0 nsdzrhsb.com
+0.0.0.0 ntqpmafds.com
 0.0.0.0 ntvfmqdfjx.com
 0.0.0.0 ntymeitwblpnvii.com
 0.0.0.0 nuclearscalp.com
