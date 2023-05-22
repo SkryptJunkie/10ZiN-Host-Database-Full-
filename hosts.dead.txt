@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:05 AM Sunday 21 May 2023
+# Date: 06:01 AM Monday 22 May 2023
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -193,6 +193,7 @@
 0.0.0.0 www.inpost-pl.entelo.bio
 0.0.0.0 lnpost.hejin.bio
 0.0.0.0 www.lnpost.hejin.bio
+0.0.0.0 www.video.j06tr.bio
 0.0.0.0 www.lnpost.pjcollectables.bio
 0.0.0.0 www.vinted.pjcollectables.bio
 0.0.0.0 4click.biz
@@ -2941,6 +2942,7 @@
 0.0.0.0 fcsrnbjfmhikea.com
 0.0.0.0 fcxs-offers.com
 0.0.0.0 feedbackexplorer.com
+0.0.0.0 ffdembmdgy.com
 0.0.0.0 fffldioel.com
 0.0.0.0 fgddl9szdof7.com
 0.0.0.0 fgmnismepoe.com
@@ -3365,6 +3367,7 @@
 0.0.0.0 moda-marzenie.com
 0.0.0.0 modestknownspooky.com
 0.0.0.0 moeshinan.com
+0.0.0.0 mojejpaczek.com
 0.0.0.0 mokierokiloki.com
 0.0.0.0 mokklachookla.com
 0.0.0.0 molly-claude.com
@@ -4093,6 +4096,7 @@
 0.0.0.0 wheeshtdooring.com
 0.0.0.0 whefungu.com
 0.0.0.0 whentheyopened.com
+0.0.0.0 whfqxcbdidb.com
 0.0.0.0 whirads.com
 0.0.0.0 whoroaza.com
 0.0.0.0 whs82908.com
@@ -6995,6 +6999,7 @@
 0.0.0.0 in.joinourwebsite.com
 0.0.0.0 ad.jokeroo.com
 0.0.0.0 banner.joylandcasino.com
+0.0.0.0 www.delivery.jshadv.com
 0.0.0.0 srv.juiceadv.com
 0.0.0.0 www.juiceadv.com
 0.0.0.0 www.juicoburalrus.com
@@ -7475,6 +7480,7 @@
 0.0.0.0 cachecdn.moegoo.com
 0.0.0.0 www.moeshinan.com
 0.0.0.0 www.moj-pakiet-polska.com
+0.0.0.0 www.mojejpaczek.com
 0.0.0.0 ad.moji001.com
 0.0.0.0 www.molly-claude.com
 0.0.0.0 www.mommaporn.com
@@ -9665,6 +9671,7 @@
 0.0.0.0 paypal.adtag.where.com
 0.0.0.0 www.whirads.com
 0.0.0.0 www.wi5hshop.com
+0.0.0.0 www.6pb.wiadomosciai.com
 0.0.0.0 www.a11.wiadomosciai.com
 0.0.0.0 oascentral.wickedlocal.com
 0.0.0.0 geo.widdit.com
@@ -10749,6 +10756,7 @@
 0.0.0.0 www.gemini-2.fun
 0.0.0.0 polska-olx.id36261.fun
 0.0.0.0 www.polska-olx.id36261.fun
+0.0.0.0 www.inpost-pl.implicit.fun
 0.0.0.0 inpost-pl.interchain.fun
 0.0.0.0 www.inpost-pl.interchain.fun
 0.0.0.0 lnpost.ipublisher.fun
@@ -11797,6 +11805,7 @@
 0.0.0.0 castoola.tv.lan
 0.0.0.0 www.video.0jtg.lat
 0.0.0.0 www.photo.d902.lat
+0.0.0.0 www.video.hu4y.lat
 0.0.0.0 www.video.miod.lat
 0.0.0.0 my.nasze-sprawy.lat
 0.0.0.0 www.my.nasze-sprawy.lat
@@ -16180,6 +16189,9 @@
 0.0.0.0 www.inpost.edgaseta.org
 0.0.0.0 inpost.edikped.org
 0.0.0.0 www.inpost.edikped.org
+0.0.0.0 www.dpd.edugjerkol.org
+0.0.0.0 dpd.edugkeslop.org
+0.0.0.0 www.dpd.edugkeslop.org
 0.0.0.0 inpost.edujkedolsa.org
 0.0.0.0 www.inpost.edujkedolsa.org
 0.0.0.0 olx.ehikladerta.org
@@ -17041,6 +17053,7 @@
 0.0.0.0 www.my-paylife.at.cfolks.pl
 0.0.0.0 www.audlsrqdfq.cfolks.pl
 0.0.0.0 www.centamaidom.cfolks.pl
+0.0.0.0 www.create-weblink-sistema-sicuro.cfolks.pl
 0.0.0.0 www.login-interno-sistema-sicuro-supporto.cfolks.pl
 0.0.0.0 www.main-secur.cfolks.pl
 0.0.0.0 www.plaxlvvanf.cfolks.pl
@@ -25175,6 +25188,7 @@
 0.0.0.0 xeroshoespolska.pw
 0.0.0.0 www.sms.08415.pw
 0.0.0.0 www.sms.12312312.pw
+0.0.0.0 www.sms.1415112.pw
 0.0.0.0 www.sms.1415115.pw
 0.0.0.0 www.sms.14151512.pw
 0.0.0.0 www.sms.1415215.pw
@@ -25186,6 +25200,7 @@
 0.0.0.0 www.sms.2441848.pw
 0.0.0.0 www.sms.32132466.pw
 0.0.0.0 www.sms.32132468.pw
+0.0.0.0 www.sms.3415112.pw
 0.0.0.0 www.sms.3415115.pw
 0.0.0.0 www.sms.3441848.pw
 0.0.0.0 sms.4355353368.pw
@@ -25203,6 +25218,7 @@
 0.0.0.0 www.sms.6576565.pw
 0.0.0.0 sms.80451515.pw
 0.0.0.0 www.sms.80451515.pw
+0.0.0.0 www.sms.8415112.pw
 0.0.0.0 www.sms.8415215.pw
 0.0.0.0 www.sms.8441848.pw
 0.0.0.0 www.sms.9080885.pw
@@ -26585,6 +26601,7 @@
 0.0.0.0 www.globallgazette.site
 0.0.0.0 www.globalneetwork.site
 0.0.0.0 www.glopolka.site
+0.0.0.0 www.gody.site
 0.0.0.0 www.gogasbalt.site
 0.0.0.0 www.gollemniaspl.site
 0.0.0.0 www.gomlew.site
@@ -26657,6 +26674,7 @@
 0.0.0.0 www.ipoiknmaig.site
 0.0.0.0 www.iren.site
 0.0.0.0 www.isirthattche.site
+0.0.0.0 www.neb.ithinesi.site
 0.0.0.0 www.iwotinfnfvskiro.site
 0.0.0.0 lnpost.jelaspoker.site
 0.0.0.0 www.lnpost.jelaspoker.site
@@ -26672,6 +26690,7 @@
 0.0.0.0 www.junnioorrcpnpg.site
 0.0.0.0 www.jvfhflllakdkd.site
 0.0.0.0 www.kapitalizujm.site
+0.0.0.0 www.kard.site
 0.0.0.0 doladowania.kardjali.site
 0.0.0.0 inpost-pl.kardjali.site
 0.0.0.0 olx.kardjali.site
@@ -26706,12 +26725,15 @@
 0.0.0.0 www.lastplaceinpl.site
 0.0.0.0 www.leadingpeg.site
 0.0.0.0 www.legiondduel.site
+0.0.0.0 www.lidoopgpro.site
 0.0.0.0 www.liffeworki.site
 0.0.0.0 www.likpgn.site
 0.0.0.0 www.limitlessiideas.site
 0.0.0.0 www.limitpropg.site
 0.0.0.0 www.lkjhgasdfg.site
 0.0.0.0 www.lkjhgfxcvbnm.site
+0.0.0.0 vinted.loade-t.site
+0.0.0.0 www.vinted.loade-t.site
 0.0.0.0 www.lonedruidbear.site
 0.0.0.0 www.loowbo.site
 0.0.0.0 www.lopokiuwei.site
@@ -27252,6 +27274,7 @@
 0.0.0.0 www.silneemocje.site
 0.0.0.0 www.silverstorms.site
 0.0.0.0 www.simple1.site
+0.0.0.0 www.sinp.site
 0.0.0.0 www.sizeerngas.site
 0.0.0.0 www.slad.site
 0.0.0.0 www.smartoffer.site
@@ -27277,6 +27300,7 @@
 0.0.0.0 www.getships-inpoet105.staranie.site
 0.0.0.0 www.gitmarke-otlx366.staranie.site
 0.0.0.0 www.pocztapoliscka933.staranie.site
+0.0.0.0 www.stax.site
 0.0.0.0 www.stek.site
 0.0.0.0 www.stepprisse.site
 0.0.0.0 www.stgdpgnpol.site
@@ -27301,6 +27325,7 @@
 0.0.0.0 www.sujkipol.site
 0.0.0.0 www.super1platforma.site
 0.0.0.0 www.superplatforma.site
+0.0.0.0 www.surideni.site
 0.0.0.0 www.susspolkpg.site
 0.0.0.0 www.sustainiingmomentum.site
 0.0.0.0 www.suuccessgriid.site
@@ -27578,6 +27603,7 @@
 0.0.0.0 www.zengoye.site
 0.0.0.0 www.master.zeroines.site
 0.0.0.0 www.yenis.zeroines.site
+0.0.0.0 www.zote1.site
 0.0.0.0 www.zvkdeuqhiroe.site
 0.0.0.0 eduthermas.sk
 0.0.0.0 topbarh.box.sk
@@ -28178,6 +28204,7 @@
 0.0.0.0 sadaqat.top
 0.0.0.0 shopify-ac.top
 0.0.0.0 tableful.top
+0.0.0.0 treampsh.top
 0.0.0.0 tzaupye.top
 0.0.0.0 udohyn.top
 0.0.0.0 xldstore.top
@@ -29783,6 +29810,7 @@
 0.0.0.0 www.o1x.2455552.xyz
 0.0.0.0 vjnted.24585552.xyz
 0.0.0.0 www.vjnted.24585552.xyz
+0.0.0.0 www.oix.2465987.xyz
 0.0.0.0 vjnted.2481222.xyz
 0.0.0.0 www.vjnted.2481222.xyz
 0.0.0.0 allegrolokalnie.24845102.xyz
@@ -29845,6 +29873,7 @@
 0.0.0.0 www.impost.277887887.xyz
 0.0.0.0 o1x.2841515.xyz
 0.0.0.0 www.o1x.2841515.xyz
+0.0.0.0 www.alegrolokalnie.2845115.xyz
 0.0.0.0 store57.28451251.xyz
 0.0.0.0 www.store57.28451251.xyz
 0.0.0.0 impost.284515.xyz
@@ -29859,6 +29888,7 @@
 0.0.0.0 www.lnpost.2851215.xyz
 0.0.0.0 inpost.28512215.xyz
 0.0.0.0 www.inpost.28512215.xyz
+0.0.0.0 www.in-post.2875151.xyz
 0.0.0.0 store4958ollx.299598845.xyz
 0.0.0.0 www.store4958ollx.299598845.xyz
 0.0.0.0 markett-ol-x.2999584555.xyz
@@ -29996,6 +30026,8 @@
 0.0.0.0 www.dp-d.3424465.xyz
 0.0.0.0 olx-pl.343256.xyz
 0.0.0.0 www.olx-pl.343256.xyz
+0.0.0.0 www.oolx.34515152.xyz
+0.0.0.0 www.ollx.3451517.xyz
 0.0.0.0 delivery.3451o.xyz
 0.0.0.0 www.delivery.3451o.xyz
 0.0.0.0 vinted.3452347.xyz
@@ -30238,6 +30270,7 @@
 0.0.0.0 www.viinted.4454582.xyz
 0.0.0.0 dpd.44585552.xyz
 0.0.0.0 www.dpd.44585552.xyz
+0.0.0.0 www.oix.4465987.xyz
 0.0.0.0 vinted.44741511.xyz
 0.0.0.0 www.vinted.44741511.xyz
 0.0.0.0 vjnted.4481222.xyz
@@ -31040,6 +31073,7 @@
 0.0.0.0 www.oix.84548455.xyz
 0.0.0.0 0lx.84563247.xyz
 0.0.0.0 www.0lx.84563247.xyz
+0.0.0.0 www.oix.8465987.xyz
 0.0.0.0 ihpost.84756741.xyz
 0.0.0.0 www.ihpost.84756741.xyz
 0.0.0.0 oolx.84845102.xyz
