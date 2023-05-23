@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:01 AM Monday 22 May 2023
+# Date: 06:02 AM Tuesday 23 May 2023
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -8668,6 +8668,12 @@
 0.0.0.0 img.wan.sogou.com
 0.0.0.0 suvset.sohu.com
 0.0.0.0 interface.hd.sohu.com
+0.0.0.0 c1.somalisounds.com
+0.0.0.0 c3.somalisounds.com
+0.0.0.0 c4.somalisounds.com
+0.0.0.0 c5.somalisounds.com
+0.0.0.0 c6.somalisounds.com
+0.0.0.0 c7.somalisounds.com
 0.0.0.0 www.somosguaches.com
 0.0.0.0 www.sompuserve.com
 0.0.0.0 metrics.sonystyle.com
