@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Tuesday 23 May 2023
+# Date: 06:01 AM Wednesday 24 May 2023
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -3127,6 +3127,7 @@
 0.0.0.0 hunterstyle24.com
 0.0.0.0 huttisabel.com
 0.0.0.0 huusgaay.com
+0.0.0.0 hyyeriplwth.com
 0.0.0.0 ibannerx.com
 0.0.0.0 ibittreix.com
 0.0.0.0 ibmvideo.com
@@ -3671,6 +3672,7 @@
 0.0.0.0 qingjiedi.com
 0.0.0.0 qioknibacond.com
 0.0.0.0 qitrck.com
+0.0.0.0 qkrjbtcvnkmh.com
 0.0.0.0 qlink-ico.com
 0.0.0.0 qoqoz.com
 0.0.0.0 qpfhd.com
@@ -28046,6 +28048,7 @@
 0.0.0.0 studcat.infra.systems
 0.0.0.0 air-swap.tech
 0.0.0.0 applyfix.tech
+0.0.0.0 codesoft.tech
 0.0.0.0 district0x.tech
 0.0.0.0 fastfixing.tech
 0.0.0.0 greatmacsoft.tech
