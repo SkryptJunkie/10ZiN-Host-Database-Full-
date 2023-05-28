@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:01 AM Saturday 27 May 2023
+# Date: 06:01 AM Sunday 28 May 2023
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -10782,6 +10782,7 @@
 0.0.0.0 gemini-2.fun
 0.0.0.0 largeordier.fun
 0.0.0.0 lismcanalys.fun
+0.0.0.0 manchhd32ss.fun
 0.0.0.0 nkyouvery.fun
 0.0.0.0 premium-depositor.fun
 0.0.0.0 resumersvo.fun
