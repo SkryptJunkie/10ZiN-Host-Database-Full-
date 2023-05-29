@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:01 AM Sunday 28 May 2023
+# Date: 06:01 AM Monday 29 May 2023
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -4080,6 +4080,8 @@
 0.0.0.0 viotaa.com
 0.0.0.0 visaexasperation.com
 0.0.0.0 vlariteder.com
+0.0.0.0 vlbeojnxhchl.com
+0.0.0.0 vljwosnxfgi.com
 0.0.0.0 vltwox7zl7h1wv.com
 0.0.0.0 vnncnnmnn.com
 0.0.0.0 voicenetplus.com
