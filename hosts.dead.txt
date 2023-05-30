@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:01 AM Monday 29 May 2023
+# Date: 06:01 AM Tuesday 30 May 2023
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -2221,6 +2221,7 @@
 0.0.0.0 abourselfi.com
 0.0.0.0 abovetracking.com
 0.0.0.0 abpeet.com
+0.0.0.0 abrashteresa.com
 0.0.0.0 abridgeoverwhelmfireball.com
 0.0.0.0 abrjsiuuhet.com
 0.0.0.0 abroodeuripi.com
