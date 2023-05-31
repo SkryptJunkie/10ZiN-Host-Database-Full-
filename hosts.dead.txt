@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:01 AM Tuesday 30 May 2023
+# Date: 06:02 AM Wednesday 31 May 2023
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -1856,6 +1856,7 @@
 0.0.0.0 www.eu.hotkid.club
 0.0.0.0 olx.pl.informacija.club
 0.0.0.0 www.olx.pl.informacija.club
+0.0.0.0 www.mongdrop.club
 0.0.0.0 www.moviedaily.club
 0.0.0.0 mob.olx-pl.club
 0.0.0.0 www.mob.olx-pl.club
