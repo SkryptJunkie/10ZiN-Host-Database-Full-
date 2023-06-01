@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:02 AM Wednesday 31 May 2023
+# Date: 06:01 AM Thursday 01 June 2023
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -2125,6 +2125,7 @@
 0.0.0.0 1frrearea1.com
 0.0.0.0 1hentaiporntube.com
 0.0.0.0 1k-daily-profitz.com
+0.0.0.0 1starwarstx1.com
 0.0.0.0 1stmovieclub.com
 0.0.0.0 1tubexxx.com
 0.0.0.0 1zabslwvn538n4i5tcjl.com
@@ -2544,6 +2545,8 @@
 0.0.0.0 blureflly.com
 0.0.0.0 bluzelie.com
 0.0.0.0 bluzelle-ico.com
+0.0.0.0 bmupjpwdmwo.com
+0.0.0.0 boasstylijoked.com
 0.0.0.0 bodgeethenic.com
 0.0.0.0 boguspredict.com
 0.0.0.0 bonuscashh.com
@@ -2551,6 +2554,7 @@
 0.0.0.0 booking-object.com
 0.0.0.0 bookljlihooli.com
 0.0.0.0 boomselljamwelunch.com
+0.0.0.0 boremgmxebra.com
 0.0.0.0 borgach.com
 0.0.0.0 boskrut.com
 0.0.0.0 boubery.com
@@ -2607,9 +2611,11 @@
 0.0.0.0 cashcownetworks.com
 0.0.0.0 casketliquate.com
 0.0.0.0 catalpaaxillae.com
+0.0.0.0 cateredjapish.com
 0.0.0.0 cattlepilot.com
 0.0.0.0 cautiouscooperativegentlemen.com
 0.0.0.0 cbbdmxiiceagddn.com
+0.0.0.0 cbbkvhcpabis.com
 0.0.0.0 cca1660917.com
 0.0.0.0 ccjrapjmxq.com
 0.0.0.0 ccturiecmibxbv.com
@@ -2626,6 +2632,7 @@
 0.0.0.0 ceramicminemeeting.com
 0.0.0.0 cfc553b16f.com
 0.0.0.0 cgdxxbtffpysqm.com
+0.0.0.0 cgeguyeaflsxqhy.com
 0.0.0.0 cgqkje.com
 0.0.0.0 chacopolska.com
 0.0.0.0 changduk26.com
@@ -2699,6 +2706,7 @@
 0.0.0.0 comwgi.com
 0.0.0.0 concurfickle.com
 0.0.0.0 confusionfowlsomen.com
+0.0.0.0 coninemelior.com
 0.0.0.0 connectlinking1.com
 0.0.0.0 connectlinking6.com
 0.0.0.0 connectlinking8.com
@@ -2796,6 +2804,7 @@
 0.0.0.0 detroitrims.com
 0.0.0.0 deulderby.com
 0.0.0.0 devitrifiesungual.com
+0.0.0.0 dghmjrsqpyxqyt.com
 0.0.0.0 dgtl-trade.com
 0.0.0.0 dhjrjqgclb.com
 0.0.0.0 dialerporn.com
@@ -2866,6 +2875,7 @@
 0.0.0.0 edgysend.com
 0.0.0.0 edu-offer.com
 0.0.0.0 ee29eaf10d.com
+0.0.0.0 efc0f88dde.com
 0.0.0.0 egyenesen.com
 0.0.0.0 egyveleg.com
 0.0.0.0 eh8jq4cmq8j9g5.com
@@ -2967,6 +2977,7 @@
 0.0.0.0 findit-quick.com
 0.0.0.0 findmyhood.com
 0.0.0.0 findsexguide.com
+0.0.0.0 fkojmowvnekmlh.com
 0.0.0.0 flagshipband.com
 0.0.0.0 flawexpectationsfurther.com
 0.0.0.0 flaxenvapour.com
@@ -2978,8 +2989,10 @@
 0.0.0.0 folawn.com
 0.0.0.0 foldingfileartist.com
 0.0.0.0 formationseparation.com
+0.0.0.0 fpeipedesai.com
 0.0.0.0 fpmarketstrade.com
 0.0.0.0 fpmaypyeegktq.com
+0.0.0.0 fpvtlnfbydo.com
 0.0.0.0 franklybundlecarver.com
 0.0.0.0 freebitmoney.com
 0.0.0.0 freecamerasource.com
@@ -3110,6 +3123,7 @@
 0.0.0.0 hildr-zah.com
 0.0.0.0 hinlargecon.com
 0.0.0.0 hir-online.com
+0.0.0.0 hiredpetro.com
 0.0.0.0 hitwastedgarden.com
 0.0.0.0 hkrevolt.com
 0.0.0.0 hollercatastrophe.com
@@ -3630,6 +3644,7 @@
 0.0.0.0 polish-designeroutlet.com
 0.0.0.0 polski-fashionoutlet.com
 0.0.0.0 ponderouscentigradecredit.com
+0.0.0.0 popdockkinura.com
 0.0.0.0 popmog.com
 0.0.0.0 popmycash.com
 0.0.0.0 poponclick.com
@@ -4114,6 +4129,7 @@
 0.0.0.0 webnooze.com
 0.0.0.0 weboconcept.com
 0.0.0.0 weiloffers.com
+0.0.0.0 wellishunderly.com
 0.0.0.0 werelateral.com
 0.0.0.0 werftipo.com
 0.0.0.0 wetgows.com
@@ -4160,6 +4176,7 @@
 0.0.0.0 xeetske.com
 0.0.0.0 xeontopa.com
 0.0.0.0 xgames-04.com
+0.0.0.0 xkjnvehk.com
 0.0.0.0 xloadinfo0rever.com
 0.0.0.0 xm0siulufost.com
 0.0.0.0 xn--btrex-b4a.com
@@ -12461,6 +12478,8 @@
 0.0.0.0 inpost.pl-getsafe.money
 0.0.0.0 www.inpost.pl-getsafe.money
 0.0.0.0 10skdjbfk010.monster
+0.0.0.0 3sbdjhfsdf3.monster
+0.0.0.0 6ahbja66.monster
 0.0.0.0 ggbard-ai.monster
 0.0.0.0 plaatformss20.monster
 0.0.0.0 profit-btc.monster
@@ -15115,6 +15134,7 @@
 0.0.0.0 corpolimpo.online
 0.0.0.0 cpa-optimizer.online
 0.0.0.0 daatigo.online
+0.0.0.0 designolab.online
 0.0.0.0 dlaludzi.online
 0.0.0.0 effeectiiveeurope.online
 0.0.0.0 ellastikka.online
@@ -29782,6 +29802,7 @@
 0.0.0.0 auaccabsoq.xyz
 0.0.0.0 auekwpgppns.xyz
 0.0.0.0 axepqoutxsmsm.xyz
+0.0.0.0 blmetabemj.xyz
 0.0.0.0 bvcipberxexy.xyz
 0.0.0.0 bvlpgajyhlpoxe.xyz
 0.0.0.0 bvvisctpywbqqo.xyz
@@ -29799,12 +29820,14 @@
 0.0.0.0 ckuqmmyqmd.xyz
 0.0.0.0 cljckjjaltrl.xyz
 0.0.0.0 cmbvrtiikioce.xyz
+0.0.0.0 cmhfasxpdau.xyz
 0.0.0.0 colubelskie.xyz
 0.0.0.0 conhmrmfeygig.xyz
 0.0.0.0 cqpcjoelfb.xyz
 0.0.0.0 criptfast.xyz
 0.0.0.0 csaxrektsji.xyz
 0.0.0.0 cswmeogdtycy.xyz
+0.0.0.0 ctasvcjeouyufv.xyz
 0.0.0.0 cucpjium.xyz
 0.0.0.0 cujudvqswv.xyz
 0.0.0.0 cunplkmexyysw.xyz
@@ -29833,6 +29856,7 @@
 0.0.0.0 ecdrpuoduau.xyz
 0.0.0.0 eepltxvnf.xyz
 0.0.0.0 eipdtbffistap.xyz
+0.0.0.0 eipiilshiiwlrx.xyz
 0.0.0.0 ejgbylkk.xyz
 0.0.0.0 ejxvdjnd.xyz
 0.0.0.0 eowlhdnrtdqtqva.xyz
