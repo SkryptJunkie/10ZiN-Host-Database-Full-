@@ -1,7 +1,7 @@
 ###
 #
 # Name: Host Database (Dead)
-# Date: 06:03 AM Wednesday 07 June 2023
+# Date: 06:01 AM Thursday 08 June 2023
 #
 # Repo: https://tgc.cloud/downloads
 # Path: https://tgc.cloud/downloads/hosts.dead.txt
@@ -2717,6 +2717,7 @@
 0.0.0.0 cluesshopping.com
 0.0.0.0 clvofywesmi.com
 0.0.0.0 clxcaf.com
+0.0.0.0 cnwmsbjmcth.com
 0.0.0.0 cocinaeljibarazo.com
 0.0.0.0 cocokissy.com
 0.0.0.0 coffeeuphold.com
@@ -3189,6 +3190,7 @@
 0.0.0.0 hunterstyle24.com
 0.0.0.0 huttisabel.com
 0.0.0.0 huusgaay.com
+0.0.0.0 hycantyoubelike.com
 0.0.0.0 hyyeriplwth.com
 0.0.0.0 ibannerx.com
 0.0.0.0 ibittreix.com
